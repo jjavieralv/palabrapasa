@@ -19,7 +19,7 @@ async function init() {
     gameDate = data.date;
 
     data.words.forEach((word) => {
-      const letter = word.lemma[0].toLowerCase();
+      const letter = word.letter || word.lemma[0].toLowerCase();
       words[letter] = word;
     });
 
@@ -134,8 +134,11 @@ function showCurrentLetter() {
     .forEach((el) => el.classList.remove("active"));
   document.getElementById("letter-" + currentIndex).classList.add("active");
 
-  document.getElementById("definition").textContent =
-    "Empieza por " + letter.toUpperCase() + ": " + word.definition;
+  var prefix =
+    word.type === "contiene"
+      ? "Contiene la " + letter.toUpperCase() + ": "
+      : "Empieza por " + letter.toUpperCase() + ": ";
+  document.getElementById("definition").textContent = prefix + word.definition;
 
   const input = document.getElementById("answer-input");
   input.value = "";

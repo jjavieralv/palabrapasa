@@ -1,281 +1,195 @@
 [
   {
-    "date": "2026-02-05",
-    "words": [
-      {
-        "id": "00838",
-        "lemma": "aclamación",
-        "definition": "Una expresión de alegría y entusiasmo, normalmente manifestada mediante aplausos."
-      },
-      {
-        "id": "10027",
-        "lemma": "bonsái",
-        "definition": "Un árbol o arbusto miniaturizado que se cultiva en un recipiente."
-      },
-      {
-        "id": "16200",
-        "lemma": "clarimente",
-        "definition": "De manera clara y sin ambigüedad."
-      },
-      {
-        "id": "23928",
-        "lemma": "diorama",
-        "definition": "Representación tridimensional de una escena o paisaje."
-      },
-      {
-        "id": "27705",
-        "lemma": "episcopologio",
-        "definition": "Estudio de la historia de los obispos."
-      },
-      {
-        "id": "31407",
-        "lemma": "flexura",
-        "definition": "Es la capacidad de doblar algo sin romperlo."
-      },
-      {
-        "id": "32616",
-        "lemma": "gallipava",
-        "definition": "Una ave marina de la familia de los pingüinos."
-      },
-      {
-        "id": "35012",
-        "lemma": "hercio",
-        "definition": "Hercio es una unidad de medida de energía equivalente a 100 julios."
-      },
-      {
-        "id": "37888",
-        "lemma": "intermediar",
-        "definition": "Mediar entre dos partes para llegar a un acuerdo."
-      },
-      {
-        "id": "38892",
-        "lemma": "josefinismo",
-        "definition": "Estilo de gobierno de la reina Josefa I de España."
-      },
-      {
-        "id": "39198",
-        "lemma": "kurchatovio",
-        "definition": "Unidad de medida de energía nuclear equivalente a 4,6 × 1019 julios."
-      },
-      {
-        "id": "39663",
-        "lemma": "latisueldo",
-        "definition": "Un latisueldo es un salario bajo."
-      },
-      {
-        "id": "41165",
-        "lemma": "madrileñismo",
-        "definition": "Características propias de los madrileños."
-      },
-      {
-        "id": "45231",
-        "lemma": "neandertal",
-        "definition": "Homo neanderthalensis, una especie extinta de homínido."
-      },
-      {
-        "id": "45906",
-        "lemma": "ñamería",
-        "definition": "La ñamería es una forma de comportamiento grosero y descortés."
-      },
-      {
-        "id": "46625",
-        "lemma": "orfeonista",
-        "definition": "Un orfeonista es una persona que canta en un coro."
-      },
-      {
-        "id": "47768",
-        "lemma": "parasanga",
-        "definition": "Una prenda de vestir que consiste en una falda larga con una blusa adornada con diferentes patrones."
-      },
-      {
-        "id": "52867",
-        "lemma": "quichuismo",
-        "definition": "lenguaje propio de los quichuas."
-      },
-      {
-        "id": "55480",
-        "lemma": "responsable",
-        "definition": "Persona que asume la obligación de realizar algo."
-      },
-      {
-        "id": "57818",
-        "lemma": "semihilo",
-        "definition": "Hilado con hilos de distintos materiales."
-      },
-      {
-        "id": "60448",
-        "lemma": "támpax",
-        "definition": "Dispositivo absorbente utilizado por las mujeres durante su periodo menstrual."
-      },
-      {
-        "id": "64117",
-        "lemma": "uñudo",
-        "definition": "Un uñudo es una prenda de vestir que se sujeta al cuello con una sola hebilla."
-      },
-      {
-        "id": "65491",
-        "lemma": "vormela",
-        "definition": "una especie de pequeño roedor."
-      },
-      {
-        "id": "65570",
-        "lemma": "wólfram",
-        "definition": "Tungsteno"
-      },
-      {
-        "id": "65581",
-        "lemma": "xerocopiar",
-        "definition": "Copiar algo usando una máquina fotocopiadora."
-      },
-      {
-        "id": "65745",
-        "lemma": "yoltamal",
-        "definition": "Maletera: Una bolsa grande hecha de material resistente, utilizada para llevar objetos personales."
-      },
-      {
-        "id": "65835",
-        "lemma": "zacatón",
-        "definition": "Una hierba anual que crece en terrenos secos y arenosos."
-      }
-    ]
-  },
-  {
     "date": "2026-02-06",
     "words": [
       {
-        "id": "07791",
-        "lemma": "avorazarse",
-        "definition": "Enfurecerse."
+        "id": "06447",
+        "lemma": "arropía",
+        "definition": "Conjunto de prendas de abrigo.",
+        "type": "empieza",
+        "letter": "a"
       },
       {
-        "id": "08732",
-        "lemma": "barranquismo",
-        "definition": "Una actividad de aventura que consiste en recorrer barrancos."
+        "id": "10851",
+        "lemma": "buscapleitos",
+        "definition": "Persona que busca problemas o pleitos.",
+        "type": "empieza",
+        "letter": "b"
       },
       {
-        "id": "13957",
-        "lemma": "celestinaje",
-        "definition": "conjunto de personas que pertenecen a la orden de los Celestinos."
+        "id": "00946",
+        "lemma": "acónito",
+        "definition": "Una planta venenosa con flores azules.",
+        "type": "contiene",
+        "letter": "c"
       },
       {
-        "id": "20781",
-        "lemma": "deleite",
-        "definition": "Gran placer o satisfacción."
+        "id": "20714",
+        "lemma": "degollamiento",
+        "definition": "el acto de cortar la garganta de alguien.",
+        "type": "empieza",
+        "letter": "d"
       },
       {
-        "id": "24942",
-        "lemma": "ejemplaridad",
-        "definition": "Cualidad de ser un ejemplo para los demás."
+        "id": "27678",
+        "lemma": "epigrafía",
+        "definition": "Estudio de las inscripciones antiguas.",
+        "type": "empieza",
+        "letter": "e"
       },
       {
-        "id": "32039",
-        "lemma": "frental",
-        "definition": "algo que se hace para defenderse de un enemigo."
+        "id": "59998",
+        "lemma": "surfista",
+        "definition": "Persona que practica el surf.",
+        "type": "contiene",
+        "letter": "f"
       },
       {
-        "id": "33451",
-        "lemma": "glutinosidad",
-        "definition": "Propiedad de algunos materiales que los hace adherirse a otros."
+        "id": "07058",
+        "lemma": "atarugamiento",
+        "definition": "Acción de enrollar una cosa con otra.",
+        "type": "contiene",
+        "letter": "g"
       },
       {
-        "id": "35652",
-        "lemma": "homogéneamente",
-        "definition": "de una manera uniforme."
+        "id": "06998",
+        "lemma": "atahorma",
+        "definition": "Una herramienta usada para doblar y enhebrar hilos.",
+        "type": "contiene",
+        "letter": "h"
       },
       {
-        "id": "36287",
-        "lemma": "imantación",
-        "definition": "Acción de imantar."
+        "id": "51700",
+        "lemma": "pretorianismo",
+        "definition": "El sistema de gobierno que se caracteriza por el apoyo de una guardia de élite a un líder político.",
+        "type": "contiene",
+        "letter": "i"
       },
       {
-        "id": "38542",
-        "lemma": "jalonear",
-        "definition": "marcar con palos un camino o una línea."
+        "id": "39048",
+        "lemma": "juramentación",
+        "definition": "Es el acto de hacer una promesa solemne en presencia de una autoridad.",
+        "type": "empieza",
+        "letter": "j"
       },
       {
-        "id": "39184",
-        "lemma": "kohl",
-        "definition": "El kohl es un antiguo cosmético hecho de una mezcla de minerales, utilizado para darle a los ojos una apariencia más oscura."
+        "id": "39154",
+        "lemma": "kilogramo",
+        "definition": "Unidad de medida de masa del Sistema Internacional.",
+        "type": "empieza",
+        "letter": "k"
       },
       {
-        "id": "39485",
-        "lemma": "langanazo",
-        "definition": "Golpe dado con el látigo."
+        "id": "37587",
+        "lemma": "inservible",
+        "definition": "Que no sirve para nada.",
+        "type": "contiene",
+        "letter": "l"
       },
       {
-        "id": "44770",
-        "lemma": "multígrafo",
-        "definition": "Un dispositivo que permite escribir simultáneamente varias copias de un documento."
+        "id": "36357",
+        "lemma": "imperativamente",
+        "definition": "de manera imperativa.",
+        "type": "contiene",
+        "letter": "m"
       },
       {
-        "id": "45057",
-        "lemma": "naipear",
-        "definition": "Jugar a las cartas."
+        "id": "45146",
+        "lemma": "nártex",
+        "definition": "Una zona pantanosa con una gran cantidad de cañas.",
+        "type": "empieza",
+        "letter": "n"
       },
       {
-        "id": "45909",
-        "lemma": "ñandú",
-        "definition": "Ave de la familia de los ñandúes, de gran tamaño y con plumas grises y marrones."
+        "id": "45927",
+        "lemma": "ñipe",
+        "definition": "una acción o gesto de burla.",
+        "type": "empieza",
+        "letter": "ñ"
       },
       {
-        "id": "46774",
-        "lemma": "orzar",
-        "definition": "Estirar."
+        "id": "18572",
+        "lemma": "copieteo",
+        "definition": "Una forma de copiar algo de forma rápida y sin prestar atención a los detalles.",
+        "type": "contiene",
+        "letter": "o"
       },
       {
-        "id": "47464",
-        "lemma": "pangal",
-        "definition": "Un pangal es un pez de agua dulce de la familia Cyprinidae."
+        "id": "51356",
+        "lemma": "precongresual",
+        "definition": "Relativo a un periodo anterior a un congreso.",
+        "type": "empieza",
+        "letter": "p"
       },
       {
-        "id": "52935",
-        "lemma": "quimbundo",
-        "definition": "El quimbundo es una lengua bantú hablada en Angola."
+        "id": "53028",
+        "lemma": "quipu",
+        "definition": "Un sistema de contabilidad incaico que consiste en una serie de nudos hechos con hilos de lana.",
+        "type": "empieza",
+        "letter": "q"
       },
       {
-        "id": "56263",
-        "lemma": "rollón",
-        "definition": "Un rollón es una forma de transporte, como una bicicleta o un triciclo, que se usa para transportar cosas."
+        "id": "28506",
+        "lemma": "esfacelarse",
+        "definition": "desmoronarse.",
+        "type": "contiene",
+        "letter": "r"
       },
       {
-        "id": "58522",
-        "lemma": "singar",
-        "definition": "imitar."
+        "id": "59233",
+        "lemma": "sonetista",
+        "definition": "Una persona que escribe sonetos.",
+        "type": "empieza",
+        "letter": "s"
       },
       {
-        "id": "60793",
-        "lemma": "tastar",
-        "definition": "probar algo con la lengua."
+        "id": "62418",
+        "lemma": "toxicogénesis",
+        "definition": "el estudio de los efectos tóxicos de los compuestos químicos en los seres vivos.",
+        "type": "empieza",
+        "letter": "t"
       },
       {
-        "id": "63802",
-        "lemma": "ucencia",
-        "definition": "Moneda usada en la antigua Roma."
+        "id": "63135",
+        "lemma": "tribu",
+        "definition": "Un grupo de personas que comparten una cultura y un territorio común.",
+        "type": "contiene",
+        "letter": "u"
       },
       {
-        "id": "64389",
-        "lemma": "vasallaje",
-        "definition": "Relación de vasallos con su señor feudal."
+        "id": "64133",
+        "lemma": "vaciadero",
+        "definition": "Lugar donde se vacían los contenedores de basura.",
+        "type": "empieza",
+        "letter": "v"
       },
       {
-        "id": "65563",
-        "lemma": "whiskería",
-        "definition": "Un lugar donde se sirven bebidas alcohólicas."
+        "id": "58237",
+        "lemma": "showman",
+        "definition": "Persona que se dedica a la organización de espectáculos públicos.",
+        "type": "contiene",
+        "letter": "w"
       },
       {
-        "id": "65580",
-        "lemma": "xerocopia",
-        "definition": "Copia hecha con una máquina de fotocopiar."
+        "id": "65578",
+        "lemma": "xenoglosia",
+        "definition": "Palabra extranjera.",
+        "type": "empieza",
+        "letter": "x"
       },
       {
-        "id": "65792",
-        "lemma": "yuyal",
-        "definition": "Una zona de terreno cubierta de maleza."
+        "id": "42576",
+        "lemma": "mayorana",
+        "definition": "La mayorana es una hierba aromática usada como condimento para dar sabor a los platos.",
+        "type": "contiene",
+        "letter": "y"
       },
       {
-        "id": "65956",
-        "lemma": "zampuzar",
-        "definition": "Limpiar con una esponja húmeda."
+        "id": "66018",
+        "lemma": "zaparrastrar",
+        "definition": "Desordenar o desbaratar algo.",
+        "type": "empieza",
+        "letter": "z"
       }
     ]
   }
