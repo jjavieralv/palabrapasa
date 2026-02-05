@@ -68,6 +68,11 @@ function setupEvents() {
     if (e.key === "Enter") submitAnswer();
   });
   document.getElementById("wrong-accept-btn").addEventListener("click", acceptWrong);
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Enter" && !document.getElementById("wrong-overlay").classList.contains("hidden")) {
+      acceptWrong();
+    }
+  });
   document.getElementById("share-btn").addEventListener("click", shareResult);
   document
     .getElementById("replay-btn")
@@ -358,8 +363,9 @@ function shareResult() {
   var canvas = generateResultImage();
   canvas.toBlob(function (blob) {
     var file = new File([blob], "palabrapasa.png", { type: "image/png" });
+    var shareText = "Ven a disfrutar del reto diario de palabrapasa: https://jjavieralv.github.io/palabrapasa/";
     if (navigator.canShare && navigator.canShare({ files: [file] })) {
-      navigator.share({ files: [file], title: "Palabrapasa" }).catch(function () {
+      navigator.share({ files: [file], title: "Palabrapasa", text: shareText }).catch(function () {
         downloadImage(canvas);
       });
     } else {
