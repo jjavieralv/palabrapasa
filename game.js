@@ -13,8 +13,9 @@ document.addEventListener("DOMContentLoaded", init);
 
 async function init() {
   try {
-    const res = await fetch("historial/latest.json");
-    const data = await res.json();
+    const res = await fetch("historial/historial.json");
+    const historial = await res.json();
+    const data = historial[historial.length - 1];
     gameDate = data.date;
 
     data.words.forEach((word) => {
@@ -67,7 +68,12 @@ function setupEvents() {
   document.getElementById("submit-btn").addEventListener("click", submitAnswer);
   document.getElementById("pass-btn").addEventListener("click", pasapalabra);
   document.getElementById("answer-input").addEventListener("keydown", (e) => {
-    if (e.key === "Enter") submitAnswer();
+    if (e.key === "Enter") {
+      if (gameActive) {
+        e.stopPropagation();
+        submitAnswer();
+      }
+    }
   });
   document.getElementById("wrong-accept-btn").addEventListener("click", acceptWrong);
   document.addEventListener("keydown", (e) => {
