@@ -4,8 +4,9 @@ import os
 from datetime import date
 from select_words import select_random_words
 
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-HISTORIAL_FILE = os.path.join(SCRIPT_DIR, "historial", "historial.json")
+ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HISTORIAL_FILE = os.path.join(ROOT_DIR, "historial", "historial.json")
+DATA_FILE = os.path.join(ROOT_DIR, "data", "SpanishBFF", "SpanishBFF_0_2.json")
 
 
 def generate():
@@ -25,7 +26,7 @@ def generate():
         print(f"Ya existe una entrada para {today}, saltando.")
         return
 
-    selected = select_random_words()
+    selected = select_random_words(DATA_FILE)
     historial.append({"date": today, "words": selected})
 
     with open(HISTORIAL_FILE, "w", encoding="utf-8") as f:

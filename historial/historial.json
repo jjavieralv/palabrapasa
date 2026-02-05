@@ -138,5 +138,145 @@
         "definition": "Una hierba anual que crece en terrenos secos y arenosos."
       }
     ]
+  },
+  {
+    "date": "2026-02-06",
+    "words": [
+      {
+        "id": "07791",
+        "lemma": "avorazarse",
+        "definition": "Enfurecerse."
+      },
+      {
+        "id": "08732",
+        "lemma": "barranquismo",
+        "definition": "Una actividad de aventura que consiste en recorrer barrancos."
+      },
+      {
+        "id": "13957",
+        "lemma": "celestinaje",
+        "definition": "conjunto de personas que pertenecen a la orden de los Celestinos."
+      },
+      {
+        "id": "20781",
+        "lemma": "deleite",
+        "definition": "Gran placer o satisfacción."
+      },
+      {
+        "id": "24942",
+        "lemma": "ejemplaridad",
+        "definition": "Cualidad de ser un ejemplo para los demás."
+      },
+      {
+        "id": "32039",
+        "lemma": "frental",
+        "definition": "algo que se hace para defenderse de un enemigo."
+      },
+      {
+        "id": "33451",
+        "lemma": "glutinosidad",
+        "definition": "Propiedad de algunos materiales que los hace adherirse a otros."
+      },
+      {
+        "id": "35652",
+        "lemma": "homogéneamente",
+        "definition": "de una manera uniforme."
+      },
+      {
+        "id": "36287",
+        "lemma": "imantación",
+        "definition": "Acción de imantar."
+      },
+      {
+        "id": "38542",
+        "lemma": "jalonear",
+        "definition": "marcar con palos un camino o una línea."
+      },
+      {
+        "id": "39184",
+        "lemma": "kohl",
+        "definition": "El kohl es un antiguo cosmético hecho de una mezcla de minerales, utilizado para darle a los ojos una apariencia más oscura."
+      },
+      {
+        "id": "39485",
+        "lemma": "langanazo",
+        "definition": "Golpe dado con el látigo."
+      },
+      {
+        "id": "44770",
+        "lemma": "multígrafo",
+        "definition": "Un dispositivo que permite escribir simultáneamente varias copias de un documento."
+      },
+      {
+        "id": "45057",
+        "lemma": "naipear",
+        "definition": "Jugar a las cartas."
+      },
+      {
+        "id": "45909",
+        "lemma": "ñandú",
+        "definition": "Ave de la familia de los ñandúes, de gran tamaño y con plumas grises y marrones."
+      },
+      {
+        "id": "46774",
+        "lemma": "orzar",
+        "definition": "Estirar."
+      },
+      {
+        "id": "47464",
+        "lemma": "pangal",
+        "definition": "Un pangal es un pez de agua dulce de la familia Cyprinidae."
+      },
+      {
+        "id": "52935",
+        "lemma": "quimbundo",
+        "definition": "El quimbundo es una lengua bantú hablada en Angola."
+      },
+      {
+        "id": "56263",
+        "lemma": "rollón",
+        "definition": "Un rollón es una forma de transporte, como una bicicleta o un triciclo, que se usa para transportar cosas."
+      },
+      {
+        "id": "58522",
+        "lemma": "singar",
+        "definition": "imitar."
+      },
+      {
+        "id": "60793",
+        "lemma": "tastar",
+        "definition": "probar algo con la lengua."
+      },
+      {
+        "id": "63802",
+        "lemma": "ucencia",
+        "definition": "Moneda usada en la antigua Roma."
+      },
+      {
+        "id": "64389",
+        "lemma": "vasallaje",
+        "definition": "Relación de vasallos con su señor feudal."
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas."
+      },
+      {
+        "id": "65580",
+        "lemma": "xerocopia",
+        "definition": "Copia hecha con una máquina de fotocopiar."
+      },
+      {
+        "id": "65792",
+        "lemma": "yuyal",
+        "definition": "Una zona de terreno cubierta de maleza."
+      },
+      {
+        "id": "65956",
+        "lemma": "zampuzar",
+        "definition": "Limpiar con una esponja húmeda."
+      }
+    ]
   }
 ]
