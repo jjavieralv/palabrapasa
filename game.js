@@ -27,6 +27,11 @@ async function init() {
       letterStates[l] = words[l] ? "pending" : "skip";
     });
 
+    // Show date
+    var parts = gameDate.split("-");
+    document.getElementById("game-date").textContent =
+      parts[2] + "/" + parts[1] + "/" + parts[0];
+
     buildRosco();
     setupEvents();
   } catch {
@@ -48,18 +53,29 @@ function buildRosco() {
     const y = 50 + 44 * Math.sin(angle);
 
     const el = document.createElement("div");
-    el.className = "letter-circle";
+    el.className = "letter-circle letter-intro";
     el.id = "letter-" + i;
     el.dataset.letter = letter;
     el.textContent = letter.toUpperCase();
-    el.style.left = x + "%";
-    el.style.top = y + "%";
+    // Start at center
+    el.style.left = "50%";
+    el.style.top = "50%";
+    el.style.opacity = "0";
+    el.style.transform = "translate(-50%, -50%) scale(0)";
 
     if (letterStates[letter] === "skip") {
-      el.style.opacity = "0.3";
+      el.dataset.skip = "1";
     }
 
     rosco.appendChild(el);
+
+    // Animate to final position with staggered delay
+    setTimeout(() => {
+      el.style.left = x + "%";
+      el.style.top = y + "%";
+      el.style.opacity = el.dataset.skip ? "0.3" : "1";
+      el.style.transform = "translate(-50%, -50%) scale(1)";
+    }, 80 + i * 50);
   });
 }
 
