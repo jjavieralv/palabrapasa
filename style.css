@@ -432,6 +432,23 @@ header h1 {
     color: white;
 }
 
+/* Footer */
+#footer {
+    margin-top: auto;
+    padding: 16px 0 8px;
+    text-align: center;
+    font-size: 0.75rem;
+}
+
+#footer a {
+    color: var(--color-text-dim, #7f8c8d);
+    text-decoration: none;
+}
+
+#footer a:hover {
+    text-decoration: underline;
+}
+
 .hidden { display: none !important; }
 
 /* Responsive */

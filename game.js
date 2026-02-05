@@ -33,6 +33,8 @@ async function init() {
       "Error cargando las palabras. Genera el fichero diario con generate_daily.py";
     document.getElementById("start-btn").style.display = "none";
   }
+
+  loadCommitHash();
 }
 
 function buildRosco() {
@@ -379,4 +381,15 @@ function downloadImage(canvas) {
   link.download = "palabrapasa.png";
   link.href = canvas.toDataURL("image/png");
   link.click();
+}
+
+function loadCommitHash() {
+  fetch("https://api.github.com/repos/jjavieralv/palabrapasa/commits/main")
+    .then(function (r) { return r.json(); })
+    .then(function (data) {
+      var short = data.sha.substring(0, 7);
+      document.getElementById("commit-hash").textContent = short;
+      document.getElementById("commit-link").href = data.html_url;
+    })
+    .catch(function () {});
 }
