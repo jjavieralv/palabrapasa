@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palabrapasa</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Russo+One&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1>PALABRAPASA</h1>
+        </header>
+
+        <div id="game-info">
+            <div id="timer">00:00</div>
+            <div id="scoreboard">
+                <span class="score"><span class="dot green"></span><span id="correct-count">0</span></span>
+                <span class="score"><span class="dot red"></span><span id="wrong-count">0</span></span>
+            </div>
+        </div>
+
+        <div id="rosco-container">
+            <div id="rosco"></div>
+        </div>
+
+        <div id="interaction-area">
+            <p id="definition">Pulsa EMPEZAR para comenzar</p>
+            <div id="input-area" class="hidden">
+                <input type="text" id="answer-input" placeholder="Escribe tu respuesta..." autocomplete="off" autocapitalize="off" spellcheck="false">
+                <div id="buttons">
+                    <button id="submit-btn">ENVIAR</button>
+                    <button id="pass-btn">PASAPALABRA</button>
+                </div>
+            </div>
+        </div>
+
+        <button id="start-btn">EMPEZAR</button>
+    </div>
+
+    <div id="wrong-overlay" class="hidden">
+        <div id="wrong-modal">
+            <p id="wrong-label">La respuesta correcta era:</p>
+            <p id="wrong-answer"></p>
+            <p id="wrong-definition"></p>
+            <button id="wrong-accept-btn">ACEPTAR</button>
+        </div>
+    </div>
+
+    <div id="results-overlay" class="hidden">
+        <div id="results-modal">
+            <h2>RESULTADO</h2>
+            <div id="results-time"></div>
+            <div id="results-stats"></div>
+            <div id="results-letters"></div>
+            <div id="results-details"></div>
+            <div id="results-buttons">
+                <button id="share-btn">Compartir</button>
+                <button id="replay-btn">Jugar de nuevo</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
