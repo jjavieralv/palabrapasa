@@ -192,5 +192,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-07",
+    "words": [
+      {
+        "id": "33916",
+        "lemma": "grinalde",
+        "definition": "Una corona adornada con flores.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09214",
+        "lemma": "bermudina",
+        "definition": "una prenda de vestir informal con forma de pantalón corto.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "27650",
+        "lemma": "epiceno",
+        "definition": "Que no es ni masculino ni femenino.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "25694",
+        "lemma": "emprendimiento",
+        "definition": "El emprendimiento es el acto de emprender una actividad con el objetivo de obtener un beneficio.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26366",
+        "lemma": "endósmosis",
+        "definition": "el paso de una solución a través de una membrana semipermeable.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "65856",
+        "lemma": "zafir",
+        "definition": "Una gema preciosa de color azul o blanco.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "09267",
+        "lemma": "bestoga",
+        "definition": "Persona que no tiene recursos económicos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "08179",
+        "lemma": "bahaísmo",
+        "definition": "Una religión monoteísta fundada en Irán en el siglo XIX.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36623",
+        "lemma": "inca",
+        "definition": "un antiguo imperio de Sudamérica que existió desde el siglo XV hasta el siglo XVI.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "64496",
+        "lemma": "vejez",
+        "definition": "La vejez es el periodo de la vida en el que una persona alcanza la edad avanzada.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39146",
+        "lemma": "kikuyo",
+        "definition": "Hierba tropical comestible.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39813",
+        "lemma": "lectura",
+        "definition": "La acción de leer.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43445",
+        "lemma": "miel",
+        "definition": "Producto dulce y viscoso que las abejas producen a partir del néctar de las flores.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "29964",
+        "lemma": "exhibición",
+        "definition": "Muestra, presentación.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45950",
+        "lemma": "ñudo",
+        "definition": "Nudo complicado hecho con una cuerda o con una tira de tela.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46372",
+        "lemma": "omagua",
+        "definition": "pueblo indígena de la Amazonía colombiana.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "51672",
+        "lemma": "pretecnología",
+        "definition": "Conjunto de conocimientos y habilidades necesarios para realizar una tarea antes de la aparición de la tecnología.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52841",
+        "lemma": "querubín",
+        "definition": "Un querubín es un ángel de la mitología judía y cristiana, generalmente representado como un niño alado.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54425",
+        "lemma": "reforestación",
+        "definition": "El proceso de restaurar bosques deforestados mediante la plantación de árboles.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "31542",
+        "lemma": "foie-gras",
+        "definition": "Paté de hígado de oca o de pato.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "57787",
+        "lemma": "semencontra",
+        "definition": "Contradicción.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64109",
+        "lemma": "uñazo",
+        "definition": "Golpe con los dedos índice y pulgar.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65380",
+        "lemma": "vocalmente",
+        "definition": "de manera audible.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "15763",
+        "lemma": "ciclohexano",
+        "definition": "un hidrocarburo cíclico con seis átomos de carbono.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65688",
+        "lemma": "yeral",
+        "definition": "terreno de tierra árida y pedregosa.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65919",
+        "lemma": "zamarro",
+        "definition": "un pez de agua dulce de la familia de los ciprinodontes.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
