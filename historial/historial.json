@@ -386,5 +386,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-08",
+    "words": [
+      {
+        "id": "04850",
+        "lemma": "antibiograma",
+        "definition": "análisis de la sensibilidad de las bacterias a los antibióticos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "35622",
+        "lemma": "hombrecillo",
+        "definition": "Un hombre pequeño.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "62893",
+        "lemma": "traspecho",
+        "definition": "El acto de evitar algo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20496",
+        "lemma": "decapado",
+        "definition": "El decapado es una técnica de acabado de metal que se caracteriza por la eliminación de la capa superficial de un material mediante el uso de una fuerza abrasiva.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29424",
+        "lemma": "estómago",
+        "definition": "una parte del cuerpo que ayuda a digerir los alimentos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31764",
+        "lemma": "forzal",
+        "definition": "Una figura de baile español en la que un bailarín salta por encima de una silla.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "58753",
+        "lemma": "sobrecarga",
+        "definition": "Sobrecarga es una situación en la que se exige a algo una cantidad mayor de trabajo o energía de la que puede manejar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35144",
+        "lemma": "hexámetro",
+        "definition": "Verso de seis pies.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "39452",
+        "lemma": "lanaria",
+        "definition": "Tejido de lana.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38507",
+        "lemma": "jaimitada",
+        "definition": "Una broma o broma pesada.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "65630",
+        "lemma": "yak",
+        "definition": "Una especie de bovino originario de Asia Central.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "08210",
+        "lemma": "bajalenguas",
+        "definition": "Una persona que habla o se expresa de manera poco educada o con un lenguaje vulgar.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "30557",
+        "lemma": "fantasmada",
+        "definition": "una aparición de algo que no existe.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45052",
+        "lemma": "naiboa",
+        "definition": "una antigua moneda de plata usada en la India del Sur.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "49473",
+        "lemma": "peñascal",
+        "definition": "Montaña rocosa.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "42149",
+        "lemma": "marinismo",
+        "definition": "El marinismo es un estilo de pintura que representa escenas marinas y costeras.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47862",
+        "lemma": "parificar",
+        "definition": "Igualar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "38368",
+        "lemma": "isquion",
+        "definition": "La parte posterior y más baja de la cadera.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "38035",
+        "lemma": "intrincación",
+        "definition": "una situación complicada o enredada.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "42466",
+        "lemma": "materialismo",
+        "definition": "El materialismo es una filosofía que sostiene que la única realidad es la materia y la energía.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "05003",
+        "lemma": "antipolio",
+        "definition": "Que es utilizado para prevenir la polio.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "34497",
+        "lemma": "gular",
+        "definition": "Relacionado con la garganta.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "58101",
+        "lemma": "servilmente",
+        "definition": "de manera sumisa.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29977",
+        "lemma": "exigir",
+        "definition": "exigir",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65641",
+        "lemma": "yang",
+        "definition": "Uno de los principios básicos de la filosofía china que representa la energía masculina, la luz y el calor.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "34797",
+        "lemma": "hazañería",
+        "definition": "Acción audaz o heroica.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
