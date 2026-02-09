@@ -580,5 +580,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-09",
+    "words": [
+      {
+        "id": "02405",
+        "lemma": "aladrero",
+        "definition": "Persona que se dedica a sacar agua de pozos y aljibes.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09389",
+        "lemma": "bienllegada",
+        "definition": "acción de dar la bienvenida a alguien.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "64841",
+        "lemma": "versículo",
+        "definition": "Pasaje de la Biblia que contiene una sola frase o una sola idea.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20422",
+        "lemma": "dato",
+        "definition": "Un dato es una cantidad de información específica, como un número, una palabra o una imagen.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "57968",
+        "lemma": "septillo",
+        "definition": "una pequeña caja de madera con compartimentos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "55374",
+        "lemma": "resfriadura",
+        "definition": "una enfermedad de los pulmones que causa fiebre y dificultad para respirar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33794",
+        "lemma": "granujo",
+        "definition": "una persona deshonesta o deshonestamente obtenida.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15037",
+        "lemma": "chifla",
+        "definition": "Una chifla es un instrumento musical de viento hecho de una caña hueca, normalmente con una boquilla en un extremo.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38243",
+        "lemma": "irreductibilidad",
+        "definition": "La irreductibilidad es la cualidad de algo que no puede ser reducido o simplificado.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "18209",
+        "lemma": "contraejemplo",
+        "definition": "Un ejemplo que muestra lo contrario de lo que se está diciendo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39117",
+        "lemma": "kan",
+        "definition": "El kan es una unidad de medida japonesa equivalente aproximadamente a 3,3 litros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "37938",
+        "lemma": "interprofesional",
+        "definition": "Interprofesional se refiere a la colaboración entre profesionales de diferentes disciplinas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "25381",
+        "lemma": "embuzonar",
+        "definition": "Acosar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "15979",
+        "lemma": "cinoglosa",
+        "definition": "palabra que se usa para referirse a una persona que habla demasiado.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45917",
+        "lemma": "ñapindá",
+        "definition": "acción de ajustar con los dedos.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "44873",
+        "lemma": "múrido",
+        "definition": "se dice de un seguidor de la escuela de pensamiento religioso múrida.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "49154",
+        "lemma": "permuta",
+        "definition": "Permuta es el intercambio de bienes o servicios entre dos o más partes.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "29203",
+        "lemma": "estanquero",
+        "definition": "Persona que trabaja en una tienda de tabaco.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55000",
+        "lemma": "rengífero",
+        "definition": "Que contiene o está hecho de rengifo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "04185",
+        "lemma": "amoscar",
+        "definition": "oscurecer o empañar algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "08524",
+        "lemma": "baptisterio",
+        "definition": "Un edificio o estructura dedicada al bautismo de los cristianos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63811",
+        "lemma": "ufanía",
+        "definition": "Presunción exagerada.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64170",
+        "lemma": "vagarosamente",
+        "definition": "de manera perezosa; sin prisa.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65570",
+        "lemma": "wólfram",
+        "definition": "Tungsteno",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30210",
+        "lemma": "extranjerismo",
+        "definition": "Palabra o expresión de una lengua extranjera adoptada por una lengua nativa.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65696",
+        "lemma": "yerbería",
+        "definition": "Tienda donde se venden hierbas medicinales.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66106",
+        "lemma": "zarramplinada",
+        "definition": "Acción de caer con un gran ruido.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
