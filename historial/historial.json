@@ -774,5 +774,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-10",
+    "words": [
+      {
+        "id": "02298",
+        "lemma": "ajengibre",
+        "definition": "es una planta aromática y medicinal, conocida por su sabor picante y usada como condimento en la cocina.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10511",
+        "lemma": "bronce",
+        "definition": "Un metal compuesto de cobre y estaño.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "12931",
+        "lemma": "carnear",
+        "definition": "Cazar algo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22333",
+        "lemma": "desestimación",
+        "definition": "acción de desestimar algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "31991",
+        "lemma": "frecuentar",
+        "definition": "visitar con regularidad.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31870",
+        "lemma": "fraccionar",
+        "definition": "Dividir en partes.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34366",
+        "lemma": "guañil",
+        "definition": "una persona que trabaja duro y que tiene una actitud positiva.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35249",
+        "lemma": "hierbajo",
+        "definition": "El hierbajo es una planta anual de la familia de las gramíneas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "43571",
+        "lemma": "mimosamente",
+        "definition": "de manera cariñosa.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39037",
+        "lemma": "junza",
+        "definition": "una herramienta usada para cavar.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "34654",
+        "lemma": "haikai",
+        "definition": "Una forma de poesía japonesa basada en la brevedad.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "51258",
+        "lemma": "practicable",
+        "definition": "Que se puede realizar.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41906",
+        "lemma": "mantequería",
+        "definition": "un lugar donde se venden y compran productos lácteos, como mantequilla, queso y crema.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45467",
+        "lemma": "neutrino",
+        "definition": "Partícula subatómica sin carga eléctrica.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45946",
+        "lemma": "ñublar",
+        "definition": "formar nubes.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "29597",
+        "lemma": "estropajosamente",
+        "definition": "de manera desordenada.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51634",
+        "lemma": "prest",
+        "definition": "Prestigio, reputación.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "35726",
+        "lemma": "hoque",
+        "definition": "herramienta de labranza.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56015",
+        "lemma": "ringlero",
+        "definition": "persona que hace trucos con los caballos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "47775",
+        "lemma": "parasiticida",
+        "definition": "Que destruye parásitos.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "35327",
+        "lemma": "himenóptero",
+        "definition": "Insecto con alas y tres pares de patas, como las abejas y las avispas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63827",
+        "lemma": "ulpo",
+        "definition": "estruendo o ruido muy fuerte.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "37520",
+        "lemma": "inolvidable",
+        "definition": "Que no se puede olvidar.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65595",
+        "lemma": "xóchil",
+        "definition": "Instrumento musical de viento de origen mexicano de forma ovalada.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "62998",
+        "lemma": "trayecto",
+        "definition": "Distancia recorrida entre dos puntos.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "61923",
+        "lemma": "tiznar",
+        "definition": "quemar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
