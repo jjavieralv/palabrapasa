@@ -968,5 +968,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-11",
+    "words": [
+      {
+        "id": "05029",
+        "lemma": "antitanque",
+        "definition": "adjetivo para describir algo diseñado para destruir tanques.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09704",
+        "lemma": "bleda",
+        "definition": "algo sin brillo o sin color.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "17696",
+        "lemma": "confortabilidad",
+        "definition": "Cualidad que hace que algo sea agradable y cómodo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23859",
+        "lemma": "dilucidar",
+        "definition": "aclarar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "12321",
+        "lemma": "cantoneo",
+        "definition": "Acción de cantar acompañado de movimientos corporales.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "21225",
+        "lemma": "desafuero",
+        "definition": "la privación de los derechos y privilegios de una persona.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33322",
+        "lemma": "ginger-ale",
+        "definition": "Ginger Ale es una bebida carbonatada con sabor a jengibre.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34805",
+        "lemma": "hebén",
+        "definition": "Árbol de la familia de las mirtáceas, de madera muy dura y valiosa para la construcción.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "41249",
+        "lemma": "magnetizable",
+        "definition": "Que puede ser magnetizado.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "44654",
+        "lemma": "muellaje",
+        "definition": "Acción de moverse con movimientos rítmicos.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39184",
+        "lemma": "kohl",
+        "definition": "El kohl es un antiguo cosmético hecho de una mezcla de minerales, utilizado para darle a los ojos una apariencia más oscura.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40922",
+        "lemma": "lunada",
+        "definition": "Referencia a la luna llena.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "11868",
+        "lemma": "cambrún",
+        "definition": "Una enfermedad infecciosa que se caracteriza por fiebre, dolor de cabeza y dolor muscular.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "19347",
+        "lemma": "cremación",
+        "definition": "el proceso de incineración de un cadáver.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "13790",
+        "lemma": "cañizar",
+        "definition": "Labrar la tierra para prepararla para la siembra.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46830",
+        "lemma": "ostento",
+        "definition": "Una exhibición ostentosa de riqueza o poder.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "55092",
+        "lemma": "repatriar",
+        "definition": "Devolver a una persona a su país de origen.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "04725",
+        "lemma": "anquilosar",
+        "definition": "Hacer que algo pierda flexibilidad o movilidad.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "61855",
+        "lemma": "tiroides",
+        "definition": "Glándula responsable de la producción de hormonas.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "21403",
+        "lemma": "desarrebujar",
+        "definition": "desordenar algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "16437",
+        "lemma": "cobertura",
+        "definition": "La cobertura es un material que se utiliza para cubrir algo para protegerlo de la intemperie.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64094",
+        "lemma": "uveítis",
+        "definition": "La uveítis es una inflamación de la úvea, que es una capa de tejido que rodea al ojo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64996",
+        "lemma": "victorear",
+        "definition": "celebrar una victoria con aplausos y alabanzas.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65551",
+        "lemma": "wahabismo",
+        "definition": "Un movimiento islámico sunita que aboga por una aplicación estricta de los principios del islam.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65606",
+        "lemma": "yacaré",
+        "definition": "lagarto de agua dulce.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66271",
+        "lemma": "zulú",
+        "definition": "Pueblo originario de Sudáfrica.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
