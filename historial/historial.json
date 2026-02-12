@@ -1162,5 +1162,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-12",
+    "words": [
+      {
+        "id": "18686",
+        "lemma": "corcholear",
+        "definition": "Sonar con un sonido agudo y estridente.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10798",
+        "lemma": "buriel",
+        "definition": "Entierro.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "50349",
+        "lemma": "platicada",
+        "definition": "Conversación informal entre amigos.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "16566",
+        "lemma": "codesera",
+        "definition": "una reunión informal para compartir noticias y hablar sobre temas variados.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28249",
+        "lemma": "escocimiento",
+        "definition": "El acto de escocer o irritar a alguien.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32315",
+        "lemma": "fundibulario",
+        "definition": "Un fundibulario es una persona experto en el manejo de fondos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32434",
+        "lemma": "gabela",
+        "definition": "Un impuesto cobrado por el gobierno.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35495",
+        "lemma": "hisca",
+        "definition": "Planta herbácea con flores blancas, de la familia de las compuestas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36109",
+        "lemma": "icnita",
+        "definition": "Huella dejadas por un animal en el suelo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "62442",
+        "lemma": "trabajadero",
+        "definition": "Una persona que trabaja duro.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39908",
+        "lemma": "lendakari",
+        "definition": "El título oficial otorgado al primer ministro de País Vasco.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "64673",
+        "lemma": "ventricular",
+        "definition": "Relacionado con los ventrículos del corazón.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42745",
+        "lemma": "mediometraje",
+        "definition": "Una película de longitud media.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "01828",
+        "lemma": "aglomerante",
+        "definition": "Que aglutina.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "32389",
+        "lemma": "fustaño",
+        "definition": "Tejido de lana muy fina y suave.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "43328",
+        "lemma": "metrorragia",
+        "definition": "Sangrado excesivo desde el útero.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "25586",
+        "lemma": "empestillarse",
+        "definition": "Ponerse malhumorado o enfadado.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "46037",
+        "lemma": "obsequio",
+        "definition": "un regalo hecho a alguien como muestra de afecto.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53969",
+        "lemma": "recepción",
+        "definition": "La acción de recibir a alguien de manera amable.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "62369",
+        "lemma": "toscamente",
+        "definition": "de manera tosca.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "01054",
+        "lemma": "acromatismo",
+        "definition": "La ausencia de color.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63878",
+        "lemma": "uncia",
+        "definition": "Unidad de medida de peso equivalente a 28 gramos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "28950",
+        "lemma": "espolvorar",
+        "definition": "esparcir polvo o algo en forma de polvo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "16374",
+        "lemma": "clown",
+        "definition": "Un artista de circo que usa maquillaje y vestimenta extravagantes para hacer reír a la gente.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65594",
+        "lemma": "xinca",
+        "definition": "Pueblo indígena que habita en Guatemala y El Salvador.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "40069",
+        "lemma": "ley",
+        "definition": "Una ley es una norma jurídica que rige el comportamiento de las personas en una comunidad.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "53667",
+        "lemma": "razonablemente",
+        "definition": "de forma razonable.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
