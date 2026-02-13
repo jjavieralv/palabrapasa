@@ -1356,5 +1356,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-13",
+    "words": [
+      {
+        "id": "19933",
+        "lemma": "cuérrago",
+        "definition": "pequeña cuerda usada para sujetar algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "44561",
+        "lemma": "motobomba",
+        "definition": "Una motobomba es una bomba de agua motorizada que se utiliza para bombeo de agua.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "09889",
+        "lemma": "bolcheviquismo",
+        "definition": "Ideología política comunista basada en el marxismo-leninismo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24084",
+        "lemma": "disformidad",
+        "definition": "Desigualdad o desproporción en el tamaño, la forma o la estructura de algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "01340",
+        "lemma": "adocenamiento",
+        "definition": "Acción de volverse aburrido o poco interesante.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30516",
+        "lemma": "familiatura",
+        "definition": "El estado de tener una familia unida y feliz.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "63644",
+        "lemma": "tungús",
+        "definition": "Relativo a la familia de lenguas tungús habladas en Siberia.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14995",
+        "lemma": "chichigua",
+        "definition": "Planta herbácea tropical de la familia de las cucurbitáceas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "65728",
+        "lemma": "yodación",
+        "definition": "Proceso químico en el que se añade yodo a un compuesto.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38949",
+        "lemma": "judicar",
+        "definition": "judicar es emitir un juicio o dictamen sobre una situación.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "62025",
+        "lemma": "tokiota",
+        "definition": "Relativo a la ciudad de Tokio, Japón.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40140",
+        "lemma": "libretearse",
+        "definition": "preparar un libreto.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "07745",
+        "lemma": "aviesamente",
+        "definition": "de forma astuta.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "22747",
+        "lemma": "desmerecimiento",
+        "definition": "Acción de menospreciar o desvalorar a alguien o algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "13798",
+        "lemma": "cañonería",
+        "definition": "El arte de fabricar y usar cañones de armas de fuego.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "04981",
+        "lemma": "antipapado",
+        "definition": "Movimiento religioso que se opone al papado.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "59280",
+        "lemma": "sopar",
+        "definition": "Comer algo a cierta hora.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53089",
+        "lemma": "quizás",
+        "definition": "tal vez.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56637",
+        "lemma": "ruralismo",
+        "definition": "El ruralismo es un movimiento artístico que se enfoca en los temas relacionados con el medio rural, como la vida campesina y el paisaje rural.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57321",
+        "lemma": "sanmartín",
+        "definition": "Persona que se destaca por su valentía y honor.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62839",
+        "lemma": "trasga",
+        "definition": "criatura mítica de la mitología española, conocida por su mal carácter.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "37364",
+        "lemma": "inhumanamente",
+        "definition": "de manera cruel e inhumana.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "56078",
+        "lemma": "riverense",
+        "definition": "relacionado con la ciudad de Ribera.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65557",
+        "lemma": "watt",
+        "definition": "El watt es una unidad de potencia eléctrica que se utiliza para medir la cantidad de energía que un dispositivo consume por segundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65584",
+        "lemma": "xerografiar",
+        "definition": "copiar algo con una máquina de xerografía.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65706",
+        "lemma": "yesar",
+        "definition": "Yesar es una técnica que se utiliza para revestir una superficie con una mezcla de cal y arena para crear una superficie lisa y uniforme.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "41604",
+        "lemma": "mameyazo",
+        "definition": "golpe fuerte.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
