@@ -1550,5 +1550,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-14",
+    "words": [
+      {
+        "id": "39873",
+        "lemma": "leísta",
+        "definition": "persona que sigue la ley.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "22492",
+        "lemma": "desherbar",
+        "definition": "quitar las malas hierbas de una área.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "47378",
+        "lemma": "panamaca",
+        "definition": "Persona natural o habitante de Panamá.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "43415",
+        "lemma": "microgravedad",
+        "definition": "La microgravedad es una condición en la que la gravedad es muy pequeña, como la que se experimenta en el espacio exterior.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "13320",
+        "lemma": "castañuela",
+        "definition": "Un instrumento de percusión formado por dos conchas de mar unidas por una cuerda.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30380",
+        "lemma": "fagüeño",
+        "definition": "Persona originaria de la provincia de Fagua.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32935",
+        "lemma": "garrochón",
+        "definition": "Un garrochón es una rama gruesa y robusta de un árbol.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35779",
+        "lemma": "hornablenda",
+        "definition": "Una clase de mineral compuesto de silicato de aluminio y magnesio con una estructura cristalina.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37914",
+        "lemma": "internet",
+        "definition": "Red mundial de computadoras que permite el intercambio de información y comunicación entre usuarios.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "08215",
+        "lemma": "bajamiento",
+        "definition": "Acción de bajar algo o alguien.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39185",
+        "lemma": "kohol",
+        "definition": "El kohol es una planta originaria del sureste asiático.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "48285",
+        "lemma": "patrimonialista",
+        "definition": "Aquel que defiende el patrimonio como base para el desarrollo económico y social.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "16702",
+        "lemma": "coime",
+        "definition": "pequeño cuchillo tradicional usado para abrir huevos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "22127",
+        "lemma": "desencalcar",
+        "definition": "quitar la cal de algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "02814",
+        "lemma": "alcuña",
+        "definition": "Una herramienta de metal con forma de cuchara, utilizada para medir líquidos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "50800",
+        "lemma": "pompa",
+        "definition": "Esplendor y grandiosidad.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50656",
+        "lemma": "polibán",
+        "definition": "una prenda de vestir tradicional de los nativos americanos",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "45918",
+        "lemma": "ñaque",
+        "definition": "Es una forma de bailar típica de la región de los Andes de Perú, Bolivia y Ecuador.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "49034",
+        "lemma": "pergamino",
+        "definition": "Un material de escritura hecho de piel de animal curtida.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "48541",
+        "lemma": "pedriscal",
+        "definition": "Terreno cubierto de guijarros.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "47266",
+        "lemma": "palmatoria",
+        "definition": "Artículo de adorno, generalmente una vara con una figura adornada en un extremo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "33272",
+        "lemma": "gestual",
+        "definition": "Que se expresa con gestos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "39702",
+        "lemma": "lavabo",
+        "definition": "recipiente para lavarse las manos y la cara.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "28275",
+        "lemma": "escólex",
+        "definition": "Un escólex es un parásito plano que se alimenta de los intestinos de los animales.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "07869",
+        "lemma": "azagaya",
+        "definition": "un arma usada por los soldados africanos para lanzar lanzas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "11151",
+        "lemma": "cachiporrazo",
+        "definition": "un golpe dado con una piedra u otro objeto contundente.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
