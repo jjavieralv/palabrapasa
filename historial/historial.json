@@ -1744,5 +1744,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-15",
+    "words": [
+      {
+        "id": "63955",
+        "lemma": "uperizar",
+        "definition": "Hacer algo más eficiente.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "38921",
+        "lemma": "juba",
+        "definition": "Trenza de cabello larga y voluminosa.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16540",
+        "lemma": "cocota",
+        "definition": "Una persona que se comporta con arrogancia y desprecio.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "55448",
+        "lemma": "résped",
+        "definition": "Una pequeña cantidad de algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25380",
+        "lemma": "embutir",
+        "definition": "Introducir algo en un hueco o espacio cerrado.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "01655",
+        "lemma": "afligimiento",
+        "definition": "Garrochista: una persona que monta a caballo con habilidad.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "62528",
+        "lemma": "tragaluz",
+        "definition": "abertura en el techo de una edificación para permitir la entrada de luz natural.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35748",
+        "lemma": "hordiate",
+        "definition": "El nombre de una comida típica de la región norteña de España hecha con harina, agua y aceite.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36501",
+        "lemma": "improbidad",
+        "definition": "falta de honradez o rectitud moral.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38600",
+        "lemma": "jaramago",
+        "definition": "Planta silvestre con una flor blanca que crece en los campos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39121",
+        "lemma": "kappa",
+        "definition": "Letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39551",
+        "lemma": "lapo",
+        "definition": "una actividad lúdica en la que se arrojan objetos al aire para que los participantes los atrapen con la mano.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44077",
+        "lemma": "monarquismo",
+        "definition": "Sistema de gobierno en el que una sola persona, un monarca, ejerce el poder supremo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "04238",
+        "lemma": "amugronamiento",
+        "definition": "Acción de hacer algo con demasiada lentitud.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45922",
+        "lemma": "ñañiguismo",
+        "definition": "Estilo de vida caracterizado por el uso excesivo de la lengua vernácula.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46443",
+        "lemma": "onocrótalo",
+        "definition": "una especie de lagarto que se encuentra en África.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48087",
+        "lemma": "pasional",
+        "definition": "Intenso y apasionado.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "57985",
+        "lemma": "sequío",
+        "definition": "Una larga temporada de sequía.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "39062",
+        "lemma": "juridificar",
+        "definition": "Convertir algo en un asunto legal.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58651",
+        "lemma": "sístole",
+        "definition": "Contracción del corazón que se produce durante la fase de bombeo del ciclo cardíaco.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "26647",
+        "lemma": "engrandecimiento",
+        "definition": "El proceso de hacer algo más grande.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63949",
+        "lemma": "untaza",
+        "definition": "Cantidad de líquido contenida en una taza.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "10343",
+        "lemma": "braveza",
+        "definition": "Valor, coraje.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "59935",
+        "lemma": "superwoman",
+        "definition": "Una mujer que tiene habilidades y poderes especiales que la hacen destacar por encima de los demás.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "37124",
+        "lemma": "inexcogitable",
+        "definition": "Que no se puede entender o comprender.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "60670",
+        "lemma": "tarayal",
+        "definition": "Una herramienta de pesca tradicional usada en el mar.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "64195",
+        "lemma": "vainazo",
+        "definition": "Un golpe con una vara.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
