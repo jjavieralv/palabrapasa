@@ -1938,5 +1938,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-16",
+    "words": [
+      {
+        "id": "07087",
+        "lemma": "atemorizar",
+        "definition": "Asustar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "37118",
+        "lemma": "inestimable",
+        "definition": "de un valor incalculable.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16791",
+        "lemma": "colecturía",
+        "definition": "Oficina donde se recaudan impuestos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "29815",
+        "lemma": "evidentemente",
+        "definition": "de manera evidente.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "57928",
+        "lemma": "sentencia",
+        "definition": "Una sentencia es una decisión judicial dictada por un tribunal.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "14485",
+        "lemma": "chafallo",
+        "definition": "Una herramienta de hierro usada para afilar cuchillos y otros objetos afilados.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "10270",
+        "lemma": "boñiguero",
+        "definition": "Persona que recoge excrementos de animales.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35003",
+        "lemma": "herbero",
+        "definition": "Lugar en el que se recogen hierbas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37973",
+        "lemma": "interviú",
+        "definition": "Entrevista realizada por un periodista con una persona famosa.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38607",
+        "lemma": "jarapa",
+        "definition": "Una manta de lana gruesa y suave que se usa para mantenerse caliente.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39153",
+        "lemma": "kilográmetro",
+        "definition": "Es una unidad de longitud, equivalente a mil metros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "31110",
+        "lemma": "filera",
+        "definition": "Línea de personas o cosas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42717",
+        "lemma": "médicamente",
+        "definition": "de manera medicinal.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "55819",
+        "lemma": "reversión",
+        "definition": "La reversión es el proceso de devolver una propiedad, una situación o una acción a su estado original.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "32916",
+        "lemma": "garrapiñar",
+        "definition": "Picar con un garrapato.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46950",
+        "lemma": "oxidrilo",
+        "definition": "Un grupo químico formado por un átomo de oxígeno unido a uno de hidrógeno.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47983",
+        "lemma": "partidarismo",
+        "definition": "Actitud de apoyar un partido político por encima de otros.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "19444",
+        "lemma": "críquet",
+        "definition": "El críquet es un deporte de equipo que se juega con una bola y un bate.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53120",
+        "lemma": "rabia",
+        "definition": "la rabia es una enfermedad infecciosa viral que se transmite por la saliva de animales infectados.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57331",
+        "lemma": "santabarbarense",
+        "definition": "Relativo a la ciudad de Santa Bárbara.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "49732",
+        "lemma": "pilixte",
+        "definition": "Relativo a la lengua hablada por los pueblos de la región de Oaxaca, México.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "24633",
+        "lemma": "dugo",
+        "definition": "Una herida causada por un arma blanca.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "15377",
+        "lemma": "chivillo",
+        "definition": "Pequeño cabrito.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "10764",
+        "lemma": "bungalow",
+        "definition": "Un bungalow es una casa de una sola planta con un techo bajo.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "62654",
+        "lemma": "transexualismo",
+        "definition": "Un grupo grande de personas o cosas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "09735",
+        "lemma": "bluyín",
+        "definition": "Una persona tímida o retraída.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "22807",
+        "lemma": "desnacionalizar",
+        "definition": "quitar la nacionalidad a alguien.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
