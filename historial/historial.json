@@ -2132,5 +2132,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-17",
+    "words": [
+      {
+        "id": "29119",
+        "lemma": "estacionalidad",
+        "definition": "La variación en la demanda de un producto o servicio en función de la época del año.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10248",
+        "lemma": "boy scout",
+        "definition": "Un miembro de una organización juvenil que se dedica a la educación a través de actividades al aire libre.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "26189",
+        "lemma": "encomio",
+        "definition": "Elogio.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23279",
+        "lemma": "destartalo",
+        "definition": "la acción de deshacer o desarmar un mecanismo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25904",
+        "lemma": "encandilar",
+        "definition": "Embelesar, atraer o seducir a alguien.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30431",
+        "lemma": "falciforme",
+        "definition": "Que tiene forma de hoz.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "36185",
+        "lemma": "ignografía",
+        "definition": "Estudio de la ignorancia.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34706",
+        "lemma": "hampa",
+        "definition": "Un grupo de criminales o delincuentes.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38977",
+        "lemma": "jugosidad",
+        "definition": "Característica de un alimento que es suave, húmedo y sabroso.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39004",
+        "lemma": "jumil",
+        "definition": "insecto grande y con alas que suele vivir en zonas boscosas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39118",
+        "lemma": "kanindeyuense",
+        "definition": "adjetivo para describir algo relacionado con el departamento de Cañindeyú en Paraguay.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39667",
+        "lemma": "latitudinarismo",
+        "definition": "Una actitud o punto de vista que se centra en los principios generales y se abstiene de tomar posiciones firmes sobre cuestiones específicas.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "55131",
+        "lemma": "repetidamente",
+        "definition": "de manera repetida.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "22167",
+        "lemma": "desencovar",
+        "definition": "descubrir.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "05409",
+        "lemma": "apiñamiento",
+        "definition": "la acción de apretarse.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46929",
+        "lemma": "ovillo",
+        "definition": "Una gran cantidad de hilo enrollado en forma de bola.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "54757",
+        "lemma": "relampagueante",
+        "definition": "adjetivo que se refiere a algo o alguien que es brillante o con mucho brillo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53032",
+        "lemma": "quiral",
+        "definition": "Que tiene propiedades ópticas asimétricas",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "17287",
+        "lemma": "comportero",
+        "definition": "persona que trabaja en un edificio, encargada de abrir la puerta a los visitantes.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "01934",
+        "lemma": "agresivamente",
+        "definition": "de una manera violenta.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "23377",
+        "lemma": "destupir",
+        "definition": "desatascar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63916",
+        "lemma": "unimembre",
+        "definition": "Que consta de una sola parte.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64556",
+        "lemma": "velozmente",
+        "definition": "rápidamente.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "45483",
+        "lemma": "newton",
+        "definition": "Matemático, físico, filósofo y teólogo inglés, considerado uno de los científicos más importantes de todos los tiempos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65578",
+        "lemma": "xenoglosia",
+        "definition": "Palabra extranjera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65743",
+        "lemma": "yolilla",
+        "definition": "Una embarcación de vela pequeña, con una vela cuadrada y un timón.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66177",
+        "lemma": "zomo",
+        "definition": "una planta trepadora de la familia de las cucurbitáceas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
