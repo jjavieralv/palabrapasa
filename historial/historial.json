@@ -2326,5 +2326,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-18",
+    "words": [
+      {
+        "id": "03569",
+        "lemma": "alora",
+        "definition": "entonces.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09152",
+        "lemma": "benevolencia",
+        "definition": "Benevolencia es la disposición de una persona a actuar con bondad, generosidad y compasión hacia otra.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "20839",
+        "lemma": "demacrar",
+        "definition": "Adelgazar.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "37022",
+        "lemma": "indización",
+        "definition": "Acción de indicar o señalar algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28339",
+        "lemma": "escorredero",
+        "definition": "Un utensilio de cocina usado para escurrir alimentos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31442",
+        "lemma": "florecimiento",
+        "definition": "un periodo de prosperidad y desarrollo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34464",
+        "lemma": "guisaso",
+        "definition": "Comida hecha con carne y otros ingredientes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34625",
+        "lemma": "hachazo",
+        "definition": "Un hachazo es un golpe fuerte y rápido con un hacha.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37313",
+        "lemma": "ingenieril",
+        "definition": "relacionado con la ingeniería.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38790",
+        "lemma": "jinete",
+        "definition": "Persona que monta a caballo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39176",
+        "lemma": "kirsch",
+        "definition": "un licor destilado a partir de cerezas.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "04472",
+        "lemma": "andurrial",
+        "definition": "Terreno pantanoso.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "25619",
+        "lemma": "empipada",
+        "definition": "una comida típica de la región de Los Andes, hecha con harina de maíz y carne de cerdo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45011",
+        "lemma": "nacionalcatolicismo",
+        "definition": "doctrina religiosa que combina el catolicismo con los principios nacionales.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45912",
+        "lemma": "ñanga",
+        "definition": "Instrumento musical africano hecho de madera.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "24139",
+        "lemma": "disolver",
+        "definition": "descomponer o separar una sustancia en pequeñas partículas.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "36431",
+        "lemma": "imponible",
+        "definition": "Que tiene la obligación de pagar impuestos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52769",
+        "lemma": "quehacer",
+        "definition": "Un trabajo o tarea que se realiza.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54902",
+        "lemma": "remitir",
+        "definition": "enviar",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "00978",
+        "lemma": "acordeonista",
+        "definition": "Persona que toca el acordeón.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61528",
+        "lemma": "testimonio",
+        "definition": "Declaración de una persona que sirve como prueba de algo.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63964",
+        "lemma": "uranografía",
+        "definition": "El estudio de la forma y estructura de los cuerpos celestes.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "11225",
+        "lemma": "cádava",
+        "definition": "parte del cuerpo humano que está en descomposición.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65550",
+        "lemma": "wahabí",
+        "definition": "Persona que sigue la doctrina islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "19252",
+        "lemma": "coxquear",
+        "definition": "hacer ruido con algo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65729",
+        "lemma": "yodar",
+        "definition": "Cantar.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "41397",
+        "lemma": "malandanza",
+        "definition": "acto de malandar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
