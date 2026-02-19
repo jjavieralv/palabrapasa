@@ -2520,5 +2520,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-19",
+    "words": [
+      {
+        "id": "05817",
+        "lemma": "arcabucear",
+        "definition": "disparar con arcabuz.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "15716",
+        "lemma": "ciberartista",
+        "definition": "artista que utiliza la tecnología informática para crear obras de arte.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "63899",
+        "lemma": "unicolor",
+        "definition": "Que tiene un solo color.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20906",
+        "lemma": "denante",
+        "definition": "enfrente.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "47751",
+        "lemma": "parante",
+        "definition": "Una estructura que se usa para sostener una carga.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30491",
+        "lemma": "falseo",
+        "definition": "Una deformación o alteración de la verdad.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33715",
+        "lemma": "grafómetro",
+        "definition": "un dispositivo para medir la longitud y el ángulo de un objeto.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "56898",
+        "lemma": "sahornarse",
+        "definition": "Llenarse de ánimo, motivación.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37711",
+        "lemma": "insulto",
+        "definition": "un comentario despectivo o ofensivo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "55990",
+        "lemma": "rija",
+        "definition": "Acción de perforar algo con una herramienta.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "59727",
+        "lemma": "sudoku",
+        "definition": "Juego de lógica.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "47898",
+        "lemma": "parola",
+        "definition": "Parola es una palabra italiana que significa \"palabra\".",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42791",
+        "lemma": "mejengue",
+        "definition": "Un juego de pelota popular en algunos países de Latinoamérica.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "18496",
+        "lemma": "convivialidad",
+        "definition": "La disposición de una persona para disfrutar de la compañía de otros.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45906",
+        "lemma": "ñamería",
+        "definition": "La ñamería es una forma de comportamiento grosero y descortés.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "18823",
+        "lemma": "corona",
+        "definition": "una parte de la corona de un árbol que se ha caído al suelo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "56021",
+        "lemma": "rinoscopia",
+        "definition": "Examen del interior de la nariz.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52905",
+        "lemma": "quijotesa",
+        "definition": "Mujer que acompaña al personaje principal de la novela \"El ingenioso hidalgo don Quijote de la Mancha\".",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53894",
+        "lemma": "recalcitrar",
+        "definition": "resistirse, ser rebelde.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "23053",
+        "lemma": "despesar",
+        "definition": "deshacerse de algo que resulta molesto.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60360",
+        "lemma": "tallista",
+        "definition": "Persona que trabaja con la madera para crear objetos artesanales.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64738",
+        "lemma": "verdeguear",
+        "definition": "Hacer algo mal o de mala calidad.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "62267",
+        "lemma": "tornavoz",
+        "definition": "Dispositivo que se coloca en un lugar para amplificar una voz.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65581",
+        "lemma": "xerocopiar",
+        "definition": "Copiar algo usando una máquina fotocopiadora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65662",
+        "lemma": "yatay",
+        "definition": "Palma americana de grandes hojas, de la que se obtiene aceite.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66062",
+        "lemma": "zarajo",
+        "definition": "Pequeño insecto volador de color negro.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
