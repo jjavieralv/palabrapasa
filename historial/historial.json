@@ -2714,5 +2714,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-20",
+    "words": [
+      {
+        "id": "18076",
+        "lemma": "contentar",
+        "definition": "satisfacer o complacer.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09513",
+        "lemma": "biomimetismo",
+        "definition": "El biomimetismo es el estudio de la imitación de los procesos y estructuras de la naturaleza para desarrollar nuevos materiales, productos y tecnologías.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "37994",
+        "lemma": "intolerancia",
+        "definition": "Falta de tolerancia hacia las creencias, opiniones o comportamientos de los demás.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20793",
+        "lemma": "delgadez",
+        "definition": "Delgadez es la cualidad de ser delgado.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "63359",
+        "lemma": "trocoide",
+        "definition": "Un trocoide es una curva plana que se forma cuando una línea recta se mueve a lo largo de una curva.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31594",
+        "lemma": "fonación",
+        "definition": "producción de sonidos por la voz.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "15658",
+        "lemma": "churriguerismo",
+        "definition": "Estilo arquitectónico barroco español caracterizado por su exuberancia.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "21839",
+        "lemma": "desconchado",
+        "definition": "Describe una superficie que se ha desgastado o se ha hecho añicos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "35026",
+        "lemma": "heria",
+        "definition": "Daño o lesión.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38611",
+        "lemma": "jarcería",
+        "definition": "Oficio de un jarciario, que consiste en trabajar con arcilla.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "19282",
+        "lemma": "cracker",
+        "definition": "Un alimento salado hecho de harina, grasa y sal.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "60348",
+        "lemma": "tallada",
+        "definition": "una habilidad para hacer algo con destreza.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44595",
+        "lemma": "movilizar",
+        "definition": "Desplazar personas o cosas de un lugar a otro.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "26981",
+        "lemma": "enratonarse",
+        "definition": "Encerrarse en un lugar pequeño y cerrado.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45899",
+        "lemma": "ñ",
+        "definition": "Letra del alfabeto español que representa un fonema nasal.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "47299",
+        "lemma": "palomillear",
+        "definition": "Cantar como una paloma.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48128",
+        "lemma": "pastel",
+        "definition": "Un postre dulce hecho de harina, azúcar y huevo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53056",
+        "lemma": "quisquillosidad",
+        "definition": "Una tendencia a ser excesivamente escrupuloso o meticuloso.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54990",
+        "lemma": "rendija",
+        "definition": "Una pequeña abertura, hendidura o fisura.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59558",
+        "lemma": "subida",
+        "definition": "Acción y efecto de subir.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63698",
+        "lemma": "turbopropulsión",
+        "definition": "Un sistema de propulsión que combina un motor de turbina con una hélice.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "16234",
+        "lemma": "clausular",
+        "definition": "Poner cláusulas, estipular.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "54767",
+        "lemma": "relativista",
+        "definition": "Persona que cree que la verdad es relativa y que no hay una verdad absoluta.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "05658",
+        "lemma": "aproximante",
+        "definition": "Que se acerca a algo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65761",
+        "lemma": "yucal",
+        "definition": "Una construcción hecha de troncos de árbol unidos con barro y paja.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "06790",
+        "lemma": "askenazí",
+        "definition": "Relativo a la etnia judía asquenazí.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
