@@ -2908,5 +2908,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-21",
+    "words": [
+      {
+        "id": "52880",
+        "lemma": "quiebraplata",
+        "definition": "Juego de mesa de origen chileno.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10396",
+        "lemma": "brevedad",
+        "definition": "Cualidad de ser breve.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "35001",
+        "lemma": "herbecer",
+        "definition": "crecer como hierba.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "09368",
+        "lemma": "bidimensional",
+        "definition": "Que tiene dos dimensiones.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29166",
+        "lemma": "estalinista",
+        "definition": "adjetivo para referirse a algo o alguien que sigue las enseñanzas del líder soviético Joseph Stalin.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "40225",
+        "lemma": "lignificación",
+        "definition": "Proceso de transformación de tejidos vegetales en lignina.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "37313",
+        "lemma": "ingenieril",
+        "definition": "relacionado con la ingeniería.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "15637",
+        "lemma": "churcha",
+        "definition": "La churcha es una prenda tradicional de la cultura andina hecha de lana, que se usa como abrigo.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "52102",
+        "lemma": "propiamente",
+        "definition": "de manera propia.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38778",
+        "lemma": "jimagua",
+        "definition": "Pez de agua dulce, de la familia de los ciprinidos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "36219",
+        "lemma": "ikastola",
+        "definition": "una escuela en el País Vasco donde se enseña en euskera.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40442",
+        "lemma": "literalidad",
+        "definition": "El hecho de entender las palabras en su sentido literal.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "17112",
+        "lemma": "comilitona",
+        "definition": "Persona que comparte una comida con otra.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45336",
+        "lemma": "nelumbio",
+        "definition": "planta acuática con flores grandes y hermosas.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45597",
+        "lemma": "niñada",
+        "definition": "un grupo de niños.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "35645",
+        "lemma": "homiliario",
+        "definition": "Libro de sermones o discursos religiosos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47246",
+        "lemma": "palitroque",
+        "definition": "Árbol de la familia de los palos de rosa, de hojas perennes y frutos comestibles.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "27749",
+        "lemma": "equidistar",
+        "definition": "Repartir igualmente.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53678",
+        "lemma": "reacción",
+        "definition": "Una reacción es una respuesta a un estímulo que se produce en un organismo o sistema.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "56726",
+        "lemma": "saboneta",
+        "definition": "Una saboneta es un pequeño bloque de jabón para usar en el baño o en la ducha.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61190",
+        "lemma": "tenebrario",
+        "definition": "Lugar oscuro y siniestro.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "02224",
+        "lemma": "ahuevazón",
+        "definition": "Una persona que se comporta de forma descarada e imprudente.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "00300",
+        "lemma": "abreviar",
+        "definition": "acortar",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65567",
+        "lemma": "windsurf",
+        "definition": "Es un deporte acuático que se practica sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65710",
+        "lemma": "yeso",
+        "definition": "un material de construcción compuesto de sulfato de calcio.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "01788",
+        "lemma": "agavanza",
+        "definition": "Una fiesta popular española que se celebra en el día de San Juan.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
