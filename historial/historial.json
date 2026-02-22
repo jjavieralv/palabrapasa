@@ -3102,5 +3102,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-22",
+    "words": [
+      {
+        "id": "01337",
+        "lemma": "adobío",
+        "definition": "una mezcla de tierra y estiércol usada para fertilizar la tierra.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08949",
+        "lemma": "batuda",
+        "definition": "una canción popular con una melodía alegre y un ritmo marcado.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18853",
+        "lemma": "corporación",
+        "definition": "Una organización legalmente constituida con fines comerciales o de otro tipo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "07784",
+        "lemma": "avocado",
+        "definition": "Fruta de la familia de las Lauráceas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "51220",
+        "lemma": "potente",
+        "definition": "Fuerte, vigoroso.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "09562",
+        "lemma": "birrefringente",
+        "definition": "Adjetivo para describir algo que tiene la propiedad de desviar los rayos de luz.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33826",
+        "lemma": "gratinador",
+        "definition": "Un utensilio para gratinar los alimentos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35666",
+        "lemma": "homosexual",
+        "definition": "Persona que se siente atraída sexualmente por otra persona del mismo sexo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "41900",
+        "lemma": "mantención",
+        "definition": "Acción de mantener.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "00291",
+        "lemma": "abreojos",
+        "definition": "Instrumento usado para abrir los ojos en caso de parálisis.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39133",
+        "lemma": "kayak",
+        "definition": "Es una embarcación pequeña y ligera usada para el deporte y la recreación.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "38951",
+        "lemma": "judicial",
+        "definition": "Relativo a la justicia o a los tribunales.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41007",
+        "lemma": "macar",
+        "definition": "Aplastar.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "17001",
+        "lemma": "coluna",
+        "definition": "Una columna vertical de aire o agua.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45921",
+        "lemma": "ñáñara",
+        "definition": "Una antigua palabra que se usaba para referirse a la risa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46051",
+        "lemma": "obsidional",
+        "definition": "adjetivo que se refiere a algo relacionado con una asedio o el hecho de sitiar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "05312",
+        "lemma": "apendejearse",
+        "definition": "Hacerse el tonto.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53086",
+        "lemma": "quitu",
+        "definition": "Una palabra usada para expresar desprecio.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "52660",
+        "lemma": "puritanismo",
+        "definition": "El puritanismo es un movimiento religioso cristiano que se originó en Inglaterra en el siglo XVI y se caracterizó por una ética estricta y una devoción a la Biblia.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "07546",
+        "lemma": "autoexcluirse",
+        "definition": "Excluirse a uno mismo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61736",
+        "lemma": "tingle",
+        "definition": "una sensación de hormigueo en la piel.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "04246",
+        "lemma": "amurada",
+        "definition": "Lado de una embarcación.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64320",
+        "lemma": "vara",
+        "definition": "Una vara es una unidad de medida lineal, generalmente de dos metros.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "45483",
+        "lemma": "newton",
+        "definition": "Matemático, físico, filósofo y teólogo inglés, considerado uno de los científicos más importantes de todos los tiempos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "54413",
+        "lemma": "reflexología",
+        "definition": "Terapia alternativa que utiliza presión en los pies para aliviar el dolor y la tensión.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65693",
+        "lemma": "yerbazal",
+        "definition": "Pequeño jardín de hierbas aromáticas, generalmente usado para fines culinarios.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "11178",
+        "lemma": "cachuchazo",
+        "definition": "Golpe con una cachucha.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
