@@ -3296,5 +3296,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-23",
+    "words": [
+      {
+        "id": "04642",
+        "lemma": "animálculo",
+        "definition": "Pequeño animal.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "63600",
+        "lemma": "tumbaollas",
+        "definition": "Un juego tradicional de la isla de Gran Canaria.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "19184",
+        "lemma": "cote",
+        "definition": "El cote es una parte de una prenda de vestir, como una chaqueta o un abrigo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20942",
+        "lemma": "dental",
+        "definition": "Relativo a los dientes.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "03944",
+        "lemma": "ambicionable",
+        "definition": "Ambitioso",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31501",
+        "lemma": "fluorimetría",
+        "definition": "Es una técnica de análisis químico basada en la medición de la emisión de luz fluorescente.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34568",
+        "lemma": "güisquería",
+        "definition": "el acto de beber cerveza.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "11181",
+        "lemma": "cachuela",
+        "definition": "Una comida típica de la región andina de Perú.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "50727",
+        "lemma": "polisinodial",
+        "definition": "adjetivo para referirse a algo que es multilateral o que involucra a varias partes.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "60189",
+        "lemma": "tacamajaca",
+        "definition": "Una especie de flor silvestre de color amarillo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "31353",
+        "lemma": "flashback",
+        "definition": "es un recuerdo repentino de un evento pasado, que generalmente se asocia con una emoción fuerte o una sensación de nostalgia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "03252",
+        "lemma": "aljaba",
+        "definition": "La aljaba es una caja o bolsa de cuero o tela para llevar armas, como arcos, flechas, espadas o pistolas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "37035",
+        "lemma": "indomesticable",
+        "definition": "adjetivo que describe algo que no se puede domesticar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "57386",
+        "lemma": "saponificar",
+        "definition": "transformar los aceites y grasas en jabón.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45926",
+        "lemma": "ñinga",
+        "definition": "Una herramienta usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46558",
+        "lemma": "orar",
+        "definition": "Hablar con Dios.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48740",
+        "lemma": "penalista",
+        "definition": "Un abogado especializado en derecho penal.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52834",
+        "lemma": "queroseno",
+        "definition": "Combustible líquido obtenido a partir de la destilación de petróleo.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54598",
+        "lemma": "regostarse",
+        "definition": "enfriarse.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59154",
+        "lemma": "solvatación",
+        "definition": "Acción y efecto de disolver.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "19145",
+        "lemma": "costear",
+        "definition": "Pagar los gastos de algo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63837",
+        "lemma": "ultimidad",
+        "definition": "Última oferta que se hace para llegar a un acuerdo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64691",
+        "lemma": "veracidad",
+        "definition": "Estado de ser verdadero o veraz.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "35604",
+        "lemma": "hollywoodense",
+        "definition": "Relativo a Hollywood, una ciudad de los Estados Unidos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65592",
+        "lemma": "xilografía",
+        "definition": "Una técnica de grabado en madera que se usa para producir impresiones artísticas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65788",
+        "lemma": "yutonahua",
+        "definition": "Hablante de la lengua Yutonahua, una lengua hablada en la región de Xalapa, México.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65943",
+        "lemma": "zaminar",
+        "definition": "examinar minuciosamente.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
