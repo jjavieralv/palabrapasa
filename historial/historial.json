@@ -3490,5 +3490,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-24",
+    "words": [
+      {
+        "id": "40775",
+        "lemma": "losange",
+        "definition": "Un losange es una forma geométrica con cuatro lados iguales y ángulos rectos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "63597",
+        "lemma": "tumbadillo",
+        "definition": "Movimiento de balanceo de un objeto de un lado a otro.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "00581",
+        "lemma": "acebeda",
+        "definition": "Una acebeda es un área de terreno cubierto de abedules.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "39667",
+        "lemma": "latitudinarismo",
+        "definition": "Una actitud o punto de vista que se centra en los principios generales y se abstiene de tomar posiciones firmes sobre cuestiones específicas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28261",
+        "lemma": "escogida",
+        "definition": "elegida",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31751",
+        "lemma": "fortificación",
+        "definition": "Fortificación es el proceso de reforzar una estructura para defenderse de un ataque.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33484",
+        "lemma": "gofre",
+        "definition": "Postre hecho a base de harina, huevo y leche.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "12206",
+        "lemma": "caniche",
+        "definition": "Una raza de perro pequeño y de pelo lacio.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "32381",
+        "lemma": "fuslina",
+        "definition": "Una fuslina es una prenda de vestir característica de los trabajadores manuales.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38629",
+        "lemma": "jaripear",
+        "definition": "montar a caballo sin silla.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "31563",
+        "lemma": "folk",
+        "definition": "Magdalenense: relativo a la región de Magdalena, Colombia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "64264",
+        "lemma": "valse",
+        "definition": "Un baile de salón de origen austriaco.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "52906",
+        "lemma": "quijotescamente",
+        "definition": "con la idealización del caballero de la Mancha.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "50811",
+        "lemma": "poncella",
+        "definition": "Pequeña prenda de vestir.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45914",
+        "lemma": "ñangazo",
+        "definition": "Un golpe fuerte y repentino.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "36486",
+        "lemma": "impreso",
+        "definition": "Un impreso es un documento impreso con información preestablecida.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47083",
+        "lemma": "paipay",
+        "definition": "Paipay es una palabra que se usa para referirse a una persona que es muy activa y entusiasta.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "21546",
+        "lemma": "desbloqueo",
+        "definition": "Acción de desbloquear, liberar algo bloqueado.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55160",
+        "lemma": "replanteo",
+        "definition": "el acto de modificar o cambiar algo, como una estrategia, una idea o un plan.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "31184",
+        "lemma": "fimosis",
+        "definition": "Estrechamiento de la abertura del prepucio.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60376",
+        "lemma": "talpa",
+        "definition": "Mamífero insectívoro de tamaño reducido.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63873",
+        "lemma": "umero",
+        "definition": "Hueso del brazo entre el hombro y el codo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64960",
+        "lemma": "vicecampeonato",
+        "definition": "El lugar obtenido por un equipo o un deportista en una competición, que es el segundo mejor.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "59935",
+        "lemma": "superwoman",
+        "definition": "Una mujer que tiene habilidades y poderes especiales que la hacen destacar por encima de los demás.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65581",
+        "lemma": "xerocopiar",
+        "definition": "Copiar algo usando una máquina fotocopiadora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "28537",
+        "lemma": "esfoyar",
+        "definition": "deshacer o desarmar algo.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65951",
+        "lemma": "zampar",
+        "definition": "Comer con ansia, devorar, engullir.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
