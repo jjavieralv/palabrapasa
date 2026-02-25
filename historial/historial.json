@@ -3684,5 +3684,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-25",
+    "words": [
+      {
+        "id": "50497",
+        "lemma": "pluridimensional",
+        "definition": "Que tiene más de una dimensión.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "38299",
+        "lemma": "irrevocablemente",
+        "definition": "de forma irreversible.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11113",
+        "lemma": "cachazo",
+        "definition": "Acción de golpear con fuerza.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24561",
+        "lemma": "drepanocitosis",
+        "definition": "una enfermedad hereditaria que afecta la producción de glóbulos rojos.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29532",
+        "lemma": "estrenar",
+        "definition": "usar algo por primera vez.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32403",
+        "lemma": "futbolizar",
+        "definition": "Jugar al fútbol.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34826",
+        "lemma": "hectógrafo",
+        "definition": "Máquina de escribir mecánica antigua.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "36016",
+        "lemma": "humidificación",
+        "definition": "El proceso de aumentar la humedad en el aire.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37364",
+        "lemma": "inhumanamente",
+        "definition": "de manera cruel e inhumana.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38474",
+        "lemma": "jactanciosamente",
+        "definition": "con vanagloria.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39154",
+        "lemma": "kilogramo",
+        "definition": "Unidad de medida de masa del Sistema Internacional.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "10358",
+        "lemma": "brazalete",
+        "definition": "Adorno que se lleva en la muñeca.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "36375",
+        "lemma": "impermeabilizar",
+        "definition": "hacer que algo sea impermeable.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45666",
+        "lemma": "nomenclátor",
+        "definition": "Un nomenclátor es una lista de nombres, términos o palabras usadas en un campo específico.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45904",
+        "lemma": "ñagaza",
+        "definition": "Una herramienta de labranza usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46026",
+        "lemma": "obrerista",
+        "definition": "Predictible: que se puede predecir.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50128",
+        "lemma": "pitecántropo",
+        "definition": "Un homínido prehistórico de la familia de los homínidos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53089",
+        "lemma": "quizás",
+        "definition": "tal vez.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53392",
+        "lemma": "rampante",
+        "definition": "adjetivo que se refiere a algo que se extiende rápidamente o se propaga con rapidez.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "16048",
+        "lemma": "circuncisión",
+        "definition": "La circuncisión es una práctica tradicional que consiste en la extirpación quirúrgica parcial o total del prepucio del pene.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62074",
+        "lemma": "tomaína",
+        "definition": "Una fruta tropical de la familia de los cítricos.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64091",
+        "lemma": "uvayema",
+        "definition": "Una forma de bailar tradicional de la región de Galicia, España.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "51890",
+        "lemma": "proclive",
+        "definition": "inclinado.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65569",
+        "lemma": "windsurfista",
+        "definition": "Persona que practica el windsurf, un deporte acuático que consiste en navegar sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30121",
+        "lemma": "expresión",
+        "definition": "Manera de expresar algo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "10253",
+        "lemma": "boyante",
+        "definition": "Que flota.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65931",
+        "lemma": "zambucar",
+        "definition": "Dibujar líneas en el suelo con la punta de una vara.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
