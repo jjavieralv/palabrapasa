@@ -3878,5 +3878,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-26",
+    "words": [
+      {
+        "id": "02596",
+        "lemma": "albín",
+        "definition": "Persona con la piel y los ojos claros y el cabello blanco.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10599",
+        "lemma": "brutalizarse",
+        "definition": "comportarse de manera violenta",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "12580",
+        "lemma": "carajá",
+        "definition": "Perteneciente a una tribu indígena brasileña.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22740",
+        "lemma": "desmentir",
+        "definition": "negar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25018",
+        "lemma": "electrometalurgia",
+        "definition": "La electrometalurgia es una forma de procesamiento de metales en la que se usan electricidad y corrientes eléctricas para separar los metales de sus minerales.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "11618",
+        "lemma": "califa",
+        "definition": "Un califa es un líder religioso y político de una comunidad musulmana.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33590",
+        "lemma": "gorgomillera",
+        "definition": "Arbusto de la familia de las rosáceas de hojas perennes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35697",
+        "lemma": "honor",
+        "definition": "El honor es el respeto, la estima y la consideración que una persona merece por sus cualidades y acciones.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38162",
+        "lemma": "involucionar",
+        "definition": "Retroceder.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "30396",
+        "lemma": "fajares",
+        "definition": "Terreno pedregoso y desnudo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39184",
+        "lemma": "kohl",
+        "definition": "El kohl es un antiguo cosmético hecho de una mezcla de minerales, utilizado para darle a los ojos una apariencia más oscura.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39725",
+        "lemma": "lavaojos",
+        "definition": "un dispositivo de plomería que se usa para limpiar la suciedad y el exceso de grasa de los platos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "15961",
+        "lemma": "cinematógrafo",
+        "definition": "Aparato inventado por los hermanos Lumière en 1895 para proyectar imágenes en movimiento.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45082",
+        "lemma": "nanómetro",
+        "definition": "Unidad de medida de longitud equivalente a un billonésimo de metro.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45905",
+        "lemma": "ñame",
+        "definition": "Tubérculo comestible de la familia de las yucas.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46188",
+        "lemma": "odonato",
+        "definition": "orden de insectos acuáticos",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48268",
+        "lemma": "patojear",
+        "definition": "hablar sin sentido.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52913",
+        "lemma": "quilatera",
+        "definition": "una reunión con cuatro personas.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "27049",
+        "lemma": "enruinecer",
+        "definition": "arruinar o destruir.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "03781",
+        "lemma": "amachinarse",
+        "definition": "ponerse a la defensiva.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61034",
+        "lemma": "teletrabajo",
+        "definition": "Trabajo realizado desde el domicilio o a distancia mediante tecnología.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64026",
+        "lemma": "urunday",
+        "definition": "Un árbol nativo de América del Sur, conocido por su madera dura y resistente.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "07723",
+        "lemma": "averno",
+        "definition": "Un lugar en la mitología griega que se consideraba el inframundo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65559",
+        "lemma": "web",
+        "definition": "Sitio de Internet.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65578",
+        "lemma": "xenoglosia",
+        "definition": "Palabra extranjera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "32798",
+        "lemma": "garay",
+        "definition": "árbol de la familia de los robles.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "21897",
+        "lemma": "descorazonamiento",
+        "definition": "Estado de desánimo o desaliento.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
