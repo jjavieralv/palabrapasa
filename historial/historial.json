@@ -4072,5 +4072,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-27",
+    "words": [
+      {
+        "id": "40198",
+        "lemma": "lientería",
+        "definition": "El acto de ser perezoso.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "36624",
+        "lemma": "incachable",
+        "definition": "Inalcanzable.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15345",
+        "lemma": "chisporroteo",
+        "definition": "sonido que se produce cuando algo se quema.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "64934",
+        "lemma": "viandante",
+        "definition": "Persona que viaja a pie.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "06057",
+        "lemma": "aritmómetro",
+        "definition": "Un dispositivo mecánico diseñado para realizar cálculos aritméticos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "16617",
+        "lemma": "cofia",
+        "definition": "Un gorro de tela usado por enfermeras y cirujanos para cubrir el cabello.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33163",
+        "lemma": "genio",
+        "definition": "Una persona con un talento extraordinario para una actividad específica.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35446",
+        "lemma": "hipófisis",
+        "definition": "Glándula endocrina que regula muchos procesos en el cuerpo",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37968",
+        "lemma": "intervencionista",
+        "definition": "Que se refiere a una acción o política que interviene en la vida de las personas.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38648",
+        "lemma": "jarrón",
+        "definition": "Un jarrón es un recipiente de forma cilíndrica, con una abertura ancha en la parte superior, generalmente utilizado para contener flores o plantas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "34655",
+        "lemma": "haiku",
+        "definition": "Un poema japonés de tres líneas, con cinco sílabas en la primera línea, siete sílabas en la segunda línea y cinco sílabas en la tercera línea.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "45578",
+        "lemma": "nitral",
+        "definition": "Crucera: Una crucera es un barco de pasajeros, generalmente de lujo, que realiza viajes programados entre una serie de puertos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "37816",
+        "lemma": "intercomunicador",
+        "definition": "Dispositivo de comunicación que permite la transmisión de voz y audio entre dos o más usuarios.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "27889",
+        "lemma": "erudición",
+        "definition": "Conocimiento profundo de un tema.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "28729",
+        "lemma": "españolista",
+        "definition": "aquel que defiende la cultura española.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "33954",
+        "lemma": "grosedad",
+        "definition": "Un comportamiento grosero o descortés.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50337",
+        "lemma": "platanar",
+        "definition": "Un lugar donde se cultivan plátanos",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52821",
+        "lemma": "querellante",
+        "definition": "persona que interpone una demanda judicial.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53734",
+        "lemma": "reamar",
+        "definition": "agrandar un agujero con una herramienta de reaming.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "52384",
+        "lemma": "pubescencia",
+        "definition": "Estado de madurez sexual en el que se produce el desarrollo de caracteres sexuales secundarios.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62836",
+        "lemma": "trasfondo",
+        "definition": "La información o el contexto que se encuentra detrás de algo.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "61414",
+        "lemma": "terraguero",
+        "definition": "Persona que trabaja la tierra y la cuida.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "37104",
+        "lemma": "inervación",
+        "definition": "Acción y efecto de inervar, que consiste en la acción de las vías nerviosas sobre los órganos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "63784",
+        "lemma": "tweed",
+        "definition": "Un tejido de lana tejido a mano.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65584",
+        "lemma": "xerografiar",
+        "definition": "copiar algo con una máquina de xerografía.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65663",
+        "lemma": "yate",
+        "definition": "Un yate es una embarcación de lujo, generalmente con una cubierta superior, usada para recreación o deportes náuticos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "07711",
+        "lemma": "avergonzamiento",
+        "definition": "Un sentimiento de vergüenza o deshonra.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
