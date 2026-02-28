@@ -4266,5 +4266,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-02-28",
+    "words": [
+      {
+        "id": "13669",
+        "lemma": "cayapear",
+        "definition": "andar a caballo con una silla de montar que no tiene arzón.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08301",
+        "lemma": "balcanización",
+        "definition": "El proceso de dividir una región en varios estados más pequeños.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "53956",
+        "lemma": "recel",
+        "definition": "Un sentimiento de desconfianza o sospecha.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "63794",
+        "lemma": "ubicuidad",
+        "definition": "Ubicuidad es la presencia de algo en todas partes.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "27306",
+        "lemma": "entotorar",
+        "definition": "Enredar, confundir.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31371",
+        "lemma": "flechaste",
+        "definition": "Lanzar una flecha.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "46320",
+        "lemma": "oligisto",
+        "definition": "una roca sedimentaria.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14823",
+        "lemma": "charque",
+        "definition": "Carne salada y seca de algunos animales como el guanaco, el cóndor y la vicuña.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38025",
+        "lemma": "intrépidamente",
+        "definition": "de manera intrépida.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38977",
+        "lemma": "jugosidad",
+        "definition": "Característica de un alimento que es suave, húmedo y sabroso.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "65630",
+        "lemma": "yak",
+        "definition": "Una especie de bovino originario de Asia Central.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "27186",
+        "lemma": "entalpía",
+        "definition": "Cantidad de energía térmica que posee un sistema.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "47362",
+        "lemma": "pampringada",
+        "definition": "Una actividad en la que se juega con una pelota de goma blanda.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "04413",
+        "lemma": "andalucista",
+        "definition": "Partidario del movimiento andalucista.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45917",
+        "lemma": "ñapindá",
+        "definition": "acción de ajustar con los dedos.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "63323",
+        "lemma": "triunfalismo",
+        "definition": "El estado de ánimo de alguien que cree haber alcanzado el éxito.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51778",
+        "lemma": "principado",
+        "definition": "territorio gobernado por un príncipe.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52934",
+        "lemma": "quimbombó",
+        "definition": "un plato típico cubano compuesto por arroz, frijoles, carne y plátano frito.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53976",
+        "lemma": "receptividad",
+        "definition": "Capacidad para recibir.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "29538",
+        "lemma": "estrepada",
+        "definition": "golpe fuerte.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "52903",
+        "lemma": "quijote",
+        "definition": "El Quijote es el protagonista de la obra maestra de Miguel de Cervantes, El ingenioso hidalgo don Quijote de la Mancha.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63972",
+        "lemma": "urbanidad",
+        "definition": "Una forma de comportamiento refinado y educado, especialmente en situaciones sociales.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65274",
+        "lemma": "vistazo",
+        "definition": "Mirada rápida.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65569",
+        "lemma": "windsurfista",
+        "definition": "Persona que practica el windsurf, un deporte acuático que consiste en navegar sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30195",
+        "lemma": "extradir",
+        "definition": "Sacar a alguien de un país para someterlo a un proceso judicial en otro.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65751",
+        "lemma": "yóquey",
+        "definition": "Un yóquey es una persona que se dedica a jugar con caballos, entrenarlos y montarlos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "24791",
+        "lemma": "economizar",
+        "definition": "Ahorrar dinero.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
