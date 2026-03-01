@@ -4460,5 +4460,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-01",
+    "words": [
+      {
+        "id": "04632",
+        "lemma": "anillar",
+        "definition": "Formar un anillo",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10608",
+        "lemma": "bruñimiento",
+        "definition": "El proceso de pulir una superficie para hacerla más brillante.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "05114",
+        "lemma": "anuncia",
+        "definition": "Anunciar es dar a conocer algo a través de una comunicación.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "48631",
+        "lemma": "pelandrusca",
+        "definition": "Planta herbácea de la familia de las gramíneas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "54379",
+        "lemma": "referencial",
+        "definition": "que sirve para hacer referencia a algo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "20694",
+        "lemma": "deformar",
+        "definition": "Cambiar la forma original de algo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "06209",
+        "lemma": "arrancasiega",
+        "definition": "Un arrancasiega es una herramienta para arrancar hierbas, malezas y otras plantas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "11113",
+        "lemma": "cachazo",
+        "definition": "Acción de golpear con fuerza.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36319",
+        "lemma": "impala",
+        "definition": "una antílope de África.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38466",
+        "lemma": "jachalí",
+        "definition": "Una especie de caza mayor de la familia de los cérvidos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39148",
+        "lemma": "kílim",
+        "definition": "Alfombra tejida con lana y seda.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "37247",
+        "lemma": "influenciable",
+        "definition": "Que puede ser influido o influenciado por otra persona o cosa.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "64992",
+        "lemma": "victimización",
+        "definition": "La acción de convertir a una persona en víctima de algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45875",
+        "lemma": "numulario",
+        "definition": "Numulario es el nombre dado a una moneda antigua hecha de una lámina de metal, generalmente de cobre, con una imagen grabada en ella.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45932",
+        "lemma": "ñisñil",
+        "definition": "Niño pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46922",
+        "lemma": "ovetense",
+        "definition": "Persona que pertenece a la ciudad de Oviedo en España.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "51580",
+        "lemma": "presbítero",
+        "definition": "Un presbítero es un ministro ordenado de una iglesia cristiana.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52825",
+        "lemma": "querenda",
+        "definition": "Reunión informal en la que se comparten historias, anécdotas y experiencias.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "04428",
+        "lemma": "andar",
+        "definition": "caminar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "56908",
+        "lemma": "sainete",
+        "definition": "Un sainete es una obra teatral o una comedia corta.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63532",
+        "lemma": "tuberculización",
+        "definition": "Proceso de formación de tubérculos.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64091",
+        "lemma": "uvayema",
+        "definition": "Una forma de bailar tradicional de la región de Galicia, España.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64594",
+        "lemma": "vendo",
+        "definition": "Vender.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "20292",
+        "lemma": "cuy",
+        "definition": "Cuy es una especie de roedor andino.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "19510",
+        "lemma": "crizneja",
+        "definition": "Una crizneja es una prenda de vestir femenina con hombros descubiertos y una falda larga.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
