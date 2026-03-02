@@ -4654,5 +4654,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-02",
+    "words": [
+      {
+        "id": "02308",
+        "lemma": "ajiaco",
+        "definition": "Un plato típico de Colombia hecho con pollo, maíz, papas y otros ingredientes.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "61192",
+        "lemma": "tenebrismo",
+        "definition": "Formulación: El proceso de formular una idea, un plan, una teoría, etc.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "41672",
+        "lemma": "mancipación",
+        "definition": "Una forma antigua de adquirir una propiedad, en la que una persona se compromete a pagar una cantidad determinada de dinero para obtener una cosa.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23190",
+        "lemma": "despropiar",
+        "definition": "desposeer, privar de una propiedad.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27493",
+        "lemma": "entronque",
+        "definition": "Un punto de conexión entre dos caminos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "17722",
+        "lemma": "confulgencia",
+        "definition": "Resplandor que emite una luz muy brillante.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "37087",
+        "lemma": "inembargabilidad",
+        "definition": "Inmune a ser embargado.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35425",
+        "lemma": "hipnotización",
+        "definition": "Estado de profunda relajación y concentración mental, en el que se puede sugerir alguna conducta al sujeto.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36589",
+        "lemma": "inanalizable",
+        "definition": "Sinusal: Relacionado con los senos nasales.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38960",
+        "lemma": "juera",
+        "definition": "Persona de poca inteligencia o con escaso conocimiento.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39122",
+        "lemma": "karaoke",
+        "definition": "Un sistema de entretenimiento en el que la gente canta canciones con una pista de audio",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39636",
+        "lemma": "látex",
+        "definition": "Un material natural que se obtiene de la savia de ciertas plantas y se usa para fabricar productos como guantes, gomas y lápices.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44362",
+        "lemma": "mordisqueo",
+        "definition": "Mordisqueo es el acto de morder algo con los dientes.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45569",
+        "lemma": "nistagmo",
+        "definition": "movimiento involuntario y rítmico de los ojos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45943",
+        "lemma": "ñoñez",
+        "definition": "Una actitud infantil y tonta.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46465",
+        "lemma": "opalescencia",
+        "definition": "El brillo iridiscente que presentan algunas piedras preciosas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "29756",
+        "lemma": "europeísmo",
+        "definition": "Una ideología que promueve la unión de los países europeos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52752",
+        "lemma": "quebrar",
+        "definition": "Romper o separar algo en pedazos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55121",
+        "lemma": "repercutir",
+        "definition": "Tener efectos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59793",
+        "lemma": "sula",
+        "definition": "Ave marina de la familia de los Sulídeos.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61277",
+        "lemma": "tepezcuinte",
+        "definition": "Una especie de perro mexicano de tamaño mediano, con pelaje oscuro y blanco.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64010",
+        "lemma": "urología",
+        "definition": "La urología es la rama de la medicina que se encarga del estudio, diagnóstico, prevención y tratamiento de las enfermedades del sistema urinario.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64651",
+        "lemma": "ventilador",
+        "definition": "Un ventilador es un dispositivo que se utiliza para mover el aire de un lugar a otro, lo que permite enfriar una habitación.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30129",
+        "lemma": "exprimir",
+        "definition": "sacar el máximo provecho;",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65663",
+        "lemma": "yate",
+        "definition": "Un yate es una embarcación de lujo, generalmente con una cubierta superior, usada para recreación o deportes náuticos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66321",
+        "lemma": "zurrar",
+        "definition": "azotar con un látigo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
