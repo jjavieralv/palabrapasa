@@ -4848,5 +4848,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-03",
+    "words": [
+      {
+        "id": "05133",
+        "lemma": "aorta",
+        "definition": "una arteria grande que transporta sangre desde el corazón a todo el cuerpo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08644",
+        "lemma": "barcia",
+        "definition": "Barcia es una embarcación pequeña, típicamente de madera, usada para navegar en ríos y lagos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "24993",
+        "lemma": "electro",
+        "definition": "Una forma de música electrónica que combina elementos de la música house, techno y otras formas de música electrónica.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "33974",
+        "lemma": "grujidor",
+        "definition": "una herramienta de hierro usada para cavar.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "46124",
+        "lemma": "ocle",
+        "definition": "Una moneda de cobre usada en el antiguo México.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30638",
+        "lemma": "farolear",
+        "definition": "tratar de engañar a alguien con una historia falsa.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "36065",
+        "lemma": "hurguete",
+        "definition": "una herramienta usada para cavar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35365",
+        "lemma": "híper",
+        "definition": "Híper es un término utilizado para describir algo que es mucho más grande o intenso de lo normal.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37146",
+        "lemma": "infalible",
+        "definition": "Infalible es algo que nunca falla.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "34959",
+        "lemma": "hendija",
+        "definition": "una pequeña abertura en una superficie.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39195",
+        "lemma": "kris",
+        "definition": "Arma blanca tradicional de Indonesia.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40937",
+        "lemma": "lupanar",
+        "definition": "Un lugar de prostitución.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41349",
+        "lemma": "majamiento",
+        "definition": "Acción de alborotar o armar alboroto.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45579",
+        "lemma": "nitrar",
+        "definition": "Psicoanalizar: tratar una enfermedad mental mediante el análisis de la personalidad.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45928",
+        "lemma": "ñique",
+        "definition": "Expresión usada para indicar sorpresa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46313",
+        "lemma": "olíbano",
+        "definition": "Una resina aromática obtenida del árbol Boswellia sacra.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "36538",
+        "lemma": "impulsada",
+        "definition": "impulsada.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52945",
+        "lemma": "quimioterapia",
+        "definition": "Un tratamiento médico para combatir enfermedades usando medicamentos químicos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "24048",
+        "lemma": "discursar",
+        "definition": "Hacer un discurso o exponer una idea.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "18966",
+        "lemma": "corrosca",
+        "definition": "una corrosca es una rama de árbol con hojas y ramas desnudas, usada como combustible.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "29094",
+        "lemma": "estabilizante",
+        "definition": "Un estabilizante es una sustancia que se añade a un producto para aumentar su estabilidad.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "44901",
+        "lemma": "muscardino",
+        "definition": "un pequeño mamífero de la familia de los murciélagos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "48356",
+        "lemma": "pavorosamente",
+        "definition": "aterrorizantemente.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "42557",
+        "lemma": "maxwell",
+        "definition": "Unidad de medida para la intensidad de un campo magnético.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "60843",
+        "lemma": "tayín",
+        "definition": "una bebida alcohólica hecha de vino y aguardiente.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66160",
+        "lemma": "zocatearse",
+        "definition": "emborracharse.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
