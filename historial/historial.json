@@ -5042,5 +5042,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-04",
+    "words": [
+      {
+        "id": "53525",
+        "lemma": "rascuño",
+        "definition": "una marca superficial en una superficie.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "37494",
+        "lemma": "innegociable",
+        "definition": "adjetivo que describe algo que no se puede negociar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "20301",
+        "lemma": "cuzco",
+        "definition": "una ciudad del Perú situada a 3.400 metros sobre el nivel del mar.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24204",
+        "lemma": "distilatorio",
+        "definition": "Un aparato utilizado para separar los componentes de una mezcla líquida mediante destilación.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "55546",
+        "lemma": "resudación",
+        "definition": "La acción de exudar líquido.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31405",
+        "lemma": "flexo",
+        "definition": "una herramienta para doblar hojas de metal.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32660",
+        "lemma": "galvanoscopio",
+        "definition": "Aparato para detectar corrientes eléctricas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "00765",
+        "lemma": "achocar",
+        "definition": "presionar o comprimir algo.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "64140",
+        "lemma": "vaciladera",
+        "definition": "una forma de danza de origen afroamericano que se caracteriza por movimientos rítmicos y sincopados.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38888",
+        "lemma": "jorro",
+        "definition": "Chorro, flujo de líquido.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "47873",
+        "lemma": "parking",
+        "definition": "Un lugar destinado para el estacionamiento de vehículos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "11454",
+        "lemma": "cálanis",
+        "definition": "Una forma de cantar el romance tradicional de la zona de la Mancha.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "06396",
+        "lemma": "arritmia",
+        "definition": "Trastorno del ritmo cardiaco caracterizado por latidos irregulares.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45185",
+        "lemma": "naturopatía",
+        "definition": "un enfoque de la medicina que utiliza terapias naturales para tratar enfermedades.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "19270",
+        "lemma": "coña",
+        "definition": "es una expresión coloquial usada para expresar sorpresa, asombro o admiración.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46570",
+        "lemma": "orca",
+        "definition": "Las orcas son grandes mamíferos marinos pertenecientes a la familia de los delfines.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "12990",
+        "lemma": "carpeta",
+        "definition": "Una carpeta, una cubierta para guardar documentos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52729",
+        "lemma": "quadrivium",
+        "definition": "Conjunto de cuatro ramas de estudio",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55707",
+        "lemma": "retrechar",
+        "definition": "Reducir el tamaño de algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "23922",
+        "lemma": "diócesis",
+        "definition": "Territorio bajo la jurisdicción de un obispo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "53341",
+        "lemma": "ralentización",
+        "definition": "Disminución de la velocidad.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "14147",
+        "lemma": "cenuro",
+        "definition": "Parásito intestinal de los animales que puede transmitirse al hombre.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "38132",
+        "lemma": "investigable",
+        "definition": "Que se puede investigar.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "45229",
+        "lemma": "ndowé",
+        "definition": "palabra que se refiere a una persona con una actitud negativa.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65605",
+        "lemma": "yacal",
+        "definition": "Una construcción hecha con materiales naturales, como ramas, troncos y hojas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "37474",
+        "lemma": "inmunización",
+        "definition": "El acto de inmunizar a alguien.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
