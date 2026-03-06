@@ -7,7 +7,9 @@ A daily word-guessing game inspired by the Spanish TV show *Pasapalabra*. Each d
 ## How to play
 
 1. Press **EMPEZAR** to start the game and the timer.
-2. The active letter blinks on the rosco. Its definition is shown below.
+2. The active letter blinks on the rosco. Its clue is shown below with one of two formats:
+   - **Empieza por X:** the answer starts with that letter.
+   - **Contiene la X:** the answer contains that letter (but does not start with it).
 3. Type your answer and press **Enter** or click **ENVIAR**.
    - Correct answer: the letter turns **green**.
    - Wrong answer: the letter turns **red** and the correct word is revealed.
@@ -43,7 +45,7 @@ palabrapasa/
 │   └── game.js                         # Game logic, canvas image, share
 ├── scripts/
 │   ├── generate_daily.py               # Generates daily words and appends to historial
-│   └── select_words.py                 # Picks one random word per letter
+│   └── select_words.py                 # Picks one random word per letter (empieza/contiene)
 ├── data/
 │   └── SpanishBFF/
 │       └── SpanishBFF_0_2.json         # Full Spanish word dictionary
@@ -59,7 +61,7 @@ palabrapasa/
 A GitHub Action runs every day at 06:00 UTC. It executes `scripts/generate_daily.py`, which:
 
 1. Loads the existing `historial/historial.json`.
-2. Selects one random word starting with each letter of the Spanish alphabet from the dictionary.
+2. For each letter of the Spanish alphabet, randomly picks either **empieza** (word starts with the letter) or **contiene** (word contains the letter but starts with a different one), then selects a random matching word from the dictionary.
 3. Appends the new entry with today's date.
 4. Commits and pushes the updated file.
 
