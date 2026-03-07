@@ -5624,5 +5624,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-07",
+    "words": [
+      {
+        "id": "05504",
+        "lemma": "apoquinar",
+        "definition": "Pagar algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "00029",
+        "lemma": "abalizar",
+        "definition": "dar señales de reconocimiento.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17444",
+        "lemma": "conciencia",
+        "definition": "Conocimiento interno de uno mismo y de la realidad.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24206",
+        "lemma": "distingo",
+        "definition": "Una diferencia sutil entre dos cosas.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28985",
+        "lemma": "esportada",
+        "definition": "Movimiento rápido y brusco.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "23784",
+        "lemma": "difluente",
+        "definition": "que fluye.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "14155",
+        "lemma": "cepadgo",
+        "definition": "Un cepadgo es una planta herbácea perenne de la familia de las ciperáceas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14592",
+        "lemma": "chamico",
+        "definition": "El chamico es una planta medicinal nativa de América del Sur.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37878",
+        "lemma": "interlineado",
+        "definition": "Espacio entre líneas de un texto.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "02278",
+        "lemma": "ajar",
+        "definition": "Abierto",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "58665",
+        "lemma": "sketch",
+        "definition": "Breve bosquejo o esbozo de algo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "21713",
+        "lemma": "descaudillar",
+        "definition": "Deshacerse de un líder o jefe.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41594",
+        "lemma": "mambla",
+        "definition": "Una planta herbácea perenne con hojas lanceoladas y flores blancas.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "26077",
+        "lemma": "enchamicado",
+        "definition": "Una técnica de construcción que consiste en la aplicación de una capa de material de relleno sobre una superficie.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45906",
+        "lemma": "ñamería",
+        "definition": "La ñamería es una forma de comportamiento grosero y descortés.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "23952",
+        "lemma": "diptongar",
+        "definition": "Formar un diptongo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "25424",
+        "lemma": "empacamiento",
+        "definition": "El empacamiento es el proceso de embalaje y empaquetado de productos para su transporte.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "45969",
+        "lemma": "obenque",
+        "definition": "Un obenque es una cuerda gruesa y resistente que se utiliza para sujetar una vela a un mástil.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "25835",
+        "lemma": "encaecer",
+        "definition": "quedar paralizado por el miedo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59557",
+        "lemma": "subibaja",
+        "definition": "Movimiento de subir y bajar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60800",
+        "lemma": "tatami",
+        "definition": "Una alfombra japonesa tradicional.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "05818",
+        "lemma": "arcabucería",
+        "definition": "El arte de la fabricación de armas de fuego.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "57149",
+        "lemma": "salvajada",
+        "definition": "Acción violenta, cruel o desmedida.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65571",
+        "lemma": "wolframio",
+        "definition": "Un metal grisáceo muy duro y resistente a la corrosión.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65779",
+        "lemma": "yuquilla",
+        "definition": "una planta de la familia de las cucurbitáceas, también conocida como sandía amarga.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "43223",
+        "lemma": "metabolización",
+        "definition": "La metabolización es el proceso por el cual los alimentos se descomponen en nutrientes y energía.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
