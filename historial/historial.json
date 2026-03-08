@@ -5818,5 +5818,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-08",
+    "words": [
+      {
+        "id": "37705",
+        "lemma": "insulinoma",
+        "definition": "Un tumor benigno del páncreas que produce una cantidad excesiva de insulina.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "53148",
+        "lemma": "rabotear",
+        "definition": "desbastar una madera con una herramienta.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "13189",
+        "lemma": "casaca",
+        "definition": "Prenda de vestir de manga larga y cuello alto, generalmente de color oscuro.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22913",
+        "lemma": "despagar",
+        "definition": "desenganchar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25795",
+        "lemma": "enartamiento",
+        "definition": "Acción de enartar, es decir, de adornar con artes.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "01625",
+        "lemma": "afinado",
+        "definition": "El proceso de afinar un instrumento musical.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "51568",
+        "lemma": "presagio",
+        "definition": "Señal o indicio de algo que está por venir.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "11120",
+        "lemma": "cachemira",
+        "definition": "Tejido de lana fino y suave.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36701",
+        "lemma": "inclinación",
+        "definition": "La inclinación es la tendencia de una persona a sentir o actuar de una determinada manera.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "31493",
+        "lemma": "flujo",
+        "definition": "Fluir o moverse.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "04112",
+        "lemma": "amok",
+        "definition": "estado de violencia desenfrenada.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "02499",
+        "lemma": "albacora",
+        "definition": "Pez marino de la familia de los atunes.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41491",
+        "lemma": "malignamente",
+        "definition": "Con malicia.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45731",
+        "lemma": "nornorueste",
+        "definition": "Una dirección situada entre el noroeste y el noreste.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45925",
+        "lemma": "ñeque",
+        "definition": "Una moneda de oro usada en algunas partes de América del Sur.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "18935",
+        "lemma": "corretaje",
+        "definition": "Comisión que se cobra por intermediar en una transacción.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50048",
+        "lemma": "pisadura",
+        "definition": "Pisadura es el proceso de aplastar algo con el pie.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53048",
+        "lemma": "quisa",
+        "definition": "Una unidad básica de una lengua indígena americana.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53451",
+        "lemma": "rapapiés",
+        "definition": "Movimiento rápido con los pies para desplazarse.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "56885",
+        "lemma": "sagital",
+        "definition": "Relativo a la línea sagital, que divide el cuerpo en dos mitades simétricas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60638",
+        "lemma": "taragoza",
+        "definition": "Ciudad mexicana ubicada en el estado de Zacatecas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "44801",
+        "lemma": "muna",
+        "definition": "Muna es una palabra en lengua quechua que significa \"amor\".",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "23180",
+        "lemma": "desprevenidamente",
+        "definition": "sin estar preparado o sin tener conocimiento previo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "20406",
+        "lemma": "darwinismo",
+        "definition": "El darwinismo es una teoría científica que explica la evolución de la vida en la Tierra a través de la selección natural.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30230",
+        "lemma": "extraterritorialidad",
+        "definition": "una situación en la que una persona o una entidad goza de los derechos de un país extranjero.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "50378",
+        "lemma": "playar",
+        "definition": "Divertirse.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66084",
+        "lemma": "zarceta",
+        "definition": "una pequeña abertura en una pared para permitir el paso de cables.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
