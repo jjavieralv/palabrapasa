@@ -6012,5 +6012,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-09",
+    "words": [
+      {
+        "id": "08917",
+        "lemma": "baticola",
+        "definition": "una bolsa de viaje hecha de tela resistente.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "36841",
+        "lemma": "increíblemente",
+        "definition": "de manera increíble.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "25872",
+        "lemma": "encalvecer",
+        "definition": "volverse pálido o blanco.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24138",
+        "lemma": "disolvente",
+        "definition": "Que disuelve o puede disolver.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25841",
+        "lemma": "encajetillar",
+        "definition": "Enmarcar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "42080",
+        "lemma": "mareógrafo",
+        "definition": "un instrumento usado para medir el nivel del mar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33823",
+        "lemma": "gratificante",
+        "definition": "adjetivo que describe algo que produce satisfacción.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14668",
+        "lemma": "changarro",
+        "definition": "una tienda pequeña que vende productos a precios bajos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "03675",
+        "lemma": "altiplanicie",
+        "definition": "Una extensión de terreno relativamente plano y elevado.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "44654",
+        "lemma": "muellaje",
+        "definition": "Acción de moverse con movimientos rítmicos.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39128",
+        "lemma": "kartismo",
+        "definition": "El kartismo es una forma de carreras de automóviles.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40877",
+        "lemma": "luisa",
+        "definition": "Luisa es un nombre femenino de origen alemán que significa famosa en la guerra.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44582",
+        "lemma": "motricidad",
+        "definition": "Capacidad de moverse.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45059",
+        "lemma": "naja",
+        "definition": "Serpiente venenosa.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45948",
+        "lemma": "ñublo",
+        "definition": "Nube oscura, densa y amenazante.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "33626",
+        "lemma": "gorrinada",
+        "definition": "Acción de aceptar algo a cambio de una recompensa o favor.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "46902",
+        "lemma": "output",
+        "definition": "Resultado, producto, salida.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "22081",
+        "lemma": "desempaque",
+        "definition": "Acción de sacar el contenido de una caja o envase.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54900",
+        "lemma": "remitente",
+        "definition": "Persona que envía una carta, paquete, etc.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "48117",
+        "lemma": "pasquinar",
+        "definition": "Criticar a alguien con frases sarcásticas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "00924",
+        "lemma": "acompañanta",
+        "definition": "Persona que acompaña a otra para proporcionarle compañía.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10759",
+        "lemma": "bumbulín",
+        "definition": "Una persona que se mueve de un lugar a otro sin un propósito específico.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65535",
+        "lemma": "vulgarización",
+        "definition": "Acción y efecto de vulgarizar.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65580",
+        "lemma": "xerocopia",
+        "definition": "Copia hecha con una máquina de fotocopiar.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "16431",
+        "lemma": "cobayo",
+        "definition": "animal de laboratorio normalmente utilizado en experimentos.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66130",
+        "lemma": "zaya",
+        "definition": "Una especie de calabaza.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
