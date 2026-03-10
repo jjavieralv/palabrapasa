@@ -6206,5 +6206,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-10",
+    "words": [
+      {
+        "id": "60096",
+        "lemma": "tabal",
+        "definition": "Un tabal es un tambor tradicional de la región de Andalucía, España, que se usa para acompañar la música flamenca.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09428",
+        "lemma": "bilateral",
+        "definition": "Algo que involucra dos partes.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "16476",
+        "lemma": "coceamiento",
+        "definition": "Acción de coser.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "27665",
+        "lemma": "epidídimo",
+        "definition": "es un pequeño órgano tubular situado detrás de los testículos que almacena y transporta el esperma.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "61075",
+        "lemma": "tembleque",
+        "definition": "Que tiembla.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32416",
+        "lemma": "futurología",
+        "definition": "Estudio de los acontecimientos futuros.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34115",
+        "lemma": "guanacaste",
+        "definition": "Árbol de Centroamérica.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "50108",
+        "lemma": "pitahaya",
+        "definition": "Fruta de color rojo, de forma ovalada y con semillas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36167",
+        "lemma": "idiotismo",
+        "definition": "Un idiotismo es una palabra o expresión que se usa en un determinado lugar o entre un grupo de personas con un significado especial.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "41360",
+        "lemma": "majestuosidad",
+        "definition": "Grandiosidad, esplendor, grandeza.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "40751",
+        "lemma": "look",
+        "definition": "Estilo de vestimenta y apariencia que se usa para expresar personalidad.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "03464",
+        "lemma": "almojábana",
+        "definition": "Una tortilla de maíz de Colombia rellena con queso y acompañada con una salsa.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41508",
+        "lemma": "malleto",
+        "definition": "Un malleto es una bolsa pequeña hecha de tela o cuero para guardar objetos personales.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45086",
+        "lemma": "nansa",
+        "definition": "Una vivienda rural tradicional de Asturias.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "08030",
+        "lemma": "añublo",
+        "definition": "Nube de pequeñas gotas de agua suspendidas en el aire.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46655",
+        "lemma": "oriental",
+        "definition": "Relativo al Oriente o a los países del Este.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47789",
+        "lemma": "parce",
+        "definition": "Parte de algo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "31282",
+        "lemma": "fisiquear",
+        "definition": "Observar con detalle.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "01643",
+        "lemma": "afistular",
+        "definition": "Afistular - Afistular es enrollar algo alrededor de un dedo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "51809",
+        "lemma": "priscilianista",
+        "definition": "Seguidor de Prisciliano, teólogo español del siglo IV.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "14243",
+        "lemma": "cereguete",
+        "definition": "Persona que se comporta de forma estúpida o ridícula.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64046",
+        "lemma": "uso",
+        "definition": "Acción de utilizar algo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "01918",
+        "lemma": "agraviar",
+        "definition": "Ofender a alguien con palabras o acciones.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65571",
+        "lemma": "wolframio",
+        "definition": "Un metal grisáceo muy duro y resistente a la corrosión.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65574",
+        "lemma": "xantoma",
+        "definition": "Tumor benigno de la piel, compuesto por depósitos grasos.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65789",
+        "lemma": "yuxtalineal",
+        "definition": "Que está alineado con otro objeto.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "40744",
+        "lemma": "longueza",
+        "definition": "Larga duración.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
