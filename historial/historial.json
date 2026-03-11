@@ -6400,5 +6400,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-11",
+    "words": [
+      {
+        "id": "52744",
+        "lemma": "quebrantable",
+        "definition": "adjetivo para referirse a algo que es frágil o que se puede romper fácilmente.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08955",
+        "lemma": "batutera",
+        "definition": "Persona que lleva una batuta para dirigir una orquesta.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "02775",
+        "lemma": "alcitrón",
+        "definition": "Una mezcla de vinagre y sal, a menudo usada como condimento para carnes y pescados.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24354",
+        "lemma": "documento",
+        "definition": "Una pieza de escritura o una grabación conteniendo información o instrucciones.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26667",
+        "lemma": "engringarse",
+        "definition": "enredarse.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "13161",
+        "lemma": "cartografía",
+        "definition": "El estudio y la producción de mapas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33975",
+        "lemma": "grujir",
+        "definition": "emitir un ruido fuerte y monótono.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35132",
+        "lemma": "heterosexual",
+        "definition": "Una persona que siente atracción sexual y romántica hacia personas del sexo opuesto.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36901",
+        "lemma": "indefensión",
+        "definition": "Estado de impotencia o incapacidad para defenderse.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "52523",
+        "lemma": "pulpejo",
+        "definition": "Parte carnosa y suave de una fruta.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "04708",
+        "lemma": "anorak",
+        "definition": "una prenda de abrigo aislante.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40893",
+        "lemma": "lumbago",
+        "definition": "Un dolor en la parte baja de la espalda causado por un esfuerzo o una lesión.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "28081",
+        "lemma": "escaramuza",
+        "definition": "Una pelea entre dos personas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45727",
+        "lemma": "normativizar",
+        "definition": "Establecer normas.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45920",
+        "lemma": "ñaña",
+        "definition": "palabra usada para referirse a algo pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "62141",
+        "lemma": "tontamente",
+        "definition": "de manera estúpida, sin sentido.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52499",
+        "lemma": "pulguerío",
+        "definition": "Persona que se dedica a vender pulgas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52813",
+        "lemma": "quequesque",
+        "definition": "Pájaro de la familia de los mochuelos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53551",
+        "lemma": "rasoliso",
+        "definition": "Un rasoliso es una forma de comercialización de productos en la que los productos se venden a precios muy bajos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "22541",
+        "lemma": "deshuesado",
+        "definition": "Acción de quitarle los huesos a algún alimento.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "66231",
+        "lemma": "zoqueterismo",
+        "definition": "Sustantivo masculino. Acción y efecto de zoquetear.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "16378",
+        "lemma": "cluequera",
+        "definition": "Persona que se cree más inteligente que los demás.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64289",
+        "lemma": "vanilocuencia",
+        "definition": "Hablar sin contenido.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65558",
+        "lemma": "wau",
+        "definition": "Expresión de admiración.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "58791",
+        "lemma": "sobreexplotar",
+        "definition": "explotar algo en exceso.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "53649",
+        "lemma": "rayajo",
+        "definition": "Parte más delgada de una cosa.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66173",
+        "lemma": "zollipo",
+        "definition": "Pequeño insecto de la familia de los escarabajos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
