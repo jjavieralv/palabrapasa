@@ -6594,5 +6594,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-12",
+    "words": [
+      {
+        "id": "20260",
+        "lemma": "cusnaca",
+        "definition": "Una cusnaca es una herramienta de metal usada para cortar y trabajar con madera.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10494",
+        "lemma": "brócol",
+        "definition": "el brócoli es una verdura de la familia de las coles con tallos y flores comestibles.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "16020",
+        "lemma": "cipresillo",
+        "definition": "Árbol de la familia de las coníferas, de hoja perenne, conocido también como ciprés.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "17236",
+        "lemma": "competitividad",
+        "definition": "Capacidad de un individuo o empresa para competir con otros en un mercado.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "20678",
+        "lemma": "deflactar",
+        "definition": "Disminuir el valor de algo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "43321",
+        "lemma": "metrificatura",
+        "definition": "Acto de medir algo con exactitud.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33100",
+        "lemma": "gea",
+        "definition": "una deidad femenina de la mitología griega que personifica la Tierra y la Naturaleza.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "49567",
+        "lemma": "pichagua",
+        "definition": "una planta trepadora de la familia de las orquídeas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36508",
+        "lemma": "impronta",
+        "definition": "huella digital.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "34205",
+        "lemma": "guardagujas",
+        "definition": "Una persona que se encarga de guiar a los trenes en una estación de ferrocarril.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "19281",
+        "lemma": "crack",
+        "definition": "Persona extremadamente talentosa o experta en algo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "37811",
+        "lemma": "interclasista",
+        "definition": "Que implica la participación de personas de diferentes clases sociales.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41880",
+        "lemma": "mansuetud",
+        "definition": "Bondad y dulzura.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "50264",
+        "lemma": "planchón",
+        "definition": "Una plancha grande de hierro.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45922",
+        "lemma": "ñañiguismo",
+        "definition": "Estilo de vida caracterizado por el uso excesivo de la lengua vernácula.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46154",
+        "lemma": "octuplicar",
+        "definition": "octuplicar;",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "62895",
+        "lemma": "traspellar",
+        "definition": "Escribir una palabra de manera incorrecta.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "19559",
+        "lemma": "croquis",
+        "definition": "Dibujo rápido y sencillo que se realiza para representar algo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56519",
+        "lemma": "rúbrica",
+        "definition": "La rúbrica es una herramienta de evaluación que permite al profesor calificar de forma clara y precisa el trabajo de los alumnos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59298",
+        "lemma": "soplar",
+        "definition": "expulsar aire con la boca.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "05616",
+        "lemma": "apretujamiento",
+        "definition": "Acción y efecto de apretujar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "01626",
+        "lemma": "afinadura",
+        "definition": "el proceso de ajustar la afinación de un instrumento",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65137",
+        "lemma": "vindicta",
+        "definition": "venganza.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "58564",
+        "lemma": "sintaxis",
+        "definition": "La sintaxis es la parte de la gramática que trata del orden y la estructura de las palabras en una frase.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65742",
+        "lemma": "yola",
+        "definition": "una embarcación de pesca de fondo, con una quilla plana y una cubierta abierta, usada en el Mar Caribe.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66111",
+        "lemma": "zarzagán",
+        "definition": "El zarzagán es una forma de baile tradicional español que se realiza en pareja.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
