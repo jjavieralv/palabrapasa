@@ -6788,5 +6788,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-13",
+    "words": [
+      {
+        "id": "07480",
+        "lemma": "autoafirmarse",
+        "definition": "Establecerse a sí mismo como una persona segura y fuerte.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10685",
+        "lemma": "buganvilla",
+        "definition": "una planta trepadora con flores de color rojo, blanco o rosa.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18389",
+        "lemma": "contraveros",
+        "definition": "discusión.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "56454",
+        "lemma": "rotulado",
+        "definition": "La acción de escribir o imprimir una etiqueta o una marca para identificar algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "11841",
+        "lemma": "cambiable",
+        "definition": "variable",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "33708",
+        "lemma": "grafista",
+        "definition": "Persona que se dedica a la creación de grafismos.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "14575",
+        "lemma": "chamberguilla",
+        "definition": "Una bebida refrescante a base de vino blanco y soda.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "23701",
+        "lemma": "dichosamente",
+        "definition": "felizmente",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36120",
+        "lemma": "iconoscopio",
+        "definition": "Un dispositivo óptico para proyectar imágenes.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "62571",
+        "lemma": "trajino",
+        "definition": "Una pequeña carreta usada para transportar carga.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39173",
+        "lemma": "kirguiz",
+        "definition": "relativo a Kirguistán, un país de Asia Central.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "57115",
+        "lemma": "salterio",
+        "definition": "Un salterio es un instrumento musical de la antigüedad que consiste en una caja de madera con clavijas de metal.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42410",
+        "lemma": "matacuás",
+        "definition": "Es un árbol tropical de la familia de las mimosáceas, que crece en los bosques de América.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "50766",
+        "lemma": "polucionar",
+        "definition": "Contaminar el aire, el agua o el suelo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45901",
+        "lemma": "ñácara",
+        "definition": "un recipiente hecho de barro para el almacenamiento de alimentos.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46657",
+        "lemma": "orientalista",
+        "definition": "persona que estudia o es experto en el Oriente.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "51344",
+        "lemma": "precisar",
+        "definition": "Ser exacto y detallado.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53000",
+        "lemma": "quintaesencia",
+        "definition": "El estado más puro y perfecto de algo.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56322",
+        "lemma": "rompevientos",
+        "definition": "Prenda de vestir para protegerse del viento.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59613",
+        "lemma": "subprefectura",
+        "definition": "Entidad administrativa subordinada a la prefectura.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "29575",
+        "lemma": "estrigiforme",
+        "definition": "Se refiere a algo que tiene forma de estrigiforme, como un ave rapaz.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "35954",
+        "lemma": "huilense",
+        "definition": "Persona que es nativa o residente del departamento de Huila, Colombia.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64448",
+        "lemma": "veeduría",
+        "definition": "El cargo o función de un veedor, que es una persona que supervisa la aplicación de una ley o una regla.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65551",
+        "lemma": "wahabismo",
+        "definition": "Un movimiento islámico sunita que aboga por una aplicación estricta de los principios del islam.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65583",
+        "lemma": "xerografía",
+        "definition": "Un proceso de copiado de documentos usando luz ultravioleta para transferir una imagen a una superficie fotoconductora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "62998",
+        "lemma": "trayecto",
+        "definition": "Distancia recorrida entre dos puntos.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "60901",
+        "lemma": "tecnologizar",
+        "definition": "Introducir tecnología en un ámbito.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
