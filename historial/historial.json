@@ -6982,5 +6982,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-14",
+    "words": [
+      {
+        "id": "59380",
+        "lemma": "sortijilla",
+        "definition": "Anillo pequeño con una piedra preciosa que se usa como adorno.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09338",
+        "lemma": "bicentenario",
+        "definition": "aniversario que se celebra cada 200 años.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "53502",
+        "lemma": "rarificar",
+        "definition": "hacer algo más raro.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "10073",
+        "lemma": "bordar",
+        "definition": "decorar con hilos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "32474",
+        "lemma": "gaguear",
+        "definition": "Gaguear es hablar con balbuceos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32149",
+        "lemma": "fructificable",
+        "definition": "Algo que puede producir frutos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "20793",
+        "lemma": "delgadez",
+        "definition": "Delgadez es la cualidad de ser delgado.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "15668",
+        "lemma": "churumbel",
+        "definition": "Un niño pequeño.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36397",
+        "lemma": "impetuosidad",
+        "definition": "Es la cualidad de alguien que actúa de manera rápida y apasionada sin pensar en las consecuencias.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39106",
+        "lemma": "juzgado",
+        "definition": "Es un lugar donde se administra justicia.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39132",
+        "lemma": "kavakava",
+        "definition": "una planta de la familia de las Piperáceas, originaria de Polinesia.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39225",
+        "lemma": "laboratorista",
+        "definition": "Un laboratorista es una persona que trabaja en un laboratorio, realizando experimentos científicos y analizando los resultados.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "17184",
+        "lemma": "comparecer",
+        "definition": "Presentarse ante una autoridad o una persona con autoridad.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45742",
+        "lemma": "norueste",
+        "definition": "Dirección que se encuentra entre el norte y el oeste.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45930",
+        "lemma": "ñire",
+        "definition": "Árbol de la familia de las fagáceas, originario de América del Sur.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "33086",
+        "lemma": "gazpachero",
+        "definition": "Una persona que prepara y sirve el gazpacho, una sopa fría tradicional de España.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48623",
+        "lemma": "pelaje",
+        "definition": "El pelaje es el conjunto de pelos que cubren el cuerpo de los animales.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52924",
+        "lemma": "quillotro",
+        "definition": "persona tímida y callada.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54774",
+        "lemma": "relax",
+        "definition": "Un estado de relajación mental y física.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58672",
+        "lemma": "sobaco",
+        "definition": "Área del cuerpo situada entre el brazo y el torso.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60847",
+        "lemma": "taza",
+        "definition": "recipiente para beber, generalmente de cerámica, con un asa.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63928",
+        "lemma": "unisexual",
+        "definition": "que tiene un solo sexo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "38111",
+        "lemma": "inventariar",
+        "definition": "Hacer un inventario.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58234",
+        "lemma": "show",
+        "definition": "Un show es un espectáculo público de entretenimiento, generalmente con música, baile y otros elementos de actuación.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65581",
+        "lemma": "xerocopiar",
+        "definition": "Copiar algo usando una máquina fotocopiadora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65639",
+        "lemma": "yanacón",
+        "definition": "Persona que se dedica al comercio de productos locales.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65846",
+        "lemma": "zafada",
+        "definition": "Acción o movimiento brusco.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
