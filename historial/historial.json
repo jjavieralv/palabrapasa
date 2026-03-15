@@ -7176,5 +7176,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-15",
+    "words": [
+      {
+        "id": "53804",
+        "lemma": "reblandecer",
+        "definition": "Hacer que algo se vuelva suave al tacto.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "51923",
+        "lemma": "producible",
+        "definition": "Que se puede producir.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "20205",
+        "lemma": "curruca",
+        "definition": "La curruca es un pájaro pequeño de color verde con una mezcla de cantos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24328",
+        "lemma": "docetismo",
+        "definition": "doctrina que afirma que la apariencia humana de Jesús fue solo aparente y no real",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "45999",
+        "lemma": "oblicuamente",
+        "definition": "de manera oblicua.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31124",
+        "lemma": "filicida",
+        "definition": "El filicida es una persona que mata a su padre.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "53300",
+        "lemma": "ragtime",
+        "definition": "un estilo musical de ritmo alegre y rápido.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "60207",
+        "lemma": "tachón",
+        "definition": "Pega de metal para sujetar papeles.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36638",
+        "lemma": "incapacitación",
+        "definition": "Acción de impedir a alguien el ejercicio de sus derechos.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38498",
+        "lemma": "jagüilla",
+        "definition": "Pequeña araña de color café.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "19282",
+        "lemma": "cracker",
+        "definition": "Un alimento salado hecho de harina, grasa y sal.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40878",
+        "lemma": "luismo",
+        "definition": "Creencia religiosa de origen africano.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "45343",
+        "lemma": "neme",
+        "definition": "Neme es una palabra que se usa para referirse a una persona tímida.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "47902",
+        "lemma": "paronimia",
+        "definition": "Juego de palabras con sonidos similares.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "05773",
+        "lemma": "arañar",
+        "definition": "Rasguñar.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "28449",
+        "lemma": "escultismo",
+        "definition": "El escultismo es un movimiento educativo que se basa en la aventura, el desarrollo del carácter y el compromiso con la comunidad.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48171",
+        "lemma": "pasturaje",
+        "definition": "El acto de pastar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "46039",
+        "lemma": "obsequiosidad",
+        "definition": "La actitud de ser amable y servicial.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "20172",
+        "lemma": "curí",
+        "definition": "Un ave de la familia de los tucanes, caracterizada por su largo pico y su plumaje brillante.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "17967",
+        "lemma": "conspirar",
+        "definition": "trabajar en secreto para lograr algún propósito oculto.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62622",
+        "lemma": "tranquilar",
+        "definition": "calmar.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64096",
+        "lemma": "uvi",
+        "definition": "Una palabra usada para referirse a una persona joven, inmadura o inexperta.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65034",
+        "lemma": "vidriería",
+        "definition": "Tienda que vende objetos de vidrio.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60829",
+        "lemma": "tawahka",
+        "definition": "Perteneciente a una etnia indígena de Nicaragua.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30025",
+        "lemma": "exósmosis",
+        "definition": "la difusión de un líquido a través de una membrana",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "02065",
+        "lemma": "aguayón",
+        "definition": "una prenda de vestir usada tradicionalmente en América del Sur.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "28534",
+        "lemma": "esforzadamente",
+        "definition": "Con gran esfuerzo o empeño.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
