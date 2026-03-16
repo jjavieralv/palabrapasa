@@ -7370,5 +7370,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-16",
+    "words": [
+      {
+        "id": "06219",
+        "lemma": "arraquive",
+        "definition": "Una forma de bailar popular en la región de la provincia de Aragón, España.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "55997",
+        "lemma": "rimbombante",
+        "definition": "Que tiene una apariencia exagerada.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "45406",
+        "lemma": "nesciente",
+        "definition": "alguien que carece de conocimiento o información",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "52249",
+        "lemma": "proveeduría",
+        "definition": "La proveeduría es el proceso de proveer productos y servicios a una empresa.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "39124",
+        "lemma": "karateca",
+        "definition": "Persona que practica el arte marcial del karate.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32025",
+        "lemma": "frenar",
+        "definition": "Reducir la velocidad de algo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "62122",
+        "lemma": "tongonear",
+        "definition": "Hablar con tono despectivo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35615",
+        "lemma": "holter",
+        "definition": "Un dispositivo utilizado para monitorizar la actividad cardíaca durante un periodo de tiempo prolongado.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "01687",
+        "lemma": "aforramiento",
+        "definition": "Acción de ahorrar dinero.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38425",
+        "lemma": "jabegote",
+        "definition": "Un jabegote es una herramienta de carpintería pequeña y de mango largo que se utiliza para perforar agujeros en madera.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "62024",
+        "lemma": "tokamak",
+        "definition": "Dispositivo de confinamiento magnético utilizado para la producción de energía nuclear.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "10758",
+        "lemma": "bululú",
+        "definition": "Una palabra usada para describir un sonido musical.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "40250",
+        "lemma": "limaco",
+        "definition": "Molusco de concha blanda.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "19907",
+        "lemma": "cuentapropista",
+        "definition": "persona que trabaja por cuenta propia.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45909",
+        "lemma": "ñandú",
+        "definition": "Ave de la familia de los ñandúes, de gran tamaño y con plumas grises y marrones.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "64318",
+        "lemma": "vaquillona",
+        "definition": "Una vaquillona es una vaca joven que aún no ha parido.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50551",
+        "lemma": "pobretonería",
+        "definition": "Actitud de quien siempre se muestra como una persona pobre.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "44480",
+        "lemma": "mosaiquista",
+        "definition": "una persona que diseña y crea mosaicos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53901",
+        "lemma": "recalzar",
+        "definition": "Reforzar algo con materiales resistentes.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "51095",
+        "lemma": "posibilitar",
+        "definition": "Hacer posible algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "01517",
+        "lemma": "aeromodelista",
+        "definition": "Sublimable: que se puede sublimar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64023",
+        "lemma": "uruga",
+        "definition": "Una planta herbácea de la familia de las umbelíferas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64299",
+        "lemma": "vaporar",
+        "definition": "Expulsar vapor.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65693",
+        "lemma": "yerbazal",
+        "definition": "Pequeño jardín de hierbas aromáticas, generalmente usado para fines culinarios.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65831",
+        "lemma": "zacatecoluquense",
+        "definition": "Natural o habitante de Zacatecoluca, un municipio de El Salvador.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
