@@ -7564,5 +7564,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-17",
+    "words": [
+      {
+        "id": "50113",
+        "lemma": "pitanga",
+        "definition": "Fruta de sabor ácido y color rojo, típica de América del Sur.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10754",
+        "lemma": "bullón",
+        "definition": "Pieza metálica con un agujero para sujetar algo.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "15088",
+        "lemma": "chillado",
+        "definition": "El chillido es un sonido agudo y penetrante que hacen algunas aves para llamar la atención.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24651",
+        "lemma": "dulleta",
+        "definition": "Una dulleta es una mujer joven y bella.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26632",
+        "lemma": "engorro",
+        "definition": "una situación difícil o complicada.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30950",
+        "lemma": "festinar",
+        "definition": "Apresurarse.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "61636",
+        "lemma": "tigrillo",
+        "definition": "Pequeño mamífero carnívoro de la familia de los felinos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35535",
+        "lemma": "historicista",
+        "definition": "adjetivo para describir algo que se basa en la historia para explicar el presente.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "41831",
+        "lemma": "manir",
+        "definition": "actuar con delicadeza.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39098",
+        "lemma": "justipreciar",
+        "definition": "evaluar algo con justicia.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10366",
+        "lemma": "break",
+        "definition": "ruptura",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39623",
+        "lemma": "latazo",
+        "definition": "Acción de golpear con un látigo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42789",
+        "lemma": "mejedor",
+        "definition": "Persona que se dedica a mejar o limpiar el grano de la paja.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45303",
+        "lemma": "negociar",
+        "definition": "llegar a un acuerdo.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "50201",
+        "lemma": "piñal",
+        "definition": "Un utensilio para moler granos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46304",
+        "lemma": "oleómetro",
+        "definition": "un dispositivo de medición para determinar la viscosidad de un líquido.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "05217",
+        "lemma": "aparente",
+        "definition": "Que se manifiesta de forma externa.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53071",
+        "lemma": "quitamotas",
+        "definition": "Una herramienta usada para eliminar la suciedad y las manchas de los tejidos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55974",
+        "lemma": "riflazo",
+        "definition": "Un disparo hecho con un arma de fuego.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57177",
+        "lemma": "samán",
+        "definition": "una persona que usa la medicina natural para curar a las personas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "15143",
+        "lemma": "chinastear",
+        "definition": "Robar algo sin que se note.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63650",
+        "lemma": "tunta",
+        "definition": "Tunta es una palabra de origen mapuche que significa \"desobediencia\".",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65257",
+        "lemma": "visita",
+        "definition": "Un encuentro entre un invitado y un anfitrión.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "20407",
+        "lemma": "darwinista",
+        "definition": "Persona que sigue o acepta las teorías de Charles Darwin.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30111",
+        "lemma": "exportación",
+        "definition": "El acto de enviar bienes o servicios fuera de un país para su venta.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "38667",
+        "lemma": "jayanear",
+        "definition": "Usar palabras o frases ingeniosas para divertirse.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "28953",
+        "lemma": "espolvorizar",
+        "definition": "To sprinkle",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
