@@ -7758,5 +7758,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-18",
+    "words": [
+      {
+        "id": "11342",
+        "lemma": "caja",
+        "definition": "Un recipiente para guardar objetos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10746",
+        "lemma": "bullaranga",
+        "definition": "Una forma de baile tradicional de España que se baila en grupo.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18117",
+        "lemma": "continuista",
+        "definition": "alguien que sigue una línea de pensamiento o una tradición sin cambios.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "27118",
+        "lemma": "ensilado",
+        "definition": "El proceso de almacenar alimentos en un silo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "20707",
+        "lemma": "degenere",
+        "definition": "Degenere es un adjetivo para describir algo que se ha deteriorado o empeorado.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30347",
+        "lemma": "factible",
+        "definition": "Se refiere a algo que es posible de lograr o hacer.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "44157",
+        "lemma": "monogamia",
+        "definition": "Una relación entre dos personas que se comprometen a ser fieles el uno al otro.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34875",
+        "lemma": "heliomotor",
+        "definition": "Motor que funciona con la energía del sol.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "21680",
+        "lemma": "descariño",
+        "definition": "es la acción de mostrar cariño o afecto hacia alguien o algo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38451",
+        "lemma": "jacalear",
+        "definition": "construir una choza de madera.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "47127",
+        "lemma": "pakistaní",
+        "definition": "adjetivo para describir algo relacionado con Pakistán.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "13578",
+        "lemma": "caudatrémula",
+        "definition": "Una caudatrémula es una planta trepadora con flores amarillas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "32665",
+        "lemma": "gamalotal",
+        "definition": "El gamalotal es una planta trepadora de la familia de las cucurbitáceas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "65051",
+        "lemma": "viernes",
+        "definition": "El sexto día de la semana.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45918",
+        "lemma": "ñaque",
+        "definition": "Es una forma de bailar típica de la región de los Andes de Perú, Bolivia y Ecuador.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "54756",
+        "lemma": "relámpago",
+        "definition": "fenómeno atmosférico que se produce cuando se acumulan cargas eléctricas en la atmósfera.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "25532",
+        "lemma": "empedernir",
+        "definition": "Hacer algo de forma insistente y persistente.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "48995",
+        "lemma": "pereque",
+        "definition": "Una fruta de la familia de los cítricos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55011",
+        "lemma": "renitente",
+        "definition": "Que se resiste a obedecer.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57421",
+        "lemma": "sarde",
+        "definition": "Un pez de agua salada de la familia de los sardinos.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "12974",
+        "lemma": "carotenoide",
+        "definition": "Un pigmento natural que se encuentra en algunas plantas y animales.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "48717",
+        "lemma": "peluca",
+        "definition": "cabello postizo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "27472",
+        "lemma": "entrevistar",
+        "definition": "Hacer preguntas a alguien para obtener información.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58235",
+        "lemma": "show business",
+        "definition": "El show business es el negocio de la producción y distribución de entretenimiento, como espectáculos de televisión, cine, teatro, música y otros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65589",
+        "lemma": "xilofón",
+        "definition": "Instrumento musical compuesto por una serie de láminas de madera, metal o plástico de diferentes tamaños, que emiten sonidos al ser golpeadas con un martillo.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65762",
+        "lemma": "yucazo",
+        "definition": "Es una palabra usada para describir una situación en la que alguien se divierte mucho o se divierte mucho con algo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66312",
+        "lemma": "zureo",
+        "definition": "Persona de mal carácter.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
