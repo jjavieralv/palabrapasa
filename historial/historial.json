@@ -7952,5 +7952,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-19",
+    "words": [
+      {
+        "id": "26682",
+        "lemma": "engualichar",
+        "definition": "emparejar o igualar algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10226",
+        "lemma": "botonear",
+        "definition": "cerrar con botones.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "24055",
+        "lemma": "discutir",
+        "definition": "debatir o discutir un tema.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "57708",
+        "lemma": "seguidamente",
+        "definition": "a continuación.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "02291",
+        "lemma": "ajedrecista",
+        "definition": "una persona que juega ajedrez.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "25062",
+        "lemma": "elfo",
+        "definition": "Un elfo es una criatura mágica de aspecto humanoide.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32741",
+        "lemma": "ganga",
+        "definition": "Una ganga es una oferta especial de algo a un precio muy bajo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14670",
+        "lemma": "changoneta",
+        "definition": "Pequeña embarcación de pesca usada en la costa mediterránea.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "54167",
+        "lemma": "recrudecimiento",
+        "definition": "Agravamiento.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38678",
+        "lemma": "jedive",
+        "definition": "Un jedive es un líder espiritual en el judaísmo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "63470",
+        "lemma": "trotskismo",
+        "definition": "Movimiento político fundado por Leon Trotsky.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "13831",
+        "lemma": "cebollada",
+        "definition": "Sopa hecha con cebolla y otros ingredientes.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41225",
+        "lemma": "magdaleón",
+        "definition": "Obra de teatro que se representa en Semana Santa.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45423",
+        "lemma": "neumopatía",
+        "definition": "Enfermedad que afecta a los pulmones.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "48394",
+        "lemma": "pañuelo",
+        "definition": "Una pieza de tela usada para limpiarse la nariz o secarse las lágrimas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46501",
+        "lemma": "opopónace",
+        "definition": "Una salsa de tomate hecha con ajo, cebolla, aceite de oliva y especias.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "12432",
+        "lemma": "capirotazo",
+        "definition": "golpe con una capa.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "00747",
+        "lemma": "achichinque",
+        "definition": "Se refiere a una situación difícil o desagradable.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56924",
+        "lemma": "salabre",
+        "definition": "arma de fuego de dos cañones.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "48877",
+        "lemma": "pepsina",
+        "definition": "una enzima digestiva producida por el estómago.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61870",
+        "lemma": "tisiología",
+        "definition": "Rama de la medicina que se ocupa del estudio de las enfermedades pulmonares.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "06005",
+        "lemma": "argue",
+        "definition": "Argue significa discutir o debatir acaloradamente.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "30728",
+        "lemma": "fauvista",
+        "definition": "Perteneciente o relativo al movimiento artístico Fauvismo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29900",
+        "lemma": "excitatriz",
+        "definition": "Que excita o estimula.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65675",
+        "lemma": "yeguada",
+        "definition": "Lugar donde se crían caballos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66052",
+        "lemma": "zarabutear",
+        "definition": "golpear con un palo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
