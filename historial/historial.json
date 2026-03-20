@@ -8146,5 +8146,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-20",
+    "words": [
+      {
+        "id": "11522",
+        "lemma": "calculación",
+        "definition": "El acto de calcular algo, especialmente con la ayuda de una calculadora.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "58711",
+        "lemma": "sobordo",
+        "definition": "Una persona que trabaja a bordo de un barco, generalmente como parte de la tripulación.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "52501",
+        "lemma": "pulicán",
+        "definition": "Ave marina de la familia de los pelícanos.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "01883",
+        "lemma": "agraciadamente",
+        "definition": "con gracia.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "56813",
+        "lemma": "saciedad",
+        "definition": "Estado de satisfacción tras haber comido.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "01619",
+        "lemma": "afiligranar",
+        "definition": "Adornar con filigranas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "29575",
+        "lemma": "estrigiforme",
+        "definition": "Se refiere a algo que tiene forma de estrigiforme, como un ave rapaz.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35182",
+        "lemma": "hidrartrosis",
+        "definition": "Una enfermedad inflamatoria crónica que causa dolor, hinchazón y rigidez en las articulaciones.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36140",
+        "lemma": "idealista",
+        "definition": "Persona que tiene una visión idealizada de la vida.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "58218",
+        "lemma": "señoraje",
+        "definition": "El derecho que un señor feudal tiene sobre los bienes de sus vasallos.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39132",
+        "lemma": "kavakava",
+        "definition": "una planta de la familia de las Piperáceas, originaria de Polinesia.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "44837",
+        "lemma": "munúsculo",
+        "definition": "Lealtad: Una lealtad sincera y constante.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44235",
+        "lemma": "montanero",
+        "definition": "Una persona que vive en la montaña.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "63639",
+        "lemma": "túnel",
+        "definition": "Paso subterráneo para el paso de vehículos.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45927",
+        "lemma": "ñipe",
+        "definition": "una acción o gesto de burla.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "15024",
+        "lemma": "chicolear",
+        "definition": "Hacer un sonido con los labios para llamar la atención.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "34524",
+        "lemma": "gurupera",
+        "definition": "Una herramienta de madera usada para rascar la tierra.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "31334",
+        "lemma": "flamenquilla",
+        "definition": "pez de la familia de los escómbridos, de color negro y blanco.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "40638",
+        "lemma": "localizar",
+        "definition": "determinar la posición de algo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58002",
+        "lemma": "sereguete",
+        "definition": "Una pequeña cuerda con nudos para indicar la medida de algo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63304",
+        "lemma": "trisecar",
+        "definition": "Dividir en tres partes.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63938",
+        "lemma": "universalmente",
+        "definition": "en todas partes y para todos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "20245",
+        "lemma": "curvar",
+        "definition": "doblar",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "39180",
+        "lemma": "kiwi",
+        "definition": "El kiwi es una fruta pequeña, ovalada y con una cáscara marrón que contiene una pulpa verde con semillas negras.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30148",
+        "lemma": "extender",
+        "definition": "ampliar, extender.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "21928",
+        "lemma": "descoyuntar",
+        "definition": "Separar dos partes de una misma cosa.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "06188",
+        "lemma": "arráez",
+        "definition": "Persona que navega en una embarcación.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
