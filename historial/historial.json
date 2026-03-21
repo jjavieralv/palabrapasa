@@ -8340,5 +8340,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-21",
+    "words": [
+      {
+        "id": "41912",
+        "lemma": "mantis",
+        "definition": "Una mantis es una especie de insecto de la familia de los mantídeos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08234",
+        "lemma": "bajonazo",
+        "definition": "una caída repentina.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11682",
+        "lemma": "calmante",
+        "definition": "Pujante: Vigoroso, lleno de energía. ",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21855",
+        "lemma": "descongelamiento",
+        "definition": "descongelación",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28485",
+        "lemma": "escusabaraja",
+        "definition": "Una escusabaraja es una baraja de tarjetas con frases o excusas que se utilizan para justificar situaciones.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "24255",
+        "lemma": "diversificar",
+        "definition": "Diversificar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "23239",
+        "lemma": "desreglar",
+        "definition": "Desorganizar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14939",
+        "lemma": "chequén",
+        "definition": "Ave de la familia de los fringílidos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36712",
+        "lemma": "incobrable",
+        "definition": "Que no se puede cobrar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38764",
+        "lemma": "jifería",
+        "definition": "La jifería es el acto de fabricar y vender productos de jícara, una fruta típica de América Central.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "53336",
+        "lemma": "raki",
+        "definition": "Bebida alcohólica turca hecha con uvas y anís.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40491",
+        "lemma": "living",
+        "definition": "Vivir.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "64506",
+        "lemma": "velambre",
+        "definition": "Refiere a una capa de tierra arcillosa y muy compacta.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "64681",
+        "lemma": "venturanza",
+        "definition": "buena suerte, felicidad.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "40668",
+        "lemma": "lodoño",
+        "definition": "una persona de mal carácter.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46019",
+        "lemma": "obradura",
+        "definition": "El proceso de construir algo a partir de materiales básicos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "37830",
+        "lemma": "interdependiente",
+        "definition": "Dependiente uno del otro",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52889",
+        "lemma": "quietismo",
+        "definition": "Actitud de aceptar las circunstancias sin intentar cambiarlas.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "46599",
+        "lemma": "orea",
+        "definition": "Una orea es una pequeña y redonda fruta de color amarillo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57074",
+        "lemma": "salsamentaria",
+        "definition": "Negocio que vende salazones y otros productos alimenticios.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "01007",
+        "lemma": "acotado",
+        "definition": "Limitado",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63901",
+        "lemma": "unidad",
+        "definition": "La condición de estar unido, de estar formado por partes diferentes que forman un todo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64580",
+        "lemma": "vendar",
+        "definition": "vendar significa cubrir una herida con una venda.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "39199",
+        "lemma": "kuwaití",
+        "definition": "Relativo o perteneciente a Kuwait.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30206",
+        "lemma": "extramatrimonial",
+        "definition": "Que se refiere a una relación fuera del matrimonio.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "48053",
+        "lemma": "pasarraya",
+        "definition": "pequeña red de pesca.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "20067",
+        "lemma": "culturización",
+        "definition": "proceso de adquirir cultura.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
