@@ -8534,5 +8534,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-22",
+    "words": [
+      {
+        "id": "03669",
+        "lemma": "altillo",
+        "definition": "Espacio en el techo de una habitación, normalmente utilizado para almacenar cosas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08545",
+        "lemma": "barajar",
+        "definition": "mezclar",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "17559",
+        "lemma": "condonante",
+        "definition": "Que perdona o excusa una falta.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "52872",
+        "lemma": "quid",
+        "definition": "una pregunta, una interrogación.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "11188",
+        "lemma": "cachunde",
+        "definition": "Una especie de ave.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32093",
+        "lemma": "frigo",
+        "definition": "refrigerador",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "40552",
+        "lemma": "llegue",
+        "definition": "Llegada.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "36024",
+        "lemma": "humillación",
+        "definition": "acción de humillar a alguien.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36177",
+        "lemma": "idos",
+        "definition": "Pasado de \"ir\".",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38431",
+        "lemma": "jabino",
+        "definition": "Árbol de hoja caduca con frutos comestibles.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "08553",
+        "lemma": "baraka",
+        "definition": "Una bendición o una fuerza sobrenatural que se cree que puede ser transmitida por algunas personas.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40443",
+        "lemma": "literalmente",
+        "definition": "palabra por palabra.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "35039",
+        "lemma": "hermanamiento",
+        "definition": "Relación entre hermanos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45411",
+        "lemma": "néspilo",
+        "definition": "Una pequeña ave de color marrón con una cresta negra en la cabeza.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "16076",
+        "lemma": "cirigaña",
+        "definition": "Una mujer que practica la medicina tradicional.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46697",
+        "lemma": "orladura",
+        "definition": "Borde, contorno.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49277",
+        "lemma": "perta",
+        "definition": "Tela fina y transparente.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "06153",
+        "lemma": "arqueaje",
+        "definition": "El acto de arquear.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "02723",
+        "lemma": "alcantarillado",
+        "definition": "un sistema de tuberías que transporta aguas residuales de un lugar a otro.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "54246",
+        "lemma": "redescontar",
+        "definition": "volver a contar.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60861",
+        "lemma": "teamide",
+        "definition": "Una iniciativa de la Unión Europea para promover la educación, el entrenamiento y el empleo en la región.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63927",
+        "lemma": "unisex",
+        "definition": "Que es usado por personas de ambos sexos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "52209",
+        "lemma": "protervidad",
+        "definition": "Un comportamiento audaz y descarado.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "39199",
+        "lemma": "kuwaití",
+        "definition": "Relativo o perteneciente a Kuwait.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65573",
+        "lemma": "xantina",
+        "definition": "una base nitrogenada presente en los tejidos animales y vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "39322",
+        "lemma": "lady",
+        "definition": "Mujer de clase alta.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66113",
+        "lemma": "zarzahán",
+        "definition": "Una forma de canto andaluz alegre y rápido.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
