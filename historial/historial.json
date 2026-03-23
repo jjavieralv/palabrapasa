@@ -8728,5 +8728,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-23",
+    "words": [
+      {
+        "id": "06096",
+        "lemma": "armisticio",
+        "definition": "suspensión temporal de las hostilidades entre dos o más partes en conflicto.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "19458",
+        "lemma": "crisoberilo",
+        "definition": "una gema preciosa de color verde.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "63464",
+        "lemma": "trotaconventos",
+        "definition": "Persona que anda de un convento a otro.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24267",
+        "lemma": "dividivi",
+        "definition": "El dividivi es un arbusto de la familia de las leguminosas que crece en el trópico americano.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "24792",
+        "lemma": "ecorregión",
+        "definition": "Una ecorregión es una región geográfica definida por un conjunto de características físicas y biológicas que la distinguen de otras áreas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "59770",
+        "lemma": "sufrimiento",
+        "definition": "dolor, angustia, aflicción.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "03048",
+        "lemma": "algaracear",
+        "definition": "Hablar con voces agudas y chillonas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14719",
+        "lemma": "chapería",
+        "definition": "Oficio de un chapero.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36595",
+        "lemma": "inapelable",
+        "definition": "adjetivo que se aplica a aquello que no admite recurso de apelación.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38864",
+        "lemma": "jonuco",
+        "definition": "una planta herbácea de la familia de las gramíneas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "23982",
+        "lemma": "disc-jockey",
+        "definition": "Un disc-jockey es una persona que selecciona y mezcla música para entretenimiento de una audiencia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "22015",
+        "lemma": "deselectrizar",
+        "definition": "desconectar la electricidad.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41563",
+        "lemma": "malvadamente",
+        "definition": "con maldad.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "22912",
+        "lemma": "despagamiento",
+        "definition": "Acción de pagar.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45904",
+        "lemma": "ñagaza",
+        "definition": "Una herramienta de labranza usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46131",
+        "lemma": "ocozoal",
+        "definition": "Animal que se mueve saltando.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50352",
+        "lemma": "platija",
+        "definition": "Pez de agua salada de la familia de los platísidos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "61289",
+        "lemma": "tequila",
+        "definition": "Tequila es una bebida alcohólica mexicana hecha a partir de una planta llamada agave.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54915",
+        "lemma": "remolcar",
+        "definition": "Mover un objeto con una cuerda o una cadena.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57976",
+        "lemma": "sepultar",
+        "definition": "Enterrar un cadáver en una tumba.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "43755",
+        "lemma": "mistagogo",
+        "definition": "Persona que se opone a la autoridad religiosa.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "52115",
+        "lemma": "propincuidad",
+        "definition": "Cercanía entre dos personas o entre dos lugares.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64391",
+        "lemma": "vascohablante",
+        "definition": "Persona que habla el dialecto vasco.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65569",
+        "lemma": "windsurfista",
+        "definition": "Persona que practica el windsurf, un deporte acuático que consiste en navegar sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30230",
+        "lemma": "extraterritorialidad",
+        "definition": "una situación en la que una persona o una entidad goza de los derechos de un país extranjero.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "19388",
+        "lemma": "creyente",
+        "definition": "Persona que profesa una religión o una creencia.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65999",
+        "lemma": "zanguayo",
+        "definition": "Baile popular de la región del Pacífico colombiano.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
