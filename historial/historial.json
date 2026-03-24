@@ -8922,5 +8922,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-24",
+    "words": [
+      {
+        "id": "54353",
+        "lemma": "reensayo",
+        "definition": "Una nueva otra oportunidad para ensayar algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10540",
+        "lemma": "brosladura",
+        "definition": "Acción de unir dos partes con una soldadura de bronce.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "43850",
+        "lemma": "mochila",
+        "definition": "Una mochila es una bolsa de tela grande con correas para llevarla a la espalda.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24360",
+        "lemma": "dogal",
+        "definition": "una red de pesca grande con una abertura en forma de cono.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "33814",
+        "lemma": "grasones",
+        "definition": "una especie de ave acuática de América del Sur.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "01175",
+        "lemma": "adafina",
+        "definition": "plato tradicional judío hecho con carne, verduras y huevos.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33991",
+        "lemma": "gruñente",
+        "definition": "Persona que se queja o se queja con frecuencia.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "66288",
+        "lemma": "zuncho",
+        "definition": "Pieza de metal para asegurar dos objetos juntos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36131",
+        "lemma": "ictiosauro",
+        "definition": "Reptil prehistórico con forma de pez.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "31909",
+        "lemma": "frajenco",
+        "definition": "una planta herbácea perenne de la familia de las Rosáceas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "58665",
+        "lemma": "sketch",
+        "definition": "Breve bosquejo o esbozo de algo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "13957",
+        "lemma": "celestinaje",
+        "definition": "conjunto de personas que pertenecen a la orden de los Celestinos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44433",
+        "lemma": "morosidad",
+        "definition": "Tardanza en pagar una deuda.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45594",
+        "lemma": "nixtamal",
+        "definition": "Masa de maíz cocido y calcinado.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "62990",
+        "lemma": "travesaño",
+        "definition": "Dispositivo de madera que se coloca en una pared para reforzarla.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "31455",
+        "lemma": "floreteo",
+        "definition": "Coqueteo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52672",
+        "lemma": "pusilánime",
+        "definition": "aquel que carece de decisión y valentía.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "31385",
+        "lemma": "flequillo",
+        "definition": "Porción de cabello que cae sobre la frente.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56293",
+        "lemma": "romanza",
+        "definition": "Composición musical para voz y acompañamiento instrumental.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "62963",
+        "lemma": "trasvenarse",
+        "definition": "Hacerse una vena.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62079",
+        "lemma": "tomatazo",
+        "definition": "Un golpe dado con un tomate.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63948",
+        "lemma": "untar",
+        "definition": "Engrasar.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64161",
+        "lemma": "vagabundaje",
+        "definition": "El acto de vagar sin rumbo fijo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65689",
+        "lemma": "yerba",
+        "definition": "planta de la familia de las ilex, de hojas persistentes y aromáticas, que se usa para preparar infusiones medicinales.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "61705",
+        "lemma": "timpanizarse",
+        "definition": "producir un sonido como el de un tambor.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
