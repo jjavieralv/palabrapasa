@@ -9116,5 +9116,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-25",
+    "words": [
+      {
+        "id": "07461",
+        "lemma": "auspicio",
+        "definition": "El apoyo oficial o la protección de alguien importante para ayudar a una persona o una actividad.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "25188",
+        "lemma": "embastar",
+        "definition": "Encerrar con bastidor.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "22045",
+        "lemma": "desembocar",
+        "definition": "llegar al final de algo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24808",
+        "lemma": "ecuador",
+        "definition": "Línea imaginaria que divide el globo terrestre en dos hemisferios.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "55216",
+        "lemma": "representable",
+        "definition": "Capaz de ser representado.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "56396",
+        "lemma": "rosadelfa",
+        "definition": "Una rosa de color rosa con una fragancia delicada.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34070",
+        "lemma": "guaiquerí",
+        "definition": "Persona de una etnia indígena venezolana.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "32727",
+        "lemma": "gancho",
+        "definition": "Un gancho es un dispositivo de metal en forma de gancho, usado para sujetar, sostener o colgar objetos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37451",
+        "lemma": "inmolación",
+        "definition": "Acción de quemar o matar a alguien como ofrenda o sacrificio.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38876",
+        "lemma": "jornada",
+        "definition": "Un período de tiempo dedicado a una actividad.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "45358",
+        "lemma": "neokantismo",
+        "definition": "Corriente filosófica que sigue los principios de Immanuel Kant.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "30268",
+        "lemma": "exulcerar",
+        "definition": "corroer, desgarrar.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44104",
+        "lemma": "monera",
+        "definition": "Uno de los grupos más básicos de organismos vivos.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "08315",
+        "lemma": "baldamiento",
+        "definition": "Acción de vestir a alguien con una prenda de vestir.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45900",
+        "lemma": "ña",
+        "definition": "Ña es una palabra coloquial usada para referirse a una mujer.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "21131",
+        "lemma": "desabordarse",
+        "definition": "perder el control.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48235",
+        "lemma": "paternalmente",
+        "definition": "con afecto paterno.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52750",
+        "lemma": "quebrantar",
+        "definition": "Romper algo.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53438",
+        "lemma": "ranurar",
+        "definition": "Cortar ranuras.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "04813",
+        "lemma": "antepresente",
+        "definition": "Una persona que ofrece algo antes de que se le pida.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "31947",
+        "lemma": "franqueamiento",
+        "definition": "Acción de franquear un documento o una carta.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64116",
+        "lemma": "uñoperquén",
+        "definition": "Una palabra usada para expresar sorpresa.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "18436",
+        "lemma": "convalidar",
+        "definition": "confirmar la validez de algo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "16276",
+        "lemma": "claxon",
+        "definition": "Claxon, un dispositivo que produce un sonido fuerte para avisar a otros conductores.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65610",
+        "lemma": "yacer",
+        "definition": "Estar acostado.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "19030",
+        "lemma": "cortezo",
+        "definition": "Una actitud de sumisión y obediencia.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
