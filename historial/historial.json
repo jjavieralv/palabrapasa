@@ -9310,5 +9310,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-26",
+    "words": [
+      {
+        "id": "47426",
+        "lemma": "panderazo",
+        "definition": "una acción que se realiza con el fin de obtener un beneficio.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "11371",
+        "lemma": "calabacino",
+        "definition": "Calabacino es una variedad de calabaza.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15302",
+        "lemma": "chirrichote",
+        "definition": "persona que se comporta de forma exagerada y extravagante.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21888",
+        "lemma": "desconveniencia",
+        "definition": "Inconveniente, perjuicio.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "54347",
+        "lemma": "reenganchamiento",
+        "definition": "Acción de volver a enganchar algo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "15556",
+        "lemma": "chufa",
+        "definition": "Una planta herbácea, de la familia de las ciperáceas, con tubérculos comestibles.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "28557",
+        "lemma": "esguardar",
+        "definition": "observar atentamente.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35653",
+        "lemma": "homogeneidad",
+        "definition": "igualdad de características o elementos.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36167",
+        "lemma": "idiotismo",
+        "definition": "Un idiotismo es una palabra o expresión que se usa en un determinado lugar o entre un grupo de personas con un significado especial.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38646",
+        "lemma": "jarretera",
+        "definition": "objeto que se usa para sujetar los pantalones.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "02236",
+        "lemma": "aikido",
+        "definition": "Un arte marcial japonés que enfatiza el uso de la energía del oponente para controlarlo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40705",
+        "lemma": "lomba",
+        "definition": "Una colina.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44607",
+        "lemma": "mozo",
+        "definition": "Mozo es una palabra usada para referirse a una persona que sirve como ayudante o ayudante.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45095",
+        "lemma": "napoleón",
+        "definition": "Napoleon.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45924",
+        "lemma": "ñengue",
+        "definition": "Lengua bantú hablada en Gabón.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "03123",
+        "lemma": "alhorra",
+        "definition": "Una moneda de oro usada en el antiguo imperio persa.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50863",
+        "lemma": "popa",
+        "definition": "la parte trasera de un barco o una embarcación.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53070",
+        "lemma": "quitamiento",
+        "definition": "Remoción.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55251",
+        "lemma": "repudiable",
+        "definition": "Despreciable, condenable.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58753",
+        "lemma": "sobrecarga",
+        "definition": "Sobrecarga es una situación en la que se exige a algo una cantidad mayor de trabajo o energía de la que puede manejar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "05197",
+        "lemma": "aparatar",
+        "definition": "equipar con aparatos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64089",
+        "lemma": "uval",
+        "definition": "Uval es una palabra que se utiliza para referirse a una fruta de forma ovalada.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "58903",
+        "lemma": "sobrevestir",
+        "definition": "cubrir.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "59935",
+        "lemma": "superwoman",
+        "definition": "Una mujer que tiene habilidades y poderes especiales que la hacen destacar por encima de los demás.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65582",
+        "lemma": "xeroftalmia",
+        "definition": "enfermedad ocular caracterizada por una sequedad de la córnea.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65608",
+        "lemma": "yacedor",
+        "definition": "persona que yace en la cama.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "23439",
+        "lemma": "desvergüenza",
+        "definition": "Desvergüenza es la falta de vergüenza o de sentimiento de culpa, especialmente en relación con la moralidad.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
