@@ -9504,5 +9504,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-27",
+    "words": [
+      {
+        "id": "01932",
+        "lemma": "agremiar",
+        "definition": "unirse en una asociación.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "62447",
+        "lemma": "trabajosamente",
+        "definition": "De manera laboriosa, con esfuerzo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18107",
+        "lemma": "contingente",
+        "definition": "adjetivo para describir algo que está sujeto a cambios o a una cantidad limitada.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "02245",
+        "lemma": "aindiar",
+        "definition": "hacer algo con rapidez.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "14389",
+        "lemma": "cesolfaút",
+        "definition": "Un cesolfaút es una embarcación de vela latina de tres palos, con una vela mayor y dos foques.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30943",
+        "lemma": "festear",
+        "definition": "celebrar con alegría.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32998",
+        "lemma": "gastrectomía",
+        "definition": "Una gastrectomía es una cirugía para extirpar parte o todo el estómago.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "10112",
+        "lemma": "borrachear",
+        "definition": "beber en exceso",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "57855",
+        "lemma": "semitransparente",
+        "definition": "Parcialmente transparente.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "53334",
+        "lemma": "rajonada",
+        "definition": "Una rajonada es una forma de cortar una fruta o verdura en rodajas finas y regulares.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39123",
+        "lemma": "kárate",
+        "definition": "es un arte marcial japonés que se basa en golpes, patadas y bloqueos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "08209",
+        "lemma": "bajalato",
+        "definition": "Acción o efecto de bajar algo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "17243",
+        "lemma": "complacer",
+        "definition": "Agradar, satisfacer.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45714",
+        "lemma": "noria",
+        "definition": "Mecanismo de agua compuesto por una rueda con cubos que se eleva al ser impulsada por el agua.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45945",
+        "lemma": "ñublado",
+        "definition": "Cubierto parcialmente de nubes.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46512",
+        "lemma": "opoterapia",
+        "definition": "Terapia que se basa en el uso de medicamentos a base de plantas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47679",
+        "lemma": "parafernalia",
+        "definition": "Conjunto de objetos o elementos usados para un fin específico.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "34685",
+        "lemma": "haloque",
+        "definition": "una forma de flauta de viento.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "60682",
+        "lemma": "tarde",
+        "definition": "Hora del día posterior al mediodía.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58495",
+        "lemma": "sindicable",
+        "definition": "perteneciente a un sindicato.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62264",
+        "lemma": "tornatrás",
+        "definition": "un movimiento de giro y vuelta atrás.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "04248",
+        "lemma": "amurar",
+        "definition": "sujetar una cosa con una cuerda.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "05650",
+        "lemma": "aprovechadamente",
+        "definition": "con habilidad, con destreza.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "20406",
+        "lemma": "darwinismo",
+        "definition": "El darwinismo es una teoría científica que explica la evolución de la vida en la Tierra a través de la selección natural.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "46957",
+        "lemma": "oxiuro",
+        "definition": "un parásito intestinal pequeño que se alimenta de la sangre de los seres humanos.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65754",
+        "lemma": "yos",
+        "definition": "Una forma de hablar coloquial para referirse a uno mismo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "61725",
+        "lemma": "tindalizar",
+        "definition": "Hacer algo con rapidez.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
