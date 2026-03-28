@@ -9698,5 +9698,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-28",
+    "words": [
+      {
+        "id": "12179",
+        "lemma": "canforar",
+        "definition": "Canforar: ",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10194",
+        "lemma": "botecario",
+        "definition": "Un profesional que se encarga de la fabricación y distribución de medicamentos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "14540",
+        "lemma": "chalchihuite",
+        "definition": "Una planta medicinal con propiedades curativas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21190",
+        "lemma": "desadornar",
+        "definition": "Quitar adornos a algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "24904",
+        "lemma": "efusividad",
+        "definition": "Expresión entusiasta y afectuosa.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32308",
+        "lemma": "fundamentalmente",
+        "definition": "en su esencia y principios básicos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "43123",
+        "lemma": "mergón",
+        "definition": "Una variedad de vino tinto producido en la región de Andalucía.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35798",
+        "lemma": "hornilla",
+        "definition": "Una pequeña estufa portátil.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36473",
+        "lemma": "impresario",
+        "definition": "Una persona que organiza y dirige espectáculos y eventos.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "03213",
+        "lemma": "alioj",
+        "definition": "Plantas de la familia de las solanáceas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "23982",
+        "lemma": "disc-jockey",
+        "definition": "Un disc-jockey es una persona que selecciona y mezcla música para entretenimiento de una audiencia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "43537",
+        "lemma": "millardo",
+        "definition": "Cantidad igual a un millón de millones.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44741",
+        "lemma": "mullida",
+        "definition": "blanda, suave.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "12291",
+        "lemma": "cantesa",
+        "definition": "Una cantesa es una canción tradicional de la región de Cantabria.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45932",
+        "lemma": "ñisñil",
+        "definition": "Niño pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46531",
+        "lemma": "optimización",
+        "definition": "El proceso de mejorar un sistema para lograr el mejor rendimiento posible.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52342",
+        "lemma": "psicologista",
+        "definition": "Persona que estudia la mente humana y el comportamiento para ayudar a las personas a alcanzar un mejor equilibrio emocional y mental.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "31952",
+        "lemma": "franquicia",
+        "definition": "Acuerdo entre una empresa y una persona para que ésta última use los productos o servicios de la primera en una zona determinada.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "25598",
+        "lemma": "empicarse",
+        "definition": "Comer en exceso.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57258",
+        "lemma": "sandunga",
+        "definition": "Una canción mexicana de tono alegre.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63688",
+        "lemma": "turbo",
+        "definition": "un dispositivo mecánico que aumenta la potencia de un motor.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "04663",
+        "lemma": "aniquilante",
+        "definition": "Que destruye completamente.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "27553",
+        "lemma": "envenenamiento",
+        "definition": "Acción de envenenar a alguien.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "63784",
+        "lemma": "tweed",
+        "definition": "Un tejido de lana tejido a mano.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65592",
+        "lemma": "xilografía",
+        "definition": "Una técnica de grabado en madera que se usa para producir impresiones artísticas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "13534",
+        "lemma": "catleya",
+        "definition": "una orquídea tropical de flor grande y hermosa.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "33190",
+        "lemma": "gentuza",
+        "definition": "Personas de baja condición social y moral.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
