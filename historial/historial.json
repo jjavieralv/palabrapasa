@@ -9892,5 +9892,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-29",
+    "words": [
+      {
+        "id": "05727",
+        "lemma": "aquintralarse",
+        "definition": "Acurrucarse para protegerse del frío.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10084",
+        "lemma": "bordonería",
+        "definition": "La técnica de hacer bordados.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "43968",
+        "lemma": "mojonación",
+        "definition": "El proceso de marcar un terreno con mojones para delimitar su extensión.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "30149",
+        "lemma": "extendidamente",
+        "definition": "ampliamente.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "35304",
+        "lemma": "hilandería",
+        "definition": "Lugar donde se fabrican hilos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30312",
+        "lemma": "facecia",
+        "definition": "tontería.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "11352",
+        "lemma": "cajigal",
+        "definition": "Una persona que administra una hacienda.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "50259",
+        "lemma": "planchada",
+        "definition": "acción de planchar.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "57513",
+        "lemma": "satis",
+        "definition": "Una bebida alcohólica tradicionalmente hecha de arroz, miel y especias.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38976",
+        "lemma": "jugo",
+        "definition": "Líquido que se extrae de los alimentos, como la fruta, el vegetal o la carne.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39169",
+        "lemma": "kinesiterapia",
+        "definition": "es una forma de terapia física que utiliza ejercicios específicos para mejorar la función muscular y la movilidad.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40909",
+        "lemma": "luminar",
+        "definition": "una persona destacada por sus logros y conocimientos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41607",
+        "lemma": "mamía",
+        "definition": "expresión cariñosa para referirse a la madre.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "16588",
+        "lemma": "codirección",
+        "definition": "la dirección y administración compartida de un proyecto o empresa.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45899",
+        "lemma": "ñ",
+        "definition": "Letra del alfabeto español que representa un fonema nasal.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "40881",
+        "lemma": "lujo",
+        "definition": "El lujo es un estilo de vida extravagante y costoso, que incluye los bienes y servicios más caros.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "18329",
+        "lemma": "contrapunto",
+        "definition": "una técnica musical en la que dos o más melodías se combinan para crear un efecto armónico.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "14869",
+        "lemma": "chasquilla",
+        "definition": "Una pequeña onda de pelo en la parte superior de la frente.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "26424",
+        "lemma": "enfangar",
+        "definition": "Cubrir con barro.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57961",
+        "lemma": "sepsis",
+        "definition": "Sepsis es una condición médica grave que se produce cuando el cuerpo reacciona exageradamente a una infección.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "57082",
+        "lemma": "saltabanco",
+        "definition": "Persona que trabaja realizando saltos y acrobacias.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "60910",
+        "lemma": "tecuán",
+        "definition": "Un ave rapaz nocturna de América Central.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64769",
+        "lemma": "veredicto",
+        "definition": "Decisión o sentencia emitida por un tribunal o un jurado.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65595",
+        "lemma": "xóchil",
+        "definition": "Instrumento musical de viento de origen mexicano de forma ovalada.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "50378",
+        "lemma": "playar",
+        "definition": "Divertirse.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66195",
+        "lemma": "zontear",
+        "definition": "balancearse.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
