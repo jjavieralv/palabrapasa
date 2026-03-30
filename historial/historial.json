@@ -10086,5 +10086,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-03-30",
+    "words": [
+      {
+        "id": "00217",
+        "lemma": "abominable",
+        "definition": "Despreciable.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10122",
+        "lemma": "borrajear",
+        "definition": "borrajear significa aplicar una capa de borra para cubrir algo.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "00769",
+        "lemma": "acholar",
+        "definition": "Quitar los pelos de una piel.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "35746",
+        "lemma": "horconadura",
+        "definition": "una viga de madera que se usa para sostener un techo",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "24762",
+        "lemma": "eclosión",
+        "definition": "Acción y efecto de eclosionar, es decir, de salir una larva de un huevo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32194",
+        "lemma": "fucsina",
+        "definition": "Color rojo oscuro.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "49037",
+        "lemma": "pergeño",
+        "definition": "Una herramienta de metal afilada, usada para tallar la madera.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35561",
+        "lemma": "hockey",
+        "definition": "Un deporte de equipo en el que los jugadores intentan pasar una pelota con palos para marcar un gol en el campo contrario.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "24345",
+        "lemma": "doctrinarismo",
+        "definition": "Tendencia a aplicar doctrinas sin tener en cuenta la realidad.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "08193",
+        "lemma": "bailejo",
+        "definition": "Un baile tradicional de la región de Andalucía.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "43480",
+        "lemma": "mikado",
+        "definition": "El mikado es un juego de mesa en el que los jugadores intentan quitar los palillos del tablero sin mover los demás.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "03188",
+        "lemma": "aligustre",
+        "definition": "árbol de la familia de las lauráceas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "38688",
+        "lemma": "jeme",
+        "definition": "Una persona simple, ingenua y fácil de engañar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45391",
+        "lemma": "nereida",
+        "definition": "diosa marina de la mitología griega.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13309",
+        "lemma": "castañar",
+        "definition": "Lugar donde crecen los árboles de castañas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "50734",
+        "lemma": "políticamente",
+        "definition": "Con astucia.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "20986",
+        "lemma": "depilar",
+        "definition": "Quitar el vello de una parte del cuerpo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "09680",
+        "lemma": "blanquíbolo",
+        "definition": "una mariposa nocturna con alas blancas.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "39656",
+        "lemma": "latiniparla",
+        "definition": "Una forma de hablar que mezcla el español con el latín.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "55314",
+        "lemma": "resalutación",
+        "definition": "Saludo, salutación.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62175",
+        "lemma": "topicalización",
+        "definition": "El proceso de enfocar la atención en un tema específico.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63860",
+        "lemma": "ultravioleta",
+        "definition": "Relativo a la parte del espectro electromagnético con longitudes de onda más cortas que la luz visible.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "53193",
+        "lemma": "radiactividad",
+        "definition": "La propiedad de un material de emitir radiación, como partículas o rayos gamma.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "20407",
+        "lemma": "darwinista",
+        "definition": "Persona que sigue o acepta las teorías de Charles Darwin.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "34356",
+        "lemma": "guayar",
+        "definition": "Limpiar una superficie con una herramienta especial.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "04705",
+        "lemma": "anonimizar",
+        "definition": "Ocultar la identidad de alguien.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
