@@ -10474,5 +10474,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-01",
+    "words": [
+      {
+        "id": "51168",
+        "lemma": "postinear",
+        "definition": "Publicar algo en un blog o red social.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "06248",
+        "lemma": "arrebatar",
+        "definition": "Robar algo con violencia.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18838",
+        "lemma": "coronilla",
+        "definition": "una parte de la cabeza, usualmente cubierta de cabello, que está por encima de la frente.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22100",
+        "lemma": "desempeño",
+        "definition": "El resultado de realizar un trabajo o una tarea.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "34979",
+        "lemma": "hepatología",
+        "definition": "La rama de la medicina que se ocupa del estudio y tratamiento de las enfermedades del hígado.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31518",
+        "lemma": "focense",
+        "definition": "Relativo a la ciudad de Focea, en Grecia.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "57294",
+        "lemma": "sanguificación",
+        "definition": "La sanguificación es el acto de mejorar la calidad de la sangre mediante la nutrición y el ejercicio.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "39771",
+        "lemma": "lebrancho",
+        "definition": "Pez marino.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37171",
+        "lemma": "infantojuvenil",
+        "definition": "Relativo a la infancia o a la juventud.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38535",
+        "lemma": "jalmería",
+        "definition": "Jalmería es una técnica de juego de palabras en la que se mezclan palabras de diferentes lenguas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "46920",
+        "lemma": "overbooking",
+        "definition": "La práctica de vender más billetes de lo que hay asientos disponibles en un vuelo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "28444",
+        "lemma": "escullir",
+        "definition": "Desgranar, separar lo grande en partes pequeñas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41628",
+        "lemma": "mamplora",
+        "definition": "La mamplora es una herramienta usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45794",
+        "lemma": "novelista",
+        "definition": "una persona que escribe novelas.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "27111",
+        "lemma": "enseñanza",
+        "definition": "acción y efecto de enseñar.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46259",
+        "lemma": "oíslo",
+        "definition": "Escúchalo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50100",
+        "lemma": "pistraje",
+        "definition": "proceso de separar una mezcla de sustancias.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52818",
+        "lemma": "queratitis",
+        "definition": "Inflamación de la córnea.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "47821",
+        "lemma": "pared",
+        "definition": "una estructura vertical que se usa para soportar el techo y los muros de un edificio o habitación.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "29027",
+        "lemma": "esputo",
+        "definition": "expectoración.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61048",
+        "lemma": "tellina",
+        "definition": "Una clase de mejillón.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "08617",
+        "lemma": "barbiquejo",
+        "definition": "Parte delantera de la cabeza del caballo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65270",
+        "lemma": "visorrey",
+        "definition": "un gobernante de una región dependiente de una monarquía.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "39180",
+        "lemma": "kiwi",
+        "definition": "El kiwi es una fruta pequeña, ovalada y con una cáscara marrón que contiene una pulpa verde con semillas negras.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65583",
+        "lemma": "xerografía",
+        "definition": "Un proceso de copiado de documentos usando luz ultravioleta para transferir una imagen a una superficie fotoconductora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "44600",
+        "lemma": "moyana",
+        "definition": "Cerca de alambre.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66068",
+        "lemma": "zarandear",
+        "definition": "agitar algo con un movimiento rápido.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
