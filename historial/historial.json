@@ -10668,5 +10668,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-02",
+    "words": [
+      {
+        "id": "00084",
+        "lemma": "abastar",
+        "definition": "proveer de lo necesario.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08485",
+        "lemma": "bando",
+        "definition": "Grupo de personas unidas por una causa común.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11930",
+        "lemma": "camisolín",
+        "definition": "Prenda de vestir femenina de manga corta.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21225",
+        "lemma": "desafuero",
+        "definition": "la privación de los derechos y privilegios de una persona.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29087",
+        "lemma": "esquivez",
+        "definition": "El acto de evitar o esquivar algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "13690",
+        "lemma": "cazafortunas",
+        "definition": "Un cazafortunas es una persona que busca la riqueza y la fama sin preocuparse por los medios para conseguirla.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "03066",
+        "lemma": "algidez",
+        "definition": "Frío intenso.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "19864",
+        "lemma": "cuchuflí",
+        "definition": "Dulce pequeño, generalmente de forma de cilindro, hecho con harina, azúcar y algún saborizante.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36306",
+        "lemma": "imitable",
+        "definition": "Que se puede imitar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38530",
+        "lemma": "jaletina",
+        "definition": "Una gelatina hecha a partir de una solución de agar-agar y agua.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39198",
+        "lemma": "kurchatovio",
+        "definition": "Unidad de medida de energía nuclear equivalente a 4,6 × 1019 julios.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39375",
+        "lemma": "lambeplatos",
+        "definition": "Persona que se comporta de forma servil para ganar aprobación.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "56300",
+        "lemma": "romboide",
+        "definition": "Figura geométrica plana con cuatro lados y cuatro ángulos, dos de los cuales son rectos y los otros dos obtusos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "27303",
+        "lemma": "entortijar",
+        "definition": "Enrollar algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "56675",
+        "lemma": "sabadeño",
+        "definition": "Persona que vive en la ciudad de Sabadell.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46317",
+        "lemma": "olifante",
+        "definition": "Un cuerno de caza usado en la Edad Media.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "22970",
+        "lemma": "despavesar",
+        "definition": "Deshacer una pavimentación.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "07987",
+        "lemma": "azuquítar",
+        "definition": "una bebida dulce hecha con miel y especias",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "10893",
+        "lemma": "buzonera",
+        "definition": "Un buzón de correos.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "42325",
+        "lemma": "máscara",
+        "definition": "Dispositivo de protección facial.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "43351",
+        "lemma": "mezquinamente",
+        "definition": "De manera avara o tacaña.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "26514",
+        "lemma": "enfurruñarse",
+        "definition": "Enfadarse o enojarse.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "16723",
+        "lemma": "cojinova",
+        "definition": "Cama hecha con cojines.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58234",
+        "lemma": "show",
+        "definition": "Un show es un espectáculo público de entretenimiento, generalmente con música, baile y otros elementos de actuación.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30023",
+        "lemma": "exorno",
+        "definition": "Adorno, aderezo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "47531",
+        "lemma": "panty",
+        "definition": "Bragas",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66283",
+        "lemma": "zumbo",
+        "definition": "Cambural: Una forma de transporte terrestre, generalmente un caballo, usado para el transporte de personas y mercancías.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
