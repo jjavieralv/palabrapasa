@@ -10862,5 +10862,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-03",
+    "words": [
+      {
+        "id": "19894",
+        "lemma": "cuenca",
+        "definition": "una ciudad española ubicada en la provincia de Castilla-La Mancha.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10875",
+        "lemma": "butaque",
+        "definition": "Un butaque es una silla con respaldo alto y asiento bajo que se utiliza comúnmente para descansar.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "15898",
+        "lemma": "cimbre",
+        "definition": "Un cimbre es un movimiento rítmico y ondulante, como el de una cuerda al ser sacudida.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21342",
+        "lemma": "desaparecer",
+        "definition": "Dejar de ser visible.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29323",
+        "lemma": "estero",
+        "definition": "Un estuario o una desembocadura de un río con marea.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31835",
+        "lemma": "fotómetro",
+        "definition": "Un dispositivo para medir la cantidad de luz que llega a un objeto.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33807",
+        "lemma": "grapar",
+        "definition": "Unir dos objetos con grapas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "10636",
+        "lemma": "buchipluma",
+        "definition": "una mariposa nocturna.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36921",
+        "lemma": "independentismo",
+        "definition": "Doctrina o movimiento político que defiende la independencia de una nación.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39093",
+        "lemma": "justificadamente",
+        "definition": "con justificación, con razón.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "58306",
+        "lemma": "sigatoka",
+        "definition": "Una enfermedad infecciosa de las plantas de banano, palmera y plátano causada por un hongo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39608",
+        "lemma": "lastimar",
+        "definition": "Causar dolor o lesión física o moral.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "34297",
+        "lemma": "guarumo",
+        "definition": "Persona muy habladora.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45880",
+        "lemma": "nuncio",
+        "definition": "un embajador o representante de alto rango enviado por una autoridad superior.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "41177",
+        "lemma": "madroño",
+        "definition": "Árbol de la familia de las rosáceas, de hojas perennes, fruto comestible y flores blancas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "18240",
+        "lemma": "contrahacimiento",
+        "definition": "el acto de contraer una obligación o contrato.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50616",
+        "lemma": "poise",
+        "definition": "Elegancia, gracia y seguridad en uno mismo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "08536",
+        "lemma": "báquira",
+        "definition": "Instrumento musical de viento formado por una serie de cañas cortas unidas entre sí.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54656",
+        "lemma": "rehinchir",
+        "definition": "volver a llenar con aire.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59198",
+        "lemma": "somorgujador",
+        "definition": "Un somorgujador es una persona que se divierte burlándose de los demás.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "41885",
+        "lemma": "mantazo",
+        "definition": "Una manta gruesa y cálida que se usa para abrigar o para cubrir algo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "05097",
+        "lemma": "anuario",
+        "definition": "Libro que contiene información acerca de un año en particular.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65541",
+        "lemma": "vulneración",
+        "definition": "Violación de un derecho.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "45483",
+        "lemma": "newton",
+        "definition": "Matemático, físico, filósofo y teólogo inglés, considerado uno de los científicos más importantes de todos los tiempos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "17030",
+        "lemma": "comayagüense",
+        "definition": "Alguien o algo que pertenece o se relaciona con la ciudad de Comayagua, en Honduras.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66190",
+        "lemma": "zoncuán",
+        "definition": "una región del estado mexicano de Oaxaca.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
