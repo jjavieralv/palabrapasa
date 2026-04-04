@@ -11056,5 +11056,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-04",
+    "words": [
+      {
+        "id": "53019",
+        "lemma": "quintral",
+        "definition": "Un árbol de la familia de los cipreses que crece en la región andina de América del Sur.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "02506",
+        "lemma": "albalá",
+        "definition": "Instrumento musical de viento.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "32488",
+        "lemma": "galacho",
+        "definition": "Persona que habla gallego.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "57088",
+        "lemma": "saltadero",
+        "definition": "Un saltadero es un lugar donde se practica el salto de altura.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "53892",
+        "lemma": "recalce",
+        "definition": "Repetición.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "58518",
+        "lemma": "sinfonismo",
+        "definition": "El sinfonismo es una forma de música que combina sinfonía y canción.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33013",
+        "lemma": "gateamiento",
+        "definition": "Se refiere al acto de gatear, es decir, desplazarse sobre las manos y las rodillas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "11116",
+        "lemma": "caché",
+        "definition": "Dinero oculto en un lugar seguro.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "52415",
+        "lemma": "pudelación",
+        "definition": "Acción de pudelar, es decir, hablar mucho sin decir nada importante.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "55528",
+        "lemma": "restojo",
+        "definition": "Vegetación de una zona que se regenera después de un incendio.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39142",
+        "lemma": "kevlar",
+        "definition": "Un material resistente y ligero que se usa en la fabricación de chalecos antibalas y otros equipos de protección.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39661",
+        "lemma": "latir",
+        "definition": "Palpitar, vibrar.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41113",
+        "lemma": "macuache",
+        "definition": "una bebida alcohólica mexicana hecha con mezcal y frutas.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45888",
+        "lemma": "nutricional",
+        "definition": "adj. Relacionado con la nutrición.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "58209",
+        "lemma": "señalar",
+        "definition": "Indicar una dirección o una ubicación.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46335",
+        "lemma": "olismear",
+        "definition": "Mezclar y desordenar cosas sin un propósito.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "23193",
+        "lemma": "despropósito",
+        "definition": "Acción que no tiene sentido o que carece de lógica.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53092",
+        "lemma": "quiñazo",
+        "definition": "una cantidad grande de dinero.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55128",
+        "lemma": "repetibilidad",
+        "definition": "Capacidad de un experimento para ser repetido varias veces con los mismos resultados.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57157",
+        "lemma": "salvamiento",
+        "definition": "Acción de salvar o rescatar a alguien o algo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61625",
+        "lemma": "tierrero",
+        "definition": "Un ave de la familia de los loros.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64107",
+        "lemma": "uñarada",
+        "definition": "una técnica de lucha tradicional japonesa.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65145",
+        "lemma": "vinificar",
+        "definition": "transformar el mosto en vino.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60829",
+        "lemma": "tawahka",
+        "definition": "Perteneciente a una etnia indígena de Nicaragua.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65617",
+        "lemma": "yagrumo",
+        "definition": "Árbol de la familia de las palmas, nativo de América Central.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "15520",
+        "lemma": "chozo",
+        "definition": "Un chozo es una pequeña cabaña hecha de ramas y hojas, generalmente usada como vivienda temporal.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
