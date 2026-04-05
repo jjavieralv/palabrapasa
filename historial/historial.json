@@ -11250,5 +11250,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-05",
+    "words": [
+      {
+        "id": "03934",
+        "lemma": "amazacotamiento",
+        "definition": "Es un proceso en el que se somete un material a una presión mecánica para aumentar la densidad de sus componentes.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08040",
+        "lemma": "babadero",
+        "definition": "una especie de cuna suspendida de una barra o una cuerda.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "23191",
+        "lemma": "desproporción",
+        "definition": "Una relación desigual entre dos cosas.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "60941",
+        "lemma": "tejedura",
+        "definition": "El proceso de hacer tejidos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26756",
+        "lemma": "enjambradero",
+        "definition": "Lugar donde se criaban y entrenaban los caballos para las carreras.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "47073",
+        "lemma": "paidofilia",
+        "definition": "es una enfermedad mental que implica una atracción sexual hacia niños.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "02019",
+        "lemma": "aguamanos",
+        "definition": "Cubo o recipiente con agua para lavarse las manos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "01740",
+        "lemma": "agachaparse",
+        "definition": "encogerse.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37398",
+        "lemma": "injundia",
+        "definition": "La injundia es el acto de usar la fuerza o la presión para conseguir algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39109",
+        "lemma": "juzgamundos",
+        "definition": "Alguien que juzga a los demás sin conocerlos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "03286",
+        "lemma": "alkermes",
+        "definition": "Una bebida alcohólica tradicional italiana hecha de vino, especias y colorantes.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "02649",
+        "lemma": "albuminoide",
+        "definition": "Los albuminoides son un grupo de proteínas solubles en agua que se encuentran en la clara de huevo, la leche y los líquidos corporales.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "57675",
+        "lemma": "sedimentación",
+        "definition": "El proceso de separar partículas suspendidas en un líquido por medio de la gravedad.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45348",
+        "lemma": "nenia",
+        "definition": "Cantar popular que se entona con melancolía.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45918",
+        "lemma": "ñaque",
+        "definition": "Es una forma de bailar típica de la región de los Andes de Perú, Bolivia y Ecuador.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46110",
+        "lemma": "ocelote",
+        "definition": "Un ocelote es un pequeño felino de América tropical.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "25657",
+        "lemma": "emplumajar",
+        "definition": "Cubrir algo con plumas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "16503",
+        "lemma": "cochiquera",
+        "definition": "recipiente de barro, metal o madera para contener líquidos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "12942",
+        "lemma": "carnetización",
+        "definition": "Acción de expedir un carnet a una persona.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59135",
+        "lemma": "solo",
+        "definition": "Una persona que está sola.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62311",
+        "lemma": "torrencial",
+        "definition": "Que cae con mucha fuerza y rapidez.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "03698",
+        "lemma": "altramuz",
+        "definition": "El altramuz es una legumbre que se cultiva para su consumo humano y animal.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "02222",
+        "lemma": "ahuevada",
+        "definition": "Acción de actuar con desprecio o desdén.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "39180",
+        "lemma": "kiwi",
+        "definition": "El kiwi es una fruta pequeña, ovalada y con una cáscara marrón que contiene una pulpa verde con semillas negras.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65573",
+        "lemma": "xantina",
+        "definition": "una base nitrogenada presente en los tejidos animales y vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65664",
+        "lemma": "yatismo",
+        "definition": "El yatismo es una filosofía de vida que promueve la simplicidad, el minimalismo y la conexión con la naturaleza.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "56473",
+        "lemma": "rozadero",
+        "definition": "Pieza de metal que se usa para afilar herramientas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
