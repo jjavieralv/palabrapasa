@@ -11444,5 +11444,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-06",
+    "words": [
+      {
+        "id": "05076",
+        "lemma": "antropomorfista",
+        "definition": "Persona que atribuye características humanas a seres no humanos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "59662",
+        "lemma": "suburbio",
+        "definition": "Área de una ciudad que está alrededor de la zona central.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "51328",
+        "lemma": "precinto",
+        "definition": "Es un dispositivo de seguridad destinado a garantizar la integridad de un contenedor o envase.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22726",
+        "lemma": "desmejoramiento",
+        "definition": "El proceso de reducir la calidad o el valor de algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "39817",
+        "lemma": "ledón",
+        "definition": "una especie de canto popular griego",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32094",
+        "lemma": "frigobar",
+        "definition": "Refrigerador portátil.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33669",
+        "lemma": "gracia",
+        "definition": "La gracia es una cualidad que consiste en el humor, la amabilidad y la elegancia.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34582",
+        "lemma": "habilitación",
+        "definition": "La habilitación es el proceso de habilitar a alguien o algo para que pueda desempeñar una función específica.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "51198",
+        "lemma": "potación",
+        "definition": "Una bebida alcohólica.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38802",
+        "lemma": "jipiar",
+        "definition": "Hablar con tono sarcástico o burlón.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39137",
+        "lemma": "kendo",
+        "definition": "Deporte japonés basado en el combate con palos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "00166",
+        "lemma": "ablandahígos",
+        "definition": "Son palabras o acciones que sirven para suavizar una situación.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "48812",
+        "lemma": "pensamiento",
+        "definition": "Un proceso mental que involucra la reflexión, el análisis y la formación de conceptos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "13570",
+        "lemma": "caucionar",
+        "definition": "Garantizar el cumplimiento de una obligación.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45939",
+        "lemma": "ñor",
+        "definition": "Una ave de la familia de los trogloditas.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "45992",
+        "lemma": "objetivismo",
+        "definition": "Una filosofía que sostiene que la realidad es objetiva y no depende de la percepción subjetiva.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "25703",
+        "lemma": "emprestador",
+        "definition": "Persona que presta dinero o algo de valor a otra persona.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "61116",
+        "lemma": "tempisque",
+        "definition": "Río de América Central que fluye desde el sur de Costa Rica hacia el norte de Nicaragua.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "10450",
+        "lemma": "brinquiño",
+        "definition": "Movimiento rápido y brusco.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "10516",
+        "lemma": "broncista",
+        "definition": "Persona que en una fiesta popular toca la gaita.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61247",
+        "lemma": "teocracia",
+        "definition": "Gobierno en el que la religión es la fuente de la autoridad.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "15581",
+        "lemma": "chullo",
+        "definition": "Una gorra típica andina tejida a mano.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64296",
+        "lemma": "vapor",
+        "definition": "Una forma de energía producida por el calor de una fuente de calor, como una caldera, que se usa para mover maquinaria.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30002",
+        "lemma": "exoesqueleto",
+        "definition": "Una estructura externa rígida que rodea al cuerpo de un animal.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "59678",
+        "lemma": "subyugar",
+        "definition": "someter a alguien o algo a su control.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "61049",
+        "lemma": "telliz",
+        "definition": "una pequeña pieza de metal usada para asegurar una correa o una hebilla.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
