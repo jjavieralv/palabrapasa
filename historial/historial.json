@@ -11832,5 +11832,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-08",
+    "words": [
+      {
+        "id": "00719",
+        "lemma": "achancar",
+        "definition": "estrechar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "17914",
+        "lemma": "conservable",
+        "definition": "adjetivo para referirse a algo que puede ser conservado, preservado o mantenido.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "29765",
+        "lemma": "euscaldunización",
+        "definition": "Proceso de transformación de una lengua a otra, como del euskera al castellano.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23436",
+        "lemma": "desvergonzadamente",
+        "definition": "sin vergüenza.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "30203",
+        "lemma": "extralimitación",
+        "definition": "exceso de los límites permitidos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "22186",
+        "lemma": "desenfrailar",
+        "definition": "desenredar algo enmarañado.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "41258",
+        "lemma": "magnetoóptica",
+        "definition": "La magnetoóptica es una tecnología que utiliza campos magnéticos y luz para manipular objetos microscópicos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "56196",
+        "lemma": "rodancha",
+        "definition": "Una rodancha es una rueda de madera con una cuerda atada a ella, que se usa para jugar.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "40014",
+        "lemma": "letrinización",
+        "definition": "Proceso de convertir el conocimiento oral a escrito.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "43956",
+        "lemma": "mojera",
+        "definition": "Un recipiente de barro o madera usado para almacenar agua.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "58306",
+        "lemma": "sigatoka",
+        "definition": "Una enfermedad infecciosa de las plantas de banano, palmera y plátano causada por un hongo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40856",
+        "lemma": "ludo",
+        "definition": "juego de mesa.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "25379",
+        "lemma": "embutido",
+        "definition": "Producto cárnico curado y salado.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "30624",
+        "lemma": "farmacodependencia",
+        "definition": "una adicción a los medicamentos recetados.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45910",
+        "lemma": "ñandubay",
+        "definition": "Una danza típica de la región de la Guayana Venezolana.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "27017",
+        "lemma": "enrobinarse",
+        "definition": "cubrirse con una manta.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51354",
+        "lemma": "preconciliar",
+        "definition": "que precede al concilio.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52971",
+        "lemma": "quinde",
+        "definition": "antiguo juego de naipes español.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56529",
+        "lemma": "ruchique",
+        "definition": "Una bebida alcohólica tradicional mexicana hecha de maíz y melaza.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58810",
+        "lemma": "sobreintendencia",
+        "definition": "cargo administrativo que supervisa el funcionamiento de una institución.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62451",
+        "lemma": "trabanco",
+        "definition": "Una forma tradicional de juego de mesa española.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63899",
+        "lemma": "unicolor",
+        "definition": "Que tiene un solo color.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "46146",
+        "lemma": "octavín",
+        "definition": "Un instrumento musical de viento de ocho notas.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65583",
+        "lemma": "xerografía",
+        "definition": "Un proceso de copiado de documentos usando luz ultravioleta para transferir una imagen a una superficie fotoconductora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "16430",
+        "lemma": "cobaya",
+        "definition": "Una cobaya es un pequeño roedor de la familia de los cuyes.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65928",
+        "lemma": "zambombo",
+        "definition": "Instrumento musical formado por una caja de madera y hilos de metal.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
