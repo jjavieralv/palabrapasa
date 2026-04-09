@@ -12026,5 +12026,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-09",
+    "words": [
+      {
+        "id": "01929",
+        "lemma": "agregar",
+        "definition": "añadir algo a algo existente.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "07484",
+        "lemma": "autobanco",
+        "definition": "Máquina automática que permite a los usuarios realizar transacciones bancarias sin asistencia humana.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17075",
+        "lemma": "comendatario",
+        "definition": "Un comendatario es una persona que ha sido nombrada para administrar una propiedad o una institución a nombre de otra persona.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "48535",
+        "lemma": "pedrerío",
+        "definition": "La disposición de piedras en una construcción.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26324",
+        "lemma": "endeudarse",
+        "definition": "incurrir en deudas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "23771",
+        "lemma": "difícil",
+        "definition": "Requiere mucho esfuerzo, no es fácil.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33120",
+        "lemma": "gemiquear",
+        "definition": "lloriquear.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35608",
+        "lemma": "holografía",
+        "definition": "La holografía es una técnica de grabación de imágenes ópticas que permite una representación tridimensional de un objeto.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "07756",
+        "lemma": "aviltar",
+        "definition": "humillar",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38903",
+        "lemma": "jovialidad",
+        "definition": "Estado de ánimo alegre y jovial.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39908",
+        "lemma": "lendakari",
+        "definition": "El título oficial otorgado al primer ministro de País Vasco.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40498",
+        "lemma": "liña",
+        "definition": "una forma de tejer con una aguja de ganchillo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41480",
+        "lemma": "malgastar",
+        "definition": "desperdiciar.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45659",
+        "lemma": "nombradamente",
+        "definition": "con nombre específico.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13751",
+        "lemma": "cañamoncillo",
+        "definition": "Un árbol de la familia de los cítricos que produce un fruto comestible de sabor dulce y picante.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "39055",
+        "lemma": "jurco",
+        "definition": "una persona con tendencia a ser engreída.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47488",
+        "lemma": "panllevar",
+        "definition": "Panllevar es una comida para llevar a cabo una actividad fuera de casa.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "63070",
+        "lemma": "trenque",
+        "definition": "Cada una de las dos partes iguales en que se divide una cosa.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "42715",
+        "lemma": "medicalizar",
+        "definition": "Tratar una condición con medicamentos.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58011",
+        "lemma": "serenero",
+        "definition": "Persona que toca la serenata.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62459",
+        "lemma": "trabón",
+        "definition": "Pieza de metal o madera que se usa para unir o sujetar dos o más piezas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "47979",
+        "lemma": "particularizar",
+        "definition": "Definir algo con detalle.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "07780",
+        "lemma": "avizorar",
+        "definition": "observar con atención.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "10764",
+        "lemma": "bungalow",
+        "definition": "Un bungalow es una casa de una sola planta con un techo bajo.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65588",
+        "lemma": "xilema",
+        "definition": "Tejido vascular de los vegetales que transporta agua y nutrientes desde la raíz hasta los órganos vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65766",
+        "lemma": "yudoca",
+        "definition": "Instrumento musical tradicional usado en la cultura Wayúu.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65845",
+        "lemma": "zafacón",
+        "definition": "desorden o revuelo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
