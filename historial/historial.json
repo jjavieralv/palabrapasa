@@ -12220,5 +12220,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-10",
+    "words": [
+      {
+        "id": "28266",
+        "lemma": "escolar",
+        "definition": "Chillar: gritar o chillar con fuerza.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08452",
+        "lemma": "bancadita",
+        "definition": "Una bancadita es una silla o un banco pequeño, generalmente usado para sentarse en un jardín o en un patio.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "25987",
+        "lemma": "encascabelar",
+        "definition": "envolver algo con una cuerda para sujetarlo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "35124",
+        "lemma": "heterodoxia",
+        "definition": "Doctrina o pensamiento contrario a lo establecido.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "19789",
+        "lemma": "cubicaje",
+        "definition": "El volumen de un contenedor, expresado en metros cúbicos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "11556",
+        "lemma": "calefactable",
+        "definition": "Que se puede calentar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "02108",
+        "lemma": "agujal",
+        "definition": "Una aguja pequeña con una cabeza redondeada.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35549",
+        "lemma": "hoatzin",
+        "definition": "una ave tropical con una cresta característica en la parte superior de la cabeza.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "07631",
+        "lemma": "auxiliar",
+        "definition": "Ayudar o asistir.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38740",
+        "lemma": "jetazo",
+        "definition": "Golpe fuerte con la mirada.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39158",
+        "lemma": "kilometrar",
+        "definition": "Medir una distancia en kilómetros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39713",
+        "lemma": "lavadura",
+        "definition": "El acto de lavar algo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "26345",
+        "lemma": "endogamia",
+        "definition": "El matrimonio entre parientes cercanos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45452",
+        "lemma": "neurotizante",
+        "definition": "Algo que causa estrés, ansiedad o nerviosismo.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45950",
+        "lemma": "ñudo",
+        "definition": "Nudo complicado hecho con una cuerda o con una tira de tela.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46583",
+        "lemma": "ordenancismo",
+        "definition": "Una forma de pensamiento que se basa en la idea de que la ley es la medida de todas las cosas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "06128",
+        "lemma": "aromaterapia",
+        "definition": "El uso de aceites esenciales para el tratamiento de enfermedades.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "30745",
+        "lemma": "fayuquear",
+        "definition": "Mover algo con una palanca.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "41597",
+        "lemma": "mambrú",
+        "definition": "Una antigua canción española.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58453",
+        "lemma": "simulación",
+        "definition": "el acto de fingir o simular.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "57339",
+        "lemma": "santateresa",
+        "definition": "Persona que dedica su vida al servicio de los demás.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "26262",
+        "lemma": "encuadramiento",
+        "definition": "El acto de encuadrar, es decir, de poner algo dentro de un marco o de una estructura.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "63337",
+        "lemma": "trivializar",
+        "definition": "reducir algo a algo insignificante.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65559",
+        "lemma": "web",
+        "definition": "Sitio de Internet.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "57547",
+        "lemma": "saxafrax",
+        "definition": "una herramienta para trabajar la madera.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65758",
+        "lemma": "yubarta",
+        "definition": "Persona que lleva una prenda con capucha para cubrirse la cabeza y el cuello.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "08996",
+        "lemma": "bazuca",
+        "definition": "Arma de fuego portátil.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
