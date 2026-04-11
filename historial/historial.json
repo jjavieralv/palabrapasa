@@ -12414,5 +12414,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-11",
+    "words": [
+      {
+        "id": "17981",
+        "lemma": "constipado",
+        "definition": "Una enfermedad que se caracteriza por una congestión nasal, tos y estornudos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10082",
+        "lemma": "bordonear",
+        "definition": "Cantar canciones populares con una guitarra.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "14933",
+        "lemma": "chepia",
+        "definition": "una forma de tejido de algodón o lana.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "38136",
+        "lemma": "inveteradamente",
+        "definition": "Hábitualmente.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "61795",
+        "lemma": "tiquizque",
+        "definition": "Un juego tradicional mexicano en el que los jugadores intentan adivinar palabras escondidas.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "23762",
+        "lemma": "diferencia",
+        "definition": "La relación entre dos cosas que son distintas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32504",
+        "lemma": "galanura",
+        "definition": "Adorno externo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35145",
+        "lemma": "hexano",
+        "definition": "Un hidrocarburo alifático con seis átomos de carbono.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38333",
+        "lemma": "islamizar",
+        "definition": "Convertir al islam.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38636",
+        "lemma": "jaropear",
+        "definition": "beber con exceso.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39168",
+        "lemma": "kinesioterapia",
+        "definition": "Una forma de terapia física que implica el uso de movimientos para aliviar el dolor y mejorar la función.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "54560",
+        "lemma": "regional",
+        "definition": "Relacionado con una región.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "25706",
+        "lemma": "empréstido",
+        "definition": "El empréstido es una cantidad de dinero que se recibe de una persona o entidad para su uso temporal y se debe devolver con intereses en un plazo acordado.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45410",
+        "lemma": "néspera",
+        "definition": "Fruta de la familia de los melocotones.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45941",
+        "lemma": "ñorbo",
+        "definition": "Persona muy habladora.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46481",
+        "lemma": "opercular",
+        "definition": "Que tiene una forma de operculo o tapa.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52024",
+        "lemma": "prolijamente",
+        "definition": "prolijamente, de manera prolija.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52792",
+        "lemma": "queloide",
+        "definition": "Cicatriz anormalmente grande y abultada que se forma después de una lesión.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55335",
+        "lemma": "rescatista",
+        "definition": "Persona que interviene en una operación de rescate.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58650",
+        "lemma": "sistematizar",
+        "definition": "organizar un conjunto de elementos de forma lógica.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "05611",
+        "lemma": "apretadura",
+        "definition": "Una apretadura es una forma de ajustar algo con fuerza para mantenerlo en su lugar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "48809",
+        "lemma": "penquista",
+        "definition": "Persona que es originaria de la Península de la Florida.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "22608",
+        "lemma": "desinvernar",
+        "definition": "quitar la nieve o el hielo acumulado.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65586",
+        "lemma": "xi",
+        "definition": "letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65740",
+        "lemma": "yogurtera",
+        "definition": "Un recipiente para mantener el yogur fresco.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66185",
+        "lemma": "zonal",
+        "definition": "Relativo o perteneciente a una zona determinada.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
