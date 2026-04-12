@@ -12608,5 +12608,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-12",
+    "words": [
+      {
+        "id": "42572",
+        "lemma": "mayor",
+        "definition": "La persona más importante de una ciudad, una localidad, una comunidad, una región, etc.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08454",
+        "lemma": "bancalero",
+        "definition": "Persona que trabaja en un banco.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "16352",
+        "lemma": "cloquera",
+        "definition": "Juego de niños en el que se lanzan piedras.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "34221",
+        "lemma": "guardamuebles",
+        "definition": "un lugar para almacenar muebles.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "41416",
+        "lemma": "malavez",
+        "definition": "amente",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "23762",
+        "lemma": "diferencia",
+        "definition": "La relación entre dos cosas que son distintas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33131",
+        "lemma": "genealogista",
+        "definition": "una persona que estudia la historia de una familia a través de sus antepasados.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14508",
+        "lemma": "chaguala",
+        "definition": "Instrumento musical de viento de la región de América del Sur.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "24832",
+        "lemma": "edificación",
+        "definition": "La construcción de edificios.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "11291",
+        "lemma": "cagajón",
+        "definition": "Refugio, lugar de protección.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "58232",
+        "lemma": "shock",
+        "definition": "Estado de choque, una reacción física y emocional a una gran cantidad de estrés.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40529",
+        "lemma": "llanta",
+        "definition": "Una cubierta de goma para una rueda.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "37452",
+        "lemma": "inmolar",
+        "definition": "sacrificar algo o a alguien para un propósito.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "36759",
+        "lemma": "inconclusión",
+        "definition": "Es el resultado de una acción que no se ha completado o no ha llegado a una conclusión satisfactoria.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45909",
+        "lemma": "ñandú",
+        "definition": "Ave de la familia de los ñandúes, de gran tamaño y con plumas grises y marrones.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "01008",
+        "lemma": "acotamiento",
+        "definition": "El acotamiento es el proceso de establecer límites o fronteras para un área específica.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "35435",
+        "lemma": "hipocicloide",
+        "definition": "Una hipocicloide es una curva cerrada generada por la intersección de una circunferencia con otra.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "37533",
+        "lemma": "inquebrantable",
+        "definition": "Algo que no se puede romper, destruir o cambiar.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "25346",
+        "lemma": "embrocar",
+        "definition": "guiar a alguien hacia un objetivo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "33339",
+        "lemma": "girasol",
+        "definition": "El girasol es una planta con grandes flores amarillas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "06170",
+        "lemma": "arquíptero",
+        "definition": "animal alado",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10639",
+        "lemma": "buco",
+        "definition": "una embarcación de vela con una vela de tres puntas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64373",
+        "lemma": "varitero",
+        "definition": "El varitero es un trabajador que trabaja con varillas de hierro.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65557",
+        "lemma": "watt",
+        "definition": "El watt es una unidad de potencia eléctrica que se utiliza para medir la cantidad de energía que un dispositivo consume por segundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29863",
+        "lemma": "excandecencia",
+        "definition": "Una emisión de luz intensa y brillante.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "07567",
+        "lemma": "autoinyectable",
+        "definition": "inyectable por uno mismo",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "23047",
+        "lemma": "despersonalización",
+        "definition": "La despersonalización es el proceso de eliminar todas las características únicas de una persona, como la identidad, la personalidad y los recuerdos.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
