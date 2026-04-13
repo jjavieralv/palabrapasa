@@ -12802,5 +12802,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-13",
+    "words": [
+      {
+        "id": "04181",
+        "lemma": "amortización",
+        "definition": "La reducción gradual de una deuda a través de pagos periódicos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10691",
+        "lemma": "buhardilla",
+        "definition": "Espacio en el ático de una casa.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "65829",
+        "lemma": "zacatear",
+        "definition": "Golpear con zapatos o con algo parecido.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22879",
+        "lemma": "desorientación",
+        "definition": "confusión mental, desconocimiento de la situación.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29870",
+        "lemma": "excavar",
+        "definition": "remover la tierra para descubrir algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "01562",
+        "lemma": "afear",
+        "definition": "hacer algo o a alguien feo;",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33875",
+        "lemma": "gremialismo",
+        "definition": "El gremialismo es una forma de organización sindical que se caracteriza por la unión de trabajadores de una misma profesión.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14433",
+        "lemma": "ch",
+        "definition": "Asacamiento: Acción de asacar o saquear.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "54362",
+        "lemma": "reestructuración",
+        "definition": "El proceso de reorganizar una empresa para mejorar su eficiencia y eficacia.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "54816",
+        "lemma": "relojear",
+        "definition": "mirar con atención.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39115",
+        "lemma": "káiser",
+        "definition": "Título dado al emperador alemán.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "60457",
+        "lemma": "tamul",
+        "definition": "Persona de la cultura tamul.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "39417",
+        "lemma": "lampacear",
+        "definition": "Remover el agua con una pala.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "05929",
+        "lemma": "arenal",
+        "definition": "playa de arena.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45926",
+        "lemma": "ñinga",
+        "definition": "Una herramienta usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "45274",
+        "lemma": "necton",
+        "definition": "Un necton es un organismo acuático que nada libremente en el agua, como los peces, las algas y los crustáceos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52464",
+        "lemma": "pufo",
+        "definition": "Un pufo es una pequeña bola de aire que se forma en un líquido cuando se agita o se mezcla con otro líquido.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "12522",
+        "lemma": "caquetense",
+        "definition": "Natural o habitante de Caquetá, Colombia.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56586",
+        "lemma": "ruletear",
+        "definition": "Girar la ruleta para determinar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58432",
+        "lemma": "simón",
+        "definition": "Persona que aprovecha la ingenuidad de los demás para obtener algo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60209",
+        "lemma": "tachonar",
+        "definition": "Marcar una superficie con clavos o tachuelas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63813",
+        "lemma": "ufología",
+        "definition": "Estudio de los ovnis y fenómenos relacionados con los extraterrestres.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65310",
+        "lemma": "vitrificación",
+        "definition": "Acción de convertir algo en vidrio.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "39199",
+        "lemma": "kuwaití",
+        "definition": "Relativo o perteneciente a Kuwait.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65676",
+        "lemma": "yeguar",
+        "definition": "Animal de la familia de los caballos, de tamaño menor.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66058",
+        "lemma": "zaragatona",
+        "definition": "Una mujer con una personalidad fuerte.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
