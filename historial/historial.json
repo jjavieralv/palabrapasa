@@ -12996,5 +12996,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-14",
+    "words": [
+      {
+        "id": "00094",
+        "lemma": "abatimiento",
+        "definition": "Estado de ánimo de tristeza y desaliento.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09271",
+        "lemma": "besugo",
+        "definition": "Un tipo de pez de agua salada, de la familia de los Sparidae, que se encuentra en el Mediterráneo.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "41153",
+        "lemma": "madrecacao",
+        "definition": "Árbol de la familia de las leguminosas.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21372",
+        "lemma": "desaprir",
+        "definition": "Deshacer una relación entre dos o más personas.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29570",
+        "lemma": "estridente",
+        "definition": "Estruendoso.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "02971",
+        "lemma": "alfaneque",
+        "definition": "Comerciante de telas y lanas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "25005",
+        "lemma": "electroencefalografista",
+        "definition": "Persona que realiza una electroencefalografía",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35686",
+        "lemma": "hondura",
+        "definition": "profundidad, intensidad.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36584",
+        "lemma": "inalterabilidad",
+        "definition": "Estado de algo que no cambia o no puede ser alterado.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38630",
+        "lemma": "jaripeo",
+        "definition": "El jaripeo es una forma tradicional de entretenimiento mexicano que incluye la monta de toros, caballos y otros animales.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "47127",
+        "lemma": "pakistaní",
+        "definition": "adjetivo para describir algo relacionado con Pakistán.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39490",
+        "lemma": "langostín",
+        "definition": "Un pequeño crustáceo de color marrón con una forma alargada.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "35312",
+        "lemma": "hilemorfismo",
+        "definition": "Es una teoría filosófica que sostiene que todos los seres vivos están compuestos por dos principios",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "17964",
+        "lemma": "consorte",
+        "definition": "Persona que está unida por un vínculo de matrimonio.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "08502",
+        "lemma": "bangaña",
+        "definition": "Una bangaña es una forma de juego de cartas tradicional del sur de España.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46515",
+        "lemma": "opresivamente",
+        "definition": "de manera opresiva.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49675",
+        "lemma": "piezgo",
+        "definition": "movimiento brusco.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "60617",
+        "lemma": "taquimeca",
+        "definition": "un dispositivo mecánico usado para medir el tiempo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "07729",
+        "lemma": "avetarda",
+        "definition": "Una persona que es tímida, insegura y poco confiada.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58131",
+        "lemma": "sesión",
+        "definition": "Reunión o encuentro para una actividad o trabajo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "18114",
+        "lemma": "continuar",
+        "definition": "Prosseguir algo sin interrupción.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63840",
+        "lemma": "ultracongelar",
+        "definition": "Congelar a temperaturas muy bajas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "26235",
+        "lemma": "encorvar",
+        "definition": "doblar, curvar.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65580",
+        "lemma": "xerocopia",
+        "definition": "Copia hecha con una máquina de fotocopiar.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "30743",
+        "lemma": "fayenza",
+        "definition": "Un tipo de cerámica de color azul o verde.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65839",
+        "lemma": "zaceo",
+        "definition": "Acción de pasar el tiempo sin hacer nada.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
