@@ -13190,5 +13190,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-15",
+    "words": [
+      {
+        "id": "10305",
+        "lemma": "bramar",
+        "definition": "emitir un sonido fuerte y prolongado.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "29561",
+        "lemma": "estribo",
+        "definition": "Pieza de hierro usada para montar a caballo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "14472",
+        "lemma": "chacota",
+        "definition": "broma o burla.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23793",
+        "lemma": "difuminación",
+        "definition": "Acción de difuminar algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28135",
+        "lemma": "escarpar",
+        "definition": "Escarpar es cavar una línea en una superficie.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32260",
+        "lemma": "fulmicotón",
+        "definition": "Objeto que se utiliza para hacer fuego.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "07984",
+        "lemma": "azumagarse",
+        "definition": "acurrucarse.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35582",
+        "lemma": "holanda",
+        "definition": "un país de Europa occidental.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37957",
+        "lemma": "intersexualidad",
+        "definition": "Condición en la que una persona presenta características sexuales de ambos sexos.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38506",
+        "lemma": "jaima",
+        "definition": "Tienda de campaña tradicional árabe.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39163",
+        "lemma": "kilovoltio",
+        "definition": "Unidad de medida de la potencia eléctrica.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40435",
+        "lemma": "litar",
+        "definition": "Atar con cuerda.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "30797",
+        "lemma": "feísmo",
+        "definition": "El acto de hacer algo con la intención de aumentar uno mismo a expensas de otros.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45822",
+        "lemma": "nublar",
+        "definition": "cubrir con nubes.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "10088",
+        "lemma": "borgoña",
+        "definition": "Una región de Francia.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46778",
+        "lemma": "osadamente",
+        "definition": "con audacia o atrevimiento.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "37110",
+        "lemma": "inesperable",
+        "definition": "algo que no se espera que suceda.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "47924",
+        "lemma": "parqui",
+        "definition": "El parqui es un juego de mesa de origen español en el que los jugadores intentan mover sus fichas por el tablero con el objetivo de llegar a la casilla de salida.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56015",
+        "lemma": "ringlero",
+        "definition": "persona que hace trucos con los caballos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58251",
+        "lemma": "sicalipsis",
+        "definition": "una figura retórica que consiste en la repetición de una palabra al principio de cada frase.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61747",
+        "lemma": "tintero",
+        "definition": "Utensilio usado para contener tinta para escribir.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "19054",
+        "lemma": "corulla",
+        "definition": "Una corulla es una prenda de vestir, generalmente de tela, que se usa para cubrir la cabeza.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "51837",
+        "lemma": "proactividad",
+        "definition": "Acción de anticiparse a los acontecimientos y tomar la iniciativa.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65559",
+        "lemma": "web",
+        "definition": "Sitio de Internet.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "58171",
+        "lemma": "sex shop",
+        "definition": "Un sex shop es un establecimiento comercial que vende productos relacionados con la sexualidad.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "04289",
+        "lemma": "anafaya",
+        "definition": "Una planta trepadora con flores de color rojo o blanco.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "11765",
+        "lemma": "calzatrepas",
+        "definition": "Calzado usado y desgastado.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
