@@ -13384,5 +13384,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-16",
+    "words": [
+      {
+        "id": "14768",
+        "lemma": "chapuzón",
+        "definition": "Acción de sumergirse en el agua.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "25809",
+        "lemma": "encabellecerse",
+        "definition": "Enfurecerse.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "54209",
+        "lemma": "recuperable",
+        "definition": "Que se puede recuperar.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21767",
+        "lemma": "desclavar",
+        "definition": "quitar la clavija",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "07482",
+        "lemma": "autoaprendizaje",
+        "definition": "el proceso de aprender por uno mismo, sin la ayuda de un profesor.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "52464",
+        "lemma": "pufo",
+        "definition": "Un pufo es una pequeña bola de aire que se forma en un líquido cuando se agita o se mezcla con otro líquido.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "63187",
+        "lemma": "triga",
+        "definition": "Un triga es una herramienta de hierro usada para cavar en la tierra.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "15423",
+        "lemma": "chofeta",
+        "definition": "persona que maneja un vehículo de caballos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "11453",
+        "lemma": "calandria",
+        "definition": "Una calandria es una herramienta de metal con forma de cilindro hueco que se utiliza para lijar y pulir superficies.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "07052",
+        "lemma": "atarjea",
+        "definition": "Un lugar en el que se guardan objetos pequeños.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "54834",
+        "lemma": "remake",
+        "definition": "Un remake es una versión nueva de una película, libro o canción que ya existía previamente.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "49855",
+        "lemma": "pinolate",
+        "definition": "Postre típico de la región de Piemonte, Italia, que se prepara con almendras, nueces y azúcar.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43065",
+        "lemma": "meollo",
+        "definition": "El meollo es el núcleo principal de un tema o asunto.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45682",
+        "lemma": "nómino",
+        "definition": "cantidad de dinero que se debe pagar.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45921",
+        "lemma": "ñáñara",
+        "definition": "Una antigua palabra que se usaba para referirse a la risa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46783",
+        "lemma": "osario",
+        "definition": "un lugar para enterrar los huesos de los muertos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52525",
+        "lemma": "pulpeta",
+        "definition": "Una herramienta de mano con una cabeza de metal para golpear y aplastar objetos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52851",
+        "lemma": "quesito",
+        "definition": "Un quesito es una pequeña cantidad de queso, generalmente un tipo de queso blando, que se usa como acompañamiento para algunos platos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56252",
+        "lemma": "roldar",
+        "definition": "Dar forma de rodillo a algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "42373",
+        "lemma": "mastelerillo",
+        "definition": "Una pequeña mesa con una sola patas, usada para servir bebidas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61936",
+        "lemma": "tiñuela",
+        "definition": "Instrumento de cuerda usado en la música tradicional española.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63983",
+        "lemma": "urdidera",
+        "definition": "Una urdidera es un lugar donde se tejen o trabajan los hilos para hacer prendas o telas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64935",
+        "lemma": "viaraza",
+        "definition": "Persona que se divierte mucho.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60087",
+        "lemma": "swing",
+        "definition": "Estilo de música y baile de los años 30.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "46960",
+        "lemma": "oyente",
+        "definition": "persona que escucha.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "08278",
+        "lemma": "balanzario",
+        "definition": "una herramienta de medición para determinar el peso de un objeto.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
