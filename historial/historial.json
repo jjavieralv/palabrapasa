@@ -13578,5 +13578,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-17",
+    "words": [
+      {
+        "id": "45687",
+        "lemma": "nomparell",
+        "definition": "Un nomparell es una bebida alcohólica tradicional de la región de los Andes hecha con maíz y panela.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10481",
+        "lemma": "brocatel",
+        "definition": "El brocatel es un tipo de tela con un estampado o un diseño elaborado que se usa para hacer ropa, cortinas o tapicería.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "56340",
+        "lemma": "roncear",
+        "definition": "cubrir con ramas.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23263",
+        "lemma": "destajo",
+        "definition": "El destajo se refiere a una forma de remuneración basada en la cantidad de trabajo realizado.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "51008",
+        "lemma": "portamisiles",
+        "definition": "un vehículo diseñado para transportar y lanzar misiles.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31753",
+        "lemma": "fortificar",
+        "definition": "fortalecer.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "11297",
+        "lemma": "cagantina",
+        "definition": "cagantina es una palabra coloquial para referirse a algo de mala calidad.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34616",
+        "lemma": "hacanea",
+        "definition": "Acción de hacer algo con rapidez y eficacia.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36601",
+        "lemma": "inapreciable",
+        "definition": "Que no se puede valorar o estimar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38694",
+        "lemma": "jengibre",
+        "definition": "Una planta herbácea perenne de la familia de las zingiberáceas, cuyas raíces se usan como especias y medicamento.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39141",
+        "lemma": "kétchup",
+        "definition": "Un condimento líquido hecho con tomates y condimentos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "23189",
+        "lemma": "desprolijidad",
+        "definition": "Falta de limpieza y arreglo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "54438",
+        "lemma": "refractómetro",
+        "definition": "El refractómetro es un dispositivo usado para medir el índice de refracción de una sustancia.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "26788",
+        "lemma": "enjuagadura",
+        "definition": "El líquido usado para limpiar algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45924",
+        "lemma": "ñengue",
+        "definition": "Lengua bantú hablada en Gabón.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46726",
+        "lemma": "oronja",
+        "definition": "una fruta de color anaranjado, de la familia de las Rutáceas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52067",
+        "lemma": "pronominal",
+        "definition": "Se refiere a una palabra o una frase que se usa para reemplazar a un sustantivo o una frase.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52773",
+        "lemma": "queja",
+        "definition": "Expresión de descontento o insatisfacción.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "17772",
+        "lemma": "congregar",
+        "definition": "9. Congregar - congregar, reunirse en un mismo lugar",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57193",
+        "lemma": "samnita",
+        "definition": "Antiguo pueblo italiano.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "01347",
+        "lemma": "adolescente",
+        "definition": "adolescente",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63940",
+        "lemma": "univocación",
+        "definition": "El uso de una palabra con un significado único.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65113",
+        "lemma": "vinagre",
+        "definition": "Un líquido ácido obtenido a partir de la fermentación de alcohol y otros ingredientes.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "33434",
+        "lemma": "gloxínea",
+        "definition": "Planta trepadora de flores vistosas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "26785",
+        "lemma": "enjoyar",
+        "definition": "Adornar una superficie con joyas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "50935",
+        "lemma": "porotazo",
+        "definition": "Un golpe fuerte y decisivo.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
