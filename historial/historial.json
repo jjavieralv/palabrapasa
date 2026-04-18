@@ -13772,5 +13772,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-18",
+    "words": [
+      {
+        "id": "55147",
+        "lemma": "repisar",
+        "definition": "Repetir.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09581",
+        "lemma": "bisbisear",
+        "definition": "hablar en voz baja y con secreto.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "26794",
+        "lemma": "enjuiciamiento",
+        "definition": "Es el proceso de formar un juicio sobre algo, basado en la información disponible.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "26681",
+        "lemma": "engualdrapar",
+        "definition": "envolver, cubrir con una manta.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "52833",
+        "lemma": "querosene",
+        "definition": "Un combustible líquido que se obtiene del petróleo refinado.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "37147",
+        "lemma": "infaliblemente",
+        "definition": "de manera infalible.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "03795",
+        "lemma": "amagar",
+        "definition": "amenazar con un daño o una acción desagradable.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34604",
+        "lemma": "habla",
+        "definition": "Habla es una palabra que se usa para referirse al lenguaje o al discurso de una persona.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36377",
+        "lemma": "impermutabilidad",
+        "definition": "la característica de algo que no puede cambiarse.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "13585",
+        "lemma": "caujazo",
+        "definition": "Una pequeña pieza de madera usada para sujetar y unir dos piezas de madera.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "34654",
+        "lemma": "haikai",
+        "definition": "Una forma de poesía japonesa basada en la brevedad.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39716",
+        "lemma": "lavajo",
+        "definition": "Acción de lavar algo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "03265",
+        "lemma": "aljemifao",
+        "definition": "El aljemifao es una prenda tradicional de la región de Andalucía, España, hecha de lino blanco y adornada con bordados.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45219",
+        "lemma": "navío",
+        "definition": "Un navío es un barco de gran tamaño utilizado para transportar mercancías o pasajeros.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45901",
+        "lemma": "ñácara",
+        "definition": "un recipiente hecho de barro para el almacenamiento de alimentos.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "12394",
+        "lemma": "capelo",
+        "definition": "Un capelo es una prenda de vestir formal que se usa para cubrir la cabeza.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47602",
+        "lemma": "papero",
+        "definition": "Ave acuática de tamaño mediano, con alas largas y patas cortas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "02407",
+        "lemma": "aladroque",
+        "definition": "Una persona que se comporta de manera alegre y amigable.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53827",
+        "lemma": "rebosante",
+        "definition": "rebosante se refiere a algo que está lleno hasta el borde, como una taza llena hasta el borde de café.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58729",
+        "lemma": "sobreabundancia",
+        "definition": "Exceso de algo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "19633",
+        "lemma": "cuadratura",
+        "definition": "Proceso de dividir una figura geométrica en cuatro partes iguales.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63913",
+        "lemma": "uniformizar",
+        "definition": "homogeneizar.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "25871",
+        "lemma": "encalvar",
+        "definition": "Cubrir con una capa de cal.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "60829",
+        "lemma": "tawahka",
+        "definition": "Perteneciente a una etnia indígena de Nicaragua.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65595",
+        "lemma": "xóchil",
+        "definition": "Instrumento musical de viento de origen mexicano de forma ovalada.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65772",
+        "lemma": "yugular",
+        "definition": "Vena que corre por la parte posterior del cuello y transporta sangre desde la cabeza hacia el corazón.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65978",
+        "lemma": "zanfonía",
+        "definition": "un instrumento musical de cuerda compuesto de una serie de varillas de metal unidas a una caja de resonancia.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
