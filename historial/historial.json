@@ -13966,5 +13966,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-19",
+    "words": [
+      {
+        "id": "43858",
+        "lemma": "mocosuena",
+        "definition": "de forma tonta o estúpida.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10300",
+        "lemma": "braille",
+        "definition": "Un sistema de lectura y escritura para personas ciegas o con baja visión.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "23551",
+        "lemma": "deviación",
+        "definition": "desviación de un camino o trayecto.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21854",
+        "lemma": "descongelación",
+        "definition": "El proceso de descongelar algo que ha estado congelado.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "30850",
+        "lemma": "feniano",
+        "definition": "Persona que seguía el movimiento separatista irlandés del siglo XIX.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31025",
+        "lemma": "fiducia",
+        "definition": "Confianza y creencia en alguien o algo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34047",
+        "lemma": "guadañar",
+        "definition": "Cortar con la guadaña.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35230",
+        "lemma": "hidrotermal",
+        "definition": "Relativo al calor y al agua.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "03472",
+        "lemma": "almojerifazgo",
+        "definition": "El cargo de almojarife.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "60273",
+        "lemma": "taja",
+        "definition": "Es una estructura de madera o metal que se usa para sostener un techo y para darle forma.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39159",
+        "lemma": "kilómetro",
+        "definition": "una unidad de medida de longitud equivalente a mil metros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39240",
+        "lemma": "labrio",
+        "definition": "Herramienta de hierro con forma de hacha usada para cortar leña.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44754",
+        "lemma": "multiconferencia",
+        "definition": "La multiconferencia es una forma de comunicación en la que varias personas pueden interactuar entre sí a través de una red informática.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "49824",
+        "lemma": "pinero",
+        "definition": "Un árbol de la familia de los pinos.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "09603",
+        "lemma": "bisoñé",
+        "definition": "Una persona bisoñé es alguien que carece de experiencia o conocimiento en un área determinada.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "62728",
+        "lemma": "transportamiento",
+        "definition": "El transportamiento es el acto de transportar personas o cosas de un lugar a otro.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51743",
+        "lemma": "primar",
+        "definition": "Dar prioridad a algo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "13004",
+        "lemma": "carqueja",
+        "definition": "La carqueja es una hierba aromática que se usa comúnmente en la medicina tradicional para tratar una variedad de afecciones.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "27374",
+        "lemma": "entreguismo",
+        "definition": "acto de entregar algo sin resistencia.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "20851",
+        "lemma": "demarrarse",
+        "definition": "Iniciar una acción.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "65450",
+        "lemma": "volteo",
+        "definition": "Acción de dar vueltas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63878",
+        "lemma": "uncia",
+        "definition": "Unidad de medida de peso equivalente a 28 gramos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64229",
+        "lemma": "valerosidad",
+        "definition": "Valor, coraje y bravura.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "63783",
+        "lemma": "twahka",
+        "definition": "Perteneciente a la antigua tribu Twahka.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "60835",
+        "lemma": "taxiflet",
+        "definition": "Un taxiflet es una persona que trabaja como taxista.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "44261",
+        "lemma": "monterrey",
+        "definition": "Una ciudad mexicana situada en el estado de Nuevo León.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "32092",
+        "lemma": "frigidez",
+        "definition": "Una falta de entusiasmo o interés en las relaciones sexuales.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
