@@ -14160,5 +14160,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-20",
+    "words": [
+      {
+        "id": "56321",
+        "lemma": "rompesquinas",
+        "definition": "Un rompesquinas es una herramienta usada para romper rocas y otros materiales duros.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09387",
+        "lemma": "bienhechuría",
+        "definition": "Acción de hacer el bien.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "43401",
+        "lemma": "microelectrónica",
+        "definition": "Disciplina que estudia la fabricación, diseño y aplicación de dispositivos electrónicos a escala microscópica.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "53904",
+        "lemma": "recamado",
+        "definition": "El recamado es una técnica de bordado para decorar prendas de vestir o tejidos con hilos de colores.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29679",
+        "lemma": "eternal",
+        "definition": "Eterno/a.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "22341",
+        "lemma": "desfalcar",
+        "definition": "defraudar, desposeer.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33492",
+        "lemma": "golf",
+        "definition": "El golf es un deporte en el que se intenta golpear una bola con un palo para conseguir una puntuación baja en un campo de golf.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35112",
+        "lemma": "hervorizarse",
+        "definition": "ponerse muy agitado o enfurecido.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "04869",
+        "lemma": "anticlímax",
+        "definition": "una situación o evento que tiene un resultado decepcionante después de una situación o evento emocionante.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39016",
+        "lemma": "jungla",
+        "definition": "un área de vegetación muy densa y cerrada.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "08926",
+        "lemma": "batik",
+        "definition": "Técnica de teñido de telas mediante la que se consiguen diseños geométricos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "64611",
+        "lemma": "vengable",
+        "definition": "Vengativo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43855",
+        "lemma": "mocionar",
+        "definition": "Proponer una idea.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "27356",
+        "lemma": "entrecriarse",
+        "definition": "discutir entre dos o más personas con enojo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45915",
+        "lemma": "ñangotarse",
+        "definition": "divertirse a costa de alguien.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46253",
+        "lemma": "oída",
+        "definition": "Organo del cuerpo humano que sirve para escuchar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48234",
+        "lemma": "paternalista",
+        "definition": "Que se comporta como un padre hacia los demás.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53052",
+        "lemma": "quisco",
+        "definition": "Juego de niños en el que los participantes se dividen en dos grupos y uno de ellos es el perseguidor.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "45461",
+        "lemma": "neutralismo",
+        "definition": "Actitud de abstención, de no tomar partido respecto a una disputa o a un conflicto.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59714",
+        "lemma": "sudación",
+        "definition": "Acción de sudar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62892",
+        "lemma": "traspatio",
+        "definition": "espacio de una propiedad ubicado detrás de la casa.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "31499",
+        "lemma": "fluorescencia",
+        "definition": "Propiedad de algunos materiales de emitir luz cuando se exponen a una fuente de luz ultravioleta.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65048",
+        "lemma": "vienense",
+        "definition": "adjetivo que describe a alguien o algo que pertenece a la ciudad de Viena, Austria.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "63785",
+        "lemma": "twist",
+        "definition": "El twist es un baile de los años 50 que se caracteriza por un movimiento de cadera y hombros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "22606",
+        "lemma": "desintoxicante",
+        "definition": "Algo que ayuda a eliminar las toxinas del cuerpo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65682",
+        "lemma": "yelgo",
+        "definition": "Una prenda de vestir tradicional de la región de Extremadura en España.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "07928",
+        "lemma": "azomamiento",
+        "definition": "Una forma de moverse rápidamente.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
