@@ -14354,5 +14354,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-21",
+    "words": [
+      {
+        "id": "56737",
+        "lemma": "sabotear",
+        "definition": "obstaculizar una acción.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09489",
+        "lemma": "biodiversidad",
+        "definition": "La biodiversidad es la variación de la vida en todas sus formas, niveles y combinaciones.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "20268",
+        "lemma": "cusuco",
+        "definition": "Mamífero marsupial de América del Sur.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "09485",
+        "lemma": "biodegradable",
+        "definition": "Aquello que se puede descomponer por la acción de los microorganismos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "43231",
+        "lemma": "metafase",
+        "definition": "Etapa de la división celular en la que los cromosomas se encuentran en el centro de la célula.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30613",
+        "lemma": "faringe",
+        "definition": "Una cavidad en la parte posterior de la cabeza que contiene las cuerdas vocales.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "44168",
+        "lemma": "monologar",
+        "definition": "hablar consigo mismo;",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35709",
+        "lemma": "honradez",
+        "definition": "La honradez es la cualidad de ser honesto, justo y veraz.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36930",
+        "lemma": "indescriptible",
+        "definition": "que no se puede describir con palabras.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38408",
+        "lemma": "j",
+        "definition": "Una letra del alfabeto español.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "58232",
+        "lemma": "shock",
+        "definition": "Estado de choque, una reacción física y emocional a una gran cantidad de estrés.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40588",
+        "lemma": "lloro",
+        "definition": "Llorar.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "45091",
+        "lemma": "napalm",
+        "definition": "una mezcla de combustible y goma laca que se utiliza como arma incendiaria.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "02165",
+        "lemma": "ahincanza",
+        "definition": "Generosidad.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45923",
+        "lemma": "ñeco",
+        "definition": "Persona tímida y retraída.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "07804",
+        "lemma": "axioma",
+        "definition": "Un axioma es una proposición que se acepta como verdadera sin necesidad de demostración.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "57062",
+        "lemma": "salpicar",
+        "definition": "Salpicar",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52809",
+        "lemma": "quepí",
+        "definition": "Instrumento musical de viento de origen precolombino.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "62829",
+        "lemma": "trasechar",
+        "definition": "destilar",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "28742",
+        "lemma": "especie",
+        "definition": "clase, tipo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "14748",
+        "lemma": "chapopote",
+        "definition": "Masa viscosa compuesta de alquitrán y otros materiales bituminosos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "47340",
+        "lemma": "pamandabuán",
+        "definition": "Un pamandabuán es una antigua unidad de medida para el grano.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "55543",
+        "lemma": "resuave",
+        "definition": "suave.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58236",
+        "lemma": "show-woman",
+        "definition": "Una show-woman es una persona que realiza shows de variedades, como bailes, actuaciones y otros números artísticos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65583",
+        "lemma": "xerografía",
+        "definition": "Un proceso de copiado de documentos usando luz ultravioleta para transferir una imagen a una superficie fotoconductora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "57565",
+        "lemma": "sayuguina",
+        "definition": "persona que se caracteriza por ser muy habladora y chismosa.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "19998",
+        "lemma": "culatazo",
+        "definition": "Golpe dado con el culo de un arma de fuego.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
