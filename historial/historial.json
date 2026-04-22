@@ -14548,5 +14548,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-22",
+    "words": [
+      {
+        "id": "04734",
+        "lemma": "ansí",
+        "definition": "de esta manera, así.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10214",
+        "lemma": "botillo",
+        "definition": "Un plato típico gallego a base de carne, patatas y verduras.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "08452",
+        "lemma": "bancadita",
+        "definition": "Una bancadita es una silla o un banco pequeño, generalmente usado para sentarse en un jardín o en un patio.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "17574",
+        "lemma": "conducente",
+        "definition": "Que contribuye a un fin.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "63865",
+        "lemma": "umbela",
+        "definition": "Cada una de las partes de una flor compuesta.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "36901",
+        "lemma": "indefensión",
+        "definition": "Estado de impotencia o incapacidad para defenderse.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "48578",
+        "lemma": "pegujar",
+        "definition": "El acto de pegar algo a otra cosa.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35274",
+        "lemma": "higroscopicidad",
+        "definition": "La propiedad de un material de absorber y retener humedad del aire.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37852",
+        "lemma": "interferómetro",
+        "definition": "Instrumento óptico que combina dos o más ondas para producir un patrón de interferir.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "08546",
+        "lemma": "baraje",
+        "definition": "Mezcla o conjunto de cosas variadas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "52576",
+        "lemma": "punk",
+        "definition": "estilo musical que surgió en los años 70, caracterizado por letras provocativas y una actitud de rebeldía.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40263",
+        "lemma": "liminar",
+        "definition": "Preliminar.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44851",
+        "lemma": "murar",
+        "definition": "murar es el acto de construir un muro de contención.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45523",
+        "lemma": "nigola",
+        "definition": "La nigola es una bebida alcohólica hecha a base de vino y especias.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45926",
+        "lemma": "ñinga",
+        "definition": "Una herramienta usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "59349",
+        "lemma": "sornar",
+        "definition": "burlarse con ironía.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50411",
+        "lemma": "pleita",
+        "definition": "Disputa o litigio entre dos o más personas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52965",
+        "lemma": "quincho",
+        "definition": "Una estructura al aire libre con una parrilla para asar alimentos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "19287",
+        "lemma": "cranear",
+        "definition": "Pensar y reflexionar sobre algo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "53052",
+        "lemma": "quisco",
+        "definition": "Juego de niños en el que los participantes se dividen en dos grupos y uno de ellos es el perseguidor.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61216",
+        "lemma": "tenorino",
+        "definition": "un cantante con voz de tenor.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63991",
+        "lemma": "urente",
+        "definition": "Que es urgente.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "59081",
+        "lemma": "solevación",
+        "definition": "La solevación es un proceso de elevación de un objeto mediante la aplicación de una fuerza.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65583",
+        "lemma": "xerografía",
+        "definition": "Un proceso de copiado de documentos usando luz ultravioleta para transferir una imagen a una superficie fotoconductora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "45801",
+        "lemma": "noventayochismo",
+        "definition": "El movimiento artístico de los años noventa.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "07963",
+        "lemma": "azud",
+        "definition": "Depósito de agua para regar los campos.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
