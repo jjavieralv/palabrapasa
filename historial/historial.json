@@ -14742,5 +14742,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-23",
+    "words": [
+      {
+        "id": "07972",
+        "lemma": "azufre",
+        "definition": "elemento químico con el símbolo S y el número atómico 16.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09406",
+        "lemma": "big bang",
+        "definition": "La teoría que describe el origen del universo como una explosión de energía y materia.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "12291",
+        "lemma": "cantesa",
+        "definition": "Una cantesa es una canción tradicional de la región de Cantabria.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "00427",
+        "lemma": "acabada",
+        "definition": "acción de terminar algo",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29009",
+        "lemma": "espumadera",
+        "definition": "Utensilio de cocina para triturar alimentos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31996",
+        "lemma": "fregación",
+        "definition": "Acción de fregar.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33142",
+        "lemma": "generalizable",
+        "definition": "Que puede ser aplicado a un conjunto más amplio.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34630",
+        "lemma": "hachero",
+        "definition": "Persona que corta leña.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37298",
+        "lemma": "infundíbulo",
+        "definition": "Una cavidad hueca en un órgano del cuerpo, como el cerebro.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "47096",
+        "lemma": "pajarel",
+        "definition": "ave pequeña y de plumaje brillante.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39129",
+        "lemma": "kastila",
+        "definition": "una lengua romance hablada en España.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40973",
+        "lemma": "luvita",
+        "definition": "Natural de Luvias.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "60471",
+        "lemma": "tancredismo",
+        "definition": "Movimiento político del siglo XIX, que proponía una reforma de la monarquía española.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45670",
+        "lemma": "nomeolvides",
+        "definition": "Una flor que simboliza la memoria.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45935",
+        "lemma": "ñocha",
+        "definition": "una mujer joven, atractiva y con poca experiencia.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46227",
+        "lemma": "oficinista",
+        "definition": "Persona que trabaja en una oficina.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47670",
+        "lemma": "paradiástole",
+        "definition": "Una figura retórica en la que se repite una palabra en lugar de otra con un significado similar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52772",
+        "lemma": "queísta",
+        "definition": "Que se refiere a la doctrina queísta.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53148",
+        "lemma": "rabotear",
+        "definition": "desbastar una madera con una herramienta.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "12565",
+        "lemma": "característicamente",
+        "definition": "de una manera que es característica o típica.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62597",
+        "lemma": "trampolín",
+        "definition": "Dispositivo de salto con el que se puede saltar en el aire.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "38703",
+        "lemma": "jerarquizar",
+        "definition": "establecer una jerarquía.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64326",
+        "lemma": "varamiento",
+        "definition": "Es el acto de desembarcar algo de un barco.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65559",
+        "lemma": "web",
+        "definition": "Sitio de Internet.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65580",
+        "lemma": "xerocopia",
+        "definition": "Copia hecha con una máquina de fotocopiar.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "19258",
+        "lemma": "coyolar",
+        "definition": "Árbol de la familia de las leguminosas, de hojas ovaladas y frutos redondos de color marrón.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66065",
+        "lemma": "zaramullo",
+        "definition": "Una bebida alcohólica hecha con vino y hierbas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
