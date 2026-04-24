@@ -14936,5 +14936,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-24",
+    "words": [
+      {
+        "id": "64286",
+        "lemma": "vanguardismo",
+        "definition": "Estilo artístico o literario que busca innovar con nuevas ideas.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "07485",
+        "lemma": "autobaño",
+        "definition": "Un lugar para bañarse en el que no hay agua corriente.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11277",
+        "lemma": "caficultura",
+        "definition": "Cultivo de café.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "31999",
+        "lemma": "fregadero",
+        "definition": "Un fregadero es una pieza de equipo de cocina con una o más cubetas o depósitos para lavar platos y otras cosas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "01510",
+        "lemma": "aerograma",
+        "definition": "Una carta escrita en un papel especial y enviada por correo aéreo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "17677",
+        "lemma": "conflagrar",
+        "definition": "Incendiar un lugar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "04060",
+        "lemma": "amiguete",
+        "definition": "Amigo íntimo, con el que se comparten momentos especiales.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14916",
+        "lemma": "checar",
+        "definition": "verificar, comprobar.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38139",
+        "lemma": "inviable",
+        "definition": "Que no es posible.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "49705",
+        "lemma": "pijota",
+        "definition": "Una persona enérgica y entusiasta.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "55950",
+        "lemma": "rickettsia",
+        "definition": "Bacteria parásita que se transmite a los humanos a través de la picadura de insectos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40165",
+        "lemma": "licorista",
+        "definition": "Persona que prepara y vende licores.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "24080",
+        "lemma": "disfemismo",
+        "definition": "Una figura retórica que consiste en usar una palabra o frase con un significado más suave para referirse a algo desagradable o que causa temor.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "59912",
+        "lemma": "superponer",
+        "definition": "Colocar algo sobre otra cosa.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "08026",
+        "lemma": "añorante",
+        "definition": "Que siente nostalgia por algo o alguien.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46611",
+        "lemma": "orellanense",
+        "definition": "Orellanense se refiere a algo o alguien que es originario o que vive en Orellana, una ciudad del estado de Oaxaca, México.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "51235",
+        "lemma": "potra",
+        "definition": "Caballo joven.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "49477",
+        "lemma": "peñasquear",
+        "definition": "Ir de un lugar a otro con el propósito de divertirse.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "33744",
+        "lemma": "granadal",
+        "definition": "Arma de fuego de boca cilíndrica.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "50722",
+        "lemma": "polis",
+        "definition": "Policía.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "12574",
+        "lemma": "caraguatá",
+        "definition": "Árbol de la familia de las bromeliáceas, de hojas espinosas y flores de color rosa.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "45191",
+        "lemma": "nausear",
+        "definition": "provocar náuseas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64350",
+        "lemma": "varguense",
+        "definition": "adjetivo para referirse a algo o alguien de Vargas, una localidad de Venezuela.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "54233",
+        "lemma": "redaya",
+        "definition": "Redaya es una forma de poesía árabe de origen andalusí.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "43339",
+        "lemma": "mezcalear",
+        "definition": "Mezclar, combinar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
