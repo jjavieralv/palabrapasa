@@ -15130,5 +15130,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-25",
+    "words": [
+      {
+        "id": "29650",
+        "lemma": "estupefaciente",
+        "definition": "Que causa estupor.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "01887",
+        "lemma": "agradable",
+        "definition": "Agradable; agradable.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "05862",
+        "lemma": "archipámpano",
+        "definition": "Persona que se encarga de administrar una propiedad.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20969",
+        "lemma": "denunciación",
+        "definition": "Acción de poner una acusación formal a alguien.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26744",
+        "lemma": "enjaezar",
+        "definition": "Montar a caballo con destreza.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "50280",
+        "lemma": "planificación",
+        "definition": "proceso de organizar y establecer objetivos.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33419",
+        "lemma": "glose",
+        "definition": "comentario breve y generalmente escrito sobre un texto.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "26706",
+        "lemma": "enhacinar",
+        "definition": "Apilar una cosa encima de otra.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "12686",
+        "lemma": "carbonizar",
+        "definition": "reducir a carbón un material.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38724",
+        "lemma": "jeringonza",
+        "definition": "Expresión confusa y retorcida que se usa para engañar a alguien.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39185",
+        "lemma": "kohol",
+        "definition": "El kohol es una planta originaria del sureste asiático.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "22316",
+        "lemma": "desespañolizar",
+        "definition": "Quitar elementos españoles de un lugar o grupo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41891",
+        "lemma": "mantecón",
+        "definition": "El mantecón es una masa de harina de maíz tostada y molido, con la que se preparan algunos platos típicos de la gastronomía mexicana.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "66291",
+        "lemma": "zuncuya",
+        "definition": "Una planta trepadora tropical con frutos comestibles.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "53081",
+        "lemma": "quitasueño",
+        "definition": "Persona o cosa que ayuda a conciliar el sueño.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46604",
+        "lemma": "orégano",
+        "definition": "Hierba aromática con flores pequeñas de color púrpura, utilizada como condimento culinario.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "23170",
+        "lemma": "desprender",
+        "definition": "separar algo de otra cosa.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52905",
+        "lemma": "quijotesa",
+        "definition": "Mujer que acompaña al personaje principal de la novela \"El ingenioso hidalgo don Quijote de la Mancha\".",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "22593",
+        "lemma": "desinsacular",
+        "definition": "Eliminar lo insular.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "34410",
+        "lemma": "guillarse",
+        "definition": "encerrarse.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60223",
+        "lemma": "tactación",
+        "definition": "Acción y efecto de tactar o tocar con la mano.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63949",
+        "lemma": "untaza",
+        "definition": "Cantidad de líquido contenida en una taza.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64222",
+        "lemma": "valentía",
+        "definition": "Valentía es el valor y el coraje para enfrentar el peligro o la adversidad con firmeza.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "39199",
+        "lemma": "kuwaití",
+        "definition": "Relativo o perteneciente a Kuwait.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65668",
+        "lemma": "yaxché",
+        "definition": "Monumento arqueológico maya.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "19389",
+        "lemma": "creyer",
+        "definition": "Creer, tener fe o confianza.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66079",
+        "lemma": "zarazas",
+        "definition": "Planta de la familia de las zarzamoras, con espinas en los tallos y frutos comestibles.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
