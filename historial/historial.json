@@ -15324,5 +15324,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-26",
+    "words": [
+      {
+        "id": "36860",
+        "lemma": "inculpable",
+        "definition": "Que no es culpable de algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09879",
+        "lemma": "bolado",
+        "definition": "arrojado con violencia.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "26283",
+        "lemma": "encular",
+        "definition": "sodomizar.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "16758",
+        "lemma": "colaudar",
+        "definition": "Alabar.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "55494",
+        "lemma": "resquebrar",
+        "definition": "Romper algo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32976",
+        "lemma": "gasfitería",
+        "definition": "El trabajo de instalación y reparación de tuberías y equipos relacionados con el gas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "53238",
+        "lemma": "radiogalaxia",
+        "definition": "Una galaxia cuyo centro contiene una fuente de energía de rayos X.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "53129",
+        "lemma": "rabihorcado",
+        "definition": "Una forma de solitario en la que se usan dos barajas de cartas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37709",
+        "lemma": "insultante",
+        "definition": "Que ofende o insulta.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39086",
+        "lemma": "justiciador",
+        "definition": "Persona que defiende la justicia.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39193",
+        "lemma": "kremlinología",
+        "definition": "La kremlinología es el estudio de los movimientos políticos y las actividades del gobierno de Rusia.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "53349",
+        "lemma": "rallón",
+        "definition": "Persona que es muy exigente con los demás.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42319",
+        "lemma": "masamuda",
+        "definition": "Una tribu africana que habita en el noroeste de Mozambique.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "09461",
+        "lemma": "bina",
+        "definition": "una pareja de cosas que están relacionadas entre sí.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45903",
+        "lemma": "ñacurutú",
+        "definition": "Nombre usado para referirse a una variedad de palmera de la familia de las Arecaceae.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "19737",
+        "lemma": "cuarzo",
+        "definition": "Un mineral compuesto de silicio y oxígeno, comúnmente usado en relojes y joyería.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "49468",
+        "lemma": "pezpita",
+        "definition": "Pequeño pez de agua dulce.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "27774",
+        "lemma": "equipolencia",
+        "definition": "El estado de tener iguales fuerzas o poderes.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56315",
+        "lemma": "rompenecios",
+        "definition": "persona que se caracteriza por romper las reglas o las normas establecidas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "41231",
+        "lemma": "magíster",
+        "definition": "El magíster es un título académico otorgado por la universidad a quienes han completado un programa de estudios avanzados.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "46189",
+        "lemma": "odontalgia",
+        "definition": "dolor en los dientes y encías.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "34022",
+        "lemma": "guacharaca",
+        "definition": "Un instrumento musical de percusión de origen sudamericano.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65488",
+        "lemma": "vorahúnda",
+        "definition": "animal de gran tamaño, de la familia de los búfalos.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65549",
+        "lemma": "w",
+        "definition": "doble U.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "37243",
+        "lemma": "inflexión",
+        "definition": "Aureomicina: Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65623",
+        "lemma": "yaguarundi",
+        "definition": "Animal de la familia de los felinos",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65906",
+        "lemma": "zallar",
+        "definition": "Limpiar una superficie con una escoba.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
