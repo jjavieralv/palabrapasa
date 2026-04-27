@@ -15518,5 +15518,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-27",
+    "words": [
+      {
+        "id": "32018",
+        "lemma": "freiría",
+        "definition": "Una freiría es un lugar donde se preparan y venden alimentos fritos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "25819",
+        "lemma": "encabriar",
+        "definition": "elevar algo hasta el cielo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16653",
+        "lemma": "cogón",
+        "definition": "Litigación: El proceso de presentar y defender una demanda o una acusación en un tribunal de justicia.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23659",
+        "lemma": "diapasón",
+        "definition": "Un diapasón es un instrumento musical utilizado para ajustar o medir la afinación de los instrumentos.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25142",
+        "lemma": "embalsamar",
+        "definition": "preservar un cadáver mediante un proceso de desecación.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31364",
+        "lemma": "flebotomiano",
+        "definition": "Un profesional que extrae sangre para pruebas médicas.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33774",
+        "lemma": "granero",
+        "definition": "un edificio para almacenar alimentos y otros productos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34647",
+        "lemma": "hadrón",
+        "definition": "Partícula subatómica.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37772",
+        "lemma": "intención",
+        "definition": "Una intención es una intención, un propósito o un deseo de hacer algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "55608",
+        "lemma": "retejo",
+        "definition": "Una trama de líneas entrecruzadas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39179",
+        "lemma": "kivi",
+        "definition": "El kivi es una fruta pequeña y redonda de color verde con una piel rugosa y una pulpa dulce y jugosa.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39223",
+        "lemma": "laborar",
+        "definition": "trabajar.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "11983",
+        "lemma": "campeonato",
+        "definition": "Un campeonato es una competición para determinar quién es el mejor en algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "50276",
+        "lemma": "planetoide",
+        "definition": "Un cuerpo celeste de tamaño reducido que orbita alrededor del Sol.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "25563",
+        "lemma": "empequeñecimiento",
+        "definition": "reducción de tamaño.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46922",
+        "lemma": "ovetense",
+        "definition": "Persona que pertenece a la ciudad de Oviedo en España.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "35423",
+        "lemma": "hipnosis",
+        "definition": "Estado alterado de conciencia en el que la persona es más receptiva a sugerencias.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "08510",
+        "lemma": "banquete",
+        "definition": "Una comida grande y festiva.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53252",
+        "lemma": "radioluminiscencia",
+        "definition": "fenómeno que se produce cuando un material emite luz cuando es expuesto a una fuente de radiación.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "33289",
+        "lemma": "gijonense",
+        "definition": "relacionado con Gijón.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63363",
+        "lemma": "troglodita",
+        "definition": "que vive en cuevas o lugares oscuros.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64059",
+        "lemma": "usufructo",
+        "definition": "El derecho de usar y disfrutar de los bienes de otra persona, generalmente por un período limitado de tiempo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64384",
+        "lemma": "varraquear",
+        "definition": "Limpiar con vara.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "20407",
+        "lemma": "darwinista",
+        "definition": "Persona que sigue o acepta las teorías de Charles Darwin.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65582",
+        "lemma": "xeroftalmia",
+        "definition": "enfermedad ocular caracterizada por una sequedad de la córnea.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "35485",
+        "lemma": "hippy",
+        "definition": "Persona que sigue un estilo de vida relajado, rechazando las convenciones sociales.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "40125",
+        "lemma": "librazo",
+        "definition": "Una gran cantidad de dinero.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
