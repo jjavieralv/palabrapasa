@@ -15712,5 +15712,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-28",
+    "words": [
+      {
+        "id": "39299",
+        "lemma": "ladinizar",
+        "definition": "hacer algo o a alguien más latino.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10956",
+        "lemma": "cabe",
+        "definition": "es una palabra que se utiliza para indicar que algo encaja o se ajusta en un lugar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15687",
+        "lemma": "chute",
+        "definition": "Un chute es una caída brusca y rápida.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "01282",
+        "lemma": "adimensional",
+        "definition": "Que no tiene dimensiones.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "00475",
+        "lemma": "acaloradamente",
+        "definition": "con entusiasmo y pasión.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30648",
+        "lemma": "farraguista",
+        "definition": "Un farraguista es una persona que sigue la ideología política farragista.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "03995",
+        "lemma": "amelgar",
+        "definition": "Debilitar, enflaquecer.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34946",
+        "lemma": "hemotórax",
+        "definition": "Un hemotórax es una acumulación de sangre en la cavidad pleural, generalmente debido a una lesión en el pecho.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37296",
+        "lemma": "infundadamente",
+        "definition": "De manera infundada o sin fundamento.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "46272",
+        "lemma": "ojete",
+        "definition": "Vulgarmente, el ano.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "36153",
+        "lemma": "identikit",
+        "definition": "Identikit es una técnica usada por la policía para crear un retrato robot de un sospechoso a partir de la descripción de varias personas.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "03316",
+        "lemma": "almádana",
+        "definition": "Instrumento para moler y triturar alimentos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44796",
+        "lemma": "multitud",
+        "definition": "Gran cantidad de personas reunidas en un lugar.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45421",
+        "lemma": "neumonía",
+        "definition": "La neumonía es una infección pulmonar que puede ser causada por virus, bacterias u hongos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "49473",
+        "lemma": "peñascal",
+        "definition": "Montaña rocosa.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "41165",
+        "lemma": "madrileñismo",
+        "definition": "Características propias de los madrileños.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "39972",
+        "lemma": "leprosorio",
+        "definition": "Un leprosorio es un lugar donde se alojan personas con lepra.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52781",
+        "lemma": "quejigueta",
+        "definition": "Velocista: Un velocista es un atleta que compite en carreras de corta distancia, como los 100 metros, los 200 metros y los 400 metros.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56633",
+        "lemma": "rupturismo",
+        "definition": "Movimiento artístico y cultural que se opone a la tradición.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57510",
+        "lemma": "satirión",
+        "definition": "Persona que usa la sátira para burlarse de algo o alguien.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63485",
+        "lemma": "trucha",
+        "definition": "Pez de agua dulce de la familia de los salmónidos.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "59679",
+        "lemma": "succino",
+        "definition": "Ácido orgánico aromático.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64383",
+        "lemma": "varraco",
+        "definition": "Piedra grande y dura.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "39150",
+        "lemma": "kilobyte",
+        "definition": "una unidad de medida de información equivalente a 1024 bytes.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "13683",
+        "lemma": "caz",
+        "definition": "acto de perseguir y capturar animales.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
