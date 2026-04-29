@@ -15906,5 +15906,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-29",
+    "words": [
+      {
+        "id": "35600",
+        "lemma": "holleca",
+        "definition": "Instrumento de hierro para trabajar la tierra.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09017",
+        "lemma": "beatificar",
+        "definition": "hacer que alguien sea feliz, darle una bendición.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "63336",
+        "lemma": "trivialización",
+        "definition": "Acción de tratar algo como trivial o sin importancia.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "48353",
+        "lemma": "pavorde",
+        "definition": "Persona cobarde o pusilánime.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26500",
+        "lemma": "enfrijolada",
+        "definition": "un plato típico mexicano hecho con frijoles.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32384",
+        "lemma": "fusta",
+        "definition": "Látigo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "57702",
+        "lemma": "segregar",
+        "definition": "Separar algo en partes.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35218",
+        "lemma": "hidrópata",
+        "definition": "Persona que practica la hidroterapia, una forma de tratamiento médico que utiliza el agua para promover la salud.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "53801",
+        "lemma": "rebitar",
+        "definition": "Atornillar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38721",
+        "lemma": "jeringar",
+        "definition": "Inyectar con una jeringa",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "43480",
+        "lemma": "mikado",
+        "definition": "El mikado es un juego de mesa en el que los jugadores intentan quitar los palillos del tablero sin mover los demás.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40847",
+        "lemma": "lucubrar",
+        "definition": "reflexionar profundamente.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "12203",
+        "lemma": "canibalismo",
+        "definition": "El canibalismo es el acto de comer la carne de otra persona o de una especie animal.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "43467",
+        "lemma": "migajón",
+        "definition": "Pequeño trozo de algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "49383",
+        "lemma": "pestañear",
+        "definition": "Cerrar y abrir los ojos rápidamente.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "62001",
+        "lemma": "tocoyal",
+        "definition": "Instrumento de viento hecho de caña con una membrana de cuero en un extremo, usado por los indígenas para producir música.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48963",
+        "lemma": "perdurabilidad",
+        "definition": "La capacidad de un objeto o material de durar mucho tiempo sin deteriorarse.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "14866",
+        "lemma": "chasquear",
+        "definition": "hacer un sonido seco y agudo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "19596",
+        "lemma": "cruentar",
+        "definition": "manchar con sangre.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "37130",
+        "lemma": "inexistente",
+        "definition": "Algo que no existe.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "33972",
+        "lemma": "gruista",
+        "definition": "Persona que opera una grúa.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "52667",
+        "lemma": "purriela",
+        "definition": "una antigua moneda de plata española.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64380",
+        "lemma": "varonil",
+        "definition": "Característico de un hombre.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "52302",
+        "lemma": "proyectante",
+        "definition": "Que proyecta.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "14494",
+        "lemma": "chafarotazo",
+        "definition": "Un golpe dado con una mano abierta.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
