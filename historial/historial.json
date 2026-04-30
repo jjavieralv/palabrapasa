@@ -16100,5 +16100,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-04-30",
+    "words": [
+      {
+        "id": "02203",
+        "lemma": "ahorrar",
+        "definition": "guardar dinero para el futuro.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "25147",
+        "lemma": "embancarse",
+        "definition": "apoyarse",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15867",
+        "lemma": "cilindro",
+        "definition": "Un objeto cilíndrico de longitud y diámetro constantes.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "01296",
+        "lemma": "adivinamiento",
+        "definition": "El adivinamiento es el arte de predecir el futuro a través de la interpretación de signos y símbolos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25607",
+        "lemma": "empilchar",
+        "definition": "almacenar cosas en una pila.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31626",
+        "lemma": "fonola",
+        "definition": "Una caja de música mecánica.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32964",
+        "lemma": "garzonía",
+        "definition": "Acto de servir en una mesa.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34950",
+        "lemma": "henazo",
+        "definition": "Un ave migratoria que se encuentra en los países de Europa, Asia y África.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "00830",
+        "lemma": "ación",
+        "definition": "la capacidad de actuar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "56916",
+        "lemma": "sajelar",
+        "definition": "Sajelar es el proceso de cortar algo con una sierra.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39179",
+        "lemma": "kivi",
+        "definition": "El kivi es una fruta pequeña y redonda de color verde con una piel rugosa y una pulpa dulce y jugosa.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39632",
+        "lemma": "lateralmente",
+        "definition": "a un lado, en dirección perpendicular.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "37469",
+        "lemma": "inmovilizar",
+        "definition": "Detener el movimiento de algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45841",
+        "lemma": "nudismo",
+        "definition": "La práctica de estar desnudo en público.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "49480",
+        "lemma": "peñera",
+        "definition": "Una pequeña cavidad o gruta en la roca.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "17758",
+        "lemma": "conglutinante",
+        "definition": "que une, cohesiona",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "30055",
+        "lemma": "expendeduría",
+        "definition": "Un lugar donde se compran y venden artículos de uso diario a precios bajos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53080",
+        "lemma": "quitasolillo",
+        "definition": "Una prenda de vestir que se usa para cubrirse la cabeza del sol.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "04156",
+        "lemma": "amorcillo",
+        "definition": "Persona con la que se siente una atracción romántica.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "09335",
+        "lemma": "bicapsular",
+        "definition": "Que tiene dos cápsulas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "57356",
+        "lemma": "santón",
+        "definition": "Una persona que se dedica a la vida religiosa, al ascetismo y a la práctica de la virtud.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "21322",
+        "lemma": "desamurar",
+        "definition": "Deshacer una unión matrimonial.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65349",
+        "lemma": "viviente",
+        "definition": "Persona que vive, que está viva.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "57546",
+        "lemma": "sawali",
+        "definition": "Tipo de tejido de bambú muy fino.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29871",
+        "lemma": "excedencia",
+        "definition": "un periodo de tiempo en el que un trabajador se toma un descanso de su trabajo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65776",
+        "lemma": "yuntería",
+        "definition": "una actividad en la que un grupo de personas se reúnen para cazar yunques.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65836",
+        "lemma": "zacatonal",
+        "definition": "Conjunto de zacate, hierba alta y seca.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
