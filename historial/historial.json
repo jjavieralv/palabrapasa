@@ -16488,5 +16488,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-02",
+    "words": [
+      {
+        "id": "29889",
+        "lemma": "exceptuar",
+        "definition": "Excluir algo de una regla general.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10682",
+        "lemma": "buga",
+        "definition": "una expresión usada para expresar disgusto o desagrado.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "16648",
+        "lemma": "cogollero",
+        "definition": "Una persona que se dedica a la recolección de cogollos de plantas, principalmente para uso medicinal.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "00637",
+        "lemma": "acendrar",
+        "definition": "Encender.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "30233",
+        "lemma": "extravasación",
+        "definition": "Acción de salirse de los límites establecidos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "45276",
+        "lemma": "nefelibata",
+        "definition": "adjetivo para referirse a alguien que vive sin preocuparse por las reglas sociales.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "37963",
+        "lemma": "intertrigo",
+        "definition": "Inflamación de la piel causada por la humedad, el sudor y la fricción.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35188",
+        "lemma": "hidroavión",
+        "definition": "Un hidroavión es un avión diseñado para despegar y aterrizar sobre el agua.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37779",
+        "lemma": "intensamente",
+        "definition": "con mucha fuerza, energía o intensidad.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "35739",
+        "lemma": "horcajo",
+        "definition": "Una forma de tejer con una trenza de lana, generalmente usada para hacer bufandas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39154",
+        "lemma": "kilogramo",
+        "definition": "Unidad de medida de masa del Sistema Internacional.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40787",
+        "lemma": "lotificar",
+        "definition": "dividir un terreno en lotes.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "04017",
+        "lemma": "americanada",
+        "definition": "Una acción o actitud típica de los estadounidenses.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "57929",
+        "lemma": "sentenciar",
+        "definition": "Declarar una pena o condena a alguien.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45943",
+        "lemma": "ñoñez",
+        "definition": "Una actitud infantil y tonta.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "29002",
+        "lemma": "espuelazo",
+        "definition": "Un espuelazo es un golpe o un empujón dado con el pie o la punta de una espuela.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47447",
+        "lemma": "panelable",
+        "definition": "algo que se puede dividir en paneles.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53021",
+        "lemma": "quintuplicación",
+        "definition": "La acción de multiplicar por cinco.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55719",
+        "lemma": "retroalimentación",
+        "definition": "una respuesta a una acción o respuesta previa.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57456",
+        "lemma": "sarilla",
+        "definition": "Instrumento musical de viento hecho con una caña hueca.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63152",
+        "lemma": "tricefalia",
+        "definition": "Una condición en la que una persona tiene tres cabezas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63818",
+        "lemma": "ulala",
+        "definition": "Una palabra usada para expresar alegría.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "13623",
+        "lemma": "cava",
+        "definition": "una bodega para el almacenamiento y envejecimiento de vinos espumosos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "45229",
+        "lemma": "ndowé",
+        "definition": "palabra que se refiere a una persona con una actitud negativa.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65772",
+        "lemma": "yugular",
+        "definition": "Vena que corre por la parte posterior del cuello y transporta sangre desde la cabeza hacia el corazón.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "27620",
+        "lemma": "enzootia",
+        "definition": "Una enzootia es una enfermedad que afecta a los animales.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
