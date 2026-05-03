@@ -16682,5 +16682,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-03",
+    "words": [
+      {
+        "id": "01207",
+        "lemma": "adecentamiento",
+        "definition": "Mejora de la apariencia de un lugar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10951",
+        "lemma": "cabañería",
+        "definition": "Establecimiento rural formado por cabañas, casas dispersas y edificios auxiliares.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15289",
+        "lemma": "chirona",
+        "definition": "una planta herbácea que crece en climas tropicales y subtropicales.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21624",
+        "lemma": "descalificable",
+        "definition": "adjetivo para describir algo que es inaceptable o no digno de ser considerado.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29826",
+        "lemma": "evolucionismo",
+        "definition": "La teoría según la cual todos los organismos vivos evolucionaron a partir de organismos más simples.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "15422",
+        "lemma": "choferesa",
+        "definition": "Profesión de conducir un vehículo para transportar a personas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34208",
+        "lemma": "guardajoyas",
+        "definition": "Caja para guardar joyas y otros objetos de valor.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "09087",
+        "lemma": "belcho",
+        "definition": "palabra usada para referirse a una persona tímida o con poca habilidad para las relaciones sociales.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "58025",
+        "lemma": "serie",
+        "definition": "Conjunto de elementos relacionados entre sí.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38871",
+        "lemma": "jordán",
+        "definition": "Un país árabe",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "56919",
+        "lemma": "sake",
+        "definition": "El sake es una bebida alcohólica tradicional japonesa hecha de arroz fermentado.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39915",
+        "lemma": "lenguado",
+        "definition": "Pez de agua salada de la familia de los platijas.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "36749",
+        "lemma": "incomprensión",
+        "definition": "Un sentimiento de desconcierto o confusión que surge cuando alguien no entiende algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "36227",
+        "lemma": "ilegalización",
+        "definition": "prohibición de una actividad o de una organización.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "44973",
+        "lemma": "muñequito",
+        "definition": "Un muñeco pequeño, normalmente hecho de tela.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46263",
+        "lemma": "ojanco",
+        "definition": "Una planta herbácea de la familia de las compuestas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "66014",
+        "lemma": "zapapico",
+        "definition": "Una herramienta de perforación usada para excavar.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "15347",
+        "lemma": "chisquero",
+        "definition": "Utensilio para encender fuego.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56357",
+        "lemma": "rondó",
+        "definition": "Pieza musical para piano.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57070",
+        "lemma": "salpullido",
+        "definition": "Erupción cutánea con descamación y picazón.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "51340",
+        "lemma": "precipitar",
+        "definition": "acelerar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "07460",
+        "lemma": "auspiciar",
+        "definition": "patrocinar algo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "13631",
+        "lemma": "cavaros",
+        "definition": "caballos de tiro.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65722",
+        "lemma": "yin",
+        "definition": "un principio femenino en el taoísmo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "01920",
+        "lemma": "agraz",
+        "definition": "Fruto de color rojizo, de sabor ácido, que se obtiene de una planta de la familia de las rosáceas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
