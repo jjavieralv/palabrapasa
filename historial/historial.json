@@ -16876,5 +16876,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-04",
+    "words": [
+      {
+        "id": "60091",
+        "lemma": "tabachín",
+        "definition": "El tabachín es una flor de color rojo intenso que crece en zonas tropicales.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "62454",
+        "lemma": "trabe",
+        "definition": "Elemento arquitectónico en forma de viga para sostener una cubierta.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "00712",
+        "lemma": "achacar",
+        "definition": "Atribuir a alguien o algo una responsabilidad o una culpa.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20465",
+        "lemma": "debla",
+        "definition": "Una variedad de árbol de la familia de los cipreses.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26075",
+        "lemma": "enchamarrar",
+        "definition": "Pintar con colores chillones.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "09500",
+        "lemma": "biogeografía",
+        "definition": "Estudio de la distribución geográfica de los organismos vivos.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34488",
+        "lemma": "guiñadura",
+        "definition": "Acción de guiñar el ojo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14484",
+        "lemma": "chafallar",
+        "definition": "Hacer ruido al moverse.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "46766",
+        "lemma": "ortotipografía",
+        "definition": "La técnica de la impresión que se utiliza para producir textos legibles y correctos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "02311",
+        "lemma": "ajicuervo",
+        "definition": "Ave nocturna de color negro con una cresta de plumas en la cabeza.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "65630",
+        "lemma": "yak",
+        "definition": "Una especie de bovino originario de Asia Central.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "08942",
+        "lemma": "batolito",
+        "definition": "una formación de rocas magmáticas intrusivas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "47271",
+        "lemma": "palmense",
+        "definition": "Natural o habitante de Palma (Islas Baleares).",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "03420",
+        "lemma": "almirantesa",
+        "definition": "Mujer del almirante.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45921",
+        "lemma": "ñáñara",
+        "definition": "Una antigua palabra que se usaba para referirse a la risa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "04143",
+        "lemma": "amontar",
+        "definition": "acumular, juntar.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "00485",
+        "lemma": "acampada",
+        "definition": "Una actividad recreativa que consiste en acampar al aire libre.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "41971",
+        "lemma": "maquetista",
+        "definition": "Persona que se dedica a la maquetación de textos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "40672",
+        "lemma": "logar",
+        "definition": "Establecer una relación entre dos cosas.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59660",
+        "lemma": "subtropical",
+        "definition": "Clima y vegetación que se encuentra entre los trópicos y los climas templados.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "17844",
+        "lemma": "conmutar",
+        "definition": "Conmutar - Conmutar es cambiar una cosa por otra.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64044",
+        "lemma": "usiría",
+        "definition": "Una unidad de medida antigua usada para medir la superficie de un terreno.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "39599",
+        "lemma": "lascivia",
+        "definition": "La lascivia es un comportamiento sexualmente provocativo o inapropiado.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "46958",
+        "lemma": "oxizacre",
+        "definition": "Una sustancia química compuesta de oxígeno y azufre.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65750",
+        "lemma": "yoquepierdista",
+        "definition": "Yoquepierdista, que no se preocupa por las consecuencias de sus acciones.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66160",
+        "lemma": "zocatearse",
+        "definition": "emborracharse.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
