@@ -17070,5 +17070,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-05",
+    "words": [
+      {
+        "id": "01253",
+        "lemma": "adentellar",
+        "definition": "marcar con dientes o con dientes de sierra.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "60089",
+        "lemma": "taba",
+        "definition": "Una cesta de mimbre, generalmente redonda, usada para transportar objetos.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "14105",
+        "lemma": "centillero",
+        "definition": "Una pequeña ave de plumaje gris, que se caracteriza por su canto musical y su habilidad para imitar otros sonidos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "35191",
+        "lemma": "hidrocefalia",
+        "definition": "Exceso de líquido en el cerebro.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28272",
+        "lemma": "escolasticismo",
+        "definition": "Filosofía medieval que combina la teología con la lógica.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30631",
+        "lemma": "farmacopsiquiatría",
+        "definition": "La disciplina que se ocupa del tratamiento de los trastornos mentales con medicamentos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "30707",
+        "lemma": "fatigar",
+        "definition": "cansar",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14932",
+        "lemma": "chepear",
+        "definition": "hablar mucho.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37197",
+        "lemma": "infernáculo",
+        "definition": "un lugar oscuro y sin salida.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38693",
+        "lemma": "jenable",
+        "definition": "Que puede ser juzgado.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39197",
+        "lemma": "kung-fu",
+        "definition": "Un arte marcial chino.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "15284",
+        "lemma": "chirlido",
+        "definition": "Un chirlido es un sonido agudo y penetrante.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "00631",
+        "lemma": "acemilería",
+        "definition": "La acemilería es el oficio de un acemilero, que es una persona que cuida y entrena caballos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "50329",
+        "lemma": "plastrón",
+        "definition": "Una prenda de vestir con aberturas para los brazos.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "25593",
+        "lemma": "empeñamiento",
+        "definition": "Acción de empeñar algo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46118",
+        "lemma": "ochomil",
+        "definition": "una cifra que representa ocho mil.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52262",
+        "lemma": "proverbial",
+        "definition": "Que es comúnmente conocido o es famoso por ser citado.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "55288",
+        "lemma": "réquiem",
+        "definition": "Una misa de réquiem es una ceremonia religiosa católica que se celebra en memoria de un difunto.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54913",
+        "lemma": "remolacha",
+        "definition": "una planta de raíz comestible, de color rojo oscuro, de la familia de las amarilidáceas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59258",
+        "lemma": "sonrojo",
+        "definition": "Rubor que se produce en la cara por vergüenza o emoción.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "12309",
+        "lemma": "cantito",
+        "definition": "Una canción popular o una canción de fútbol.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "07708",
+        "lemma": "aventurar",
+        "definition": "arriesgarse a algo;",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "02226",
+        "lemma": "ahuevonearse",
+        "definition": "comportarse de manera perezosa o despreocupada.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65596",
+        "lemma": "xocoatole",
+        "definition": "Bebida mexicana a base de chocolate.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65677",
+        "lemma": "yegüería",
+        "definition": "Lugar donde se crían yegüas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66015",
+        "lemma": "zapar",
+        "definition": "tirar con fuerza.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
