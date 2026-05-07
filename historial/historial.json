@@ -17264,5 +17264,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-07",
+    "words": [
+      {
+        "id": "26775",
+        "lemma": "enjertación",
+        "definition": "La enjertación es una técnica de jardinería en la que se une un trozo de una planta con otra para formar una nueva planta.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "05169",
+        "lemma": "apalabrar",
+        "definition": "Prometer con palabras.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "20468",
+        "lemma": "debrocar",
+        "definition": "Quitar la tapa de una botella.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "35066",
+        "lemma": "heroida",
+        "definition": "Un poema épico en el que los personajes hablan entre sí.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "00655",
+        "lemma": "aceptar",
+        "definition": "Aceptar.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "04517",
+        "lemma": "anfibología",
+        "definition": "Una frase que puede ser interpretada de dos maneras diferentes.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33909",
+        "lemma": "grillo",
+        "definition": "insecto con un cuerpo alargado y un par de antenas en la cabeza.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35678",
+        "lemma": "hondazo",
+        "definition": "Golpe dado con un hondo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36748",
+        "lemma": "incomprensiblemente",
+        "definition": "de forma incomprensible.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38879",
+        "lemma": "jornalear",
+        "definition": "Trabajar por jornal",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39147",
+        "lemma": "kiliárea",
+        "definition": "Kiliárea es un término usado para describir una unidad de medida equivalente a mil metros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39837",
+        "lemma": "légano",
+        "definition": "Animal de la familia de los cánidos de la subfamilia de los lobos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "32414",
+        "lemma": "futurismo",
+        "definition": "Movimiento artístico y literario que se desarrolló en Italia a principios del siglo XX y que rechazaba la tradición y buscaba innovar en el arte.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "01289",
+        "lemma": "aditamento",
+        "definition": "Objeto o elemento adicional a algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45920",
+        "lemma": "ñaña",
+        "definition": "palabra usada para referirse a algo pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "45964",
+        "lemma": "obediente",
+        "definition": "Que obedece a la autoridad.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50112",
+        "lemma": "pitancero",
+        "definition": "Persona que vende bocadillos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "44074",
+        "lemma": "monaquismo",
+        "definition": "una forma de vida religiosa cristiana, basada en la vida de oración, trabajo y austeridad.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "42265",
+        "lemma": "martaguilla",
+        "definition": "un juego de palabras que consiste en encontrar una palabra a partir de una serie de letras.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "56939",
+        "lemma": "salamanqueja",
+        "definition": "Reptil de la familia de los escamosos.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "32941",
+        "lemma": "garrota",
+        "definition": "Una herramienta usada para aplicar una fuerte presión a un objeto.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "35977",
+        "lemma": "hulear",
+        "definition": "oler a hule.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "48056",
+        "lemma": "pasavante",
+        "definition": "Una persona que se dedica a la compra y venta de libros antiguos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "10764",
+        "lemma": "bungalow",
+        "definition": "Un bungalow es una casa de una sola planta con un techo bajo.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "22890",
+        "lemma": "desoxidable",
+        "definition": "Que no se oxida.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "23110",
+        "lemma": "desplayar",
+        "definition": "desplegar.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "53323",
+        "lemma": "raizar",
+        "definition": "plantar las raíces de algo.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
