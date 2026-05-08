@@ -17458,5 +17458,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-08",
+    "words": [
+      {
+        "id": "05434",
+        "lemma": "aplaudir",
+        "definition": "Aplaudir, alabar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "17160",
+        "lemma": "compactibilidad",
+        "definition": "la capacidad de ser comprimido en un espacio más pequeño.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18577",
+        "lemma": "copiloto",
+        "definition": "Persona que acompaña al piloto en un avión o un vehículo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "38521",
+        "lemma": "jalde",
+        "definition": "Estanque pequeño para peces.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "42866",
+        "lemma": "melodiosamente",
+        "definition": "con melodía o armonía.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "13893",
+        "lemma": "cefalópodo",
+        "definition": "Animal marino que pertenece al orden de los pulpos, calamares y sepias.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "31069",
+        "lemma": "figurinista",
+        "definition": "Un artista que diseña la apariencia de una producción teatral o cinematográfica.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "39198",
+        "lemma": "kurchatovio",
+        "definition": "Unidad de medida de energía nuclear equivalente a 4,6 × 1019 julios.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "63915",
+        "lemma": "unilateralidad",
+        "definition": "Una situación en la que una sola parte toma decisiones sin consultar con la otra.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39091",
+        "lemma": "justificable",
+        "definition": "Defendible.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39188",
+        "lemma": "kosher",
+        "definition": "conjunto de leyes y normas alimentarias judías.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40170",
+        "lemma": "licuado",
+        "definition": "Bebida hecha con frutas y leche.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "24036",
+        "lemma": "discrimen",
+        "definition": "prejuicio o trato desigual entre personas o grupos por motivos de raza, sexo, etnia, religión, etc.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45690",
+        "lemma": "non plus ultra",
+        "definition": "Non plus ultra es una expresión latina que significa \"nada más allá\", usada para indicar que algo es el mejor o el más excelente.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "25515",
+        "lemma": "empañadura",
+        "definition": "Pieza de metal, madera o plástico que se coloca alrededor de una ventana para aislarla del clima.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46667",
+        "lemma": "orificio",
+        "definition": "Un agujero en una superficie.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47922",
+        "lemma": "parquedad",
+        "definition": "Uso moderado o restringido de algo, como el lenguaje.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "29048",
+        "lemma": "esquife",
+        "definition": "Pequeña embarcación.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55137",
+        "lemma": "repinaldo",
+        "definition": "una persona que es muy confiada.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "03718",
+        "lemma": "alueñarse",
+        "definition": "Volverse torpe.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "21517",
+        "lemma": "desbarajustar",
+        "definition": "Desorganizar, desordenar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63861",
+        "lemma": "ulua",
+        "definition": "Pez marino de la familia de los carangidos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64349",
+        "lemma": "várgano",
+        "definition": "Animal pequeño de la familia de los mustélidos, con una longitud de unos 60 cm, que vive en los bosques y se alimenta de frutos y carroña.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "06745",
+        "lemma": "asfixia",
+        "definition": "Asfixia, falta de aire o de oxígeno que causa la muerte.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "55202",
+        "lemma": "repoyar",
+        "definition": "apoyar, respaldar.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65828",
+        "lemma": "zacateada",
+        "definition": "Una golpiza con zacate.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
