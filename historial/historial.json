@@ -17652,5 +17652,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-09",
+    "words": [
+      {
+        "id": "18681",
+        "lemma": "corcheta",
+        "definition": "Una figura musical que consiste en una nota más alta que se mantiene por un breve periodo de tiempo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "36426",
+        "lemma": "imponderable",
+        "definition": "que no puede ser ponderado.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "25031",
+        "lemma": "electroventilador",
+        "definition": "Un electroventilador es un dispositivo mecánico que utiliza un motor eléctrico para generar un flujo de aire.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23435",
+        "lemma": "desventura",
+        "definition": "Desventura es una situación desafortunada o desgraciada.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "51648",
+        "lemma": "prestidigitación",
+        "definition": "El arte de realizar trucos de magia con las manos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "50916",
+        "lemma": "porfiria",
+        "definition": "Enfermedad hereditaria del metabolismo que se caracteriza por la presencia de pigmentos púrpuras en la piel.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34255",
+        "lemma": "guardilla",
+        "definition": "Persona encargada de vigilar un lugar.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "09234",
+        "lemma": "berrinche",
+        "definition": "una conducta infantil caracterizada por gritar y patalear.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36634",
+        "lemma": "incansablemente",
+        "definition": "sin descanso, con gran esfuerzo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38674",
+        "lemma": "jean",
+        "definition": "Una tela de algodón tejida de forma especial, generalmente usada para hacer pantalones.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "09425",
+        "lemma": "bikini",
+        "definition": "Un tipo de traje de baño femenino que consiste en una parte superior y una inferior.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "29419",
+        "lemma": "estolón",
+        "definition": "tallo que sale de la base de una planta y se extiende hacia el suelo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "25118",
+        "lemma": "emancipar",
+        "definition": "Liberar a alguien de la tutela de sus padres o de la autoridad de un tercero.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "26481",
+        "lemma": "enfoscadero",
+        "definition": "Lugar donde se prepara el mortero para revocar una pared.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "53689",
+        "lemma": "reacuñación",
+        "definition": "La reacuñación es una forma de reciclaje de productos textiles, en la que se toman los recortes de tela y se reutilizan para crear nuevas prendas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "64781",
+        "lemma": "vergonzosamente",
+        "definition": "de manera vergonzosa.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51697",
+        "lemma": "pretor",
+        "definition": "un magistrado romano encargado de la administración de justicia.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52854",
+        "lemma": "quetzal",
+        "definition": "un ave tropical de América Central y del Sur considerada como un símbolo de libertad.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55452",
+        "lemma": "respetable",
+        "definition": "respetable se refiere a alguien que es digno de respeto.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58889",
+        "lemma": "sobretiempo",
+        "definition": "Tiempo adicional para completar una tarea.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60147",
+        "lemma": "tablao",
+        "definition": "Un tablao es un lugar de reunión para el baile de flamenco.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "44914",
+        "lemma": "museología",
+        "definition": "La museología es el estudio de los museos y de la exhibición de objetos de interés cultural.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "56075",
+        "lemma": "rivalidad",
+        "definition": "La rivalidad es una rivalidad entre dos o más personas o grupos, generalmente por motivos de competencia.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65586",
+        "lemma": "xi",
+        "definition": "letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65503",
+        "lemma": "voyerismo",
+        "definition": "Práctica de observar a personas desconocidas sin su conocimiento.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "09243",
+        "lemma": "berzas",
+        "definition": "Verdura de hoja verde de la familia de las coles.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
