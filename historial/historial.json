@@ -17846,5 +17846,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-10",
+    "words": [
+      {
+        "id": "00373",
+        "lemma": "abstergente",
+        "definition": "Producto o sustancia usada para limpiar o desinfectar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "31003",
+        "lemma": "fibrosarcoma",
+        "definition": "un tipo de cáncer.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "02675",
+        "lemma": "alcahotar",
+        "definition": "beber en exceso.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "64136",
+        "lemma": "vaciedad",
+        "definition": "La vaciedad es la ausencia de variedad o diversidad, especialmente en la apariencia, color o forma.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "30207",
+        "lemma": "extramuros",
+        "definition": "fuera de los límites de una ciudad o de un edificio.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30635",
+        "lemma": "farol",
+        "definition": "Un dispositivo de iluminación que se monta en un poste y que se utiliza para iluminar una zona.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "15429",
+        "lemma": "cholgua",
+        "definition": "Una prenda de vestir tradicional de los indígenas de la región andina de Colombia.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34887",
+        "lemma": "helminto",
+        "definition": "Un tipo de parásito.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38290",
+        "lemma": "irretroactividad",
+        "definition": "La imposibilidad de aplicar una ley o una decisión a situaciones ocurridas antes de su entrada en vigor.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39091",
+        "lemma": "justificable",
+        "definition": "Defendible.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "53432",
+        "lemma": "ranking",
+        "definition": "La clasificación de algo según ciertos criterios.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "21337",
+        "lemma": "desapacible",
+        "definition": "Desagradable.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "57800",
+        "lemma": "semicírculo",
+        "definition": "Una figura geométrica formada por la mitad de un círculo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45009",
+        "lemma": "nación",
+        "definition": "un grupo de personas que comparten una misma cultura, lengua y territorio.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "28631",
+        "lemma": "espadañada",
+        "definition": "Una espadañada es una broma o una burla.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46029",
+        "lemma": "obscenidad",
+        "definition": "Ofensa a la moral o a la decencia por medio de palabras o acciones.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48949",
+        "lemma": "perdigar",
+        "definition": "desperdiciar algo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52756",
+        "lemma": "queche",
+        "definition": "Una comida típica de los Andes ecuatorianos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55342",
+        "lemma": "rescoldera",
+        "definition": "Persona que fomenta la discordia entre los demás.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "24059",
+        "lemma": "disecar",
+        "definition": "separar los tejidos de un cuerpo para estudiarlo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "27640",
+        "lemma": "epatar",
+        "definition": "sorprender o asombrar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63870",
+        "lemma": "umbralado",
+        "definition": "Una técnica de edición de imágenes que consiste en ajustar los niveles de brillo y contraste para destacar los detalles de una imagen.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "03116",
+        "lemma": "alholvar",
+        "definition": "El alholvar es una planta herbácea de la familia de las crucíferas.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "57546",
+        "lemma": "sawali",
+        "definition": "Tipo de tejido de bambú muy fino.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30205",
+        "lemma": "extramarital",
+        "definition": "Relaciones sexuales fuera del matrimonio.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65713",
+        "lemma": "yeti",
+        "definition": "una criatura mítica, similar a un oso, que vive en las montañas del Himalaya.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "03398",
+        "lemma": "almez",
+        "definition": "Un almez es un árbol del género Celtis, de la familia de las Ulmáceas, con hojas lanceoladas y frutos comestibles.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
