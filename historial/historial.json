@@ -18040,5 +18040,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-11",
+    "words": [
+      {
+        "id": "24885",
+        "lemma": "eficiencia",
+        "definition": "la capacidad de producir un resultado deseado con el menor esfuerzo posible.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "00009",
+        "lemma": "ábaco",
+        "definition": "Instrumento de cálculo que se compone de una tabla con varias divisiones en la que se colocan unas barras con cuentas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "12666",
+        "lemma": "carbógeno",
+        "definition": "gas combustible.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21779",
+        "lemma": "descodificar",
+        "definition": "convertir una señal codificada en una señal legible.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "06899",
+        "lemma": "asquerosamente",
+        "definition": "de forma repugnante.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "54456",
+        "lemma": "refrendata",
+        "definition": "Firma con el sello de una autoridad.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "26674",
+        "lemma": "engrudo",
+        "definition": "Masa líquida o pastosa, generalmente a base de harina o almidón, que se usa para pegar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14932",
+        "lemma": "chepear",
+        "definition": "hablar mucho.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "35309",
+        "lemma": "hilaridad",
+        "definition": "La hilaridad es un sentimiento de alegría y diversión exagerada.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38844",
+        "lemma": "jodarria",
+        "definition": "Instrumento musical de viento hecho de caña.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "63470",
+        "lemma": "trotskismo",
+        "definition": "Movimiento político fundado por Leon Trotsky.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39742",
+        "lemma": "laxar",
+        "definition": "relajar.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "36472",
+        "lemma": "impresa",
+        "definition": "Logotipo o símbolo de una organización.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45095",
+        "lemma": "napoleón",
+        "definition": "Napoleon.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "56489",
+        "lemma": "roñía",
+        "definition": "acción de roñar o dejar algo en mal estado.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46542",
+        "lemma": "opus",
+        "definition": "trabajo artístico o literario.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "27513",
+        "lemma": "entupir",
+        "definition": "obstruir una abertura.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53021",
+        "lemma": "quintuplicación",
+        "definition": "La acción de multiplicar por cinco.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56245",
+        "lemma": "rojete",
+        "definition": "una pequeña mancha roja.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "63227",
+        "lemma": "trincaesquinas",
+        "definition": "Un trincaesquinas es una herramienta usada para cortar madera.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "29584",
+        "lemma": "estróbilo",
+        "definition": "Una estructura en forma de cono que contiene las semillas de algunas plantas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10751",
+        "lemma": "bullicio",
+        "definition": "Ruido intenso y confuso producido por la presencia de muchas personas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64123",
+        "lemma": "vacacionar",
+        "definition": "Pasar unas vacaciones.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65570",
+        "lemma": "wólfram",
+        "definition": "Tungsteno",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65596",
+        "lemma": "xocoatole",
+        "definition": "Bebida mexicana a base de chocolate.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "07845",
+        "lemma": "ayuste",
+        "definition": "Un ayuste es un arreglo, una solución temporal para un problema.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "48349",
+        "lemma": "pavonazo",
+        "definition": "una exhibición de vanidad o presunción.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
