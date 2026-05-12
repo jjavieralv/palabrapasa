@@ -18234,5 +18234,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-12",
+    "words": [
+      {
+        "id": "42821",
+        "lemma": "melar",
+        "definition": "abrir una hendidura en una superficie.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "56955",
+        "lemma": "salbanda",
+        "definition": "Pequeña franja de tierra que se extiende a lo largo de una costa.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "13888",
+        "lemma": "cedulón",
+        "definition": "Una tarjeta pequeña con información impresa.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23076",
+        "lemma": "despilarar",
+        "definition": "Desenredar algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27747",
+        "lemma": "equidistancia",
+        "definition": "Igual distancia entre dos puntos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "02975",
+        "lemma": "alfaqueque",
+        "definition": "Una herramienta usada para medir ángulos y distancias.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34714",
+        "lemma": "hangar",
+        "definition": "Edificio para el almacenamiento de aeronaves.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14443",
+        "lemma": "chacalín",
+        "definition": "Persona que se dedica a alguna actividad deshonesta.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37815",
+        "lemma": "intercomunicación",
+        "definition": "un sistema de comunicación entre dos o más personas.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "13222",
+        "lemma": "cascajera",
+        "definition": "Persona que se dedica a recoger y vender cascajo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39194",
+        "lemma": "kril",
+        "definition": "Es un pez de la familia de los crustáceos, que se encuentra en los océanos del norte y del sur.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "03180",
+        "lemma": "aligar",
+        "definition": "Unir dos cosas para formar una sola.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "57191",
+        "lemma": "sambuca",
+        "definition": "Una bebida italiana hecha con anís, licor de hierbas y azúcar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "47436",
+        "lemma": "pandiculación",
+        "definition": "Movimiento de los brazos y las manos al hablar.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45909",
+        "lemma": "ñandú",
+        "definition": "Ave de la familia de los ñandúes, de gran tamaño y con plumas grises y marrones.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "05435",
+        "lemma": "aplauso",
+        "definition": "Una muestra de aprobación o de entusiasmo, generalmente expresada a través de una serie de golpes con las manos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "28717",
+        "lemma": "espátula",
+        "definition": "Un utensilio de cocina que se utiliza para mezclar, revolver o servir alimentos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52742",
+        "lemma": "quebramiento",
+        "definition": "Ruptura o rotura.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55692",
+        "lemma": "retranca",
+        "definition": "La habilidad de responder con ingenio a algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58929",
+        "lemma": "socarro",
+        "definition": "Persona que lleva un carro, generalmente con caballos, para transportar personas o carga.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "04550",
+        "lemma": "angelote",
+        "definition": "Persona de carácter amable y bondadoso.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63794",
+        "lemma": "ubicuidad",
+        "definition": "Ubicuidad es la presencia de algo en todas partes.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65348",
+        "lemma": "vivienda",
+        "definition": "Una vivienda es un espacio habitable, un lugar donde se puede vivir.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60829",
+        "lemma": "tawahka",
+        "definition": "Perteneciente a una etnia indígena de Nicaragua.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "45595",
+        "lemma": "nixte",
+        "definition": "adjetivo que se refiere a algo que es complicado o difícil de entender.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65744",
+        "lemma": "yolillo",
+        "definition": "Fruta de color amarillo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65924",
+        "lemma": "zambarco",
+        "definition": "Una variedad de vid.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
