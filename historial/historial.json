@@ -18428,5 +18428,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-13",
+    "words": [
+      {
+        "id": "62083",
+        "lemma": "tomavistas",
+        "definition": "Una cámara fotográfica con un objetivo de gran angular.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08987",
+        "lemma": "bayosa",
+        "definition": "Cosa que se hace mal, sin cuidado ni precaución.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "17876",
+        "lemma": "conquiliología",
+        "definition": "Estudio de los conquilios.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24040",
+        "lemma": "discuento",
+        "definition": "reducción en el precio de un producto o servicio.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25904",
+        "lemma": "encandilar",
+        "definition": "Embelesar, atraer o seducir a alguien.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "24885",
+        "lemma": "eficiencia",
+        "definition": "la capacidad de producir un resultado deseado con el menor esfuerzo posible.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32794",
+        "lemma": "garapullo",
+        "definition": "Hierba medicinal.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "62875",
+        "lemma": "trasnochar",
+        "definition": "pasar la noche trabajando.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "54169",
+        "lemma": "recrujir",
+        "definition": "Hacer un ruido fuerte y agudo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38513",
+        "lemma": "jalacate",
+        "definition": "Fruta tropical de la familia de los cítricos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39152",
+        "lemma": "kilociclo",
+        "definition": "Una unidad de medida para la frecuencia de una onda electromagnética.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "12922",
+        "lemma": "carnaval",
+        "definition": "fiesta festiva con disfraces.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "33122",
+        "lemma": "gemir",
+        "definition": "Expresar dolor o tristeza con un suspiro.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "30538",
+        "lemma": "fanesca",
+        "definition": "Una sopa típica de Ecuador.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "06591",
+        "lemma": "aruñón",
+        "definition": "Pequeña cantidad de dinero.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "09864",
+        "lemma": "boja",
+        "definition": "persona que actúa de forma extravagante o inusual.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "62187",
+        "lemma": "topología",
+        "definition": "Rama de la matemática que estudia la forma de los objetos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52843",
+        "lemma": "querulante",
+        "definition": "Persona que se queja y protesta con frecuencia.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56534",
+        "lemma": "rudamente",
+        "definition": "Groseramente.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "26836",
+        "lemma": "enlistonar",
+        "definition": "Poner enlaces.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60097",
+        "lemma": "tabalada",
+        "definition": "Una sección de una orquesta de tambores.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63847",
+        "lemma": "ultraizquierda",
+        "definition": "Ideología política que busca una revolución radical.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64904",
+        "lemma": "vestugo",
+        "definition": "Resto de una estructura antigua.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "35604",
+        "lemma": "hollywoodense",
+        "definition": "Relativo a Hollywood, una ciudad de los Estados Unidos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65573",
+        "lemma": "xantina",
+        "definition": "una base nitrogenada presente en los tejidos animales y vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "15417",
+        "lemma": "chocoya",
+        "definition": "Persona originaria de la región de Chocó, en Colombia.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "37905",
+        "lemma": "internacionalización",
+        "definition": "El proceso de expandir los negocios, productos o servicios a una escala internacional.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
