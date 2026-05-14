@@ -18622,5 +18622,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-14",
+    "words": [
+      {
+        "id": "50195",
+        "lemma": "pizpita",
+        "definition": "Una pequeña campana de metal.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08913",
+        "lemma": "batial",
+        "definition": "Relativo a la costa.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "20221",
+        "lemma": "cursor",
+        "definition": "Puntero que se mueve en la pantalla para seleccionar objetos o posiciones.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "05465",
+        "lemma": "apodamiento",
+        "definition": "El apodamiento es el acto de dar un apodo a alguien o algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "45311",
+        "lemma": "negrear",
+        "definition": "trabajar con mucha intensidad.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "49016",
+        "lemma": "perfilar",
+        "definition": "Delinear.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34206",
+        "lemma": "guardahúmo",
+        "definition": "una prenda de vestir tradicional de los hombres de algunas regiones de España.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35269",
+        "lemma": "higo",
+        "definition": "El higo es una fruta comestible de color marrón oscuro y forma redonda, con una pulpa suave y dulce.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "47954",
+        "lemma": "parsimonia",
+        "definition": "la práctica de ser ahorrativo con el dinero y los recursos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38636",
+        "lemma": "jaropear",
+        "definition": "beber con exceso.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39112",
+        "lemma": "k",
+        "definition": "Una abreviatura para el prefijo kilo, que significa mil.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "52396",
+        "lemma": "publicitar",
+        "definition": "Promocionar algo o a alguien de forma publica.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "20842",
+        "lemma": "demandante",
+        "definition": "Persona que demanda algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "01801",
+        "lemma": "agermanarse",
+        "definition": "Establecer lazos de amistad y/o parentesco entre dos o más personas.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "43818",
+        "lemma": "miñón",
+        "definition": "Persona de carácter jovial, alegre y expansivo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "48035",
+        "lemma": "pasamano",
+        "definition": "Una barandilla para sujetarse cuando se sube o baja escaleras o una rampa.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "30147",
+        "lemma": "extemporaneidad",
+        "definition": "Acción de hacer algo fuera de tiempo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53010",
+        "lemma": "quinterno",
+        "definition": "Cuaderno de cinco hojas.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "08218",
+        "lemma": "bajareque",
+        "definition": "una construcción ligera hecha de cañas o ramas entrelazadas.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58654",
+        "lemma": "sitial",
+        "definition": "Silla de respaldo alto, con brazos y respaldo tapizado.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "64992",
+        "lemma": "victimización",
+        "definition": "La acción de convertir a una persona en víctima de algo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63845",
+        "lemma": "ultraísmo",
+        "definition": "Ultraísmo es una palabra que se refiere a un movimiento literario español de principios del siglo XX.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "23548",
+        "lemma": "devengo",
+        "definition": "impuesto que se debe pagar periódicamente.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "59935",
+        "lemma": "superwoman",
+        "definition": "Una mujer que tiene habilidades y poderes especiales que la hacen destacar por encima de los demás.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "19954",
+        "lemma": "cuexca",
+        "definition": "Bailarín de la danza prehispánica.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65600",
+        "lemma": "yaacabó",
+        "definition": "Persona que es muy tímida o reservada.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "00966",
+        "lemma": "acorazamiento",
+        "definition": "El proceso de proteger algo con una armadura o blindaje.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
