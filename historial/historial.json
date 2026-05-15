@@ -18816,5 +18816,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-15",
+    "words": [
+      {
+        "id": "04996",
+        "lemma": "antipersona",
+        "definition": "Alguien que actúa en contra de los intereses de los demás.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "34584",
+        "lemma": "habillamiento",
+        "definition": "el acto de vestirse.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "19934",
+        "lemma": "cuerria",
+        "definition": "Pequeño cordón de cuero.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22839",
+        "lemma": "desobediencia",
+        "definition": "Falta de obediencia a una autoridad o a una norma.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "22698",
+        "lemma": "desmandamiento",
+        "definition": "Acción y efecto de desmandar.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31703",
+        "lemma": "formatear",
+        "definition": "Preparar un dispositivo de almacenamiento para su uso.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "23950",
+        "lemma": "diptografía",
+        "definition": "El estudio de la forma y la estructura de los caracteres impresos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "41068",
+        "lemma": "machincuepa",
+        "definition": "juego tradicional de los pueblos indígenas de América del Sur.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36640",
+        "lemma": "incapacitar",
+        "definition": "Privar a alguien de su capacidad para hacer algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38519",
+        "lemma": "jalbegue",
+        "definition": "Obra de construcción consistente en una pared de adobe.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39175",
+        "lemma": "kirieleisón",
+        "definition": "Una comida a base de carne, patatas y huevos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "30075",
+        "lemma": "expillo",
+        "definition": "Acción de expulsar algo o a alguien.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "22746",
+        "lemma": "desmerecer",
+        "definition": "Desacreditar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "21120",
+        "lemma": "desabarrancar",
+        "definition": "deshacer una barranca.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45941",
+        "lemma": "ñorbo",
+        "definition": "Persona muy habladora.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46333",
+        "lemma": "olio",
+        "definition": "El olio es un líquido aceitoso y viscoso compuesto principalmente de ácidos grasos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49389",
+        "lemma": "pestilencial",
+        "definition": "adjetivo que se refiere a algo o alguien que es pestilente.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53074",
+        "lemma": "quitapelillos",
+        "definition": "Utensilio usado para eliminar los pelos de la ropa.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "10510",
+        "lemma": "bromuro",
+        "definition": "un compuesto químico formado por un átomo de bromo y otros átomos.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58906",
+        "lemma": "sobreviento",
+        "definition": "Viento que sopla de manera repentina.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "14124",
+        "lemma": "centralizar",
+        "definition": "concentrar el poder y la autoridad en un solo lugar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63906",
+        "lemma": "unifamiliar",
+        "definition": "Que pertenece a una sola familia.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "25056",
+        "lemma": "elevadamente",
+        "definition": "con grandeza.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "59013",
+        "lemma": "software",
+        "definition": "Conjunto de programas informáticos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30052",
+        "lemma": "expeditamente",
+        "definition": "De manera rápida y eficiente.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65771",
+        "lemma": "yugueta",
+        "definition": "juego infantil que consiste en lanzar una piedra con una cuerda.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65977",
+        "lemma": "zanfona",
+        "definition": "Un instrumento musical de cuerda tradicional de la Edad Media.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
