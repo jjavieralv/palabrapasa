@@ -19204,5 +19204,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-17",
+    "words": [
+      {
+        "id": "03726",
+        "lemma": "alumbrera",
+        "definition": "Una alumbrera es una antorcha hecha de madera y paja, usada para iluminar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10436",
+        "lemma": "brillantez",
+        "definition": "Cualidad de lo que es brillante.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "14890",
+        "lemma": "chavalería",
+        "definition": "Caballerosidad, comportamiento honorable.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "65027",
+        "lemma": "videoteléfono",
+        "definition": "Un dispositivo que permite a dos o más personas comunicarse con imágenes y sonidos a través de una línea telefónica.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29610",
+        "lemma": "estructurante",
+        "definition": "Que sirve para establecer o dar forma a algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "26493",
+        "lemma": "enfrentamiento",
+        "definition": "Conflicto entre dos o más partes.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "05971",
+        "lemma": "árganas",
+        "definition": "un instrumento musical de viento compuesto de una serie de tambores de madera con pieles de animal tensadas sobre ellos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "15580",
+        "lemma": "chulla",
+        "definition": "Persona astuta que se aprovecha de los demás para obtener un beneficio.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "55470",
+        "lemma": "resplandeciente",
+        "definition": "Brillante, radiante y lleno de luz.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "21260",
+        "lemma": "desajacarse",
+        "definition": "Desajustarse, desengancharse.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39136",
+        "lemma": "kelvin",
+        "definition": "Una unidad de medida de temperatura.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39556",
+        "lemma": "laque",
+        "definition": "una bebida alcohólica francesa hecha con vino y especias.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42784",
+        "lemma": "meiosis",
+        "definition": "Meiosis es un tipo de división celular que se usa para producir células sexuales.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45266",
+        "lemma": "necropsia",
+        "definition": "Un examen médico-legal de un cadáver para determinar la causa de la muerte.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45920",
+        "lemma": "ñaña",
+        "definition": "palabra usada para referirse a algo pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46147",
+        "lemma": "octavofinalista",
+        "definition": "Persona que ha llegado a los octavos de final de una competición.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47238",
+        "lemma": "palinología",
+        "definition": "El estudio de los fósiles de plantas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52950",
+        "lemma": "quina",
+        "definition": "Juego de azar que consiste en elegir cinco números de entre los disponibles.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54133",
+        "lemma": "recoquín",
+        "definition": "persona aficionada a los placeres mundanos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "10856",
+        "lemma": "busco",
+        "definition": "Que busca algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61391",
+        "lemma": "termotecnia",
+        "definition": "Es la ciencia que estudia el calor y sus aplicaciones.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "24480",
+        "lemma": "doquiere",
+        "definition": "en cualquier lugar.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "12650",
+        "lemma": "caravana",
+        "definition": "Un grupo de vehículos que viajan juntos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58237",
+        "lemma": "showman",
+        "definition": "Persona que se dedica a la organización de espectáculos públicos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65679",
+        "lemma": "yegüero",
+        "definition": "persona que cuida yegüas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65880",
+        "lemma": "zaherío",
+        "definition": "abuso verbal.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
