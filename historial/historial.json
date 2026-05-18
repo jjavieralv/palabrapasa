@@ -19398,5 +19398,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-18",
+    "words": [
+      {
+        "id": "06704",
+        "lemma": "asentadamente",
+        "definition": "de manera asentada.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "16435",
+        "lemma": "cobertizo",
+        "definition": "Pequeña construcción de madera o metal para guardar herramientas o almacenar cosas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "53201",
+        "lemma": "radicalidad",
+        "definition": "Característica de algo o alguien que es extremista o intransigente.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21830",
+        "lemma": "desconcentración",
+        "definition": "La desconcentración es el proceso de trasladar actividades y responsabilidades desde el nivel central de gobierno hacia el nivel local.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "64460",
+        "lemma": "veguer",
+        "definition": "Un funcionario que ejerce la justicia en una ciudad o pueblo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "18222",
+        "lemma": "contrafagot",
+        "definition": "Instrumento de viento-madera, con una boca grande y un tubo curvo, que se toca con una boquilla.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "55000",
+        "lemma": "rengífero",
+        "definition": "Que contiene o está hecho de rengifo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35693",
+        "lemma": "honestar",
+        "definition": "ser honesto.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "04022",
+        "lemma": "americanizante",
+        "definition": "adjetivo para describir algo o alguien que adopta o promueve los valores o estilos de vida estadounidenses.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38654",
+        "lemma": "jasar",
+        "definition": "Hablar con desprecio o sarcasmo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10770",
+        "lemma": "bunkerizar",
+        "definition": "fortificar con búnkeres.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39578",
+        "lemma": "largura",
+        "definition": "Cualidad de ser extenso.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "26271",
+        "lemma": "encubiertamente",
+        "definition": "de manera oculta.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "13793",
+        "lemma": "cañón",
+        "definition": "Una formación geológica natural, como una garganta o un desfiladero, formada por la erosión del agua.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "49922",
+        "lemma": "pipeño",
+        "definition": "vino tinto artesanal chileno",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46005",
+        "lemma": "obligar",
+        "definition": "Forzar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49840",
+        "lemma": "pingüe",
+        "definition": "Abundante.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52881",
+        "lemma": "quiebre",
+        "definition": "Rotura o ruptura de una cosa.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54693",
+        "lemma": "reinicio",
+        "definition": "el acto de volver a comenzar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "15680",
+        "lemma": "chusmear",
+        "definition": "husmear.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60405",
+        "lemma": "tambaleante",
+        "definition": "inestable, que se tambalea.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "19766",
+        "lemma": "cuatropea",
+        "definition": "Una especie de ave.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64810",
+        "lemma": "vernal",
+        "definition": "Relacionado con la primavera.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "58235",
+        "lemma": "show business",
+        "definition": "El show business es el negocio de la producción y distribución de entretenimiento, como espectáculos de televisión, cine, teatro, música y otros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "52296",
+        "lemma": "proxenetismo",
+        "definition": "actividad de intermediario entre prostitutas y clientes.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "32518",
+        "lemma": "galayo",
+        "definition": "Galayo es una palabra que se usa para referirse a una persona que habla con un acento o dialecto particular.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "15690",
+        "lemma": "chuzar",
+        "definition": "Disparar un arma de fuego.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
