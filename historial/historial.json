@@ -19592,5 +19592,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-19",
+    "words": [
+      {
+        "id": "05871",
+        "lemma": "arcial",
+        "definition": "Relativo al arco.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "11423",
+        "lemma": "calambreña",
+        "definition": "Persona de Calamocha, provincia de Teruel, España.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "41749",
+        "lemma": "mangancia",
+        "definition": "La mangancia es una forma de engaño o estafa.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "13752",
+        "lemma": "cañandonga",
+        "definition": "Una planta herbácea de la familia de las gramíneas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29715",
+        "lemma": "etopeya",
+        "definition": "Relato poético, generalmente narrado en verso, que describe un suceso histórico.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "04920",
+        "lemma": "antifascismo",
+        "definition": "El antifascismo es una ideología y un movimiento político que se opone al fascismo y a los principios fascistas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "01876",
+        "lemma": "agotamiento",
+        "definition": "agotamiento es el estado de cansancio extremo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34608",
+        "lemma": "hablante",
+        "definition": "que habla.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37086",
+        "lemma": "ineludiblemente",
+        "definition": "sin lugar a dudas.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "05196",
+        "lemma": "aparataje",
+        "definition": "El conjunto de aparatos y equipo necesarios para una actividad específica.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39126",
+        "lemma": "karst",
+        "definition": "Un paisaje formado por la erosión de la roca caliza por el agua.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "36713",
+        "lemma": "incoercible",
+        "definition": "Que no puede ser obligado o forzado.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "59974",
+        "lemma": "suprimir",
+        "definition": "Dejar de usar algo o dejar de existir.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45542",
+        "lemma": "nínfula",
+        "definition": "Una persona pequeña y frágil.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "04915",
+        "lemma": "antiespañolismo",
+        "definition": "Actitud de rechazo hacia España.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46249",
+        "lemma": "ohm",
+        "definition": "Unidad de medida de resistencia eléctrica.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50183",
+        "lemma": "pizarral",
+        "definition": "Una superficie plana y lisa hecha de materiales como madera, metal o piedra, tradicionalmente usada para escribir o dibujar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "21545",
+        "lemma": "desbloquear",
+        "definition": "Liberar algo de un bloqueo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55143",
+        "lemma": "repiquete",
+        "definition": "ruido corto y seco.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58147",
+        "lemma": "sesudez",
+        "definition": "Característica de algo que es grave o profundo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63277",
+        "lemma": "triplicidad",
+        "definition": "La triplicidad es la condición de ser tres.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "45555",
+        "lemma": "niquelado",
+        "definition": "El niquelado es un proceso de revestimiento en el que se deposita un recubrimiento de níquel sobre una superficie para mejorar su resistencia a la corrosión.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "10345",
+        "lemma": "bravonel",
+        "definition": "Una tela fina de seda o algodón.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "57261",
+        "lemma": "sándwich",
+        "definition": "Un sándwich es una comida compuesta por dos rebanadas de pan y un relleno entre ellas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65573",
+        "lemma": "xantina",
+        "definition": "una base nitrogenada presente en los tejidos animales y vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65671",
+        "lemma": "yebo",
+        "definition": "Una expresión que se usa para expresar sorpresa.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66210",
+        "lemma": "zoonosis",
+        "definition": "Enfermedad infecciosa que se transmite de los animales a los humanos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
