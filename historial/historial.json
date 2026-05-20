@@ -19786,5 +19786,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-20",
+    "words": [
+      {
+        "id": "08142",
+        "lemma": "badiana",
+        "definition": "es una especia aromática que se usa para dar sabor a los alimentos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "59913",
+        "lemma": "superponible",
+        "definition": "Que se puede superponer a otra cosa.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17295",
+        "lemma": "compostero",
+        "definition": "Recipiente destinado a la recogida de residuos orgánicos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22190",
+        "lemma": "desenfundar",
+        "definition": "Sacar algo de una funda.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "34704",
+        "lemma": "hamez",
+        "definition": "Instrumento usado para coser.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "49027",
+        "lemma": "perfume",
+        "definition": "una mezcla de aceites esenciales, alcohol y agua usada para agregar aroma a la piel.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "55982",
+        "lemma": "rigor mortis",
+        "definition": "Rigor mortis es la rigidez muscular que se produce después de la muerte.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35449",
+        "lemma": "hipogastrio",
+        "definition": "parte inferior del abdomen.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37597",
+        "lemma": "insinceridad",
+        "definition": "hipocresía.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38532",
+        "lemma": "jalifato",
+        "definition": "Un jalifato es un gobierno autoritario, especialmente uno que existe en una monarquía absoluta.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39119",
+        "lemma": "kanjobal",
+        "definition": "Hablante de kanjobal, lengua maya hablada en Guatemala y México.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "02264",
+        "lemma": "aisladamente",
+        "definition": "aisladamente",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "03513",
+        "lemma": "almudín",
+        "definition": "Un recipiente de barro para almacenar líquidos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "57294",
+        "lemma": "sanguificación",
+        "definition": "La sanguificación es el acto de mejorar la calidad de la sangre mediante la nutrición y el ejercicio.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "61589",
+        "lemma": "teñido",
+        "definition": "proceso de dar color a una materia.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46429",
+        "lemma": "ondra",
+        "definition": "Estado de ánimo alegre y satisfecho.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50011",
+        "lemma": "piromancia",
+        "definition": "Adivinación a través del fuego.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "46337",
+        "lemma": "olisqueo",
+        "definition": "El acto de oler algo para apreciar su aroma.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54592",
+        "lemma": "regolfo",
+        "definition": "Juego de cartas tradicional en el sur de España.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "16605",
+        "lemma": "coepíscopo",
+        "definition": "Obispo auxiliar de una diócesis.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61643",
+        "lemma": "tijerazo",
+        "definition": "Corte con tijeras.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63979",
+        "lemma": "urbe",
+        "definition": "Una urbe es una ciudad grande o un área urbana.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "55018",
+        "lemma": "renovar",
+        "definition": "Hacer nuevo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65551",
+        "lemma": "wahabismo",
+        "definition": "Un movimiento islámico sunita que aboga por una aplicación estricta de los principios del islam.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30241",
+        "lemma": "extrañamente",
+        "definition": "de manera extraña.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "08902",
+        "lemma": "batayola",
+        "definition": "Una batayola es una estructura de madera utilizada para soportar un techo.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "07863",
+        "lemma": "azafrán",
+        "definition": "Una especia de color amarillo intenso con un sabor único.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
