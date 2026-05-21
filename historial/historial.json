@@ -19980,5 +19980,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-21",
+    "words": [
+      {
+        "id": "41664",
+        "lemma": "manchar",
+        "definition": "Dejar una marca, una tacha o una huella.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "54191",
+        "lemma": "recubrir",
+        "definition": "Cubrir con algo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "61067",
+        "lemma": "temazcal",
+        "definition": "Una sauna tradicional usada por los pueblos indígenas de México y Centroamérica.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23579",
+        "lemma": "día",
+        "definition": "Un período de veinticuatro horas, medido desde la medianoche hasta la medianoche del día siguiente.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26070",
+        "lemma": "enceste",
+        "definition": "Acción de encestar un balón en el aro.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "22387",
+        "lemma": "desfollonar",
+        "definition": "deshacer un enredo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32909",
+        "lemma": "garrapata",
+        "definition": "Parásito de los animales.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "27341",
+        "lemma": "entrechocamiento",
+        "definition": "Entrechocamiento es el choque o el encuentro entre dos o más objetos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "29162",
+        "lemma": "estalactita",
+        "definition": "una formación de roca caliza creada por el agua subterránea que gotea desde el techo de una cueva.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38850",
+        "lemma": "jogging",
+        "definition": "Una forma de ejercicio que implica correr a un ritmo constante.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39121",
+        "lemma": "kappa",
+        "definition": "Letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "26121",
+        "lemma": "enciclopedismo",
+        "definition": "La práctica de conocer muchos temas diferentes.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42970",
+        "lemma": "mengía",
+        "definition": "Instrumento musical de viento de origen andino hecho de caña.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "64822",
+        "lemma": "verriondez",
+        "definition": "Palabra para describir la actitud de alguien que se comporta de forma arrogante.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45921",
+        "lemma": "ñáñara",
+        "definition": "Una antigua palabra que se usaba para referirse a la risa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46793",
+        "lemma": "osciloscopio",
+        "definition": "Un osciloscopio es un dispositivo de medición electrónico que se utiliza para medir y visualizar señales eléctricas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "63262",
+        "lemma": "tripería",
+        "definition": "Lugar donde se venden los productos del tripeo, como carne, hígado, corazón, etc.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "14106",
+        "lemma": "centiloquio",
+        "definition": "una frase corta y conmovedora.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "42919",
+        "lemma": "memorial",
+        "definition": "un recuerdo o monumento que conmemora un acontecimiento o una persona.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "24104",
+        "lemma": "disimetría",
+        "definition": "la ausencia de simetría entre dos partes de una cosa.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "17795",
+        "lemma": "conjetura",
+        "definition": "Hipótesis o suposición.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63924",
+        "lemma": "unípede",
+        "definition": "que tiene un solo pie.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64356",
+        "lemma": "variamente",
+        "definition": "de diferentes maneras.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "46952",
+        "lemma": "oxigenar",
+        "definition": "Oxigenar es añadir oxígeno a un líquido o a un ambiente.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "60555",
+        "lemma": "tapayagua",
+        "definition": "Una planta medicinal conocida por sus propiedades curativas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "07963",
+        "lemma": "azud",
+        "definition": "Depósito de agua para regar los campos.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
