@@ -20174,5 +20174,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-22",
+    "words": [
+      {
+        "id": "20410",
+        "lemma": "data",
+        "definition": "información.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09529",
+        "lemma": "biotopo",
+        "definition": "Espacio natural con una composición y estructura específica de elementos bióticos y abióticos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "36633",
+        "lemma": "incansable",
+        "definition": "Que no se cansa.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "50497",
+        "lemma": "pluridimensional",
+        "definition": "Que tiene más de una dimensión.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26532",
+        "lemma": "engallar",
+        "definition": "Encerrar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31575",
+        "lemma": "folletinista",
+        "definition": "Una persona que escribe folletines, que son novelas cortas publicadas en partes en un periódico o revista.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "04535",
+        "lemma": "angarillada",
+        "definition": "Una reunión de personas que comparten una misma pasión o afición.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "37353",
+        "lemma": "inherencia",
+        "definition": "La capacidad de transmitir características genéticas de una generación a la siguiente.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37546",
+        "lemma": "inquisición",
+        "definition": "Una organización creada por la Iglesia Católica para combatir la herejía.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39017",
+        "lemma": "junglada",
+        "definition": "una reunión de personas en un lugar donde hay mucha vegetación.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39152",
+        "lemma": "kilociclo",
+        "definition": "Una unidad de medida para la frecuencia de una onda electromagnética.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40289",
+        "lemma": "limpiacristales",
+        "definition": "un utensilio para limpiar ventanas, espejos y otros objetos de cristal.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "61091",
+        "lemma": "temorizar",
+        "definition": "Provocar miedo en alguien.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45703",
+        "lemma": "noquear",
+        "definition": "Golpear a alguien con la intención de dejarlo inconsciente.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45916",
+        "lemma": "ñapa",
+        "definition": "Regalo o algo más que se añade a algo ya hecho.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46285",
+        "lemma": "ojuelos",
+        "definition": "Pequeños orificios en una superficie.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50818",
+        "lemma": "poncí",
+        "definition": "Persona que se comporta de forma arrogante.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52928",
+        "lemma": "quilombear",
+        "definition": "hacer algo con los quilombos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "43692",
+        "lemma": "miriámetro",
+        "definition": "Instrumento para medir la profundidad del mar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58383",
+        "lemma": "silicua",
+        "definition": "Una silicua es una frase coloquial usada para describir una persona con una personalidad desagradable.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63144",
+        "lemma": "tribunal",
+        "definition": "Una instancia de una corte de justicia.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64108",
+        "lemma": "uñate",
+        "definition": "Persona astuta y sagaz.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "17918",
+        "lemma": "conservadorismo",
+        "definition": "tendencia a favorecer la preservación de lo existente.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65595",
+        "lemma": "xóchil",
+        "definition": "Instrumento musical de viento de origen mexicano de forma ovalada.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65638",
+        "lemma": "yana",
+        "definition": "Una montaña o una elevación en la superficie de la tierra.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "11771",
+        "lemma": "calzoneta",
+        "definition": "braguita, pantaleta.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
