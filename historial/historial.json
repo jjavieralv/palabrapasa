@@ -20368,5 +20368,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-23",
+    "words": [
+      {
+        "id": "03017",
+        "lemma": "alfombrado",
+        "definition": "cubierto con alfombras.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "46161",
+        "lemma": "ocultable",
+        "definition": "que se puede ocultar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "20089",
+        "lemma": "cumplimentación",
+        "definition": "Realizar los trámites necesarios para completar un documento.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21434",
+        "lemma": "desasosegar",
+        "definition": "calmar, apaciguar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26100",
+        "lemma": "enchiqueramiento",
+        "definition": "La acción de llenar un espacio con piedras.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "03025",
+        "lemma": "alfonsí",
+        "definition": "algo relacionado con Alfonso.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "04599",
+        "lemma": "ángulo",
+        "definition": "La medida formada entre dos líneas o superficies que se unen.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35704",
+        "lemma": "honoríficamente",
+        "definition": "con honor.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "59025",
+        "lemma": "solacio",
+        "definition": "consuelo",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "18645",
+        "lemma": "corajina",
+        "definition": "Persona que actúa con valentía y determinación.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39151",
+        "lemma": "kilocaloría",
+        "definition": "Una unidad de energía equivalente a mil calorías.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40369",
+        "lemma": "linyera",
+        "definition": "Persona que vive en la calle sin hogar.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "09483",
+        "lemma": "biocompatibilidad",
+        "definition": "La biocompatibilidad es la capacidad de un material para interactuar de forma adecuada con los tejidos y fluidos biológicos, sin provocar reacciones adversas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45352",
+        "lemma": "neocolonialismo",
+        "definition": "El neocolonialismo es el control económico y político que una potencia extranjera ejerce sobre un país o región.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "05408",
+        "lemma": "apiñadura",
+        "definition": "Apretamiento.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "09558",
+        "lemma": "birome",
+        "definition": "Una herramienta de escritura portátil con un cuerpo de metal y una punta de pluma.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52451",
+        "lemma": "puerilizar",
+        "definition": "Hacer algo infantil.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52853",
+        "lemma": "quetro",
+        "definition": "Cuatro cartas del mismo palo en un juego de naipes.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "15647",
+        "lemma": "churrasquear",
+        "definition": "Asar carne al fuego.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "10111",
+        "lemma": "borrachales",
+        "definition": "Aparatos mecánicos para hacer que algo se mueva.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "58292",
+        "lemma": "sietecueros",
+        "definition": "Una forma de piel curtida de una sola pieza, con una cabeza y siete patas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63796",
+        "lemma": "ubiquidad",
+        "definition": "La ubiquidad se refiere a la presencia o existencia de algo en todas partes.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "62740",
+        "lemma": "transversal",
+        "definition": "Adjetivo para describir algo que es perpendicular o atraviesa una línea.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "45354",
+        "lemma": "neodarwinismo",
+        "definition": "El neodarwinismo es una teoría científica que explica la evolución de las especies a partir de la selección natural.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "37123",
+        "lemma": "inexactitud",
+        "definition": "Falta de exactitud o precisión.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "10253",
+        "lemma": "boyante",
+        "definition": "Que flota.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "07989",
+        "lemma": "azurita",
+        "definition": "La azurita es un mineral de color azul intenso.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
