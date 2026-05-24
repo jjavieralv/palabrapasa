@@ -20562,5 +20562,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-24",
+    "words": [
+      {
+        "id": "14600",
+        "lemma": "champear",
+        "definition": "Pintar con esmalte.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10247",
+        "lemma": "boy",
+        "definition": "Persona joven, generalmente masculina, entre la infancia y la adolescencia.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "07381",
+        "lemma": "audiencia",
+        "definition": "Una audiencia es un encuentro entre dos o más personas con el objetivo de discutir un tema o tratar un asunto.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20724",
+        "lemma": "degustar",
+        "definition": "Degustar es probar algo con el fin de apreciar su sabor y calidad.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "31545",
+        "lemma": "folclore",
+        "definition": "Tradiciones y creencias populares",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "17643",
+        "lemma": "confiar",
+        "definition": "To trust.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34324",
+        "lemma": "guatazo",
+        "definition": "Golpe fuerte.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34697",
+        "lemma": "hambrazón",
+        "definition": "Persona que se comporta de manera arrogante y prepotente.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37473",
+        "lemma": "inmunidad",
+        "definition": "La capacidad del cuerpo para resistir enfermedades y otros daños.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "47125",
+        "lemma": "pajuz",
+        "definition": "Paja.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39161",
+        "lemma": "kilotón",
+        "definition": "Unidad de medida equivalente a 1000 toneladas.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "29361",
+        "lemma": "estilización",
+        "definition": "La estilización es un proceso artístico que involucra la manipulación de la forma de un objeto para darle un aspecto más atractivo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41265",
+        "lemma": "magnetoterapia",
+        "definition": "La magnetoterapia es una terapia alternativa que utiliza campos magnéticos para tratar enfermedades.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "59492",
+        "lemma": "suavizante",
+        "definition": "Que suaviza algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "27113",
+        "lemma": "enseño",
+        "definition": "Acción de enseñar.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "45997",
+        "lemma": "oblea",
+        "definition": "Una fina lámina de almidón, azúcar y agua.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "51293",
+        "lemma": "preámbulo",
+        "definition": "Introducción a un discurso, tratado, documento o ley, en el que se exponen los motivos o los objetivos que se persiguen.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52952",
+        "lemma": "quinao",
+        "definition": "Una bebida alcohólica hecha de maíz fermentado.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54895",
+        "lemma": "remisamente",
+        "definition": "con pasividad, sin energía.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57774",
+        "lemma": "sembrada",
+        "definition": "una cantidad de semillas plantadas en un lugar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "30334",
+        "lemma": "facilista",
+        "definition": "Que busca la solución más fácil a un problema.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63918",
+        "lemma": "unión",
+        "definition": "El estado de estar unido o asociado.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "01471",
+        "lemma": "adverbialización",
+        "definition": "Transformación de una frase en una construcción adverbial.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65553",
+        "lemma": "walkie-talkie",
+        "definition": "dispositivo de radio para comunicación a corta distancia.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65795",
+        "lemma": "yuyuba",
+        "definition": "Árbol de la familia de las leguminosas, originario del norte de América.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "39522",
+        "lemma": "lanzagua",
+        "definition": "Lanzagua es un juego de mesa en el que los jugadores lanzan una moneda para mover sus fichas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
