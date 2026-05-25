@@ -20756,5 +20756,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-25",
+    "words": [
+      {
+        "id": "02227",
+        "lemma": "ahuizotada",
+        "definition": "reunión bulliciosa.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "43833",
+        "lemma": "mocárabe",
+        "definition": "Arquitectura árabe caracterizada por la decoración de cúpulas con motivos geométricos.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "12116",
+        "lemma": "candelera",
+        "definition": "Una candelera es un objeto decorativo para el hogar, generalmente de metal, con uno o más brazos para sostener velas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22475",
+        "lemma": "desguañangar",
+        "definition": "deshacer o desbaratar una tarea;",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "65712",
+        "lemma": "yesquero",
+        "definition": "Un yesquero es una herramienta de metal con un mango de madera que se utiliza para encender fuego.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30592",
+        "lemma": "fardar",
+        "definition": "vestirse ostentosamente.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32858",
+        "lemma": "gárgaro",
+        "definition": "Una persona que habla mucho y sin sentido.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34601",
+        "lemma": "habituar",
+        "definition": "Acostumbrar.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "60041",
+        "lemma": "suspirar",
+        "definition": "Expulsar el aire de los pulmones con un sonido.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "61355",
+        "lemma": "terminajo",
+        "definition": "es una herramienta de carpintería usada para realizar cortes precisos en madera.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "53336",
+        "lemma": "raki",
+        "definition": "Bebida alcohólica turca hecha con uvas y anís.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40159",
+        "lemma": "licitar",
+        "definition": "ofrecer.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "45999",
+        "lemma": "oblicuamente",
+        "definition": "de manera oblicua.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45003",
+        "lemma": "nacedero",
+        "definition": "Lugar de donde brota una fuente o un manantial.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "27114",
+        "lemma": "enseñoramiento",
+        "definition": "La práctica de otorgar títulos y privilegios a los señores feudales.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "17960",
+        "lemma": "consonantizar",
+        "definition": "Consonantizar es pronunciar una palabra con consonantes.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52587",
+        "lemma": "puntazo",
+        "definition": "Un golpe fuerte y decisivo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "08951",
+        "lemma": "batuqueo",
+        "definition": "Un ritmo o una melodía de percusión.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55980",
+        "lemma": "rigodón",
+        "definition": "Una danza tradicional de origen francés.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "00931",
+        "lemma": "aconchabarse",
+        "definition": "abrazar a alguien con cariño.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "07943",
+        "lemma": "azotada",
+        "definition": "una azotada es un castigo físico, un golpe o una paliza.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "40817",
+        "lemma": "lucerna",
+        "definition": "un dispositivo de iluminación portátil.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64528",
+        "lemma": "vélite",
+        "definition": "Un soldado de élite.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "35605",
+        "lemma": "hollywoodiense",
+        "definition": "algo relacionado con Hollywood.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65592",
+        "lemma": "xilografía",
+        "definition": "Una técnica de grabado en madera que se usa para producir impresiones artísticas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "34550",
+        "lemma": "güey",
+        "definition": "Término informal para referirse a alguien.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "55830",
+        "lemma": "reveza",
+        "definition": "Acción de relevar a alguien en un trabajo o tarea.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
