@@ -20950,5 +20950,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-26",
+    "words": [
+      {
+        "id": "17443",
+        "lemma": "concia",
+        "definition": "la concia es una preparación de la piel de los animales para su curtido.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10444",
+        "lemma": "brincho",
+        "definition": "Acción de saltar de un lugar a otro.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "28374",
+        "lemma": "escribidera",
+        "definition": "Una herramienta usada para escribir en piedra, madera o metal.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "43075",
+        "lemma": "mercaderil",
+        "definition": "Relativo a los mercaderes y a la mercancía.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "30808",
+        "lemma": "felipe",
+        "definition": "un nombre masculino de origen griego que significa 'amigo de caballos'.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "17723",
+        "lemma": "confundible",
+        "definition": "Confusable",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "01998",
+        "lemma": "aguadón",
+        "definition": "Diluvio repentino.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35519",
+        "lemma": "histéresis",
+        "definition": "es el efecto de un fenómeno físico o químico, en el que la magnitud de salida es diferente a la magnitud de entrada.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36663",
+        "lemma": "incerteza",
+        "definition": "Estado de incertidumbre o duda.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39011",
+        "lemma": "junciana",
+        "definition": "Relativo o perteneciente a la ciudad española de Juncia.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "60829",
+        "lemma": "tawahka",
+        "definition": "Perteneciente a una etnia indígena de Nicaragua.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40009",
+        "lemma": "letraduría",
+        "definition": "el arte de escribir letras de canciones.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "05078",
+        "lemma": "antropomorfización",
+        "definition": "Proceso de atribuir características humanas o comportamientos a seres o cosas no humanas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45808",
+        "lemma": "novillada",
+        "definition": "Fiesta taurina en la que se enfrentan novilleros a novillos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45929",
+        "lemma": "ñiquiñaque",
+        "definition": "Un ñiquiñaque es una persona que se comporta de manera traviesa o desobediente.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "08068",
+        "lemma": "babuino",
+        "definition": "Un mono del África subsahariana.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50717",
+        "lemma": "pólipo",
+        "definition": "organismo marino con forma de columna, que puede tener tentáculos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "48881",
+        "lemma": "peque",
+        "definition": "Que es pequeño.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56386",
+        "lemma": "roquerío",
+        "definition": "una formación rocosa o una formación de rocas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57350",
+        "lemma": "santiguamiento",
+        "definition": "Acto de santiguar, es decir, unir las yemas de los dedos de la mano para hacer una señal de bendición.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "55526",
+        "lemma": "resto",
+        "definition": "Lo que queda de algo que se ha consumido o usado.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "57533",
+        "lemma": "saudade",
+        "definition": "Una profunda melancolía o nostalgia de algo o alguien ausente.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65437",
+        "lemma": "volquetada",
+        "definition": "Acción de cargar y descargar mercancías en una volqueta.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "53643",
+        "lemma": "rawsense",
+        "definition": "Plataforma de procesamiento de datos que proporciona una solución para la recopilación y el análisis de datos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65573",
+        "lemma": "xantina",
+        "definition": "una base nitrogenada presente en los tejidos animales y vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "59401",
+        "lemma": "soslayable",
+        "definition": "Posible de evitar o pasar por alto.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "09466",
+        "lemma": "binazón",
+        "definition": "Una forma de adivinación que se practica con dos dados.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
