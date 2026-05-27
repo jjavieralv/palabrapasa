@@ -21144,5 +21144,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-27",
+    "words": [
+      {
+        "id": "00588",
+        "lemma": "acechadera",
+        "definition": "Una planta trepadora de hojas grandes y frutos rojos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "14964",
+        "lemma": "chibcha",
+        "definition": "Relativo al pueblo indígena chibcha.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "19273",
+        "lemma": "coñamentazón",
+        "definition": "palabra utilizada para describir una situación cómica.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23650",
+        "lemma": "diamela",
+        "definition": "Una figura retórica que consiste en una frase con dos partes paralelas que contrastan entre sí.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "22006",
+        "lemma": "desecante",
+        "definition": "Que sirve para secar.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "57752",
+        "lemma": "self-service",
+        "definition": "Autoservicio",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "15795",
+        "lemma": "ciegayernos",
+        "definition": "Juego de palabras entre ciegos y ajedrez.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "11179",
+        "lemma": "cachuchero",
+        "definition": "Persona que habla mucho y sin sentido.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "28594",
+        "lemma": "esmerilar",
+        "definition": "pulir una superficie con una herramienta abrasiva.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38994",
+        "lemma": "juliana",
+        "definition": "Corte de verduras en tiras finas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "46920",
+        "lemma": "overbooking",
+        "definition": "La práctica de vender más billetes de lo que hay asientos disponibles en un vuelo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "47472",
+        "lemma": "panícula",
+        "definition": "inflorescencia compuesta de ramos terminales.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "18889",
+        "lemma": "correccionalismo",
+        "definition": "Sistema de educación y disciplina basado en la aplicación de castigos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "03738",
+        "lemma": "alunizaje",
+        "definition": "El alunizaje es el aterrizaje de una nave espacial en la superficie de la Luna.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "14429",
+        "lemma": "ceñiglo",
+        "definition": "una herramienta usada para unir dos objetos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "50843",
+        "lemma": "pontazgo",
+        "definition": "habilidad para alcanzar un objetivo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50610",
+        "lemma": "poetizar",
+        "definition": "Dar una forma poética a un texto.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52908",
+        "lemma": "quijotismo",
+        "definition": "Una actitud idealista que se caracteriza por la lucha contra los problemas de la vida con una mentalidad optimista.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56543",
+        "lemma": "ruedero",
+        "definition": "Una persona que trabaja en una fábrica de ruedas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "22556",
+        "lemma": "desigual",
+        "definition": "Que no es igual.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "28998",
+        "lemma": "esprintar",
+        "definition": "correr a toda velocidad.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63923",
+        "lemma": "unipartidista",
+        "definition": "adjetivo que se refiere a un sistema político en el que sólo un partido tiene el poder.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "55543",
+        "lemma": "resuave",
+        "definition": "suave.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "20406",
+        "lemma": "darwinismo",
+        "definition": "El darwinismo es una teoría científica que explica la evolución de la vida en la Tierra a través de la selección natural.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "46941",
+        "lemma": "oxalme",
+        "definition": "El oxalme es una planta medicinal de la familia de las liliáceas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65720",
+        "lemma": "yihadismo",
+        "definition": "Movimiento político-religioso islámico que promueve la lucha armada para defender o extender el islam.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "28730",
+        "lemma": "españolización",
+        "definition": "El proceso de adoptar características españolas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
