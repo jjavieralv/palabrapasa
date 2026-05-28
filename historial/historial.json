@@ -21338,5 +21338,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-28",
+    "words": [
+      {
+        "id": "06231",
+        "lemma": "arrastrante",
+        "definition": "aquello que arrastra o entorpece.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09815",
+        "lemma": "bodega",
+        "definition": "Un lugar donde se almacenan vinos y otras bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "13357",
+        "lemma": "castorina",
+        "definition": "Una pequeña rata de agua con una cola prensil.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21595",
+        "lemma": "descabezar",
+        "definition": "Separar la cabeza del cuerpo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "65076",
+        "lemma": "vigueta",
+        "definition": "Pieza de madera que se utiliza para sostener techos y cubiertas.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "66202",
+        "lemma": "zoofobia",
+        "definition": "Miedo irracional a los animales.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33987",
+        "lemma": "grupuscular",
+        "definition": "relativo a un grupo pequeño y organizado.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "40924",
+        "lemma": "lunch",
+        "definition": "Comida ligera realizada entre el desayuno y la cena.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36292",
+        "lemma": "imbécil",
+        "definition": "Persona con limitaciones intelectuales.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "28592",
+        "lemma": "esmerejón",
+        "definition": "Pequeño pez de agua dulce, de color gris con líneas negras.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "30791",
+        "lemma": "feedback",
+        "definition": "El feedback es una retroalimentación que se recibe de una persona o grupo sobre un producto, servicio o experiencia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40019",
+        "lemma": "leucemia",
+        "definition": "Enfermedad maligna de la sangre caracterizada por la proliferación anormal de células blancas.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "58442",
+        "lemma": "simple",
+        "definition": "Sencillo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "41759",
+        "lemma": "mangar",
+        "definition": "recoger los frutos de un árbol.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45920",
+        "lemma": "ñaña",
+        "definition": "palabra usada para referirse a algo pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46350",
+        "lemma": "ollao",
+        "definition": "Una olla grande de barro para cocinar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49310",
+        "lemma": "pervertimiento",
+        "definition": "El pervertimiento es el acto de distorsionar algo para un propósito malicioso.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "42239",
+        "lemma": "marraqueta",
+        "definition": "Pan típico de Chile, de forma redonda y con una corteza crujiente.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55559",
+        "lemma": "resumen",
+        "definition": "Síntesis breve de un tema o de un texto.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "19498",
+        "lemma": "crisuela",
+        "definition": "Instrumento de percusión de origen africano hecho de madera.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "51420",
+        "lemma": "preferiblemente",
+        "definition": "de manera preferida.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "06176",
+        "lemma": "arquivolta",
+        "definition": "Elemento arquitectónico formado por una moldura decorativa en forma de arco.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "38097",
+        "lemma": "invariancia",
+        "definition": "Estado de una cosa que permanece inalterable o sin variación.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "20406",
+        "lemma": "darwinismo",
+        "definition": "El darwinismo es una teoría científica que explica la evolución de la vida en la Tierra a través de la selección natural.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "37125",
+        "lemma": "inexcusable",
+        "definition": "Que no puede ser disculpado.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65622",
+        "lemma": "yaguareté",
+        "definition": "Mamífero carnívoro de la familia de los felinos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65917",
+        "lemma": "zamarrico",
+        "definition": "una prenda de vestir hecha de lana y usada por los pastores.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
