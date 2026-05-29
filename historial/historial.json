@@ -21532,5 +21532,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-29",
+    "words": [
+      {
+        "id": "46877",
+        "lemma": "otoba",
+        "definition": "Un árbol de la familia de las Myristicaceae que crece en Suramérica.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09917",
+        "lemma": "bólido",
+        "definition": "Un meteoro que cae a la Tierra desde el espacio.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "16333",
+        "lemma": "clisos",
+        "definition": "Elementos de madera o metal que se utilizan para unir dos objetos entre sí.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "63886",
+        "lemma": "undular",
+        "definition": "Undular es el proceso de formar ondulaciones en una superficie.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "46849",
+        "lemma": "ostero",
+        "definition": "un ave marina que vuela cerca de la superficie del mar.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31826",
+        "lemma": "fotolisis",
+        "definition": "Desintegración de una molécula causada por la luz.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34464",
+        "lemma": "guisaso",
+        "definition": "Comida hecha con carne y otros ingredientes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "41065",
+        "lemma": "machimbre",
+        "definition": "una cerca hecha de ramas entrelazadas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36742",
+        "lemma": "incomposible",
+        "definition": "Algo que no se puede dividir en partes más pequeñas.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "59212",
+        "lemma": "sonajear",
+        "definition": "hacer sonar algo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "47872",
+        "lemma": "parka",
+        "definition": "Una parka es una prenda de abrigo con capucha, normalmente usada en climas fríos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40058",
+        "lemma": "levitón",
+        "definition": "Chaqueta ligera para hombres.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "27791",
+        "lemma": "equívocamente",
+        "definition": "Ambiguamente.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45473",
+        "lemma": "nevatilla",
+        "definition": "Una planta herbácea con flores blancas y frutos comestibles.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45933",
+        "lemma": "ñizca",
+        "definition": "una palabra en el dialecto guaraní del Paraguay que significa \"pequeño\".",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46569",
+        "lemma": "orbitar",
+        "definition": "moverse alrededor de un punto o lugar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48220",
+        "lemma": "patentable",
+        "definition": "Que puede ser patentado.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "03902",
+        "lemma": "amarrequear",
+        "definition": "mezclar con amor.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "38714",
+        "lemma": "jericalla",
+        "definition": "Una planta trepadora con flores blancas y frutos en forma de vaina.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58316",
+        "lemma": "sigma",
+        "definition": "Sigma es una letra del alfabeto griego que se usa para representar una cantidad estadística.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63707",
+        "lemma": "tureca",
+        "definition": "Una tureca es una pequeña taberna o bar.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "29907",
+        "lemma": "exclusión",
+        "definition": "acto de excluir a alguien de una actividad o grupo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64268",
+        "lemma": "valvar",
+        "definition": "Que tiene forma de valva o que está constituido por dos valvas.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65580",
+        "lemma": "xerocopia",
+        "definition": "Copia hecha con una máquina de fotocopiar.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "56318",
+        "lemma": "rompepoyos",
+        "definition": "Persona que se mete en los asuntos de los demás.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66199",
+        "lemma": "zoo",
+        "definition": "Lugar donde se exhiben animales.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
