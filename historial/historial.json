@@ -21726,5 +21726,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-05-30",
+    "words": [
+      {
+        "id": "51007",
+        "lemma": "portamira",
+        "definition": "Es una herramienta de vigilancia que se usa para vigilar los movimientos de personas y vehículos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "15723",
+        "lemma": "cibiaca",
+        "definition": "Embarcación de poco calado.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "55329",
+        "lemma": "rescacio",
+        "definition": "Débil o sin fuerza.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "47667",
+        "lemma": "paradera",
+        "definition": "Un lugar tranquilo para descansar.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "05351",
+        "lemma": "apertura",
+        "definition": "la actitud de estar abierto a la consideración de nuevas ideas y opiniones.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31745",
+        "lemma": "fortacán",
+        "definition": "Artilugio de fuego de pequeño calibre para la defensa de una plaza.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34565",
+        "lemma": "güirís",
+        "definition": "Persona que se caracteriza por su astucia.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14707",
+        "lemma": "chaparrete",
+        "definition": "caballo pequeño y ágil.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36176",
+        "lemma": "idoneidad",
+        "definition": "aptitud para un fin determinado.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "26825",
+        "lemma": "enlegajar",
+        "definition": "encadenar.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "45610",
+        "lemma": "nobuk",
+        "definition": "El nobuk es un tipo de cuero fino y suave que se usa para fabricar zapatos y bolsos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "36200",
+        "lemma": "igualamiento",
+        "definition": "acción y efecto de igualar.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43651",
+        "lemma": "minuta",
+        "definition": "Documento en el que se detallan los términos de un acuerdo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45512",
+        "lemma": "nidificar",
+        "definition": "Construir un nido para poner huevos y criar a los polluelos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13758",
+        "lemma": "cañarí",
+        "definition": "perteneciente a una comunidad de Cañarí",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46528",
+        "lemma": "optimate",
+        "definition": "Persona que se esfuerza por conseguir el mejor resultado posible.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49074",
+        "lemma": "perinatal",
+        "definition": "Relativo al período de tiempo que transcurre desde el último mes de embarazo hasta el primer mes de vida del bebé.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "41980",
+        "lemma": "maquilishuat",
+        "definition": "Árbol de hojas perennes, de la familia de los maquilishuatles.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "26952",
+        "lemma": "enoyar",
+        "definition": "Irritar o enfadar a alguien.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58598",
+        "lemma": "sipedón",
+        "definition": "Una forma de acumulación de sedimentos en una cuenca marina.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "65816",
+        "lemma": "zabullimiento",
+        "definition": "El acto de nadar rápido y agitado.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63920",
+        "lemma": "unionismo",
+        "definition": "el sistema de organización de los trabajadores en una unión.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64891",
+        "lemma": "vestecha",
+        "definition": "Una tela de lana muy resistente, usada para hacer prendas de vestir.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65569",
+        "lemma": "windsurfista",
+        "definition": "Persona que practica el windsurf, un deporte acuático que consiste en navegar sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "07633",
+        "lemma": "auxilio",
+        "definition": "Auxilio es una palabra usada para referirse a la ayuda o asistencia que se ofrece.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "10314",
+        "lemma": "brandy",
+        "definition": "Bebida alcohólica destilada a partir de vino.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65842",
+        "lemma": "zadorija",
+        "definition": "una pequeña cantidad de algo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
