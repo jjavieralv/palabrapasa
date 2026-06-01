@@ -22114,5 +22114,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-01",
+    "words": [
+      {
+        "id": "46991",
+        "lemma": "pachilla",
+        "definition": "Una pequeña cantidad de algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "17046",
+        "lemma": "combinación",
+        "definition": "Una mezcla de cosas diferentes.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "02424",
+        "lemma": "alambicamiento",
+        "definition": "El proceso de destilación a través de un alambique.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "39291",
+        "lemma": "ladeo",
+        "definition": "Acción de inclinarse hacia un lado.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28860",
+        "lemma": "espigadera",
+        "definition": "Herramienta formada por un mango y una cuchilla curva con dientes en su borde, utilizada para recoger espigas de cereal.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "54415",
+        "lemma": "reflorecer",
+        "definition": "Volver a florecer.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34426",
+        "lemma": "guindaleta",
+        "definition": "Una herramienta de metal usada para cavar.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "37728",
+        "lemma": "intachable",
+        "definition": "Inmaculado, sin mancha.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36161",
+        "lemma": "idiolecto",
+        "definition": "Un idiolecto es el dialecto individual de una persona, que incluye su gramática, vocabulario y pronunciación.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38829",
+        "lemma": "jobada",
+        "definition": "una broma, una burla.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39199",
+        "lemma": "kuwaití",
+        "definition": "Relativo o perteneciente a Kuwait.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "03811",
+        "lemma": "amalgama",
+        "definition": "Mezcla de distintos elementos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42260",
+        "lemma": "marsupial",
+        "definition": "Que tiene bolsa marsupial",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "18560",
+        "lemma": "copernicanismo",
+        "definition": "El copernicanismo es una teoría astronómica que sostiene que el Sol es el centro del universo y los planetas, incluida la Tierra, giran alrededor de él.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "25592",
+        "lemma": "empeñadamente",
+        "definition": "con empeño, con mucho ímpetu.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "27216",
+        "lemma": "entendimiento",
+        "definition": "capacidad de comprender, razonar y juzgar.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "15631",
+        "lemma": "chupinazo",
+        "definition": "Una fiesta tradicional que se celebra en algunas ciudades españolas para dar inicio a las fiestas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52800",
+        "lemma": "quemamiento",
+        "definition": "La acción de quemar algo.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "57557",
+        "lemma": "sayalería",
+        "definition": "Local donde se compran y venden objetos de segunda mano.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57089",
+        "lemma": "saltadura",
+        "definition": "Una acción repentina y brusca.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "17157",
+        "lemma": "compactación",
+        "definition": "Acción de comprimir algo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "19339",
+        "lemma": "crédulamente",
+        "definition": "crédulamente, ingenuamente.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64291",
+        "lemma": "vaniloquio",
+        "definition": "Un discurso vacío y sin sentido.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "35232",
+        "lemma": "hidrotórax",
+        "definition": "Acumulación anormal de líquido en el espacio entre las capas de la pleura.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65666",
+        "lemma": "yatrogenia",
+        "definition": "Una enfermedad o un efecto secundario causado por el tratamiento médico.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "20067",
+        "lemma": "culturización",
+        "definition": "proceso de adquirir cultura.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
