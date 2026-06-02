@@ -22308,5 +22308,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-02",
+    "words": [
+      {
+        "id": "17420",
+        "lemma": "concertina",
+        "definition": "Un instrumento musical de viento formado por una serie de teclas que se mueven hacia adentro y hacia afuera para producir sonidos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "53869",
+        "lemma": "rebusco",
+        "definition": "Búsqueda minuciosa de algo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "10511",
+        "lemma": "bronce",
+        "definition": "Un metal compuesto de cobre y estaño.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "10309",
+        "lemma": "brancada",
+        "definition": "Una brancada es una gran cantidad de peces que se juntan para nadar juntos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "36069",
+        "lemma": "hurmiento",
+        "definition": "Acción de mover la tierra con una herramienta para prepararla para el cultivo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "59107",
+        "lemma": "solidificar",
+        "definition": "Convertir algo en una forma sólida o estable.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33611",
+        "lemma": "gorja",
+        "definition": "Una gorja es una parte del cuello que se extiende desde la parte posterior de la cabeza hasta la parte superior del torso.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15143",
+        "lemma": "chinastear",
+        "definition": "Robar algo sin que se note.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "46724",
+        "lemma": "oronimia",
+        "definition": "El estudio de los nombres de los lugares.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38522",
+        "lemma": "jaldeta",
+        "definition": "Una jaldeta es una palabra que describe la acción de saltar con alegría y entusiasmo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10806",
+        "lemma": "burka",
+        "definition": "Una prenda de vestir islámica que cubre todo el cuerpo de la mujer.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "14009",
+        "lemma": "cenáculo",
+        "definition": "Reunión de personas para conversar o discutir un tema.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42383",
+        "lemma": "mástil",
+        "definition": "Una estructura alta y vertical que se usa para sostener una vela o una antena.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "30950",
+        "lemma": "festinar",
+        "definition": "Apresurarse.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "34197",
+        "lemma": "guardacuños",
+        "definition": "persona que se encarga de la custodia de los cuños de una moneda.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46683",
+        "lemma": "orina",
+        "definition": "El líquido excretado por el cuerpo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "61770",
+        "lemma": "tipear",
+        "definition": "escribir en una computadora.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "05712",
+        "lemma": "aquerenciarse",
+        "definition": "Ponerse triste o aburrido.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "60126",
+        "lemma": "tabernería",
+        "definition": "Un lugar donde se venden y sirven bebidas alcohólicas.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "29362",
+        "lemma": "estilizar",
+        "definition": "dar estilo",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "20678",
+        "lemma": "deflactar",
+        "definition": "Disminuir el valor de algo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63902",
+        "lemma": "unidamente",
+        "definition": "Unidos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64432",
+        "lemma": "vectación",
+        "definition": "El transporte de algo de un lugar a otro.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "12523",
+        "lemma": "caquexia",
+        "definition": "Una enfermedad que se caracteriza por una pérdida de peso y debilidad muscular.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65639",
+        "lemma": "yanacón",
+        "definition": "Persona que se dedica al comercio de productos locales.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66095",
+        "lemma": "zarpa",
+        "definition": "Garra de un animal.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
