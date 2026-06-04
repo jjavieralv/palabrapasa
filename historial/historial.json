@@ -22696,5 +22696,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-04",
+    "words": [
+      {
+        "id": "64696",
+        "lemma": "veranar",
+        "definition": "pasar el verano.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08125",
+        "lemma": "bada",
+        "definition": "Una pequeña bolsa de cuero hecha a mano.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "13074",
+        "lemma": "carric",
+        "definition": "Animal doméstico de la familia de los equinos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20448",
+        "lemma": "debatirse",
+        "definition": "Discutirse.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27045",
+        "lemma": "enrubio",
+        "definition": "Una persona con el cabello de color rojo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31795",
+        "lemma": "foso",
+        "definition": "Un foso es una trinchera excavada en el suelo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33034",
+        "lemma": "gaveta",
+        "definition": "Compartimento de un mueble en el que se guardan objetos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "10692",
+        "lemma": "buharro",
+        "definition": "Persona muy vieja.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38143",
+        "lemma": "invidia",
+        "definition": "Sentimiento de envidia hacia alguien que posee algo que uno desea.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39041",
+        "lemma": "juquear",
+        "definition": "hurgar con las manos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "14526",
+        "lemma": "chakra",
+        "definition": "Centro energético en el cuerpo humano según la medicina ayurvédica.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40485",
+        "lemma": "liudar",
+        "definition": "Demostrar.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "34218",
+        "lemma": "guardamiento",
+        "definition": "El guardamiento es la protección, el cuidado y la administración de algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "57354",
+        "lemma": "santol",
+        "definition": "Un árbol de la familia de las sandálidas, cuyas frutas se comen crudas o cocidas.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45928",
+        "lemma": "ñique",
+        "definition": "Expresión usada para indicar sorpresa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "10267",
+        "lemma": "boñiga",
+        "definition": "Una masa de heces de animales.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52590",
+        "lemma": "puntear",
+        "definition": "Tocar un instrumento de cuerda con una púa.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53044",
+        "lemma": "quiromasajista",
+        "definition": "Un quiromasajista es un profesional que realiza masajes terapéuticos para tratar lesiones, dolor y otros problemas de salud.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54975",
+        "lemma": "rencionar",
+        "definition": "Rencionar es el proceso de aplicar una fuerza para doblar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "28458",
+        "lemma": "escupir",
+        "definition": "Expulsar saliva de la boca.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62123",
+        "lemma": "tongoneo",
+        "definition": "Una forma de baile de origen afro-cubano.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63884",
+        "lemma": "underground",
+        "definition": "algo que se desarrolla, se realiza o se lleva a cabo de manera secreta.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "48339",
+        "lemma": "pavimentación",
+        "definition": "el proceso de construir una superficie plana y dura para la circulación de vehículos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65588",
+        "lemma": "xilema",
+        "definition": "Tejido vascular de los vegetales que transporta agua y nutrientes desde la raíz hasta los órganos vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65638",
+        "lemma": "yana",
+        "definition": "Una montaña o una elevación en la superficie de la tierra.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66031",
+        "lemma": "zapatista",
+        "definition": "Una persona que sigue los ideales de la Revolución Mexicana.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
