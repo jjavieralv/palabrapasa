@@ -22890,5 +22890,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-05",
+    "words": [
+      {
+        "id": "07132",
+        "lemma": "aterrerar",
+        "definition": "llenar de miedo a alguien.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10548",
+        "lemma": "brote",
+        "definition": "brote",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "19847",
+        "lemma": "cucheta",
+        "definition": "Un tipo de cama con dos camas superpuestas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "12016",
+        "lemma": "canadiense",
+        "definition": "Relacionado con Canadá.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "30803",
+        "lemma": "felicemente",
+        "definition": "felizmente.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "02995",
+        "lemma": "alfendoz",
+        "definition": "Alféndoz es una persona a cargo de recaudar impuestos y tasas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32657",
+        "lemma": "galvano",
+        "definition": "una técnica de galvanoplastia para recubrir un objeto con una capa de metal.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "36084",
+        "lemma": "husillo",
+        "definition": "Un eje pequeño y cilíndrico que se usa para transmitir movimiento.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38287",
+        "lemma": "irresponsabilidad",
+        "definition": "una falta de responsabilidad o de cumplimiento de los deberes.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38423",
+        "lemma": "jabega",
+        "definition": "Una jabega es una embarcación de pesca tradicional de la costa de Andalucía.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39184",
+        "lemma": "kohl",
+        "definition": "El kohl es un antiguo cosmético hecho de una mezcla de minerales, utilizado para darle a los ojos una apariencia más oscura.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40111",
+        "lemma": "libertinaje",
+        "definition": "Conducta desordenada, relacionada con la promiscuidad sexual.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44038",
+        "lemma": "mollir",
+        "definition": "ablandar algo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45454",
+        "lemma": "neurotomía",
+        "definition": "La neurotomía es un procedimiento quirúrgico que se utiliza para destruir o desconectar ciertas partes del sistema nervioso para aliviar el dolor crónico.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45903",
+        "lemma": "ñacurutú",
+        "definition": "Nombre usado para referirse a una variedad de palmera de la familia de las Arecaceae.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46512",
+        "lemma": "opoterapia",
+        "definition": "Terapia que se basa en el uso de medicamentos a base de plantas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48170",
+        "lemma": "pastura",
+        "definition": "Un terreno cubierto de hierba para el pastoreo de ganado.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "44434",
+        "lemma": "morquera",
+        "definition": "una enfermedad crónica que causa dolor en los músculos y articulaciones.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "06511",
+        "lemma": "artanita",
+        "definition": "Una pequeña cantidad de algo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "28772",
+        "lemma": "especulativamente",
+        "definition": "de manera teórica o hipotética.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "23633",
+        "lemma": "dialecto",
+        "definition": "Variedad particular de una lengua.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64000",
+        "lemma": "urgentemente",
+        "definition": "de manera urgente.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64871",
+        "lemma": "vertido",
+        "definition": "Descarga",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65549",
+        "lemma": "w",
+        "definition": "doble U.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65583",
+        "lemma": "xerografía",
+        "definition": "Un proceso de copiado de documentos usando luz ultravioleta para transferir una imagen a una superficie fotoconductora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65761",
+        "lemma": "yucal",
+        "definition": "Una construcción hecha de troncos de árbol unidos con barro y paja.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65847",
+        "lemma": "zafadura",
+        "definition": "La zafadura es una técnica de costura que se utiliza para unir dos telas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
