@@ -23084,5 +23084,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-06",
+    "words": [
+      {
+        "id": "06243",
+        "lemma": "arreala",
+        "definition": "Cesto de mimbre.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "35337",
+        "lemma": "hinchable",
+        "definition": "Que se puede inflar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "48926",
+        "lemma": "percipiente",
+        "definition": "Que percibe.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "00598",
+        "lemma": "acedamente",
+        "definition": "con firmeza y decisión.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "30944",
+        "lemma": "festejar",
+        "definition": "celebrar con alegría y entusiasmo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "53290",
+        "lemma": "rafalla",
+        "definition": "Una ráfaga es una descarga repentina y violenta de algo, como el viento, el agua, la luz o el fuego.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34141",
+        "lemma": "guantelete",
+        "definition": "Un guantelete es un guante metálico usado como arma.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35131",
+        "lemma": "heteróptero",
+        "definition": "Insecto de la familia de los rincópteros.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "48804",
+        "lemma": "penitenciaría",
+        "definition": "Una institución para confinar a personas condenadas por delitos graves.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "41346",
+        "lemma": "majagüero",
+        "definition": "Persona que se dedica a la caza de majagua.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "10768",
+        "lemma": "búnker",
+        "definition": "fortificación militar subterránea.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40599",
+        "lemma": "llucho",
+        "definition": "Una especie de pez tropical.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "03344",
+        "lemma": "almajo",
+        "definition": "recipiente con forma de cesta, generalmente hecho de mimbre o metal, usado para llevar cosas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "04799",
+        "lemma": "anteojero",
+        "definition": "un dispositivo óptico para corregir la visión.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "65523",
+        "lemma": "vueseñoría",
+        "definition": "Forma de tratamiento dirigida a una persona de alto rango, como un noble.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46163",
+        "lemma": "ocultamente",
+        "definition": "de manera oculta.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "36485",
+        "lemma": "impresionista",
+        "definition": "adjetivo para describir algo relacionado con el movimiento artístico Impresionista.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "49945",
+        "lemma": "piqué",
+        "definition": "Tejido de algodón con una trama entrecruzada.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55323",
+        "lemma": "resbaladura",
+        "definition": "deslizamiento o desplazamiento de una superficie.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57716",
+        "lemma": "segundar",
+        "definition": "Apoyar, secundar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "38644",
+        "lemma": "jarretar",
+        "definition": "saltar con los pies juntos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10326",
+        "lemma": "braquilogía",
+        "definition": "Estudio de los brazos, sus formas y su evolución en los seres vivos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65326",
+        "lemma": "viudez",
+        "definition": "El estado de una persona que ha perdido a su cónyuge por la muerte.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65551",
+        "lemma": "wahabismo",
+        "definition": "Un movimiento islámico sunita que aboga por una aplicación estricta de los principios del islam.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65586",
+        "lemma": "xi",
+        "definition": "letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65712",
+        "lemma": "yesquero",
+        "definition": "Un yesquero es una herramienta de metal con un mango de madera que se utiliza para encender fuego.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "42590",
+        "lemma": "maza",
+        "definition": "Maza es una herramienta usada para golpear objetos duros.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
