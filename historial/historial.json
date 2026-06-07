@@ -23278,5 +23278,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-07",
+    "words": [
+      {
+        "id": "04107",
+        "lemma": "amojamar",
+        "definition": "Embellecer algo con ornamentos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "19801",
+        "lemma": "cubilete",
+        "definition": "Pequeño recipiente de metal, vidrio o cerámica.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "52115",
+        "lemma": "propincuidad",
+        "definition": "Cercanía entre dos personas o entre dos lugares.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21876",
+        "lemma": "descontaminar",
+        "definition": "Limpiar un lugar o una sustancia de contaminantes.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "52298",
+        "lemma": "próximamente",
+        "definition": "pronto, a corto plazo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30326",
+        "lemma": "fachentada",
+        "definition": "Acción despreciable, deshonrosa o indecorosa.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32601",
+        "lemma": "galleta",
+        "definition": "Una pequeña y deliciosa pieza de masa horneada hecha con harina, mantequilla, huevos y otros ingredientes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35356",
+        "lemma": "hinojar",
+        "definition": "Oler mal.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "30876",
+        "lemma": "feridad",
+        "definition": "Calidad de ser feroz.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38617",
+        "lemma": "jardazo",
+        "definition": "Golpe fuerte que se da con el puño o alguna arma contundente en el jardín.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39178",
+        "lemma": "kitsch",
+        "definition": "El kitsch es un estilo de arte popular poco sofisticado y a veces de mal gusto.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39447",
+        "lemma": "lampuga",
+        "definition": "Lampuga es un pez marino de la familia de los carangiformes.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "38054",
+        "lemma": "intrusismo",
+        "definition": "Invasión de una profesión por personas sin la debida preparación.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "61831",
+        "lemma": "tiranizar",
+        "definition": "Dominar con autoridad.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45949",
+        "lemma": "ñudillo",
+        "definition": "Cosa pequeña y sin importancia.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "32334",
+        "lemma": "funículo",
+        "definition": "El funículo es una estructura de tejido conectivo que une un órgano a una estructura más grande.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "46506",
+        "lemma": "oportunismo",
+        "definition": "actitud que busca aprovecharse de cada oportunidad para obtener un beneficio.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "41866",
+        "lemma": "manquear",
+        "definition": "faltar a algo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "43110",
+        "lemma": "merendada",
+        "definition": "Reunión de personas para compartir un refrigerio.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "29457",
+        "lemma": "estozar",
+        "definition": "Golpear con una vara.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "30212",
+        "lemma": "extranjerizante",
+        "definition": "Que aleja a alguien de su país de origen.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64060",
+        "lemma": "usufructuar",
+        "definition": "Disfrutar de los bienes de otra persona sin ser el dueño.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64609",
+        "lemma": "venezolanidad",
+        "definition": "la identidad cultural de los venezolanos.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "47184",
+        "lemma": "palay",
+        "definition": "antiguo juego de mesa que se juega con dados.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "28796",
+        "lemma": "espeluzo",
+        "definition": "Sensación de miedo intenso.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
