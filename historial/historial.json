@@ -23472,5 +23472,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-08",
+    "words": [
+      {
+        "id": "05460",
+        "lemma": "apócopa",
+        "definition": "Una figura retórica que consiste en omitir una parte de una palabra para ahorrar tiempo al hablar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10656",
+        "lemma": "buenandanza",
+        "definition": "estado de felicidad",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11914",
+        "lemma": "caminar",
+        "definition": "Moverse usando las piernas para apoyarse en el suelo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "63437",
+        "lemma": "tronzador",
+        "definition": "una herramienta para cortar metales.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "66140",
+        "lemma": "zepelín",
+        "definition": "Un tipo de aeronave de ala fija, con una estructura de metal cubierta con tela, inventada por el conte von Zeppelin.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "01723",
+        "lemma": "afuciar",
+        "definition": "desgastar algo con el uso.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "49242",
+        "lemma": "persignar",
+        "definition": "Firmar con una firma.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "00734",
+        "lemma": "achelense",
+        "definition": "Época de la Prehistoria comprendida entre los años 1.800.000 y 600.000 a.C.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36096",
+        "lemma": "i",
+        "definition": "I es la novena letra del alfabeto inglés.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38725",
+        "lemma": "jeringuilla",
+        "definition": "Una jeringuilla es un dispositivo de plástico que se usa para inyectar medicamentos o extraer líquidos del cuerpo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39175",
+        "lemma": "kirieleisón",
+        "definition": "Una comida a base de carne, patatas y huevos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39959",
+        "lemma": "leónica",
+        "definition": "La leónica es una forma de escritura muy antigua, desarrollada por los griegos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43603",
+        "lemma": "minibar",
+        "definition": "Una pequeña nevera equipada con bebidas alcohólicas y no alcohólicas.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45819",
+        "lemma": "nubiense",
+        "definition": "Relativo a las nubes.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45951",
+        "lemma": "ñuzco",
+        "definition": "Un instrumento musical de viento hecho de bambú.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "10202",
+        "lemma": "botero",
+        "definition": "artista colombiano conocido por sus esculturas y pinturas de figuras voluminosas y exageradas.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "29860",
+        "lemma": "exasperante",
+        "definition": "Que causa irritación o enfado.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "46036",
+        "lemma": "obsequias",
+        "definition": "Las obsequias son regalos o presentes que se hacen como muestra de afecto o gratitud.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "29740",
+        "lemma": "eupatorio",
+        "definition": "Una planta herbácea con flores en forma de espiga.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "56845",
+        "lemma": "sacristía",
+        "definition": "Habitación anexa a la iglesia donde se guardan los ornamentos sagrados.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "36921",
+        "lemma": "independentismo",
+        "definition": "Doctrina o movimiento político que defiende la independencia de una nación.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63898",
+        "lemma": "unicidad",
+        "definition": "singularidad.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64953",
+        "lemma": "vicaría",
+        "definition": "Una vicaría es una oficina eclesiástica o un cargo eclesiástico.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65560",
+        "lemma": "weber",
+        "definition": "Un weber es una unidad de medida que se utiliza para medir la magnitud de un campo magnético.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30016",
+        "lemma": "exorcistado",
+        "definition": "Liberado de una posesión demoníaca.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "19771",
+        "lemma": "cuayote",
+        "definition": "una fruta tropical con cáscara verde y dura.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "33665",
+        "lemma": "grabazón",
+        "definition": "Acción de grabar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
