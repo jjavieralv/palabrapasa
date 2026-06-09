@@ -23666,5 +23666,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-09",
+    "words": [
+      {
+        "id": "02311",
+        "lemma": "ajicuervo",
+        "definition": "Ave nocturna de color negro con una cresta de plumas en la cabeza.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08157",
+        "lemma": "bagá",
+        "definition": "persona que se dedica a la caza.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "20672",
+        "lemma": "definición",
+        "definition": "Una explicación o interpretación de una palabra, concepto o frase.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22490",
+        "lemma": "deshechura",
+        "definition": "La acción de destruir o deshacer algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26882",
+        "lemma": "enmararse",
+        "definition": "enredarse.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31181",
+        "lemma": "filván",
+        "definition": "Tipo de cesta de mimbre.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33898",
+        "lemma": "grifería",
+        "definition": "La grifería es el conjunto de grifos, tubos y demás elementos de un sistema de fontanería.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35719",
+        "lemma": "hopalanda",
+        "definition": "una prenda de vestir tradicional de la India, hecha de algodón tejido a mano.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38020",
+        "lemma": "intrascendental",
+        "definition": "Intrascendental se refiere a algo que no tiene importancia o significado.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38892",
+        "lemma": "josefinismo",
+        "definition": "Estilo de gobierno de la reina Josefa I de España.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "31353",
+        "lemma": "flashback",
+        "definition": "es un recuerdo repentino de un evento pasado, que generalmente se asocia con una emoción fuerte o una sensación de nostalgia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "63093",
+        "lemma": "trepolina",
+        "definition": "Juego de niños consistente en saltar dentro de un círculo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44193",
+        "lemma": "monoptongar",
+        "definition": "Pronunciar una palabra con una sola vocal.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45781",
+        "lemma": "novación",
+        "definition": "Es una forma de extinción de una obligación mediante la creación de una nueva obligación.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "25593",
+        "lemma": "empeñamiento",
+        "definition": "Acción de empeñar algo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46042",
+        "lemma": "observacional",
+        "definition": "Relativo al acto de observar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "63699",
+        "lemma": "turbopropulsor",
+        "definition": "Tipo de motor de avión que combina un motor de turbina con una hélice.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52940",
+        "lemma": "químicamente",
+        "definition": "relativo a la química.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "06372",
+        "lemma": "arrieril",
+        "definition": "Que se relaciona con la vida campesina.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58379",
+        "lemma": "sílice",
+        "definition": "Un mineral compuesto de dióxido de silicio, uno de los componentes principales de la tierra.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "07048",
+        "lemma": "atardecida",
+        "definition": "La hora del día en que el sol comienza a ponerse.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64005",
+        "lemma": "urodelo",
+        "definition": "Clase de anfibios que se caracterizan por tener la cola desarrollada.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65439",
+        "lemma": "volquete",
+        "definition": "Vehículo de transporte que se utiliza para cargar materiales.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "20407",
+        "lemma": "darwinista",
+        "definition": "Persona que sigue o acepta las teorías de Charles Darwin.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65597",
+        "lemma": "xocoyote",
+        "definition": "Animal canino",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "61282",
+        "lemma": "tepuy",
+        "definition": "Abrupto y elevado cerro de la región de los Andes.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65813",
+        "lemma": "zabucar",
+        "definition": "olvidar.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
