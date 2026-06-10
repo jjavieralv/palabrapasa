@@ -23860,5 +23860,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-10",
+    "words": [
+      {
+        "id": "43523",
+        "lemma": "militarismo",
+        "definition": "El énfasis en la preparación militar, la fuerza y el poder para la política exterior de un país.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "39374",
+        "lemma": "lambeo",
+        "definition": "Acción de lamer.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17267",
+        "lemma": "complicidad",
+        "definition": "sentimiento de estar unidos o de una relación muy cercana entre dos o más personas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "26786",
+        "lemma": "enjoyelador",
+        "definition": "Máquina que se utiliza para sellar y unir piezas de metal.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25863",
+        "lemma": "encallarse",
+        "definition": "quedar atascado.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31622",
+        "lemma": "fonocaptor",
+        "definition": "Un dispositivo para capturar sonidos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "27080",
+        "lemma": "ensangostar",
+        "definition": "Teñir de sangre.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14670",
+        "lemma": "changoneta",
+        "definition": "Pequeña embarcación de pesca usada en la costa mediterránea.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "17719",
+        "lemma": "confucionista",
+        "definition": "Persona que sigue los principios de Confucio.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38497",
+        "lemma": "jagüey",
+        "definition": "Una pequeña isla en un lago o un río.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39119",
+        "lemma": "kanjobal",
+        "definition": "Hablante de kanjobal, lengua maya hablada en Guatemala y México.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40713",
+        "lemma": "lombriz",
+        "definition": "Una lombriz es un invertebrado que vive en el suelo y se alimenta de materia orgánica.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44485",
+        "lemma": "moscarda",
+        "definition": "Juego de niños en el que los participantes se dividen en dos grupos y uno de ellos es el perseguidor.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "27234",
+        "lemma": "enternecer",
+        "definition": "Enternecer es el acto de provocar una emoción profunda, como el amor o la ternura.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "52722",
+        "lemma": "puñimiento",
+        "definition": "Es el acto de dar un puñetazo a alguien.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "50642",
+        "lemma": "polen",
+        "definition": "Partículas microscópicas producidas por las plantas para la reproducción.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "49574",
+        "lemma": "pichar",
+        "definition": "Grafitar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53067",
+        "lemma": "quitamente",
+        "definition": "de manera silenciosa o sin ruido.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55221",
+        "lemma": "representatividad",
+        "definition": "La capacidad de representar algo o alguien, de forma exacta y precisa.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "27756",
+        "lemma": "equilibrista",
+        "definition": "Persona que realiza habilidades acrobáticas sobre una cuerda o vara.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "39505",
+        "lemma": "lansquenete",
+        "definition": "Soldado de infantería armado con una alabarda.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63799",
+        "lemma": "ucase",
+        "definition": "Acrónimo de Unidad de Cuidados de Salud Especializados.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64303",
+        "lemma": "vaporización",
+        "definition": "El proceso de convertir un líquido en vapor mediante el calentamiento.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "53643",
+        "lemma": "rawsense",
+        "definition": "Plataforma de procesamiento de datos que proporciona una solución para la recopilación y el análisis de datos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "54364",
+        "lemma": "reexaminación",
+        "definition": "El proceso de examinar de nuevo algo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "07821",
+        "lemma": "ayear",
+        "definition": "Ventilar un lugar para limpiarlo.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65890",
+        "lemma": "zahorra",
+        "definition": "Partículas de polvo o tierra formadas por la desintegración de la roca.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
