@@ -24054,5 +24054,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-11",
+    "words": [
+      {
+        "id": "29782",
+        "lemma": "evaluable",
+        "definition": "que se puede evaluar.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "00299",
+        "lemma": "abreviamiento",
+        "definition": "Acción y efecto de abreviar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15579",
+        "lemma": "chulillo",
+        "definition": "Persona con tendencia a la bromas y al comportamiento desenfadado.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24628",
+        "lemma": "duenario",
+        "definition": "que dura dos años.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28841",
+        "lemma": "espetar",
+        "definition": "clavar, atravesar con una lanza.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31358",
+        "lemma": "flautillo",
+        "definition": "instrumento musical de viento",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33700",
+        "lemma": "gráficamente",
+        "definition": "de manera gráfica.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34598",
+        "lemma": "habitual",
+        "definition": "Que se hace o se repite con frecuencia.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "60892",
+        "lemma": "tecnicolor",
+        "definition": "Tecnicolor es un proceso de impresión de imagen en color que se usa en películas, televisión y otros medios de producción de video.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39075",
+        "lemma": "jusente",
+        "definition": "Persona que se dedica a la recolección de frutos silvestres.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39195",
+        "lemma": "kris",
+        "definition": "Arma blanca tradicional de Indonesia.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "42732",
+        "lemma": "medievalismo",
+        "definition": "El medievalismo es una tendencia literaria que se inspira en la cultura medieval europea.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42633",
+        "lemma": "meada",
+        "definition": "Orina de un animal.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "41987",
+        "lemma": "maquinación",
+        "definition": "Acción de maquinar o tramar algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "34047",
+        "lemma": "guadañar",
+        "definition": "Cortar con la guadaña.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46239",
+        "lemma": "ofrenda",
+        "definition": "Un regalo o sacrificio hecho a una divinidad o a una persona.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48103",
+        "lemma": "pasmarotada",
+        "definition": "una broma o chanza.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52808",
+        "lemma": "quena",
+        "definition": "La quena es un instrumento de viento de la familia de las flautas, originario de los Andes.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56014",
+        "lemma": "ringlera",
+        "definition": "Collar de cadenas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "55427",
+        "lemma": "resonancia",
+        "definition": "Ecualización de sonidos.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60204",
+        "lemma": "tache",
+        "definition": "mancha",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "38725",
+        "lemma": "jeringuilla",
+        "definition": "Una jeringuilla es un dispositivo de plástico que se usa para inyectar medicamentos o extraer líquidos del cuerpo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65528",
+        "lemma": "vulcanizadora",
+        "definition": "Persona que trabaja con materiales de caucho para fabricar productos.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65582",
+        "lemma": "xeroftalmia",
+        "definition": "enfermedad ocular caracterizada por una sequedad de la córnea.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65673",
+        "lemma": "yedgo",
+        "definition": "Una forma de juego de cartas español.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65850",
+        "lemma": "zafariche",
+        "definition": "Un zafariche es una persona que tiene el poder de adivinar el futuro.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
