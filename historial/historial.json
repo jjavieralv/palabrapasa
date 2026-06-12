@@ -24248,5 +24248,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-12",
+    "words": [
+      {
+        "id": "26639",
+        "lemma": "engramillado",
+        "definition": "Una técnica de teñido usada para crear patrones en telas.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "33537",
+        "lemma": "goluba",
+        "definition": "Pájaro de la familia de los tordos.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "28979",
+        "lemma": "esporocarpio",
+        "definition": "Un esporocarpio es una estructura que contiene esporas en una planta.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21792",
+        "lemma": "descollar",
+        "definition": "Destacarse por encima de los demás.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26510",
+        "lemma": "enfurecimiento",
+        "definition": "Estado de ira o rabia.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32233",
+        "lemma": "fuina",
+        "definition": "Animal de la familia de los mustélidos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33430",
+        "lemma": "glotonamente",
+        "definition": "de manera glotona.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "56810",
+        "lemma": "sacho",
+        "definition": "El sacho es una herramienta de trabajo usada para transportar materiales pesados.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "20363",
+        "lemma": "daltonismo",
+        "definition": "Discapacidad visual que impide distinguir los colores.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "33793",
+        "lemma": "granujería",
+        "definition": "Actitud astuta y desvergonzada.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "65564",
+        "lemma": "whisky",
+        "definition": "El whisky es una bebida alcohólica destilada a partir de una mezcla de cereales fermentados.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39517",
+        "lemma": "lanzacohetes",
+        "definition": "Arma militar que lanza misiles a larga distancia.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "45000",
+        "lemma": "nacatamal",
+        "definition": "Un nacatamal es un plato típico de Nicaragua hecho de maíz y carne picada, envuelto en hoja de plátano y cocido en vapor.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45694",
+        "lemma": "nones",
+        "definition": "la novena hora del día, que corresponde a las tres de la tarde.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "20306",
+        "lemma": "cuñadería",
+        "definition": "Relación de amistad entre dos o más personas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "33500",
+        "lemma": "golfito",
+        "definition": "es un pez de agua dulce de la familia Cyprinidae.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47675",
+        "lemma": "paradón",
+        "definition": "Acción de parar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "57086",
+        "lemma": "saltacharquillos",
+        "definition": "Persona que se mueve con mucha rapidez.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55541",
+        "lemma": "restriñir",
+        "definition": "limitar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "05727",
+        "lemma": "aquintralarse",
+        "definition": "Acurrucarse para protegerse del frío.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "34824",
+        "lemma": "hectárea",
+        "definition": "Una unidad de medida de superficie, equivalente a 10.000 metros cuadrados.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "56627",
+        "lemma": "rupia",
+        "definition": "Moneda de curso legal en la India.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64584",
+        "lemma": "vendeja",
+        "definition": "una cesta para transportar frutas y verduras.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "20407",
+        "lemma": "darwinista",
+        "definition": "Persona que sigue o acepta las teorías de Charles Darwin.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65584",
+        "lemma": "xerografiar",
+        "definition": "copiar algo con una máquina de xerografía.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65717",
+        "lemma": "yezgo",
+        "definition": "Persona que se comporta de manera arrogante.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65956",
+        "lemma": "zampuzar",
+        "definition": "Limpiar con una esponja húmeda.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
