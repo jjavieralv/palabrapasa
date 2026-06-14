@@ -24636,5 +24636,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-14",
+    "words": [
+      {
+        "id": "07348",
+        "lemma": "atropello",
+        "definition": "El atropello es el acto de golpear o chocar con violencia a alguien o algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10423",
+        "lemma": "brie",
+        "definition": "El brie es un queso suave y cremoso de origen francés.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18732",
+        "lemma": "cordoncillo",
+        "definition": "Hilillo o cordón delgado.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "39299",
+        "lemma": "ladinizar",
+        "definition": "hacer algo o a alguien más latino.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "64497",
+        "lemma": "vejiga",
+        "definition": "Órgano hueco en el cuerpo humano que almacena orina.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30711",
+        "lemma": "fato",
+        "definition": "El fato es el destino o la suerte que nos toca vivir.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "19204",
+        "lemma": "cotinga",
+        "definition": "Una ave tropical de color brillante de la familia Cotingidae.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14637",
+        "lemma": "chanchita",
+        "definition": "Pequeño animal acuático semejante a una rata.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "03877",
+        "lemma": "amarillear",
+        "definition": "Tomar un color amarillento.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38736",
+        "lemma": "jet lag",
+        "definition": "Síndrome que se produce por los desplazamientos a través de diferentes zonas horarias.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "63364",
+        "lemma": "troika",
+        "definition": "Una troika es una rueda de tres caballos unidos juntos para tirar de un carruaje.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40167",
+        "lemma": "lictor",
+        "definition": "Un lictor era un funcionario de la antigua Roma que acompañaba a los magistrados y ejecutaba sus órdenes.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "24062",
+        "lemma": "diseminación",
+        "definition": "Acción de esparcir algo ampliamente.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "47194",
+        "lemma": "palenque",
+        "definition": "Un palenque es un recinto de madera o de piedra usado para celebrar reuniones y fiestas.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "22716",
+        "lemma": "desmañanarse",
+        "definition": "Perder destreza o habilidad.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46655",
+        "lemma": "oriental",
+        "definition": "Relativo al Oriente o a los países del Este.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "30087",
+        "lemma": "éxplicit",
+        "definition": "Que se expresa o se entiende claramente.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52938",
+        "lemma": "quimerista",
+        "definition": "Persona que inventa quimeras.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54199",
+        "lemma": "recuerdo",
+        "definition": "Un recuerdo es una memoria o una imagen mental de un evento pasado.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57733",
+        "lemma": "seise",
+        "definition": "Un número entre cinco y siete.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "30111",
+        "lemma": "exportación",
+        "definition": "El acto de enviar bienes o servicios fuera de un país para su venta.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63608",
+        "lemma": "tumescencia",
+        "definition": "Un aumento de volumen en un tejido debido a un aumento de líquido.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "38129",
+        "lemma": "invertible",
+        "definition": "Que se puede invertir.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58236",
+        "lemma": "show-woman",
+        "definition": "Una show-woman es una persona que realiza shows de variedades, como bailes, actuaciones y otros números artísticos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65586",
+        "lemma": "xi",
+        "definition": "letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "38911",
+        "lemma": "joyosa",
+        "definition": "alegre y entusiasta.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "51668",
+        "lemma": "presurización",
+        "definition": "La presurización es el proceso de aumentar la presión de un espacio cerrado.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
