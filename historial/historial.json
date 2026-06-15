@@ -24830,5 +24830,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-15",
+    "words": [
+      {
+        "id": "04775",
+        "lemma": "antedespacho",
+        "definition": "reunión de brujas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09986",
+        "lemma": "bombonaje",
+        "definition": "Regalo de golosinas o chocolates.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "21926",
+        "lemma": "descote",
+        "definition": "Descote es una prenda de vestir con un escote profundo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "50585",
+        "lemma": "poderosamente",
+        "definition": "con gran poder, con fuerza.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "13894",
+        "lemma": "cefalotórax",
+        "definition": "Parte superior del cuerpo de los insectos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "54452",
+        "lemma": "refrenamiento",
+        "definition": "acción de refrenar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "44857",
+        "lemma": "murcielaguina",
+        "definition": "Una persona que se comporta de manera torpe o inapropiada.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34928",
+        "lemma": "hemodializador",
+        "definition": "Un dispositivo médico que se utiliza para filtrar los desechos del cuerpo de una persona cuando sus riñones no funcionan correctamente.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "58803",
+        "lemma": "sobrehilado",
+        "definition": "Tejido con hilos adicionales para añadir decoración.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38683",
+        "lemma": "jején",
+        "definition": "Insecto de la familia de los escarabajos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39180",
+        "lemma": "kiwi",
+        "definition": "El kiwi es una fruta pequeña, ovalada y con una cáscara marrón que contiene una pulpa verde con semillas negras.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40791",
+        "lemma": "lotizar",
+        "definition": "Dividir un terreno en lotes para su venta.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41509",
+        "lemma": "mallín",
+        "definition": "Una especie de pato acuático que se encuentra en América del Sur.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45218",
+        "lemma": "navidad",
+        "definition": "la celebración religiosa del nacimiento de Jesús.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "27325",
+        "lemma": "entrañable",
+        "definition": "adjetivo que describe algo que produce cariño o afecto.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "64326",
+        "lemma": "varamiento",
+        "definition": "Es el acto de desembarcar algo de un barco.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50417",
+        "lemma": "plenamar",
+        "definition": "Tiempo de mar en calma.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "58600",
+        "lemma": "siquitraque",
+        "definition": "Juego de niños que consiste en formar un círculo y pasar una pelota de uno a otro sin dejarla caer.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53306",
+        "lemma": "rai",
+        "definition": "Brillar con luz propia.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "43231",
+        "lemma": "metafase",
+        "definition": "Etapa de la división celular en la que los cromosomas se encuentran en el centro de la célula.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "29313",
+        "lemma": "esterería",
+        "definition": "arte que consiste en la creación de objetos decorativos con alambre.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "06157",
+        "lemma": "arqueo",
+        "definition": "un proceso contable para calcular el valor de los activos y pasivos",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64922",
+        "lemma": "viadera",
+        "definition": "Instrumento de viento de origen medieval, hecho de madera y con una trompeta en un extremo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65590",
+        "lemma": "xilofonista",
+        "definition": "Persona que toca el xilófono.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "58249",
+        "lemma": "siboney",
+        "definition": "Miembro de una antigua cultura indígena de la región de Cuba y el Caribe.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66244",
+        "lemma": "zorrupia",
+        "definition": "Juego de niños en el que los participantes se colocan en un círculo y uno de ellos es el líder.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
