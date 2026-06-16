@@ -25024,5 +25024,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-16",
+    "words": [
+      {
+        "id": "04017",
+        "lemma": "americanada",
+        "definition": "Una acción o actitud típica de los estadounidenses.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "55936",
+        "lemma": "ribetear",
+        "definition": "bordear.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "12693",
+        "lemma": "carbuncosis",
+        "definition": "La carbuncosis es una enfermedad infecciosa causada por una bacteria y caracterizada por la aparición de úlceras en la piel.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22610",
+        "lemma": "desinvertir",
+        "definition": "sacar el dinero de una inversión.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27855",
+        "lemma": "erogatorio",
+        "definition": "Relativo a la extracción de un líquido.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "13690",
+        "lemma": "cazafortunas",
+        "definition": "Un cazafortunas es una persona que busca la riqueza y la fama sin preocuparse por los medios para conseguirla.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "02101",
+        "lemma": "aguilucho",
+        "definition": "Ave rapaz de tamaño pequeño.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "16694",
+        "lemma": "cohondimiento",
+        "definition": "El acto de humillarse o sentirse humillado.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "42056",
+        "lemma": "marchitez",
+        "definition": "la pérdida de la vitalidad de una planta debido a la falta de agua.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "44705",
+        "lemma": "mujercilla",
+        "definition": "Una mujer pequeña o débil.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "63470",
+        "lemma": "trotskismo",
+        "definition": "Movimiento político fundado por Leon Trotsky.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40867",
+        "lemma": "lugar",
+        "definition": "Espacio",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43749",
+        "lemma": "mismidad",
+        "definition": "La mismidad es la condición de ser igual o similar a otra persona o cosa.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "31634",
+        "lemma": "fonsadera",
+        "definition": "una herramienta de hierro, con forma de cuchara, usada para cavar.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45931",
+        "lemma": "ñisca",
+        "definition": "un pequeño pez de agua dulce de la familia de los ciprinodontiformes.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "64900",
+        "lemma": "vestimento",
+        "definition": "Ropa o conjunto de prendas que se llevan puestas.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48398",
+        "lemma": "peajero",
+        "definition": "una persona que trabaja en una peajería, un establecimiento que vende boletos para el transporte público.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52728",
+        "lemma": "quad",
+        "definition": "un vehículo de cuatro ruedas con un motor de combustión interna.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54687",
+        "lemma": "reincorporar",
+        "definition": "Reincorporar es volver a incluir a alguien o algo en un grupo, organización o sistema.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "22068",
+        "lemma": "desembuchar",
+        "definition": "desenmascarar.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62932",
+        "lemma": "trasteo",
+        "definition": "El acto de buscar algo en un lugar desordenado.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64021",
+        "lemma": "urubú",
+        "definition": "una especie de ave de la familia de los táuridos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65073",
+        "lemma": "vigorosidad",
+        "definition": "Fuerza o energía.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "39180",
+        "lemma": "kiwi",
+        "definition": "El kiwi es una fruta pequeña, ovalada y con una cáscara marrón que contiene una pulpa verde con semillas negras.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65597",
+        "lemma": "xocoyote",
+        "definition": "Animal canino",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65768",
+        "lemma": "yugalán",
+        "definition": "Una forma de bailar tradicional de la región de Galicia, España.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66004",
+        "lemma": "zanjón",
+        "definition": "una zanja profunda.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
