@@ -25218,5 +25218,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-17",
+    "words": [
+      {
+        "id": "57249",
+        "lemma": "sandez",
+        "definition": "Sandez es una conducta irreflexiva o imprudente.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10535",
+        "lemma": "broquelillo",
+        "definition": "Pequeño broquel usado para defensa personal.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "31004",
+        "lemma": "fibroscopio",
+        "definition": "Instrumento que se usa para explorar el interior del cuerpo a través de un tubo flexible.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21614",
+        "lemma": "descalabro",
+        "definition": "Una situación desastrosa o desastre.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29263",
+        "lemma": "estefanote",
+        "definition": "Una pequeña nota o recordatorio para uno mismo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "29773",
+        "lemma": "eutrofización",
+        "definition": "Un proceso en el que un cuerpo de agua recibe nutrientes que exceden la cantidad necesaria para mantener un equilibrio saludable.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "31824",
+        "lemma": "fotograma",
+        "definition": "una imagen individual de una película.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34656",
+        "lemma": "halacabuyas",
+        "definition": "una persona muy habladora",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "03405",
+        "lemma": "almicantarat",
+        "definition": "Instrumento astronómico para medir la altura de los astros.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38991",
+        "lemma": "julepe",
+        "definition": "bebida refrescante a base de agua, hielo y azúcar.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "48997",
+        "lemma": "perestroika",
+        "definition": "una reforma política y económica implementada en la Unión Soviética en la década de 1980.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "08398",
+        "lemma": "balsamita",
+        "definition": "La balsamita es una planta herbácea perenne de la familia de las asteráceas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43699",
+        "lemma": "mirla",
+        "definition": "ave parecida al ruiseñor.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "54289",
+        "lemma": "redondilla",
+        "definition": "Una redondilla es una composición poética de cuatro versos, con rima en los versos impares.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45916",
+        "lemma": "ñapa",
+        "definition": "Regalo o algo más que se añade a algo ya hecho.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "16917",
+        "lemma": "colodra",
+        "definition": "Instrumento musical de viento, parecido a una flauta.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "53028",
+        "lemma": "quipu",
+        "definition": "Un sistema de contabilidad incaico que consiste en una serie de nudos hechos con hilos de lana.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "56655",
+        "lemma": "rustiquez",
+        "definition": "La rustiquez es el conjunto de características de una persona o cosa que la hacen parecer rústica o primitiva.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "44301",
+        "lemma": "morada",
+        "definition": "Casa, hogar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "24115",
+        "lemma": "disipación",
+        "definition": "Acción y efecto de disipar o dispersar algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "13613",
+        "lemma": "cautelar",
+        "definition": "tomar precauciones.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "45438",
+        "lemma": "neuroepidemiología",
+        "definition": "estudio de la epidemiología de las enfermedades neurológicas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65263",
+        "lemma": "visitón",
+        "definition": "Una visita larga y agradable.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "58237",
+        "lemma": "showman",
+        "definition": "Persona que se dedica a la organización de espectáculos públicos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65775",
+        "lemma": "yuntar",
+        "definition": "Unir.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66109",
+        "lemma": "zarrapastrosamente",
+        "definition": "De manera miserable o miserablemente.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
