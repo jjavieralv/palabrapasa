@@ -25606,5 +25606,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-19",
+    "words": [
+      {
+        "id": "03661",
+        "lemma": "alternancia",
+        "definition": "Sucesión alternada de dos o más cosas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "21338",
+        "lemma": "desapaciblemente",
+        "definition": "de manera desagradable.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11131",
+        "lemma": "cachicamo",
+        "definition": "Mamífero marino de la familia de los erizos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22403",
+        "lemma": "desgaire",
+        "definition": "El desgaire es la falta de cuidado o descuido con algo o alguien.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26057",
+        "lemma": "encepe",
+        "definition": "Una tela de lana tejida con una trama muy fina y una urdimbre de seda.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "61388",
+        "lemma": "termosfera",
+        "definition": "Capa más externa de la atmósfera terrestre.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33792",
+        "lemma": "granuja",
+        "definition": "Persona deshonesta y sin escrúpulos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15072",
+        "lemma": "chilcal",
+        "definition": "Una planta de hoja perenne con flores amarillas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37111",
+        "lemma": "inesperadamente",
+        "definition": "Aquí: aquí mismo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38801",
+        "lemma": "jipi",
+        "definition": "Persona que se comporta de forma despreciable.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "52730",
+        "lemma": "quark",
+        "definition": "Partícula subatómica.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40528",
+        "lemma": "llanque",
+        "definition": "una forma de hablar enfáticamente.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42891",
+        "lemma": "melva",
+        "definition": "La melva es un pez plateado de agua salada.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45390",
+        "lemma": "nequicia",
+        "definition": "desprecio, desdén.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "17215",
+        "lemma": "compañón",
+        "definition": "Persona que acompaña a otra en un viaje o actividad.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46780",
+        "lemma": "osambre",
+        "definition": "Palabra que significa oscuridad.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "41825",
+        "lemma": "manipular",
+        "definition": "Usar trucos para influenciar a alguien.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "38549",
+        "lemma": "jamaqueo",
+        "definition": "Acción de jugar a la pelota con los pies.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56048",
+        "lemma": "risible",
+        "definition": "Que provoca risa.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "23153",
+        "lemma": "desposesión",
+        "definition": "La acción de privar a alguien de una propiedad o derecho.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62090",
+        "lemma": "tomillo",
+        "definition": "Planta aromática con un sabor característico.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "48579",
+        "lemma": "pegujón",
+        "definition": "Una herramienta usada para pegar cosas juntas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64987",
+        "lemma": "vicisitud",
+        "definition": "Una situación difícil, desafiante o cambiante que se enfrenta en la vida.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30238",
+        "lemma": "extraviar",
+        "definition": "Perder algo o a alguien.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "16486",
+        "lemma": "cochayuyo",
+        "definition": "alga marina comestible.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66081",
+        "lemma": "zarcear",
+        "definition": "Levantar una cosa con una gran fuerza.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
