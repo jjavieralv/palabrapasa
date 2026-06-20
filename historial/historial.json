@@ -25800,5 +25800,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-20",
+    "words": [
+      {
+        "id": "33358",
+        "lemma": "glacial",
+        "definition": "Relacionado con el hielo o la nieve.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10077",
+        "lemma": "bordiona",
+        "definition": "Un instrumento musical de viento de la familia de las flautas.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "43934",
+        "lemma": "moharracho",
+        "definition": "persona desaliñada.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21111",
+        "lemma": "derrubiar",
+        "definition": "derribar algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "24582",
+        "lemma": "dromedal",
+        "definition": "Una variedad de camello de un solo joroba.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30769",
+        "lemma": "fechar",
+        "definition": "cerrar",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "48448",
+        "lemma": "pechuga",
+        "definition": "Parte carnosa del cuerpo de los animales vertebrados situada entre el cuello y el abdomen.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35563",
+        "lemma": "hogaril",
+        "definition": "Nombre que se le da a la persona que se encarga de los trabajos en una casa.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37900",
+        "lemma": "internación",
+        "definition": "Ingreso de un paciente en un hospital o centro de salud.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38409",
+        "lemma": "jaba",
+        "definition": "Una prenda de vestir tradicional mexicana hecha de telas tejidas a mano.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39119",
+        "lemma": "kanjobal",
+        "definition": "Hablante de kanjobal, lengua maya hablada en Guatemala y México.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39826",
+        "lemma": "legajo",
+        "definition": "Colección de documentos relacionados con un tema o una persona.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43840",
+        "lemma": "mocerío",
+        "definition": "Una pequeña construcción para almacenar herramientas o materiales.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45640",
+        "lemma": "nogada",
+        "definition": "Salsa hecha de crema, frutas y nuez picada.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "50209",
+        "lemma": "piñonear",
+        "definition": "hacer ruido con piñones.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "48696",
+        "lemma": "peloponense",
+        "definition": "Relativo a la región de Peloponeso.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48092",
+        "lemma": "pasionero",
+        "definition": "persona apasionada y entusiasta.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "42220",
+        "lemma": "marquesina",
+        "definition": "Una marquesina es un techo que se extiende desde la entrada de un edificio o una casa para proteger del sol o la lluvia.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56598",
+        "lemma": "rumeliota",
+        "definition": "Alguien que proviene de los Balcanes.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "44930",
+        "lemma": "musicomanía",
+        "definition": "Un trastorno mental caracterizado por una obsesión por la música.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "37041",
+        "lemma": "indubitadamente",
+        "definition": "sin duda.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "13008",
+        "lemma": "carquiñol",
+        "definition": "Carquiñol es una antigua forma de juego de mesa que se juega con fichas y dados.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65018",
+        "lemma": "videocontrol",
+        "definition": "Sistema de vigilancia a través de cámaras de vídeo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65567",
+        "lemma": "windsurf",
+        "definition": "Es un deporte acuático que se practica sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "54660",
+        "lemma": "rehoyar",
+        "definition": "Remover la tierra con una herramienta para airearla.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66345",
+        "lemma": "zurullo",
+        "definition": "Objeto de tela, normalmente de algodón, con forma de embudo y que se usa para limpiar el polvo de los muebles.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
