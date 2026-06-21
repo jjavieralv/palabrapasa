@@ -25994,5 +25994,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-21",
+    "words": [
+      {
+        "id": "13339",
+        "lemma": "castigadamente",
+        "definition": "de manera severa y punitiva.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "19807",
+        "lemma": "cubilote",
+        "definition": "Refugio o lugar de descanso para animales.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "13853",
+        "lemma": "cecidia",
+        "definition": "Una cecidia es una enfermedad infecciosa transmitida por insectos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23388",
+        "lemma": "desuerar",
+        "definition": "Quitar el suero de algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "06085",
+        "lemma": "armatroste",
+        "definition": "persona que se dedica a la fabricación de armas.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "59756",
+        "lemma": "sufismo",
+        "definition": "corriente mística islámica.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33474",
+        "lemma": "gobio",
+        "definition": "un pez de agua dulce de la familia de los cypriniformes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "37356",
+        "lemma": "inhestar",
+        "definition": "Recibir una propiedad o bien a través de una herencia.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "20590",
+        "lemma": "decorrimiento",
+        "definition": "el decorrimiento es el acto de entrar o salir de un lugar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39088",
+        "lemma": "justicialista",
+        "definition": "Persona que defiende los principios del justicialismo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "65630",
+        "lemma": "yak",
+        "definition": "Una especie de bovino originario de Asia Central.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "16275",
+        "lemma": "clavo",
+        "definition": "una pequeña pieza de metal con una cabeza redonda y una punta afilada en un extremo, que se usa para unir cosas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43286",
+        "lemma": "meteorología",
+        "definition": "Estudio de los fenómenos atmosféricos.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45618",
+        "lemma": "nochecita",
+        "definition": "Una noche tranquila, agradable y relajante.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45928",
+        "lemma": "ñique",
+        "definition": "Expresión usada para indicar sorpresa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "44858",
+        "lemma": "murcigallero",
+        "definition": "una especie de guante hecho de piel de cabra.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51265",
+        "lemma": "pradejón",
+        "definition": "pequeña parcela de terreno.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "60723",
+        "lemma": "tarquinada",
+        "definition": "Una forma de preparar carne de caza, especialmente ciervo, que involucra marinarla en vino y especias.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "50893",
+        "lemma": "póquer",
+        "definition": "Un juego de cartas que se juega para ganar dinero.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "62726",
+        "lemma": "transportable",
+        "definition": "Que se puede transportar.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "02274",
+        "lemma": "ajamiento",
+        "definition": "Acción de ajar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63907",
+        "lemma": "unificación",
+        "definition": "La unificación es el proceso de combinar varias partes en un todo coherente.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65112",
+        "lemma": "vinagrada",
+        "definition": "Vinagrada es una palabra para describir un sabor ácido, como el de la vinagre.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65611",
+        "lemma": "yaciente",
+        "definition": "yaciente es un adjetivo que se utiliza para describir algo que está en reposo o inactivo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66184",
+        "lemma": "zonación",
+        "definition": "División de un territorio en diferentes zonas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
