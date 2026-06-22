@@ -26188,5 +26188,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-22",
+    "words": [
+      {
+        "id": "28018",
+        "lemma": "escamonearse",
+        "definition": "Refugiarse en un lugar seguro.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09100",
+        "lemma": "belga",
+        "definition": "se dice de algo relacionado con Bélgica.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "00477",
+        "lemma": "acalorar",
+        "definition": "Discutir con vehemencia.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20501",
+        "lemma": "decápodo",
+        "definition": "Que tiene diez patas.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29099",
+        "lemma": "establecimiento",
+        "definition": "un lugar o edificio destinado a un propósito específico.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32094",
+        "lemma": "frigobar",
+        "definition": "Refrigerador portátil.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32947",
+        "lemma": "garrotín",
+        "definition": "Esta es una danza tradicional española que se caracteriza por sus movimientos rápidos y alegres.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35113",
+        "lemma": "hesitación",
+        "definition": "falta de decisión o duda.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "24874",
+        "lemma": "efendi",
+        "definition": "Un título honorífico otorgado a los funcionarios de alto rango en el Imperio Otomano.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "53702",
+        "lemma": "reaje",
+        "definition": "El movimiento de una embarcación a través del agua.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "52576",
+        "lemma": "punk",
+        "definition": "estilo musical que surgió en los años 70, caracterizado por letras provocativas y una actitud de rebeldía.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "64712",
+        "lemma": "verbalmente",
+        "definition": "por medio de palabras.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42840",
+        "lemma": "melificar",
+        "definition": "endulzar con miel.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45845",
+        "lemma": "nudrimiento",
+        "definition": "Nutrimiento es el acto de proporcionar alimento o sustento a una persona o animal.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "47381",
+        "lemma": "panameñidad",
+        "definition": "La identidad cultural de los panameños.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "29488",
+        "lemma": "estrapontín",
+        "definition": "Mueble con patas que se usa para sentarse.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "31279",
+        "lemma": "fisioterapia",
+        "definition": "La fisioterapia es una disciplina sanitaria que se encarga de prevenir, diagnosticar y tratar los trastornos del sistema musculoesquelético, así como los trastornos del sistema nervioso y cardiorespiratorio.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "55694",
+        "lemma": "retranquear",
+        "definition": "Reparar una pared o un edificio.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "47459",
+        "lemma": "paneuropeísta",
+        "definition": "Partidario de una integración europea más profunda.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58191",
+        "lemma": "sextillo",
+        "definition": "Una unidad de medida de longitud equivalente a seis pies.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61309",
+        "lemma": "tercer",
+        "definition": "que está en el lugar número tres.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64106",
+        "lemma": "uña",
+        "definition": "Pequeña protuberancia en la punta de los dedos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65111",
+        "lemma": "viltrotera",
+        "definition": "Viltrotera es una ave migratoria de la familia de los limícolas, caracterizada por su coloración parda y su pico largo y curvado.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65551",
+        "lemma": "wahabismo",
+        "definition": "Un movimiento islámico sunita que aboga por una aplicación estricta de los principios del islam.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "37138",
+        "lemma": "inexpresable",
+        "definition": "Que no puede ser expresado con palabras.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65720",
+        "lemma": "yihadismo",
+        "definition": "Movimiento político-religioso islámico que promueve la lucha armada para defender o extender el islam.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "35815",
+        "lemma": "horridez",
+        "definition": "Cualidad de lo que es espantoso o repugnante.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
