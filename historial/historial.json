@@ -26382,5 +26382,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-23",
+    "words": [
+      {
+        "id": "03054",
+        "lemma": "algarrobal",
+        "definition": "Árbol de la familia de las leguminosas con fruto comestible.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09551",
+        "lemma": "birlesco",
+        "definition": "Que se relaciona con la cerveza.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "19766",
+        "lemma": "cuatropea",
+        "definition": "Una especie de ave.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "01378",
+        "lemma": "adormecer",
+        "definition": "causar somnolencia o sueño.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26700",
+        "lemma": "engurrumir",
+        "definition": "Apretar, apretujonar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "21221",
+        "lemma": "desaforrar",
+        "definition": "desenvolver algo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "36210",
+        "lemma": "iguanodonte",
+        "definition": "Reptil prehistórico que vivió durante el periodo Jurásico.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "15618",
+        "lemma": "chupe",
+        "definition": "Un guiso típico de América del Sur hecho con pollo, pescado, mariscos, verduras y otros ingredientes.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "24772",
+        "lemma": "ecolocación",
+        "definition": "La ecolocalización es el proceso mediante el cual los animales utilizan señales sonoras para detectar y localizar objetos y otros animales en su entorno.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38815",
+        "lemma": "jirel",
+        "definition": "Una tribu de indios de la India occidental.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10769",
+        "lemma": "bunkerización",
+        "definition": "Acción de construir búnkeres.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39743",
+        "lemma": "laxidad",
+        "definition": "Relajación, flojedad.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44694",
+        "lemma": "muguet",
+        "definition": "Planta herbácea perenne de la familia de las liliáceas.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "32561",
+        "lemma": "galicinio",
+        "definition": "Lingua franca de la Galicia medieval.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "39760",
+        "lemma": "lañador",
+        "definition": "Persona que usa la laña para golpear la lana y separarla de la piel.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "31372",
+        "lemma": "flechazo",
+        "definition": "Un sentimiento repentino e intenso de amor o atracción hacia alguien.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "27644",
+        "lemma": "eperlán",
+        "definition": "Un pequeño pez de agua dulce que se encuentra en los ríos de Europa.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "00724",
+        "lemma": "achaquero",
+        "definition": "Persona que se dedica a vender achacos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "22576",
+        "lemma": "desindustrializar",
+        "definition": "Disminuir o detener la producción industrial.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "54224",
+        "lemma": "recusar",
+        "definition": "Rechazar, negarse a aceptar.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63710",
+        "lemma": "turiasonense",
+        "definition": "adjetivo que se aplica a aquello relacionado con Turiason, una localidad española.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63984",
+        "lemma": "urdidura",
+        "definition": "Tejido de hilos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64634",
+        "lemma": "ventanal",
+        "definition": "Una ventana grande.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65571",
+        "lemma": "wolframio",
+        "definition": "Un metal grisáceo muy duro y resistente a la corrosión.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65579",
+        "lemma": "xenón",
+        "definition": "Un elemento químico gasoso con el símbolo Xe y el número atómico 54.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "08080",
+        "lemma": "bacaray",
+        "definition": "Un juego de cartas de origen africano, también conocido como \"treinta y uno\", que se juega con una baraja de cartas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "05945",
+        "lemma": "arepazo",
+        "definition": "Tipo de arepa hecha de maíz.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
