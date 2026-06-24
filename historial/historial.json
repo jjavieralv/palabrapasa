@@ -26576,5 +26576,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-24",
+    "words": [
+      {
+        "id": "42431",
+        "lemma": "matancinga",
+        "definition": "En México, una antigua forma de juego de dados.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09127",
+        "lemma": "bembe",
+        "definition": "Un baile tradicional de la cultura afrocaribeña.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "49081",
+        "lemma": "períoca",
+        "definition": "una antigua forma de poesía griega que se cantaba con acompañamiento de lira.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "48556",
+        "lemma": "pegajosidad",
+        "definition": "la cualidad de ser pegajoso.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25749",
+        "lemma": "enaceitar",
+        "definition": "Cubrir algo con aceite.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31741",
+        "lemma": "forrazo",
+        "definition": "una golpiza fuerte.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "22474",
+        "lemma": "desguazar",
+        "definition": "deshacer, desmontar algo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "05426",
+        "lemma": "aplanchar",
+        "definition": "Darle forma plana a una superficie.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "19458",
+        "lemma": "crisoberilo",
+        "definition": "una gema preciosa de color verde.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38961",
+        "lemma": "juerga",
+        "definition": "Fiesta bulliciosa y desordenada.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39152",
+        "lemma": "kilociclo",
+        "definition": "Una unidad de medida para la frecuencia de una onda electromagnética.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40735",
+        "lemma": "longevidad",
+        "definition": "La capacidad de vivir durante mucho tiempo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43889",
+        "lemma": "modestia",
+        "definition": "La modestia es la virtud de ser humilde y no presumir de los propios logros.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "38118",
+        "lemma": "invernadero",
+        "definition": "es una estructura cerrada y climatizada para cultivar plantas.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "42025",
+        "lemma": "marañón",
+        "definition": "El fruto de un árbol de la familia de las anacardiáceas, también conocido como almendra de la India.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "30221",
+        "lemma": "extrarradio",
+        "definition": "Extrarradio se refiere a un área geográfica que está fuera de los límites de una ciudad o pueblo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "36309",
+        "lemma": "imoscapo",
+        "definition": "una figura geométrica con tres lados y tres ángulos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "50938",
+        "lemma": "porquerón",
+        "definition": "Pájaro de gran tamaño y color blanco y negro.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "16086",
+        "lemma": "cirugía",
+        "definition": "Parte de la medicina que se encarga de tratar enfermedades mediante la aplicación de procedimientos quirúrgicos.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "48123",
+        "lemma": "pastar",
+        "definition": "Alimentar a los animales con hierba u otras plantas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61433",
+        "lemma": "terrenal",
+        "definition": "Relativo a la tierra.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63985",
+        "lemma": "urdiembre",
+        "definition": "Hilos que se usan para tejer telas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "55819",
+        "lemma": "reversión",
+        "definition": "La reversión es el proceso de devolver una propiedad, una situación o una acción a su estado original.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "42555",
+        "lemma": "maxmordón",
+        "definition": "Un maxmordón es una persona que se cree superior a los demás y que trata a los demás con desprecio.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65677",
+        "lemma": "yegüería",
+        "definition": "Lugar donde se crían yegüas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "29195",
+        "lemma": "estandarización",
+        "definition": "Un proceso de homogeneización de productos, servicios, procesos y normas para alcanzar una calidad y un rendimiento consistentes.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
