@@ -26770,5 +26770,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-25",
+    "words": [
+      {
+        "id": "47486",
+        "lemma": "panjí",
+        "definition": "Una comida típica de la India hecha con harina de trigo, arroz, lentejas y especias.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10334",
+        "lemma": "brasil",
+        "definition": "Brasil es un país situado en el continente sudamericano.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "14555",
+        "lemma": "chamal",
+        "definition": "Tejido hecho con lana o algodón.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22023",
+        "lemma": "desembalse",
+        "definition": "Acción de desviar el curso de un río para formar un embalse.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29985",
+        "lemma": "exir",
+        "definition": "Salir, marcharse.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31268",
+        "lemma": "fisiócrata",
+        "definition": "aquel que sigue la doctrina de los fisiócratas.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "35768",
+        "lemma": "hormiguear",
+        "definition": "sentir hormigas en la piel.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35300",
+        "lemma": "hilacho",
+        "definition": "El hilacho es una tela ligera y suave hecha de lana fina.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "65119",
+        "lemma": "vinar",
+        "definition": "Relacionado con el vino.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "19425",
+        "lemma": "crineja",
+        "definition": "La crineja es una tela de lana espesa y suave.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39317",
+        "lemma": "ladronamente",
+        "definition": "de manera ladrona.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44495",
+        "lemma": "mosconear",
+        "definition": "Criticar o murmurar en voz baja.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45710",
+        "lemma": "nordestear",
+        "definition": "tener una actitud alegre, despreocupada y desenfadada propia del noreste de España.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "44863",
+        "lemma": "mureño",
+        "definition": "Una persona originaria de Murcia.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46138",
+        "lemma": "octagonal",
+        "definition": "de ocho lados.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "62892",
+        "lemma": "traspatio",
+        "definition": "espacio de una propiedad ubicado detrás de la casa.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "27772",
+        "lemma": "equiparar",
+        "definition": "Comparar dos cosas para determinar su igualdad.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55834",
+        "lemma": "revidar",
+        "definition": "rechazar, desechar.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59116",
+        "lemma": "soliviadura",
+        "definition": "golpe fuerte y seco.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "02148",
+        "lemma": "aherrojamiento",
+        "definition": "Acción de aherrojar o aherrojarse.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64116",
+        "lemma": "uñoperquén",
+        "definition": "Una palabra usada para expresar sorpresa.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "30937",
+        "lemma": "fervorar",
+        "definition": "Mostrar un gran entusiasmo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65569",
+        "lemma": "windsurfista",
+        "definition": "Persona que practica el windsurf, un deporte acuático que consiste en navegar sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30237",
+        "lemma": "extraversión",
+        "definition": "Tendencia a dirigir la energía y la atención hacia el mundo exterior.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65636",
+        "lemma": "yambú",
+        "definition": "Estilo de música y baile afro-cubano.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66137",
+        "lemma": "zelote",
+        "definition": "persona fanática y radical.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
