@@ -26964,5 +26964,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-26",
+    "words": [
+      {
+        "id": "05738",
+        "lemma": "arabo",
+        "definition": "El árabe es una lengua semítica hablada principalmente en el norte de África y el Medio Oriente.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10363",
+        "lemma": "brazuelo",
+        "definition": "Una persona que es muy fuerte.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18805",
+        "lemma": "cornisamiento",
+        "definition": "Acción de corromper a alguien para conseguir algo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "45979",
+        "lemma": "obiter dictum",
+        "definition": "Observación o comentario incidental.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "57923",
+        "lemma": "sentaderas",
+        "definition": "Sillas.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31536",
+        "lemma": "fogosidad",
+        "definition": "Una gran intensidad o pasión.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "65768",
+        "lemma": "yugalán",
+        "definition": "Una forma de bailar tradicional de la región de Galicia, España.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "16460",
+        "lemma": "cocacho",
+        "definition": "una persona despreciable o de baja estofa.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "01656",
+        "lemma": "afligir",
+        "definition": "causar una profunda tristeza o angustia.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38612",
+        "lemma": "jarcha",
+        "definition": "Una composición poética medieval popular.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "58306",
+        "lemma": "sigatoka",
+        "definition": "Una enfermedad infecciosa de las plantas de banano, palmera y plátano causada por un hongo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39565",
+        "lemma": "lardón",
+        "definition": "Un lardón es una tira de grasa de cerdo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44647",
+        "lemma": "mueble",
+        "definition": "Objeto de mobiliario.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "05120",
+        "lemma": "anuria",
+        "definition": "Ausencia de producción de orina",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45915",
+        "lemma": "ñangotarse",
+        "definition": "divertirse a costa de alguien.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "41936",
+        "lemma": "manutigio",
+        "definition": "Acción de manipular a alguien para obtener un beneficio.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "49982",
+        "lemma": "piretología",
+        "definition": "La ciencia que estudia los parásitos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52999",
+        "lemma": "quintada",
+        "definition": "Cantidad de cinco unidades.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56377",
+        "lemma": "ropería",
+        "definition": "Establecimiento donde se venden ropas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "10159",
+        "lemma": "bosquete",
+        "definition": "Un pequeño grupo de árboles.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "00666",
+        "lemma": "acercamiento",
+        "definition": "el acto de acercarse a alguien o algo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "28422",
+        "lemma": "escuderaje",
+        "definition": "Acción de defender a alguien.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "45205",
+        "lemma": "navanco",
+        "definition": "Terreno pantanoso.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65581",
+        "lemma": "xerocopiar",
+        "definition": "Copiar algo usando una máquina fotocopiadora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65665",
+        "lemma": "yatista",
+        "definition": "Persona que practica el yatismo, un deporte acuático.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66023",
+        "lemma": "zapatear",
+        "definition": "golpear con los pies.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
