@@ -27158,5 +27158,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-27",
+    "words": [
+      {
+        "id": "05265",
+        "lemma": "apañamiento",
+        "definition": "Una habilidad o técnica para conseguir algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09367",
+        "lemma": "bidente",
+        "definition": "Que tiene dos dientes.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "16523",
+        "lemma": "cocoa",
+        "definition": "Bebida alimenticia preparada con polvo de cacao y leche.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22242",
+        "lemma": "desenojo",
+        "definition": "Estado de ánimo en el que una persona se siente aliviada de la preocupación o la tristeza.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28185",
+        "lemma": "escepticismo",
+        "definition": "El escepticismo es una actitud mental de duda o desconfianza hacia algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "17636",
+        "lemma": "confesorio",
+        "definition": "lugar destinado para la confesión de los pecados.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33344",
+        "lemma": "giroflé",
+        "definition": "girasol",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35543",
+        "lemma": "hitar",
+        "definition": "Golpear.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37625",
+        "lemma": "insolvente",
+        "definition": "Que no tiene recursos económicos suficientes para cumplir con sus obligaciones financieras.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38992",
+        "lemma": "julepear",
+        "definition": "Ir de juerga.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "08241",
+        "lemma": "bakalao",
+        "definition": "juego de palabras que se practica con rapidez y agudeza.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "05874",
+        "lemma": "arcillar",
+        "definition": "Mezclar arcilla con algo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43691",
+        "lemma": "miríada",
+        "definition": "Gran cantidad de algo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45548",
+        "lemma": "niobio",
+        "definition": "Elemento químico de número atómico 41.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45940",
+        "lemma": "ñora",
+        "definition": "Tipo de pimiento seco y redondo.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "41091",
+        "lemma": "macolla",
+        "definition": "grupo de árboles o plantas de la misma especie.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "49815",
+        "lemma": "pinche",
+        "definition": "Persona que ayuda a un cocinero en un restaurante.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52837",
+        "lemma": "querrequerre",
+        "definition": "Pájaro de color verde.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "34296",
+        "lemma": "guarumal",
+        "definition": "Una especie de palmera que crece en América Central y del Sur.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58109",
+        "lemma": "servofreno",
+        "definition": "Un sistema de frenado automático, que aumenta la seguridad de los vehículos.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "51695",
+        "lemma": "pretinero",
+        "definition": "Una persona que trabaja como pretero.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "41920",
+        "lemma": "manualmente",
+        "definition": "con las manos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64123",
+        "lemma": "vacacionar",
+        "definition": "Pasar unas vacaciones.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "58237",
+        "lemma": "showman",
+        "definition": "Persona que se dedica a la organización de espectáculos públicos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "54233",
+        "lemma": "redaya",
+        "definition": "Redaya es una forma de poesía árabe de origen andalusí.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "51195",
+        "lemma": "potabilización",
+        "definition": "proceso para hacer agua potable.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
