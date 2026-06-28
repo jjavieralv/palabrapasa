@@ -27352,5 +27352,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-28",
+    "words": [
+      {
+        "id": "02032",
+        "lemma": "aguapé",
+        "definition": "planta acuática de la familia de las gramíneas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "53765",
+        "lemma": "rebaje",
+        "definition": "acción y efecto de rebajar o rebajarse.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "12186",
+        "lemma": "cangallo",
+        "definition": "Animal de cuatro patas con una cola larga y peluda.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "13924",
+        "lemma": "celaduría",
+        "definition": "Vigilancia.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "55372",
+        "lemma": "resfalosa",
+        "definition": "Una enfermedad respiratoria infecciosa que afecta principalmente a los caballos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "15049",
+        "lemma": "chifonier",
+        "definition": "Mueble con varios cajones para guardar ropa.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "08173",
+        "lemma": "bagre",
+        "definition": "Un pez de agua dulce de la familia de los siluriformes.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "32422",
+        "lemma": "gabachada",
+        "definition": "Acción de hablar mucho sin decir nada de sentido.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "47663",
+        "lemma": "parachispas",
+        "definition": "Un juego de mesa de origen español en el que los jugadores intentan conseguir el mayor número de fichas posible.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "53333",
+        "lemma": "rajeta",
+        "definition": "Una ranura en una superficie, a menudo usada como una forma de unir dos o más piezas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "07450",
+        "lemma": "aurresku",
+        "definition": "El aurresku es un baile tradicional vasco que se baila en pareja.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "01396",
+        "lemma": "adquirible",
+        "definition": "que se puede comprar",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "38569",
+        "lemma": "jamuga",
+        "definition": "Una reunión de personas para una actividad común.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "44238",
+        "lemma": "montantada",
+        "definition": "Acción de montar un caballo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45920",
+        "lemma": "ñaña",
+        "definition": "palabra usada para referirse a algo pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46498",
+        "lemma": "oponer",
+        "definition": "presentar una objeción o resistencia.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48183",
+        "lemma": "patagorrillo",
+        "definition": "Pequeño pájaro de color verde y amarillo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "38631",
+        "lemma": "jarique",
+        "definition": "Una pequeña cesta hecha de mimbre.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54641",
+        "lemma": "rehenchir",
+        "definition": "Rellenar algo con algo sólido.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57572",
+        "lemma": "sañudamente",
+        "definition": "saludablemente",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "15188",
+        "lemma": "chingaste",
+        "definition": "Chingaste es una palabra coloquial usada en México para referirse a alguien que ha hecho algo mal o ha sido engañado.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63867",
+        "lemma": "umbra",
+        "definition": "La sombra de un objeto.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64910",
+        "lemma": "veto",
+        "definition": "El veto es una decisión o acción que impide que una propuesta o decisión se lleve a cabo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65559",
+        "lemma": "web",
+        "definition": "Sitio de Internet.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "58789",
+        "lemma": "sobreexcitar",
+        "definition": "exaltar excesivamente.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65610",
+        "lemma": "yacer",
+        "definition": "Estar acostado.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66278",
+        "lemma": "zumaya",
+        "definition": "Una ciudad de la provincia de Burgos, España.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
