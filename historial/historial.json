@@ -27546,5 +27546,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-29",
+    "words": [
+      {
+        "id": "18190",
+        "lemma": "contractilidad",
+        "definition": "La capacidad de un músculo de contraerse y relajarse.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09984",
+        "lemma": "bombón",
+        "definition": "dulce de forma esférica, que se suele rellenar de crema, chocolate o licor.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "02589",
+        "lemma": "albericoque",
+        "definition": "un árbol frutal parecido al membrillo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "27434",
+        "lemma": "entresacadura",
+        "definition": "Acción de separar algo de un conjunto.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "14914",
+        "lemma": "chebrón",
+        "definition": "Dingolondango: Un baile tradicional español.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "63809",
+        "lemma": "ufanarse",
+        "definition": "Sentirse orgulloso de uno mismo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33108",
+        "lemma": "geldre",
+        "definition": "Una moneda de metal usada como medio de intercambio.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14762",
+        "lemma": "chapurrear",
+        "definition": "Hablar mal",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36451",
+        "lemma": "imposta",
+        "definition": "Tributo establecido por una autoridad.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39057",
+        "lemma": "jurel",
+        "definition": "Pez de la familia de los carangidos, de color gris azulado y con aletas laterales amarillas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "45669",
+        "lemma": "nomenklatura",
+        "definition": "El término nomenklatura se refiere a una lista de nombres de personas o entidades que se consideran dignas de una posición de autoridad.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40958",
+        "lemma": "lustre",
+        "definition": "Un lustre es una lámpara colgante con varios brazos, generalmente con luces o velas.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44598",
+        "lemma": "moxa",
+        "definition": "Técnica de medicina tradicional china consistente en la aplicación de calor a puntos específicos del cuerpo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "32693",
+        "lemma": "gamellón",
+        "definition": "juego de azar en el que se apuesta con fichas.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45904",
+        "lemma": "ñagaza",
+        "definition": "Una herramienta de labranza usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "11555",
+        "lemma": "calefaccionar",
+        "definition": "calentar un lugar.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "56801",
+        "lemma": "sacatrapos",
+        "definition": "Persona de poco valor.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52822",
+        "lemma": "querellarse",
+        "definition": "litigar.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53229",
+        "lemma": "radioenlace",
+        "definition": "Un radioenlace es un sistema de comunicación inalámbrico que utiliza ondas electromagnéticas para transmitir señales de audio o datos entre dos o más ubicaciones.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "60586",
+        "lemma": "tapiscar",
+        "definition": "Tapizar.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "08862",
+        "lemma": "bastero",
+        "definition": "Persona astuta o que trata de engañar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64067",
+        "lemma": "usurpar",
+        "definition": "tomar posesión de algo sin derecho.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64462",
+        "lemma": "veguerío",
+        "definition": "Territorio o jurisdicción de un veguero.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "22714",
+        "lemma": "desmayo",
+        "definition": "Un desmayo es un breve período de inconsciencia causado por una disminución del flujo sanguíneo al cerebro.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66128",
+        "lemma": "zatillo",
+        "definition": "El zatillo es una cuerda larga y gruesa usada para atar y sujetar cosas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
