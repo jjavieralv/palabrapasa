@@ -27740,5 +27740,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-06-30",
+    "words": [
+      {
+        "id": "05575",
+        "lemma": "apoyatura",
+        "definition": "Soporte o ayuda para algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "59516",
+        "lemma": "subcontrata",
+        "definition": "Subcontratar es el acto de contratar a una empresa o persona para que realice un trabajo específico para otra empresa.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "14921",
+        "lemma": "cheira",
+        "definition": "una planta medicinal usada para tratar diversas enfermedades.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23293",
+        "lemma": "desteridad",
+        "definition": "Habilidad para realizar algo con destreza.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25130",
+        "lemma": "embaladura",
+        "definition": "Envoltura.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31077",
+        "lemma": "fijativo",
+        "definition": "Una sustancia química que se usa para fijar una imagen.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33196",
+        "lemma": "geoda",
+        "definition": "Roca hueca con cristales de cuarzo en su interior.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35666",
+        "lemma": "homosexual",
+        "definition": "Persona que se siente atraída sexualmente por otra persona del mismo sexo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36773",
+        "lemma": "inconfundible",
+        "definition": "Que no puede ser confundido con nada o nadie.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38670",
+        "lemma": "jazminero",
+        "definition": "Un árbol o arbusto de la familia de las jazmináceas con flores fragantes.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39138",
+        "lemma": "keniata",
+        "definition": "aquello relacionado con Kenia.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39305",
+        "lemma": "ladrar",
+        "definition": "Emitir un sonido característico con la boca cerrada.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43751",
+        "lemma": "misoneísmo",
+        "definition": "El misoneísmo es el rechazo a cualquier cambio o innovación.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "26874",
+        "lemma": "enmalecerse",
+        "definition": "Debilitarse o enfermarse.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "00924",
+        "lemma": "acompañanta",
+        "definition": "Persona que acompaña a otra para proporcionarle compañía.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "07397",
+        "lemma": "audiovisual",
+        "definition": "adjetivo para describir algo relacionado con el uso de audio y video.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "25628",
+        "lemma": "empizarrado",
+        "definition": "Empizarrado es un término usado para describir algo que está muy desordenado y caótico.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53048",
+        "lemma": "quisa",
+        "definition": "Una unidad básica de una lengua indígena americana.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56603",
+        "lemma": "rumiajo",
+        "definition": "Una forma de pastoreo en la que los animales se alimentan de hierba y pasto.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "31243",
+        "lemma": "fiscalear",
+        "definition": "vigilar y controlar algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "35479",
+        "lemma": "hipotiroidismo",
+        "definition": "Enfermedad caracterizada por una disminución de la producción de hormonas tiroideas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "26273",
+        "lemma": "encubrir",
+        "definition": "Ocultar o disimular algo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64340",
+        "lemma": "varejonazo",
+        "definition": "Golpe fuerte.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30117",
+        "lemma": "exprés",
+        "definition": "Rápido, veloz.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65732",
+        "lemma": "yodoformo",
+        "definition": "El yodoformo es un compuesto químico orgánico que se usa como desinfectante y para tratar infecciones.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "08382",
+        "lemma": "balonazo",
+        "definition": "Golpe con un balón.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
