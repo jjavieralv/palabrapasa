@@ -27934,5 +27934,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-01",
+    "words": [
+      {
+        "id": "30610",
+        "lemma": "farina",
+        "definition": "Polvo fino obtenido de la molienda de algunos cereales.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "65539",
+        "lemma": "vulnerabilidad",
+        "definition": "La vulnerabilidad es el estado de ser vulnerable a un daño, una amenaza o una explotación.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "22575",
+        "lemma": "desindustrialización",
+        "definition": "Es el proceso de reducción de la producción industrial en una región determinada.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "58299",
+        "lemma": "sifílide",
+        "definition": "Enfermedad de transmisión sexual causada por la bacteria Treponema pallidum.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "17522",
+        "lemma": "condenar",
+        "definition": "Sentenciar a alguien por un delito.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32332",
+        "lemma": "funguicida",
+        "definition": "Un fungicida es un producto químico usado para controlar o eliminar hongos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33196",
+        "lemma": "geoda",
+        "definition": "Roca hueca con cristales de cuarzo en su interior.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34820",
+        "lemma": "hechicería",
+        "definition": "El arte de usar la magia para obtener un resultado deseado.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "19473",
+        "lemma": "crispatura",
+        "definition": "La crispatura es el acto de doblar un material para formar una línea curva.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38413",
+        "lemma": "jabalina",
+        "definition": "Una lanza ligera de hierro o acero.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39188",
+        "lemma": "kosher",
+        "definition": "conjunto de leyes y normas alimentarias judías.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40437",
+        "lemma": "litargia",
+        "definition": "Un estado de apatía, indiferencia y desinterés.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42350",
+        "lemma": "másico",
+        "definition": "Perteneciente o relativo al más.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "49267",
+        "lemma": "personificar",
+        "definition": "Representar a una persona o cosa como una persona.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "26016",
+        "lemma": "encañar",
+        "definition": "Ajustar, encajar.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "08094",
+        "lemma": "bachilleramiento",
+        "definition": "Graduación de bachiller.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "55451",
+        "lemma": "respetabilidad",
+        "definition": "Cualidad de merecer respeto.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "41830",
+        "lemma": "maniquí",
+        "definition": "figura artificial que sirve para mostrar prendas de vestir.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56293",
+        "lemma": "romanza",
+        "definition": "Composición musical para voz y acompañamiento instrumental.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58095",
+        "lemma": "servidumbre",
+        "definition": "La servidumbre es el estado de una persona sometida a la autoridad de otra.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62257",
+        "lemma": "tornalecho",
+        "definition": "Pieza de metal utilizada para sujetar los cables eléctricos.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "36039",
+        "lemma": "humorista",
+        "definition": "Persona que usa el humor para entretener a los demás.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "51929",
+        "lemma": "productividad",
+        "definition": "Capacidad de producir bienes y servicios.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "59935",
+        "lemma": "superwoman",
+        "definition": "Una mujer que tiene habilidades y poderes especiales que la hacen destacar por encima de los demás.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29918",
+        "lemma": "excomunicación",
+        "definition": "Sanción eclesiástica que excluye a una persona de la comunión de la Iglesia.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "07018",
+        "lemma": "atalayero",
+        "definition": "Persona que fabrica atalayas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66323",
+        "lemma": "zurrearse",
+        "definition": "Asegurarse de algo con una cuerda o con una soga.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
