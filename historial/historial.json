@@ -28128,5 +28128,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-02",
+    "words": [
+      {
+        "id": "17014",
+        "lemma": "comadrita",
+        "definition": "Una comadrita es una mujer que asiste a una mujer durante el parto.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09761",
+        "lemma": "bocací",
+        "definition": "una prenda de vestir tradicionalmente usada por los hombres de la región andina.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "03827",
+        "lemma": "amancillar",
+        "definition": "manchar o ensuciar algo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "17024",
+        "lemma": "comandita",
+        "definition": "Una forma de empresa compuesta por uno o más socios limitados y uno o más socios ilimitados.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "37950",
+        "lemma": "interrumpidamente",
+        "definition": "de manera interrumpida.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "04288",
+        "lemma": "anafase",
+        "definition": "Etapa de la división celular en la que los cromosomas se separan.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33282",
+        "lemma": "gigabyte",
+        "definition": "Un gigabyte es una unidad de medida de almacenamiento de datos equivalente a un billón de bytes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35820",
+        "lemma": "horror vacui",
+        "definition": "Una tendencia en la que se llena un espacio con muchos elementos para evitar el vacío.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "07184",
+        "lemma": "atirantar",
+        "definition": "Atraer, seducir, cautivar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38497",
+        "lemma": "jagüey",
+        "definition": "Una pequeña isla en un lago o un río.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39179",
+        "lemma": "kivi",
+        "definition": "El kivi es una fruta pequeña y redonda de color verde con una piel rugosa y una pulpa dulce y jugosa.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40038",
+        "lemma": "levantadamente",
+        "definition": "de manera altiva.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41290",
+        "lemma": "magueyal",
+        "definition": "terreno donde se cultiva el maguey.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45660",
+        "lemma": "nombradía",
+        "definition": "nombramiento de una persona para un cargo.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45927",
+        "lemma": "ñipe",
+        "definition": "una acción o gesto de burla.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46161",
+        "lemma": "ocultable",
+        "definition": "que se puede ocultar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49693",
+        "lemma": "pigua",
+        "definition": "Un movimiento brusco y repentino.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52925",
+        "lemma": "quilma",
+        "definition": "una antigua herramienta de piedra usada para moler alimentos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "31324",
+        "lemma": "flagrante",
+        "definition": "Flagrante es algo que está claramente visible o evidente.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58503",
+        "lemma": "sindicar",
+        "definition": "organizar una coalición de trabajadores.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61938",
+        "lemma": "tlaco",
+        "definition": "Una persona de baja estatura o de baja posición social.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "02737",
+        "lemma": "alcapurria",
+        "definition": "Una alcapurria es un plato típico de Puerto Rico hecho de masa de yuca rellena de carne picada.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "62985",
+        "lemma": "trávelin",
+        "definition": "antiguo sistema de medida de área.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65590",
+        "lemma": "xilofonista",
+        "definition": "Persona que toca el xilófono.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "53350",
+        "lemma": "rally",
+        "definition": "Carrera de coches o motos en la que los participantes deben seguir un recorrido marcado por una serie de etapas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "36227",
+        "lemma": "ilegalización",
+        "definition": "prohibición de una actividad o de una organización.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
