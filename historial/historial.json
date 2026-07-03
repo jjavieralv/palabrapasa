@@ -28322,5 +28322,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-03",
+    "words": [
+      {
+        "id": "06404",
+        "lemma": "arrobal",
+        "definition": "una unidad de peso igual a 28,35 gramos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10593",
+        "lemma": "brusquero",
+        "definition": "Persona brusca e impaciente.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18004",
+        "lemma": "construir",
+        "definition": "Crear algo a partir de los materiales disponibles.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "58985",
+        "lemma": "sofaldar",
+        "definition": "Cubrir con una capa de tierra.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28602",
+        "lemma": "esmorecer",
+        "definition": "debilitar o disminuir algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "33309",
+        "lemma": "gin-fizz",
+        "definition": "bebida alcohólica.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32561",
+        "lemma": "galicinio",
+        "definition": "Lingua franca de la Galicia medieval.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35016",
+        "lemma": "heredamiento",
+        "definition": "Acción de heredar algo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36140",
+        "lemma": "idealista",
+        "definition": "Persona que tiene una visión idealizada de la vida.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "44424",
+        "lemma": "morojo",
+        "definition": "Planta herbácea de la familia de las compuestas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39142",
+        "lemma": "kevlar",
+        "definition": "Un material resistente y ligero que se usa en la fabricación de chalecos antibalas y otros equipos de protección.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39621",
+        "lemma": "latastro",
+        "definition": "Una tela fina y ligera.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43537",
+        "lemma": "millardo",
+        "definition": "Cantidad igual a un millón de millones.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "63418",
+        "lemma": "troncalidad",
+        "definition": "Característica de una línea principal.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "52716",
+        "lemma": "puñeta",
+        "definition": "Una puñeta es una pequeña bolsa de cuero usada para contener monedas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46704",
+        "lemma": "ornadamente",
+        "definition": "de una manera ornamentada.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "11613",
+        "lemma": "calidoscopio",
+        "definition": "un instrumento óptico que contiene una serie de espejos cóncavos y convexos que reflejan y descomponen la luz en una variedad de colores.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "10137",
+        "lemma": "borriquete",
+        "definition": "Un caballo pequeño y ágil, de pelo corto y cabeza pequeña, utilizado principalmente como animal de monta y tiro.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "47771",
+        "lemma": "parasemo",
+        "definition": "Una figura retórica en la que se usan dos palabras que tienen significados similares para reforzar una idea.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59169",
+        "lemma": "somatización",
+        "definition": "Tendencia a expresar emociones o estados de ánimo a través de síntomas físicos.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "64437",
+        "lemma": "vedamiento",
+        "definition": "acción y efecto de vedar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "19617",
+        "lemma": "cuaco",
+        "definition": "Instrumento musical de viento hecho de una pequeña trompeta de cuerno.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65442",
+        "lemma": "voltaje",
+        "definition": "diferencia de potencial eléctrico entre dos puntos.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "58235",
+        "lemma": "show business",
+        "definition": "El show business es el negocio de la producción y distribución de entretenimiento, como espectáculos de televisión, cine, teatro, música y otros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65592",
+        "lemma": "xilografía",
+        "definition": "Una técnica de grabado en madera que se usa para producir impresiones artísticas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "19266",
+        "lemma": "coyuntura",
+        "definition": "Momento o situación crítica, especialmente en política.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "03038",
+        "lemma": "alfoz",
+        "definition": "Territorio bajo jurisdicción de una villa.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
