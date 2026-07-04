@@ -28516,5 +28516,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-04",
+    "words": [
+      {
+        "id": "21520",
+        "lemma": "desbaratamiento",
+        "definition": "El acto de desorganizar o desordenar algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "59655",
+        "lemma": "subtipo",
+        "definition": "Grupo particular de una especie o variedad.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "19684",
+        "lemma": "cuantiar",
+        "definition": "Estimar una cantidad.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23656",
+        "lemma": "dianense",
+        "definition": "Relativo a la ciudad de Díana.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "09249",
+        "lemma": "besamela",
+        "definition": "Instrumento de metal usado para aplicar medicamentos en la piel.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31167",
+        "lemma": "filosofante",
+        "definition": "Persona que se dedica a la filosofía.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34536",
+        "lemma": "gustazo",
+        "definition": "Experiencia de placer o satisfacción que se obtiene al comer o beber algo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "32457",
+        "lemma": "gachó",
+        "definition": "Persona que se comporta de manera poco ética.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "43337",
+        "lemma": "mezanine",
+        "definition": "Una mezanine es una segunda planta de un edificio, generalmente con un techo bajo y poca altura, que se ubica entre el piso principal y el techo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39048",
+        "lemma": "juramentación",
+        "definition": "Es el acto de hacer una promesa solemne en presencia de una autoridad.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "08553",
+        "lemma": "baraka",
+        "definition": "Una bendición o una fuerza sobrenatural que se cree que puede ser transmitida por algunas personas.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "52931",
+        "lemma": "quiltonil",
+        "definition": "Una planta medicinal usada para tratar varios trastornos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "50502",
+        "lemma": "plurimembre",
+        "definition": "Que consta de varios miembros.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45785",
+        "lemma": "novator",
+        "definition": "una persona innovadora.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "40500",
+        "lemma": "liñuelo",
+        "definition": "Instrumento de cuerda que se usa para medir la longitud.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46378",
+        "lemma": "ombliguero",
+        "definition": "Una prenda de vestir con forma de círculo, generalmente usada por las mujeres para cubrir el ombligo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "36528",
+        "lemma": "impublicable",
+        "definition": "algo que no debe ser publicado.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "55490",
+        "lemma": "resquebrajadura",
+        "definition": "Una resquebrajadura es una pequeña grieta en una superficie.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "64359",
+        "lemma": "variante",
+        "definition": "cualquier cosa que difiere de la norma o de lo establecido.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59364",
+        "lemma": "sorra",
+        "definition": "Una mezcla de arena y arcilla.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "32205",
+        "lemma": "fuente",
+        "definition": "Manantial de agua natural.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "18032",
+        "lemma": "consustanciación",
+        "definition": "La consustanciación es el proceso de unión de dos o más cosas para formar una sola.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "35105",
+        "lemma": "herver",
+        "definition": "hervir algo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "34734",
+        "lemma": "hardware",
+        "definition": "Los componentes físicos de una computadora, como el procesador, la memoria y el disco duro.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65594",
+        "lemma": "xinca",
+        "definition": "Pueblo indígena que habita en Guatemala y El Salvador.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65684",
+        "lemma": "yema",
+        "definition": "La parte interna de un huevo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "53663",
+        "lemma": "razia",
+        "definition": "una redada policial para arrestar a personas sospechosas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
