@@ -28710,5 +28710,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-05",
+    "words": [
+      {
+        "id": "01655",
+        "lemma": "afligimiento",
+        "definition": "Garrochista: una persona que monta a caballo con habilidad.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09972",
+        "lemma": "bombardino",
+        "definition": "Una bebida alcohólica que se prepara con brandy y licor de crema.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "14916",
+        "lemma": "checar",
+        "definition": "verificar, comprobar.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "42685",
+        "lemma": "médano",
+        "definition": "Una formación de arena en la playa.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26214",
+        "lemma": "encorchetar",
+        "definition": "Atar con una cuerda.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31806",
+        "lemma": "fotoconductividad",
+        "definition": "Propiedad de algunos materiales para conducir electricidad cuando reciben luz.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34473",
+        "lemma": "guitarreo",
+        "definition": "Una forma de tocar la guitarra con un estilo muy particular.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15114",
+        "lemma": "chimbomba",
+        "definition": "Una trampa o engaño.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "63285",
+        "lemma": "tripudiar",
+        "definition": "alegrarse y manifestarlo con manifestaciones exteriores.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38712",
+        "lemma": "jerguilla",
+        "definition": "Un lenguaje coloquial y a veces despectivo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "53336",
+        "lemma": "raki",
+        "definition": "Bebida alcohólica turca hecha con uvas y anís.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40646",
+        "lemma": "locomoción",
+        "definition": "Movimiento de un organismo de un lugar a otro.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42324",
+        "lemma": "mascar",
+        "definition": "Masticar.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45313",
+        "lemma": "negreguear",
+        "definition": "Dar una forma de arco a una cosa.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "14027",
+        "lemma": "cenceñada",
+        "definition": "Corte de cabello en la que el cabello de la parte superior de la cabeza es más corto que el de la parte inferior.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46907",
+        "lemma": "ovalar",
+        "definition": "Tener forma de huevo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49361",
+        "lemma": "pesgar",
+        "definition": "colocar pesas en un objeto para hacerlo más pesado.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52785",
+        "lemma": "quejumbre",
+        "definition": "La quejumbre es una expresión de tristeza y desesperación.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "17720",
+        "lemma": "confuerzo",
+        "definition": "Acción y efecto de reforzar y confirmar algo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59801",
+        "lemma": "sulfato",
+        "definition": "Un sulfato es un compuesto químico formado por un ácido sulfúrico y una base.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "46737",
+        "lemma": "orquestar",
+        "definition": "Orquestar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64030",
+        "lemma": "usaje",
+        "definition": "El derecho de usar algo que pertenece a otra persona.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "42020",
+        "lemma": "maravillar",
+        "definition": "Causar asombro.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "17270",
+        "lemma": "complixión",
+        "definition": "La complixión es una combinación de características físicas, temperamento y otros aspectos de una persona.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65667",
+        "lemma": "yautía",
+        "definition": "una planta tropical comestible con raíces tuberosas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "52406",
+        "lemma": "pucherazo",
+        "definition": "Una acción fraudulenta para obtener un resultado favorable.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
