@@ -28904,5 +28904,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-06",
+    "words": [
+      {
+        "id": "03716",
+        "lemma": "aludel",
+        "definition": "Un recipiente de cerámica usado para la destilación.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "12594",
+        "lemma": "carambada",
+        "definition": "Una actitud rebelde y desafiante.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16594",
+        "lemma": "codoñate",
+        "definition": "El codoñate es un dulce típico de la región de Extremadura, España.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "57480",
+        "lemma": "sartenada",
+        "definition": "Plato típico de la gastronomía española que consiste en una mezcla de carne, verduras y patatas fritas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26415",
+        "lemma": "enfadar",
+        "definition": "Ponerse enfadado.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31710",
+        "lemma": "formidable",
+        "definition": "algo que causa admiración o respeto.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33085",
+        "lemma": "gazofilacio",
+        "definition": "acto de acumular riquezas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "11116",
+        "lemma": "caché",
+        "definition": "Dinero oculto en un lugar seguro.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "23943",
+        "lemma": "diplomatura",
+        "definition": "Un título universitario de nivel medio otorgado por una institución educativa.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38948",
+        "lemma": "judicante",
+        "definition": "Que juzga o determina.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39180",
+        "lemma": "kiwi",
+        "definition": "El kiwi es una fruta pequeña, ovalada y con una cáscara marrón que contiene una pulpa verde con semillas negras.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "11481",
+        "lemma": "calceatense",
+        "definition": "Calceatense se refiere a algo o alguien que es originario o que vive en Calceat, una ciudad del estado de Oaxaca, México.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "25734",
+        "lemma": "empuyarse",
+        "definition": "Empujarse es el acto de usar la fuerza para moverse.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "37159",
+        "lemma": "infantería",
+        "definition": "La infantería es una parte de un ejército que se caracteriza por el combate cuerpo a cuerpo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45931",
+        "lemma": "ñisca",
+        "definition": "un pequeño pez de agua dulce de la familia de los ciprinodontiformes.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "38608",
+        "lemma": "jarazo",
+        "definition": "Un golpe fuerte.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47206",
+        "lemma": "palería",
+        "definition": "Oficio de fabricar palos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "29091",
+        "lemma": "esquizoide",
+        "definition": "Persona con tendencias esquizoidales",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "34410",
+        "lemma": "guillarse",
+        "definition": "encerrarse.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58915",
+        "lemma": "soca",
+        "definition": "Ritmo musical tradicional de la región del Caribe.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "46821",
+        "lemma": "ostaga",
+        "definition": "Ostaga es una técnica de equitación en la que el jinete se sienta en una silla de montar con una postura erguida.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64023",
+        "lemma": "uruga",
+        "definition": "Una planta herbácea de la familia de las umbelíferas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "18470",
+        "lemma": "conversable",
+        "definition": "Que es propenso a la conversación.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "45354",
+        "lemma": "neodarwinismo",
+        "definition": "El neodarwinismo es una teoría científica que explica la evolución de las especies a partir de la selección natural.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29937",
+        "lemma": "excusación",
+        "definition": "Una justificación para una acción u omisión.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65683",
+        "lemma": "yelmo",
+        "definition": "Un casco de metal usado por los guerreros en la antigüedad.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "37631",
+        "lemma": "insonorizar",
+        "definition": "Reducir el ruido producido por una fuente sonora.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
