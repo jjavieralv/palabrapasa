@@ -29098,5 +29098,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-07",
+    "words": [
+      {
+        "id": "01161",
+        "lemma": "acupunturista",
+        "definition": "Un acupunturista es un profesional de la salud que utiliza la acupuntura para tratar enfermedades y dolencias.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "00205",
+        "lemma": "abolicionista",
+        "definition": "Persona que aboga por la abolición de algo, es decir, por su eliminación.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17188",
+        "lemma": "comparsería",
+        "definition": "La comparsería es el acto de comparar obras literarias para estudiar su estructura y contenido.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21097",
+        "lemma": "derrocadero",
+        "definition": "Una rampa o pendiente abrupta.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "45007",
+        "lemma": "naciente",
+        "definition": "Que está surgiendo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30341",
+        "lemma": "facistol",
+        "definition": "Una herramienta usada para cavar, comúnmente usada en la agricultura.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32620",
+        "lemma": "gallocresta",
+        "definition": "La gallocresta es una ave migratoria de tamaño mediano que se encuentra en Europa y Asia.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "49816",
+        "lemma": "pinchón",
+        "definition": "Clavo de metal con una cabeza en forma de media luna.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37570",
+        "lemma": "inseguramente",
+        "definition": "de manera insegura.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "27898",
+        "lemma": "esbajeradora",
+        "definition": "alguien que actúa de manera exagerada o ridícula.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "09425",
+        "lemma": "bikini",
+        "definition": "Un tipo de traje de baño femenino que consiste en una parte superior y una inferior.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40421",
+        "lemma": "lisonjería",
+        "definition": "El acto de elogiar excesivamente a alguien para conseguir algo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42578",
+        "lemma": "mayorazguista",
+        "definition": "Persona que defiende el mantenimiento de los derechos de un mayorazgo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45418",
+        "lemma": "neumoconiosis",
+        "definition": "enfermedad pulmonar causada por la inhalación de partículas minerales.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45928",
+        "lemma": "ñique",
+        "definition": "Expresión usada para indicar sorpresa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46486",
+        "lemma": "opilación",
+        "definition": "acción de opilar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "34155",
+        "lemma": "guapurú",
+        "definition": "es una palabra de origen quechua que significa \"gran cantidad\".",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "42931",
+        "lemma": "menarquia",
+        "definition": "La menarquia es el nombre dado al primer período menstrual de una mujer.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "28704",
+        "lemma": "espartillo",
+        "definition": "Una herramienta usada para cortar hierba y maleza.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "37280",
+        "lemma": "infraseguro",
+        "definition": "Persona que no tiene suficiente seguro o que no está lo suficientemente asegurada.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62699",
+        "lemma": "transmigración",
+        "definition": "el traslado de una persona o grupo de personas de un lugar a otro.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64061",
+        "lemma": "usufruto",
+        "definition": "El derecho a usar y disfrutar de una propiedad ajena.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "55872",
+        "lemma": "revoletear",
+        "definition": "Volar en círculos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29967",
+        "lemma": "exhibir",
+        "definition": "Mostrar algo a los demás.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "47698",
+        "lemma": "paraguayidad",
+        "definition": "Sentimiento de pertenencia a la cultura paraguaya.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "33080",
+        "lemma": "gaznatazo",
+        "definition": "Golpe dado con una gaznata.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
