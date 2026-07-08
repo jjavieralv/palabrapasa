@@ -29292,5 +29292,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-08",
+    "words": [
+      {
+        "id": "06419",
+        "lemma": "arrodillamiento",
+        "definition": "Acto de arrodillarse como signo de respeto o humildad.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "18039",
+        "lemma": "contabilizar",
+        "definition": "Registrar los datos de una transacción financiera.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18921",
+        "lemma": "correpasillos",
+        "definition": "Juguete con forma de caballo para que los niños se diviertan montando.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "51920",
+        "lemma": "pródromo",
+        "definition": "Una señal o síntoma que precede a algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "59943",
+        "lemma": "suplemental",
+        "definition": "algo que se agrega para completar algo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31818",
+        "lemma": "fotogenia",
+        "definition": "La fotogenia es la capacidad de una persona para ser fotografiada de forma atractiva.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33938",
+        "lemma": "grito",
+        "definition": "sonido fuerte y prolongado.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35139",
+        "lemma": "hexacordo",
+        "definition": "Un hexacordo es una forma musical de seis líneas, cada una con seis notas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37243",
+        "lemma": "inflexión",
+        "definition": "Aureomicina: Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "13344",
+        "lemma": "castillaje",
+        "definition": "Construcción de edificios fortificados.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39180",
+        "lemma": "kiwi",
+        "definition": "El kiwi es una fruta pequeña, ovalada y con una cáscara marrón que contiene una pulpa verde con semillas negras.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40767",
+        "lemma": "loriga",
+        "definition": "Una loriga es una prenda de vestir tradicional de la región de Galicia, España.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "30204",
+        "lemma": "extralimitarse",
+        "definition": "Ir más allá de los límites.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "48875",
+        "lemma": "pepona",
+        "definition": "Persona alegre y divertida.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "13799",
+        "lemma": "cañota",
+        "definition": "Pequeña embarcación de remos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46329",
+        "lemma": "olímpicamente",
+        "definition": "con características olímpicas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49708",
+        "lemma": "pijul",
+        "definition": "El pijul es un insecto que pertenece al orden de los coleópteros.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53054",
+        "lemma": "quisnear",
+        "definition": "Hacer ruido al moverse.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55789",
+        "lemma": "revellín",
+        "definition": "Pequeño muro de tierra, piedra o adobe.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59516",
+        "lemma": "subcontrata",
+        "definition": "Subcontratar es el acto de contratar a una empresa o persona para que realice un trabajo específico para otra empresa.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "34827",
+        "lemma": "hectogramo",
+        "definition": "Unidad de medida de peso que equivale a 100 gramos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63875",
+        "lemma": "unánime",
+        "definition": "acuerdo general de todos los presentes.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64920",
+        "lemma": "viable",
+        "definition": "Que es factible, posible de llevar a cabo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "42557",
+        "lemma": "maxwell",
+        "definition": "Unidad de medida para la intensidad de un campo magnético.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30188",
+        "lemma": "extrabase",
+        "definition": "Jugador de béisbol que corre más allá de la segunda base.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "07834",
+        "lemma": "ayudantía",
+        "definition": "Una posición de apoyo a un profesor o investigador, generalmente para una tarea específica.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65986",
+        "lemma": "zanganería",
+        "definition": "La zanganería es una forma de hablar jocosa y burlona que se usa para divertirse y hacer bromas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
