@@ -29486,5 +29486,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-09",
+    "words": [
+      {
+        "id": "52698",
+        "lemma": "putrílago",
+        "definition": "Una sustancia viscosa y pegajosa que se encuentra en algunas plantas.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "45244",
+        "lemma": "nebro",
+        "definition": "nube baja y oscura",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "44329",
+        "lemma": "morcacho",
+        "definition": "Se refiere a una persona con una actitud despreocupada.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20684",
+        "lemma": "deflujo",
+        "definition": "El deflujo es el movimiento de una masa de fluido desde una zona de alta presión a una zona de baja presión.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "21451",
+        "lemma": "desatemplarse",
+        "definition": "desequilibrarse, desestabilizarse.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "17713",
+        "lemma": "confricar",
+        "definition": "Frotar suavemente con una superficie.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34066",
+        "lemma": "guaicurú",
+        "definition": "lengua hablada por los guaicurúes, una tribu indígena argentina.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35154",
+        "lemma": "hibernal",
+        "definition": "Relacionado con el invierno.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "04944",
+        "lemma": "antihéroe",
+        "definition": "Un personaje que carece de los valores tradicionalmente asociados con el héroe.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "25569",
+        "lemma": "emperejilar",
+        "definition": "colocar algo en forma de paralelogramo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39124",
+        "lemma": "karateca",
+        "definition": "Persona que practica el arte marcial del karate.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40528",
+        "lemma": "llanque",
+        "definition": "una forma de hablar enfáticamente.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "40718",
+        "lemma": "lomillo",
+        "definition": "Carne magra de cerdo cortada en filetes.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "47369",
+        "lemma": "panaché",
+        "definition": "Panaché es una mezcla de colores o formas que se combinan para formar una imagen atractiva.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "33857",
+        "lemma": "grañón",
+        "definition": "una persona que se muestra excesivamente avara o tacaña.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46495",
+        "lemma": "opitulación",
+        "definition": "Acción de opitar, es decir, unir dos piezas de madera con clavos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47292",
+        "lemma": "paloduz",
+        "definition": "Persona que se encarga de llevar la palanquilla en una partida de tiro.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "23226",
+        "lemma": "desquilatar",
+        "definition": "Desgarrar o rasgar algo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54772",
+        "lemma": "relavar",
+        "definition": "Volver a lavar.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "26279",
+        "lemma": "encuestar",
+        "definition": "Reunir información de un grupo de personas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61564",
+        "lemma": "tetrarquía",
+        "definition": "Gobierno compartido por cuatro personas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "42087",
+        "lemma": "marfusa",
+        "definition": "una antigua espada corta usada por los samuráis.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "23865",
+        "lemma": "diluviar",
+        "definition": "Lluvia intensa y prolongada.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58234",
+        "lemma": "show",
+        "definition": "Un show es un espectáculo público de entretenimiento, generalmente con música, baile y otros elementos de actuación.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29846",
+        "lemma": "examen",
+        "definition": "Una prueba o evaluación para medir el conocimiento o habilidades de una persona.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65674",
+        "lemma": "yegua",
+        "definition": "hembra caballo con edad entre los dos y cuatro años.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "29502",
+        "lemma": "estrazar",
+        "definition": "extraer una sustancia de otra.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
