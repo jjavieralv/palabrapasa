@@ -29680,5 +29680,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-10",
+    "words": [
+      {
+        "id": "01676",
+        "lemma": "afondar",
+        "definition": "sumergirse profundamente.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10645",
+        "lemma": "budín",
+        "definition": "un postre hecho con fruta y pan.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "13496",
+        "lemma": "cateo",
+        "definition": "una búsqueda policial de un lugar para encontrar evidencia.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "26288",
+        "lemma": "encumbradamente",
+        "definition": "de manera elevada.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28473",
+        "lemma": "escurraja",
+        "definition": "Persona despreciable.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "65844",
+        "lemma": "zafacoca",
+        "definition": "Bebida alcohólica a base de vino y hierbas aromáticas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "26399",
+        "lemma": "enemigar",
+        "definition": "Enemistar, enfrentar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "39792",
+        "lemma": "lechera",
+        "definition": "ante",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37870",
+        "lemma": "interiorismo",
+        "definition": "El interiorismo es el arte de diseñar el interior de un edificio para crear un ambiente agradable.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39018",
+        "lemma": "juniapa",
+        "definition": "Una planta con flores de color rosado y hojas grandes.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "02414",
+        "lemma": "alahílca",
+        "definition": "Una forma de baile folklórico español, originario del sur de España, que se caracteriza por ser alegre y acompañado por palmas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "11997",
+        "lemma": "campizal",
+        "definition": "Terreno de terreno sin cultivar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45201",
+        "lemma": "navajo",
+        "definition": "Pueblo indígena de Norteamérica.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13754",
+        "lemma": "cañar",
+        "definition": "Cauce de un río o arroyo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "10983",
+        "lemma": "cabezo",
+        "definition": "Pequeña colina o montículo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "14596",
+        "lemma": "champán",
+        "definition": "una bebida espumosa francesa.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53043",
+        "lemma": "quiromasaje",
+        "definition": "El quiromasaje es una técnica de masaje terapéutico que se aplica con los dedos, manos y antebrazos para aliviar el dolor y la tensión muscular.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54919",
+        "lemma": "remolido",
+        "definition": "Acción de remoler, de pulverizar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59058",
+        "lemma": "solear",
+        "definition": "exponer al sol.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "57669",
+        "lemma": "sedente",
+        "definition": "Que se sienta.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64747",
+        "lemma": "verdezuela",
+        "definition": "País de América del Sur, cuya capital es Caracas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64477",
+        "lemma": "veintidós",
+        "definition": "Número entero comprendido entre veintiuno y veintitrés.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30067",
+        "lemma": "experimentante",
+        "definition": "Persona que experimenta.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "29715",
+        "lemma": "etopeya",
+        "definition": "Relato poético, generalmente narrado en verso, que describe un suceso histórico.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66163",
+        "lemma": "zocola",
+        "definition": "Pieza de madera o piedra que se utiliza para unir una pared con el suelo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
