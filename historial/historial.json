@@ -30068,5 +30068,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-12",
+    "words": [
+      {
+        "id": "04673",
+        "lemma": "anito",
+        "definition": "Un anito es una figura antropomorfa usada en la mitología filipina para representar espíritus.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "21586",
+        "lemma": "descabalgadura",
+        "definition": "Desmontar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "29352",
+        "lemma": "estiércol",
+        "definition": "El estiércol es una mezcla de desechos orgánicos que se usa como fertilizante.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20737",
+        "lemma": "deidad",
+        "definition": "Ser supremo y divino adorado como una figura religiosa.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "63077",
+        "lemma": "trepa",
+        "definition": "Subir a algo con dificultad.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "50051",
+        "lemma": "pisasfalto",
+        "definition": "Persona que está de mal humor.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32602",
+        "lemma": "gallete",
+        "definition": "Galleta hecha con harina y grasa.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "66089",
+        "lemma": "zarévich",
+        "definition": "Un título nobiliario ruso que se otorga a los hijos de los zares.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37224",
+        "lemma": "infinitamente",
+        "definition": "Sin límites, sin fin.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "08468",
+        "lemma": "bandejar",
+        "definition": "Se refiere a presentar una comida en una bandeja.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "61614",
+        "lemma": "tie break",
+        "definition": "Una forma de decidir un resultado empatado, como un partido de tenis.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39991",
+        "lemma": "lesotense",
+        "definition": "Persona que nació o reside en Lesoto.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42229",
+        "lemma": "marragón",
+        "definition": "Fruto del marragón, un árbol de la familia de las anacardiáceas.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45893",
+        "lemma": "nutrimento",
+        "definition": "alimento o sustento que se proporciona para mantener la vida.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45904",
+        "lemma": "ñagaza",
+        "definition": "Una herramienta de labranza usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "39534",
+        "lemma": "lapachero",
+        "definition": "Instrumento musical de viento tradicional de la región de Extremadura.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48099",
+        "lemma": "pasividad",
+        "definition": "Estado de inactividad o inacción.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "12522",
+        "lemma": "caquetense",
+        "definition": "Natural o habitante de Caquetá, Colombia.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "19320",
+        "lemma": "creatinina",
+        "definition": "Una sustancia producida por el cuerpo que se elimina a través de la orina.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "37709",
+        "lemma": "insultante",
+        "definition": "Que ofende o insulta.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "37344",
+        "lemma": "inhabilitante",
+        "definition": "Que inhabilita o impide el ejercicio de una función.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63813",
+        "lemma": "ufología",
+        "definition": "Estudio de los ovnis y fenómenos relacionados con los extraterrestres.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "28163",
+        "lemma": "escavanar",
+        "definition": "Excavar.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58237",
+        "lemma": "showman",
+        "definition": "Persona que se dedica a la organización de espectáculos públicos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29885",
+        "lemma": "excepcionar",
+        "definition": "objetar.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "19389",
+        "lemma": "creyer",
+        "definition": "Creer, tener fe o confianza.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "41163",
+        "lemma": "madrigalizar",
+        "definition": "cantar madrigales.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
