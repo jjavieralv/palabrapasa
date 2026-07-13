@@ -30262,5 +30262,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-13",
+    "words": [
+      {
+        "id": "32876",
+        "lemma": "garla",
+        "definition": "Una herramienta de hierro usada para remover la tierra.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "15407",
+        "lemma": "chocobanano",
+        "definition": "Una mezcla de chocolate y plátano.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18803",
+        "lemma": "cornisa",
+        "definition": "Borde decorativo que se usa para adornar los techos y paredes.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20926",
+        "lemma": "denominar",
+        "definition": "llamar a algo por su nombre.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27835",
+        "lemma": "eriotecnia",
+        "definition": "el estudio de los movimientos musculares involuntarios.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "47201",
+        "lemma": "paleontografía",
+        "definition": "La paleontografía es el estudio de los fósiles, que son restos de organismos que han existido en el pasado.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34027",
+        "lemma": "guachi",
+        "definition": "persona tonta, inculta o ignorante.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35697",
+        "lemma": "honor",
+        "definition": "El honor es el respeto, la estima y la consideración que una persona merece por sus cualidades y acciones.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36204",
+        "lemma": "igualeza",
+        "definition": "Estado de equidad entre personas.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "28781",
+        "lemma": "espejería",
+        "definition": "Tienda en la que se venden espejos.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "10768",
+        "lemma": "búnker",
+        "definition": "fortificación militar subterránea.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "33915",
+        "lemma": "grímpola",
+        "definition": "Una grímpola es una pequeña bola de pelo que se forma en la barba de un hombre.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44354",
+        "lemma": "mordida",
+        "definition": "Acción de morder.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45308",
+        "lemma": "negral",
+        "definition": "De color negro.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "25737",
+        "lemma": "empuñidura",
+        "definition": "Una empuñadura es una parte de un objeto, como un arma o una herramienta, diseñada para ser sostenida con firmeza.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46603",
+        "lemma": "orebce",
+        "definition": "Orebce es una palabra de origen griego que significa \"montaña\".",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "30112",
+        "lemma": "exportar",
+        "definition": "Enviar bienes o servicios a otro país.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52947",
+        "lemma": "quimón",
+        "definition": "una pequeña cantidad de algo, generalmente dinero.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "02928",
+        "lemma": "alevantar",
+        "definition": "levantar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "03914",
+        "lemma": "amasamiento",
+        "definition": "Acción de amasar algo para formar una masa.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "46480",
+        "lemma": "operatividad",
+        "definition": "capacidad para funcionar o realizar tareas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63843",
+        "lemma": "ultraderechismo",
+        "definition": "Movimiento político extremista de carácter conservador.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "50525",
+        "lemma": "pluvímetro",
+        "definition": "instrumento para medir la cantidad de precipitación.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "20406",
+        "lemma": "darwinismo",
+        "definition": "El darwinismo es una teoría científica que explica la evolución de la vida en la Tierra a través de la selección natural.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29986",
+        "lemma": "existencia",
+        "definition": "estado de ser o existir.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "34360",
+        "lemma": "guayola",
+        "definition": "Expresión usada para referirse a algo divertido o entretenido.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66154",
+        "lemma": "ziszás",
+        "definition": "ruido de algo que se agita.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
