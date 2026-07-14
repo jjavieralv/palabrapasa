@@ -30456,5 +30456,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-14",
+    "words": [
+      {
+        "id": "41695",
+        "lemma": "mandato",
+        "definition": "Un mandato es una orden o instrucción emitida por una autoridad para realizar una acción específica.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08203",
+        "lemma": "baipasear",
+        "definition": "Pasearse.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "32450",
+        "lemma": "gachapazo",
+        "definition": "movimiento rápido y brusco.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23630",
+        "lemma": "dialectal",
+        "definition": "Relativo al dialecto, que es una variedad de un idioma.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "13885",
+        "lemma": "cedulaje",
+        "definition": "El proceso de contar o enumerar documentos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31300",
+        "lemma": "fitopatología",
+        "definition": "La fitopatología es el estudio de las enfermedades de las plantas y de los organismos que las causan.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "26535",
+        "lemma": "enganchar",
+        "definition": "Agarrar con un gancho.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "49598",
+        "lemma": "pichirrería",
+        "definition": "una mercancía de poco valor.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "65169",
+        "lemma": "violoncelista",
+        "definition": "Un violoncelista es un músico que toca el violoncelo, un instrumento de cuerda de la familia de los instrumentos de arco.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38708",
+        "lemma": "jerez",
+        "definition": "vino blanco seco originario de la ciudad de Jerez de la Frontera.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "61550",
+        "lemma": "tetrabrik",
+        "definition": "envase de cartón con cuatro paredes.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40905",
+        "lemma": "lumen",
+        "definition": "Una unidad de medida de la cantidad de luz emitida por una fuente de luz.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "11141",
+        "lemma": "cachimbeada",
+        "definition": "Una forma de bailar caribeño.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45692",
+        "lemma": "nonagonal",
+        "definition": "Que tiene nueve lados.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45906",
+        "lemma": "ñamería",
+        "definition": "La ñamería es una forma de comportamiento grosero y descortés.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46098",
+        "lemma": "occidentalista",
+        "definition": "Persona que defiende los valores y principios occidentales.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47524",
+        "lemma": "pantorra",
+        "definition": "Persona desvergonzada, descarada y frívola.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "29030",
+        "lemma": "esqueje",
+        "definition": "Un esqueje es una parte de una planta que se utiliza para propagarla.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53270",
+        "lemma": "radiotelegrafía",
+        "definition": "Comunicación a distancia por medio de señales de radio.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "21702",
+        "lemma": "descascarar",
+        "definition": "Descascarar es el proceso de quitar la cáscara de una fruta o verdura.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "48701",
+        "lemma": "pelote",
+        "definition": "Persona de carácter fuerte y decidido.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "05728",
+        "lemma": "aquistar",
+        "definition": "Abravar: Abrazar con afecto.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64090",
+        "lemma": "uvate",
+        "definition": "Una sustancia química que se usa como aditivo alimentario.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65572",
+        "lemma": "x",
+        "definition": "X es una letra del alfabeto.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65744",
+        "lemma": "yolillo",
+        "definition": "Fruta de color amarillo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "57004",
+        "lemma": "salidizo",
+        "definition": "que se sale fácilmente.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
