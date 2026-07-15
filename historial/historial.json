@@ -30650,5 +30650,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-15",
+    "words": [
+      {
+        "id": "05511",
+        "lemma": "aporismarse",
+        "definition": "mostrar una actitud de desprecio.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10038",
+        "lemma": "boqueronense",
+        "definition": "Natural o habitante de Puerto de la Cruz, en Tenerife.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18478",
+        "lemma": "conversión",
+        "definition": "El acto de cambiar una cosa a otra forma.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "48559",
+        "lemma": "pegamoide",
+        "definition": "Tipo de material plástico resistente a la intemperie.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26830",
+        "lemma": "enlenzar",
+        "definition": "unir con una cadena.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30628",
+        "lemma": "farmacopea",
+        "definition": "Recopilación de las drogas y preparaciones medicinales que se emplean en la medicina.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33611",
+        "lemma": "gorja",
+        "definition": "Una gorja es una parte del cuello que se extiende desde la parte posterior de la cabeza hasta la parte superior del torso.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "17371",
+        "lemma": "conacho",
+        "definition": "Pequeña bolsa de cuero con monedas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "01078",
+        "lemma": "actinomicosis",
+        "definition": "Una infección crónica de los tejidos blandos, causada por bacterias del género Actinomyces.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38595",
+        "lemma": "jarabe",
+        "definition": "líquido espeso y dulce",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39127",
+        "lemma": "kart",
+        "definition": "deporte de motor en el que los competidores corren en karts.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "60319",
+        "lemma": "talaya",
+        "definition": "una estructura de piedra o madera utilizada como vigía para vigilar el mar desde la costa.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41823",
+        "lemma": "maniota",
+        "definition": "Instrumento compuesto por una palanca para levantar objetos pesados.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "40403",
+        "lemma": "lironero",
+        "definition": "Un lironero es una persona que recoge y vende chatarra.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45918",
+        "lemma": "ñaque",
+        "definition": "Es una forma de bailar típica de la región de los Andes de Perú, Bolivia y Ecuador.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46441",
+        "lemma": "oniromancia",
+        "definition": "la interpretación de los sueños para predecir el futuro.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49321",
+        "lemma": "pesadamente",
+        "definition": "de manera pesada.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52754",
+        "lemma": "quebrazar",
+        "definition": "Quebrar, romper.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53397",
+        "lemma": "rampojo",
+        "definition": "Una planta de la familia de las leguminosas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "00337",
+        "lemma": "abscisa",
+        "definition": "La abscisa es una coordenada en un sistema de coordenadas cartesianas que se usa para ubicar un punto en un plano.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "39944",
+        "lemma": "lenticular",
+        "definition": "Que tiene forma de lente.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63832",
+        "lemma": "ultimadamente",
+        "definition": "al final, por último.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "01919",
+        "lemma": "agravio",
+        "definition": "Una ofensa o una injusticia cometida contra alguien.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "35605",
+        "lemma": "hollywoodiense",
+        "definition": "algo relacionado con Hollywood.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30058",
+        "lemma": "expendio",
+        "definition": "Un lugar donde se venden productos, como una tienda, una farmacia o una gasolinera.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65693",
+        "lemma": "yerbazal",
+        "definition": "Pequeño jardín de hierbas aromáticas, generalmente usado para fines culinarios.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "24087",
+        "lemma": "disfrez",
+        "definition": "Disfraz, atuendo con el que se finge ser otra persona.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
