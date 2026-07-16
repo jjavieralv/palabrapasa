@@ -30844,5 +30844,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-16",
+    "words": [
+      {
+        "id": "01540",
+        "lemma": "aeta",
+        "definition": "Pueblo indígena de Filipinas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10857",
+        "lemma": "buseta",
+        "definition": "Vehículo de transporte público, normalmente con capacidad para varios pasajeros.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "36857",
+        "lemma": "inculcación",
+        "definition": "Acción de inculcar algo a alguien.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "61101",
+        "lemma": "temperadamente",
+        "definition": "con moderación.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "27410",
+        "lemma": "entrenzar",
+        "definition": "tejer.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32191",
+        "lemma": "fucilazo",
+        "definition": "Disparo de fusil.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32546",
+        "lemma": "galerna",
+        "definition": "viento fuerte y frío de la región de Galicia.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "16482",
+        "lemma": "cochambre",
+        "definition": "Lugar desordenado y sucio.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37542",
+        "lemma": "inquina",
+        "definition": "Un sentimiento de enemistad o malestar hacia alguien o algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38444",
+        "lemma": "jaborandi",
+        "definition": "Planta medicinal de la familia de las rutáceas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39171",
+        "lemma": "kipá",
+        "definition": "Un sombrero tradicional judío.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "50329",
+        "lemma": "plastrón",
+        "definition": "Una prenda de vestir con aberturas para los brazos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "54908",
+        "lemma": "remojada",
+        "definition": "Persona que se dedica a la vida fácil, sin trabajar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45277",
+        "lemma": "nefelismo",
+        "definition": "Teoría filosófica que afirma que toda la realidad es una sola sustancia.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45910",
+        "lemma": "ñandubay",
+        "definition": "Una danza típica de la región de la Guayana Venezolana.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46371",
+        "lemma": "olvido",
+        "definition": "Acción o resultado de olvidar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52214",
+        "lemma": "protestantismo",
+        "definition": "una forma de cristianismo que se originó como una reforma del catolicismo romano.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "29657",
+        "lemma": "estuque",
+        "definition": "Material de construcción hecho de yeso o arcilla.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "30010",
+        "lemma": "exorbitancia",
+        "definition": "exceso de algo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "28559",
+        "lemma": "esguazable",
+        "definition": "Que se puede esguazar.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "45770",
+        "lemma": "notición",
+        "definition": "Una noticia interesante o sorprendente.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63801",
+        "lemma": "uced",
+        "definition": "estado",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65494",
+        "lemma": "vosear",
+        "definition": "usar el pronombre vos en lugar del pronombre tú.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65596",
+        "lemma": "xocoatole",
+        "definition": "Bebida mexicana a base de chocolate.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65730",
+        "lemma": "yodizar",
+        "definition": "Utilizar la letra \"y\" en una palabra.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66255",
+        "lemma": "zuavo",
+        "definition": "Soldado de infantería ligera de origen francés.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
