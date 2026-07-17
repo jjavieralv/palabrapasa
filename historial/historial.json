@@ -31038,5 +31038,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-17",
+    "words": [
+      {
+        "id": "20133",
+        "lemma": "cúpula",
+        "definition": "Una estructura arquitectónica con una cúpula, generalmente con una forma de cúpula.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "27926",
+        "lemma": "escabro",
+        "definition": "Rugoso, áspero.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "26017",
+        "lemma": "encañizada",
+        "definition": "La encañizada es una estructura de madera formada por una serie de vigas unidas entre sí.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22423",
+        "lemma": "desgarrancharse",
+        "definition": "Desprenderse de forma violenta.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26112",
+        "lemma": "enchufista",
+        "definition": "Persona que obtiene un puesto de trabajo gracias a conexiones personales.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "20788",
+        "lemma": "delfina",
+        "definition": "Un delfín es un mamífero marino de la familia Delphinidae.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33539",
+        "lemma": "gomaespuma",
+        "definition": "Un material suave y flexible hecho de caucho y espuma.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35915",
+        "lemma": "huecograbado",
+        "definition": "Una forma de grabado en relieve.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36732",
+        "lemma": "incompartible",
+        "definition": "Que no puede ser compartido.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "64497",
+        "lemma": "vejiga",
+        "definition": "Órgano hueco en el cuerpo humano que almacena orina.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39192",
+        "lemma": "kremlin",
+        "definition": "fortaleza histórica de Moscú, Rusia, que se utilizó como residencia de los zares y luego como sede del gobierno soviético.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "16174",
+        "lemma": "clamoreo",
+        "definition": "Ruido ensordecedor.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "48430",
+        "lemma": "pechamen",
+        "definition": "Una forma de trabajo manual que se utiliza para extraer minerales de la tierra.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45351",
+        "lemma": "neocatolicismo",
+        "definition": "Movimiento religioso que surge como una respuesta a los cambios en la Iglesia Católica.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "49486",
+        "lemma": "péñola",
+        "definition": "una pequeña cantidad de algo, como una moneda o una partícula de polvo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "45961",
+        "lemma": "obedecimiento",
+        "definition": "Acción de obedecer a alguien.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "33740",
+        "lemma": "grampa",
+        "definition": "Pieza de metal con una abertura en forma de gancho usada para sujetar cosas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52766",
+        "lemma": "quedar",
+        "definition": "quedar en un lugar.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "51963",
+        "lemma": "proféticamente",
+        "definition": "con visión de futuro.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57284",
+        "lemma": "sangrerío",
+        "definition": "un sangrerío es una instalación construida para la extracción de sangre de animales.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62061",
+        "lemma": "tolomuco",
+        "definition": "El tolomuco es un instrumento musical tradicional usado en algunas culturas latinoamericanas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63998",
+        "lemma": "urgencia",
+        "definition": "La sensación de que algo debe hacerse inmediatamente.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "22464",
+        "lemma": "desgravación",
+        "definition": "Una reducción en la cantidad de impuestos que se deben pagar.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "34734",
+        "lemma": "hardware",
+        "definition": "Los componentes físicos de una computadora, como el procesador, la memoria y el disco duro.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29907",
+        "lemma": "exclusión",
+        "definition": "acto de excluir a alguien de una actividad o grupo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "34790",
+        "lemma": "hayuco",
+        "definition": "Planta trepadora, de follaje verde intenso, con flores blancas y frutos amarillos.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "56080",
+        "lemma": "rizal",
+        "definition": "relativo a José Rizal, el héroe nacional de Filipinas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
