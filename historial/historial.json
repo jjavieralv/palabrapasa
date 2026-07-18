@@ -31232,5 +31232,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-18",
+    "words": [
+      {
+        "id": "63566",
+        "lemma": "tuétano",
+        "definition": "tejido blando que se encuentra en el interior de los huesos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "26758",
+        "lemma": "enjambrazón",
+        "definition": "Enjambre de personas o cosas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "33259",
+        "lemma": "gestación",
+        "definition": "El periodo de desarrollo de un feto dentro del útero de una mujer.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22563",
+        "lemma": "desimanación",
+        "definition": "la acción de desenmascarar algo o a alguien.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29402",
+        "lemma": "estivación",
+        "definition": "Estado de inactividad durante el verano.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31619",
+        "lemma": "fonio",
+        "definition": "Cereal africano de grano pequeño.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "35275",
+        "lemma": "higroscopio",
+        "definition": "Instrumento que mide la humedad del aire.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35844",
+        "lemma": "hospitalidad",
+        "definition": "La hospitalidad es la acción de recibir con amabilidad a los visitantes y huéspedes.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37655",
+        "lemma": "instigación",
+        "definition": "el acto de incitar a alguien a hacer algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38410",
+        "lemma": "jabalcón",
+        "definition": "Pequeño promontorio",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "23982",
+        "lemma": "disc-jockey",
+        "definition": "Un disc-jockey es una persona que selecciona y mezcla música para entretenimiento de una audiencia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "17113",
+        "lemma": "comillas",
+        "definition": "Signo de puntuación que se utiliza para señalar frases textuales o para enfatizar una palabra.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44001",
+        "lemma": "moleta",
+        "definition": "una herramienta de hierro con un mango, usada para golpear y aplanar la superficie de la madera.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "35505",
+        "lemma": "hispanismo",
+        "definition": "El hispanismo es un término usado para describir la cultura, la lengua y la historia de los países hispanohablantes.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45935",
+        "lemma": "ñocha",
+        "definition": "una mujer joven, atractiva y con poca experiencia.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "62096",
+        "lemma": "tomiza",
+        "definition": "Muy pequeña.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "18595",
+        "lemma": "copón",
+        "definition": "Vasija de madera con asas, usada para beber vino.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52972",
+        "lemma": "quindenial",
+        "definition": "que sucede cada quince días.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56565",
+        "lemma": "ruidal",
+        "definition": "que produce ruido.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58918",
+        "lemma": "socaliña",
+        "definition": "Una ave de color verde brillante con una cresta blanca en la cabeza.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "15860",
+        "lemma": "cilantro",
+        "definition": "Hierba aromática de la familia de las Apiáceas, con hojas finas y flores blancas o rosadas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "59502",
+        "lemma": "subasta",
+        "definition": "Venta de bienes o servicios en la que los interesados ofrecen precios cada vez más altos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64520",
+        "lemma": "velete",
+        "definition": "Pieza de tela o plástico que se usa para recoger polvo o para limpiar superficies.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30014",
+        "lemma": "exorcismo",
+        "definition": "Ritual destinado a alejar una presencia maligna.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65658",
+        "lemma": "yarey",
+        "definition": "Una especie de palma nativa de América Central.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66163",
+        "lemma": "zocola",
+        "definition": "Pieza de madera o piedra que se utiliza para unir una pared con el suelo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
