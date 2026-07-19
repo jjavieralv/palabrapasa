@@ -31426,5 +31426,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-19",
+    "words": [
+      {
+        "id": "07431",
+        "lemma": "auniga",
+        "definition": "Una auniga es una pequeña y suave cesta hecha de ramas de sauce.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10772",
+        "lemma": "buqué",
+        "definition": "Un buqué es un ramo de flores que se ofrece como regalo o se utiliza como adorno.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "15692",
+        "lemma": "chuzo",
+        "definition": "una herramienta de hierro puntiaguda usada para excavar.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21198",
+        "lemma": "desafectación",
+        "definition": "Acto de perder el afecto hacia algo o alguien.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "09232",
+        "lemma": "berrido",
+        "definition": "Un grito fuerte y prolongado.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32230",
+        "lemma": "fugir",
+        "definition": "Escapar.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "37948",
+        "lemma": "interrogatorio",
+        "definition": "Preguntas realizadas a alguien para obtener información",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35713",
+        "lemma": "honrosamente",
+        "definition": "honorablemente.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "35135",
+        "lemma": "hetiquez",
+        "definition": "Etiqueta.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38796",
+        "lemma": "jinicuite",
+        "definition": "Una comida típica de la región de Jalisco, México, hecha con carne de res y chile.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "34726",
+        "lemma": "harakiri",
+        "definition": "Suicidio ritual de origen japonés.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "38526",
+        "lemma": "jalear",
+        "definition": "Aplaudir o vitorear a alguien o algo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44658",
+        "lemma": "muenda",
+        "definition": "Acción de mover algo con una cuerda.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "24821",
+        "lemma": "ecúmeno",
+        "definition": "Universal.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45943",
+        "lemma": "ñoñez",
+        "definition": "Una actitud infantil y tonta.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46254",
+        "lemma": "oídio",
+        "definition": "Enfermedad fúngica de las plantas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "55442",
+        "lemma": "respaldo",
+        "definition": "Apoyo, soporte",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "08788",
+        "lemma": "barroquización",
+        "definition": "un proceso de decoración de una superficie con figuras y detalles elaborados.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53888",
+        "lemma": "recalcadamente",
+        "definition": "con énfasis.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "65342",
+        "lemma": "víveres",
+        "definition": "Alimentos y suministros básicos.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61811",
+        "lemma": "tiradero",
+        "definition": "Lugar donde se desechan los residuos.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64020",
+        "lemma": "urticaria",
+        "definition": "Reacción alérgica de la piel caracterizada por la aparición de ronchas y picazón.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65089",
+        "lemma": "villanada",
+        "definition": "Una acción o una palabra maliciosa o cruel.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "63785",
+        "lemma": "twist",
+        "definition": "El twist es un baile de los años 50 que se caracteriza por un movimiento de cadera y hombros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65605",
+        "lemma": "yacal",
+        "definition": "Una construcción hecha con materiales naturales, como ramas, troncos y hojas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66182",
+        "lemma": "zompopo",
+        "definition": "El zompopo es una mariposa tropical con alas de color brillante que se encuentra en América Central y del Sur.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
