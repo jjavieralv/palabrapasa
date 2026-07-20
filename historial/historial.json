@@ -31620,5 +31620,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-20",
+    "words": [
+      {
+        "id": "01232",
+        "lemma": "adeliñar",
+        "definition": "Adornar con delicadeza.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "51923",
+        "lemma": "producible",
+        "definition": "Que se puede producir.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "37446",
+        "lemma": "inmoderación",
+        "definition": "Falta de moderación.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "55313",
+        "lemma": "resaludar",
+        "definition": "Saludar nuevamente.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "37851",
+        "lemma": "interferir",
+        "definition": "interrumpir o perturbar una actividad.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32469",
+        "lemma": "gafete",
+        "definition": "Tarjeta de identificación con los datos de una persona.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34422",
+        "lemma": "guinda",
+        "definition": "Una fruta pequeña y redonda, de color rojo y con un sabor dulce.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35897",
+        "lemma": "huango",
+        "definition": "Una persona que vive en el campo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "08302",
+        "lemma": "balcanizar",
+        "definition": "Dividir una región en varias entidades políticas.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "60712",
+        "lemma": "tarjetahabiente",
+        "definition": "Un tarjetahabiente es una persona que posee una tarjeta de crédito o débito para realizar compras.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39167",
+        "lemma": "kinesiología",
+        "definition": "la ciencia que estudia el movimiento del cuerpo humano.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "02948",
+        "lemma": "alfabetización",
+        "definition": "Proceso de adquirir habilidades de lectura y escritura.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44200",
+        "lemma": "monospastos",
+        "definition": "Una clase de músculo liso involuntario que es responsable de muchos movimientos involuntarios en el cuerpo humano.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45577",
+        "lemma": "nitración",
+        "definition": "proceso químico de nitrar.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "20305",
+        "lemma": "cuña",
+        "definition": "una pieza de metal afilada usada para separar dos cosas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "43775",
+        "lemma": "mitadenco",
+        "definition": "adjetivo que se refiere a algo o alguien que es originario o perteneciente a la ciudad de Medina del Campo, España.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "23123",
+        "lemma": "desplumadero",
+        "definition": "lugar donde se despluman aves.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "60111",
+        "lemma": "tabaquista",
+        "definition": "Una persona que vende o compra tabaco.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "32874",
+        "lemma": "garito",
+        "definition": "Lugar de reunión para personas de ambientes desfavorecidos.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "23675",
+        "lemma": "diáspero",
+        "definition": "una variedad de cuarzo con vetas de color.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "28745",
+        "lemma": "especificadamente",
+        "definition": "específicamente.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63981",
+        "lemma": "urce",
+        "definition": "Un recipiente pequeño y redondo hecho de barro cocido.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64534",
+        "lemma": "vellorí",
+        "definition": "Un vellorí es una persona que trabaja con lana para tejer y hacer prendas de vestir.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "57262",
+        "lemma": "sandwichería",
+        "definition": "Un lugar donde se preparan y venden sándwiches.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65592",
+        "lemma": "xilografía",
+        "definition": "Una técnica de grabado en madera que se usa para producir impresiones artísticas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "48367",
+        "lemma": "payé",
+        "definition": "pago de alguna cantidad de dinero.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "07954",
+        "lemma": "aztequismo",
+        "definition": "Característica de la cultura azteca.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
