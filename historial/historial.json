@@ -31814,5 +31814,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-21",
+    "words": [
+      {
+        "id": "47746",
+        "lemma": "paraninfo",
+        "definition": "Salón de honor de una universidad.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "59557",
+        "lemma": "subibaja",
+        "definition": "Movimiento de subir y bajar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "00938",
+        "lemma": "aconduchar",
+        "definition": "Reunir a un grupo de personas para fines específicos.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "54063",
+        "lemma": "recodir",
+        "definition": "recordar algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29621",
+        "lemma": "estrupar",
+        "definition": "violar, ultrajar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32838",
+        "lemma": "garfio",
+        "definition": "una herramienta con una o más garras en su extremo para sujetar objetos.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32806",
+        "lemma": "garbanzuelo",
+        "definition": "Una legumbre pequeña, redonda y con cáscara.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "24740",
+        "lemma": "echadero",
+        "definition": "Lugar donde se echan los animales a pastar.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37483",
+        "lemma": "inmunoterapia",
+        "definition": "Tratamiento médico que utiliza las propiedades del sistema inmunitario para combatir enfermedades.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38508",
+        "lemma": "jaimito",
+        "definition": "una planta herbácea anual de la familia de las Papaveráceas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "08926",
+        "lemma": "batik",
+        "definition": "Técnica de teñido de telas mediante la que se consiguen diseños geométricos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "02514",
+        "lemma": "albarazo",
+        "definition": "Golpe que se da con un palo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "21437",
+        "lemma": "desastradamente",
+        "definition": "de manera desastrosa.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "29990",
+        "lemma": "existente",
+        "definition": "Que existe.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "35091",
+        "lemma": "herreñal",
+        "definition": "Lugar donde se crían los caballos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46258",
+        "lemma": "oír",
+        "definition": "percibir sonidos a través de los oídos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50076",
+        "lemma": "pispajo",
+        "definition": "Una actividad divertida o algo que es divertido.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52769",
+        "lemma": "quehacer",
+        "definition": "Un trabajo o tarea que se realiza.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "08653",
+        "lemma": "barda",
+        "definition": "Pared de contención construida para proteger un área.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58419",
+        "lemma": "simbolizable",
+        "definition": "Representable.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61466",
+        "lemma": "tertil",
+        "definition": "aparato de medición",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "01080",
+        "lemma": "actitudinal",
+        "definition": "Relacionado con la actitud o el comportamiento.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64568",
+        "lemma": "venal",
+        "definition": "Que se puede comprar o vender.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60086",
+        "lemma": "swahili",
+        "definition": "Lengua africana hablada en Kenia y Tanzania.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65655",
+        "lemma": "yarda",
+        "definition": "Una unidad de longitud que equivale a 0,9144 metros.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "26431",
+        "lemma": "enfatización",
+        "definition": "la acción de destacar o destacar algo.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
