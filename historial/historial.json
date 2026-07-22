@@ -32008,5 +32008,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-22",
+    "words": [
+      {
+        "id": "05843",
+        "lemma": "arcedianato",
+        "definition": "El arcedianato es una dignidad religiosa en la Iglesia Católica.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "01004",
+        "lemma": "acostumbrar",
+        "definition": "Hacer algo habitualmente.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "63264",
+        "lemma": "tripicallos",
+        "definition": "pequeños pedazos de pan.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "06247",
+        "lemma": "arrebatapuñadas",
+        "definition": "Acción de arrebatar con violencia un objeto.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "08096",
+        "lemma": "bachillerato",
+        "definition": "El último nivel de educación secundaria en muchos países.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31984",
+        "lemma": "fray",
+        "definition": "Miembro de una orden religiosa.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "05051",
+        "lemma": "antología",
+        "definition": "recopilación de textos literarios o de otro tipo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "54654",
+        "lemma": "rehílo",
+        "definition": "Una rama de un árbol que se ha cortado para usar como combustible.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37770",
+        "lemma": "intemporal",
+        "definition": "Que no tiene un tiempo definido.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "28308",
+        "lemma": "esconjuro",
+        "definition": "Una fórmula o hechizo para alejar o conjurar algo maligno.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39168",
+        "lemma": "kinesioterapia",
+        "definition": "Una forma de terapia física que implica el uso de movimientos para aliviar el dolor y mejorar la función.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "63158",
+        "lemma": "triclinio",
+        "definition": "Un triclinio es una mesa baja usada en la antigua Grecia para comer.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44382",
+        "lemma": "morfinismo",
+        "definition": "Abuso de morfina, una droga opiácea.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45075",
+        "lemma": "nancear",
+        "definition": "Hacer algo con torpeza.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "28728",
+        "lemma": "españolismo",
+        "definition": "Una palabra o frase utilizada en español que no se encuentra en otros idiomas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "29644",
+        "lemma": "estufido",
+        "definition": "Cocción a fuego lento en un recipiente cerrado.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "05543",
+        "lemma": "apostar",
+        "definition": "Jugar con dinero en un juego de azar.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52766",
+        "lemma": "quedar",
+        "definition": "quedar en un lugar.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "02633",
+        "lemma": "alborozo",
+        "definition": "El alborozo es una alegre manifestación de júbilo, alegría y entusiasmo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58100",
+        "lemma": "servilletero",
+        "definition": "Recipiente para guardar servilletas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61826",
+        "lemma": "tiranía",
+        "definition": "Una forma de gobierno en la que una persona o grupo de personas ejerce un poder absoluto y opresivo sobre otros.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "39082",
+        "lemma": "justeque",
+        "definition": "De manera exacta.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64820",
+        "lemma": "verraquear",
+        "definition": "aflojar.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29885",
+        "lemma": "excepcionar",
+        "definition": "objetar.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65718",
+        "lemma": "yidis",
+        "definition": "dialecto judío",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66232",
+        "lemma": "zorcico",
+        "definition": "Persona torpe y desmañada.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
