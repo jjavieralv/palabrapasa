@@ -32202,5 +32202,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-23",
+    "words": [
+      {
+        "id": "04091",
+        "lemma": "amnistía",
+        "definition": "Indulto total o parcial de delitos cometidos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "24239",
+        "lemma": "ditirambo",
+        "definition": "un poema épico con ritmo y estructura específicos.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "41264",
+        "lemma": "magnetostricción",
+        "definition": "es el cambio en la longitud de un material debido a un campo magnético.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "49252",
+        "lemma": "personado",
+        "definition": "Persona que se presenta ante un tribunal para ser parte en un pleito.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "42750",
+        "lemma": "mediopié",
+        "definition": "Una planta herbácea de la familia de las umbelíferas.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32238",
+        "lemma": "fular",
+        "definition": "Prenda de vestir que se lleva al cuello.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "26556",
+        "lemma": "engarrafar",
+        "definition": "Atar o encerrar con garfios.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "38500",
+        "lemma": "jaharrar",
+        "definition": "gritar, chillar.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38300",
+        "lemma": "irrigación",
+        "definition": "el proceso de proporcionar agua a los cultivos para mantener una producción adecuada.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39037",
+        "lemma": "junza",
+        "definition": "una herramienta usada para cavar.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "63816",
+        "lemma": "ukelele",
+        "definition": "Un instrumento de cuerda originario de Hawái.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39561",
+        "lemma": "larda",
+        "definition": "una tira de grasa de cerdo o de otro animal.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44255",
+        "lemma": "monteador",
+        "definition": "Persona encargada de montar y desmontar estructuras o equipos.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "58847",
+        "lemma": "sobreponer",
+        "definition": "Colocar algo sobre otra cosa.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45927",
+        "lemma": "ñipe",
+        "definition": "una acción o gesto de burla.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46778",
+        "lemma": "osadamente",
+        "definition": "con audacia o atrevimiento.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49938",
+        "lemma": "pipirrana",
+        "definition": "Una ensalada española a base de tomate, cebolla, pimiento, atún y aceitunas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "19142",
+        "lemma": "costarriqueñidad",
+        "definition": "El sentimiento de orgullo y patriotismo por ser costarricense.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54249",
+        "lemma": "redescuento",
+        "definition": "Una reducción adicional en el precio de un producto o servicio.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58456",
+        "lemma": "simular",
+        "definition": "fingir, representar algo que no es real.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "37536",
+        "lemma": "inquietamente",
+        "definition": "con inquietud.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63832",
+        "lemma": "ultimadamente",
+        "definition": "al final, por último.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64921",
+        "lemma": "viada",
+        "definition": "Acción de pasar de un lugar a otro.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65570",
+        "lemma": "wólfram",
+        "definition": "Tungsteno",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65581",
+        "lemma": "xerocopiar",
+        "definition": "Copiar algo usando una máquina fotocopiadora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65775",
+        "lemma": "yuntar",
+        "definition": "Unir.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "13695",
+        "lemma": "cazarra",
+        "definition": "Cacería de aves.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
