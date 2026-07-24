@@ -32396,5 +32396,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-24",
+    "words": [
+      {
+        "id": "02224",
+        "lemma": "ahuevazón",
+        "definition": "Una persona que se comporta de forma descarada e imprudente.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08854",
+        "lemma": "bastardía",
+        "definition": "Una relación extramatrimonial entre un hombre y una mujer.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "26188",
+        "lemma": "encomienda",
+        "definition": "Un sistema de trabajo forzado, utilizado por los españoles durante la colonización de América, en el que los nativos eran asignados a trabajar para una persona española.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20893",
+        "lemma": "demoscopia",
+        "definition": "Estudio de los patrones de opinión de una población.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27575",
+        "lemma": "envidar",
+        "definition": "desear algo que posee otra persona.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "26476",
+        "lemma": "enforro",
+        "definition": "El enforro es un material con el que se recubren superficies para protegerlas o para darles un acabado estético.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34410",
+        "lemma": "guillarse",
+        "definition": "encerrarse.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34626",
+        "lemma": "hache",
+        "definition": "Letra del alfabeto",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "09180",
+        "lemma": "bercial",
+        "definition": "Persona que vive en la campiña.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38956",
+        "lemma": "judión",
+        "definition": "judías",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39141",
+        "lemma": "kétchup",
+        "definition": "Un condimento líquido hecho con tomates y condimentos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "02530",
+        "lemma": "albardinar",
+        "definition": "El albardinar es una técnica de tejido usada para crear telas y otros materiales.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "63606",
+        "lemma": "tumbón",
+        "definition": "Una tumbona es una silla de playa con respaldo alto.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "44245",
+        "lemma": "montaraza",
+        "definition": "La montaraza es una actividad lúdica que consiste en montar a caballo a una persona a la vez.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "62435",
+        "lemma": "toñina",
+        "definition": "nombre que se le da a una persona de carácter amable y bondadoso.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46676",
+        "lemma": "originalmente",
+        "definition": "de manera original.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50877",
+        "lemma": "populachería",
+        "definition": "El comportamiento o acciones que buscan ganar el favor de la masa.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "08316",
+        "lemma": "baldaquín",
+        "definition": "Un baldaquín es una estructura portátil, generalmente con forma de paraguas, usada como techo o como marco para otra estructura.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "61763",
+        "lemma": "tinturar",
+        "definition": "teñir o colorear.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "62688",
+        "lemma": "transistor",
+        "definition": "un dispositivo electrónico semiconductor que amplifica o conmuta señales eléctricas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "35037",
+        "lemma": "hermanablemente",
+        "definition": "con amistad.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63969",
+        "lemma": "urato",
+        "definition": "sales de ácido úrico.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "37624",
+        "lemma": "insolvencia",
+        "definition": "La insolvencia es la incapacidad de una persona o entidad para cumplir sus obligaciones financieras.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65595",
+        "lemma": "xóchil",
+        "definition": "Instrumento musical de viento de origen mexicano de forma ovalada.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65664",
+        "lemma": "yatismo",
+        "definition": "El yatismo es una filosofía de vida que promueve la simplicidad, el minimalismo y la conexión con la naturaleza.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66127",
+        "lemma": "zatico",
+        "definition": "Cinturón de cuero.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
