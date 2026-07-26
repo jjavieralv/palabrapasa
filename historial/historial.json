@@ -32784,5 +32784,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-26",
+    "words": [
+      {
+        "id": "13707",
+        "lemma": "cazoleta",
+        "definition": "Recipiente pequeño y profundo, generalmente de metal, usado para calentar líquidos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "59648",
+        "lemma": "subtender",
+        "definition": "Subordinar algo a algo más grande.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "45213",
+        "lemma": "navegación",
+        "definition": "El acto de navegar.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21523",
+        "lemma": "desbarato",
+        "definition": "Desorden, desorganización, caos.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "17527",
+        "lemma": "condensar",
+        "definition": "Reducir algo a su mínima expresión.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "26506",
+        "lemma": "enfundadura",
+        "definition": "Acción de enfundar o vestir una prenda de vestir.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "27828",
+        "lemma": "erguir",
+        "definition": "levantar",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35568",
+        "lemma": "hoja",
+        "definition": "Una parte de una planta, generalmente con forma de lámina, que crece a partir de un tallo y se desarrolla en la parte superior de la planta.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "27758",
+        "lemma": "equimosis",
+        "definition": "Mancha oscura en la piel causada por una hemorragia interna.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38420",
+        "lemma": "jabeba",
+        "definition": "Fiesta tradicional boliviana en honor a la Pachamama.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39196",
+        "lemma": "kufiya",
+        "definition": "Tela tradicional árabe.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39578",
+        "lemma": "largura",
+        "definition": "Cualidad de ser extenso.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "45726",
+        "lemma": "normativización",
+        "definition": "el proceso de convertir algo en una norma.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45825",
+        "lemma": "nuca",
+        "definition": "Parte posterior de la cabeza.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45902",
+        "lemma": "ñacundá",
+        "definition": "Instrumento musical de viento, típico de algunas regiones de Colombia.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "55498",
+        "lemma": "resquemor",
+        "definition": "Desconfianza o recelo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "34708",
+        "lemma": "hamponil",
+        "definition": "propio de los hampones",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52966",
+        "lemma": "quinchoncho",
+        "definition": "una planta herbácea de la familia de las leguminosas.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54833",
+        "lemma": "remadura",
+        "definition": "Residuo de algo que se ha machacado.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "55147",
+        "lemma": "repisar",
+        "definition": "Repetir.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63227",
+        "lemma": "trincaesquinas",
+        "definition": "Un trincaesquinas es una herramienta usada para cortar madera.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64087",
+        "lemma": "uvaduz",
+        "definition": "Una ciudad de Liechtenstein",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "44594",
+        "lemma": "movilización",
+        "definition": "La acción de organizar y movilizar personas, recursos o fuerzas para lograr un objetivo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65590",
+        "lemma": "xilofonista",
+        "definition": "Persona que toca el xilófono.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65652",
+        "lemma": "yáquil",
+        "definition": "El yáquil es un árbol tropical de la familia de las bignoniáceas, con hojas grandes y frutos comestibles.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "24551",
+        "lemma": "dramatizar",
+        "definition": "Representar una obra teatral.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
