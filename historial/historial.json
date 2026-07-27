@@ -32978,5 +32978,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-27",
+    "words": [
+      {
+        "id": "05978",
+        "lemma": "argayo",
+        "definition": "Una tela de lana tejida con una trama de cinta.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09326",
+        "lemma": "bibliotecología",
+        "definition": "disciplina que estudia la organización de la información y los servicios de bibliotecas.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "28087",
+        "lemma": "escarbadero",
+        "definition": "una herramienta usada para limpiar la suciedad de los pozos.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21819",
+        "lemma": "descomposición",
+        "definition": "El proceso de descomponer un material en sus componentes originales.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "06314",
+        "lemma": "arrempujón",
+        "definition": "Acción de empujar con fuerza.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32317",
+        "lemma": "fundición",
+        "definition": "proceso de fabricación de piezas metálicas.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "45304",
+        "lemma": "negocio",
+        "definition": "Actividad o empresa lucrativa.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35740",
+        "lemma": "horcate",
+        "definition": "Una hierba silvestre de la familia de las compuestas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "39096",
+        "lemma": "justillo",
+        "definition": "Una prenda de vestir ajustada que se usa como parte de un atuendo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "17417",
+        "lemma": "concertaje",
+        "definition": "El acto de concertar algo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "08241",
+        "lemma": "bakalao",
+        "definition": "juego de palabras que se practica con rapidez y agudeza.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40453",
+        "lemma": "litigar",
+        "definition": "Entablar una demanda legal.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "37318",
+        "lemma": "ingenuamente",
+        "definition": "de manera inocente.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "14105",
+        "lemma": "centillero",
+        "definition": "Una pequeña ave de plumaje gris, que se caracteriza por su canto musical y su habilidad para imitar otros sonidos.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45922",
+        "lemma": "ñañiguismo",
+        "definition": "Estilo de vida caracterizado por el uso excesivo de la lengua vernácula.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46517",
+        "lemma": "oprimir",
+        "definition": "Ejercer una fuerte presión sobre alguien o algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50393",
+        "lemma": "plebano",
+        "definition": "Persona que pertenece a una clase social inferior.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "19559",
+        "lemma": "croquis",
+        "definition": "Dibujo rápido y sencillo que se realiza para representar algo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "27212",
+        "lemma": "entendederas",
+        "definition": "Las entendederas son unas tijeras usadas para cortar cabello.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59631",
+        "lemma": "subsidencia",
+        "definition": "Proceso por el cual una estructura o terreno se desplaza hacia abajo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "14482",
+        "lemma": "chafaldita",
+        "definition": "una prenda de vestir femenina.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63829",
+        "lemma": "ulteriormente",
+        "definition": "más tarde.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "45806",
+        "lemma": "noviciote",
+        "definition": "Persona principiante o inexperta en algo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65570",
+        "lemma": "wólfram",
+        "definition": "Tungsteno",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "10177",
+        "lemma": "botamay",
+        "definition": "Un botamay es una prenda de vestir tradicional de los pueblos indígenas de Colombia.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "07037",
+        "lemma": "ataquiza",
+        "definition": "una enfermedad infecciosa causada por un virus.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
