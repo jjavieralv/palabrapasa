@@ -33172,5 +33172,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-28",
+    "words": [
+      {
+        "id": "04352",
+        "lemma": "anatematismo",
+        "definition": "Anatematismo se refiere a la práctica de excomulgar a alguien.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "45767",
+        "lemma": "noticiable",
+        "definition": "Que puede ser notificado o anunciado.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "46748",
+        "lemma": "ortodoncia",
+        "definition": "una especialidad dental que se ocupa de la corrección de los problemas de mordida y alineación de los dientes.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "50504",
+        "lemma": "pluripartidismo",
+        "definition": "sistema político en el que hay varios partidos políticos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "64734",
+        "lemma": "verdecer",
+        "definition": "volverse verde.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31280",
+        "lemma": "fisioterapista",
+        "definition": "Profesional que trata los problemas de salud relacionados con el movimiento y la función del cuerpo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32434",
+        "lemma": "gabela",
+        "definition": "Un impuesto cobrado por el gobierno.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35630",
+        "lemma": "homecillo",
+        "definition": "casa pequeña",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "24513",
+        "lemma": "dossier",
+        "definition": "Colección de documentos relacionados con un tema en particular.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39061",
+        "lemma": "juridificación",
+        "definition": "el proceso de convertir algo en una cuestión legal.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39161",
+        "lemma": "kilotón",
+        "definition": "Unidad de medida equivalente a 1000 toneladas.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "59152",
+        "lemma": "soluto",
+        "definition": "Sustancia disuelta en una disolución.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44786",
+        "lemma": "multíplice",
+        "definition": "Que contiene varias partes o elementos.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45205",
+        "lemma": "navanco",
+        "definition": "Terreno pantanoso.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "06097",
+        "lemma": "armiñar",
+        "definition": "Unir con una costura.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "40639",
+        "lemma": "locamente",
+        "definition": "de una forma alocada o desenfrenada.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "59308",
+        "lemma": "sopón",
+        "definition": "Una sopa hecha con carne, verduras y especias.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "65435",
+        "lemma": "volquearse",
+        "definition": "volcarse, cambiar de posición.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55448",
+        "lemma": "résped",
+        "definition": "Una pequeña cantidad de algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "44942",
+        "lemma": "mustaco",
+        "definition": "Una barba que cubre solo la parte inferior de la cara.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60179",
+        "lemma": "tabulación",
+        "definition": "el proceso de organizar datos en forma de tablas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "28379",
+        "lemma": "escriptura",
+        "definition": "Acto de escribir",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64308",
+        "lemma": "vapulamiento",
+        "definition": "Una reprimenda o castigo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "57261",
+        "lemma": "sándwich",
+        "definition": "Un sándwich es una comida compuesta por dos rebanadas de pan y un relleno entre ellas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "55898",
+        "lemma": "reyezuelo",
+        "definition": "Un líder político local con autoridad limitada.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65838",
+        "lemma": "zacear",
+        "definition": "Usar zapatos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
