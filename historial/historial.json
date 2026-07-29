@@ -33366,5 +33366,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-29",
+    "words": [
+      {
+        "id": "62715",
+        "lemma": "transnacional",
+        "definition": "Que es común a varios países o que trasciende las fronteras de uno o más países.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "53868",
+        "lemma": "rebuscar",
+        "definition": "Buscar con esfuerzo algo que se ha perdido.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "36292",
+        "lemma": "imbécil",
+        "definition": "Persona con limitaciones intelectuales.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24604",
+        "lemma": "dubitante",
+        "definition": "Alguien que duda.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29745",
+        "lemma": "euro",
+        "definition": "Moneda oficial de la Unión Europea.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "57812",
+        "lemma": "semifinal",
+        "definition": "una competencia que se celebra antes de una final para determinar quién competirá en la final.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "35142",
+        "lemma": "hexagonal",
+        "definition": "Que tiene seis lados.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35444",
+        "lemma": "hipócritamente",
+        "definition": "de una manera falsa o insincera.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36572",
+        "lemma": "inadecuación",
+        "definition": "Falta de adecuación o ajuste a algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "07165",
+        "lemma": "atijo",
+        "definition": "El atijo es una bebida alcohólica tradicional de los países de América del Sur hecha a base de maíz y aguardiente.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39184",
+        "lemma": "kohl",
+        "definition": "El kohl es un antiguo cosmético hecho de una mezcla de minerales, utilizado para darle a los ojos una apariencia más oscura.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "30997",
+        "lemma": "fibrocartílago",
+        "definition": "El fibrocartílago es un tejido conectivo que conecta los huesos en las articulaciones, ayudando a amortiguar los impactos entre ellos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "40781",
+        "lemma": "loteamiento",
+        "definition": "Distribución de un terreno en lotes.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "34697",
+        "lemma": "hambrazón",
+        "definition": "Persona que se comporta de manera arrogante y prepotente.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45904",
+        "lemma": "ñagaza",
+        "definition": "Una herramienta de labranza usada para cavar la tierra.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46643",
+        "lemma": "orgánulo",
+        "definition": "Los orgánulos son estructuras microscópicas que se encuentran en la célula animal o vegetal.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "37001",
+        "lemma": "indisputable",
+        "definition": "Que no puede ser cuestionado.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "10156",
+        "lemma": "bosque",
+        "definition": "Un boceto o dibujo general de algo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53607",
+        "lemma": "rasurado",
+        "definition": "Acción de afeitarse la barba con una navaja.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "66030",
+        "lemma": "zapatismo",
+        "definition": "El zapatismo es un movimiento social mexicano que lucha por la justicia social, el respeto a los derechos humanos y la democracia.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62488",
+        "lemma": "tractorista",
+        "definition": "Un tractorista es una persona que opera una máquina agrícola conocida como un tractor.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "23394",
+        "lemma": "desusadamente",
+        "definition": "de manera poco común.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64390",
+        "lemma": "vasar",
+        "definition": "Acción de vender algo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "57262",
+        "lemma": "sandwichería",
+        "definition": "Un lugar donde se preparan y venden sándwiches.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "33056",
+        "lemma": "gayar",
+        "definition": "Persuadir a alguien.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "22847",
+        "lemma": "desodorizante",
+        "definition": "Producto que reduce o elimina los olores.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
