@@ -33560,5 +33560,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-30",
+    "words": [
+      {
+        "id": "03378",
+        "lemma": "almejía",
+        "definition": "Una planta herbácea perenne con flores amarillas en forma de campana.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "53822",
+        "lemma": "rebordeador",
+        "definition": "Un rebordeador es una herramienta utilizada para darle un borde a una pieza de trabajo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "21749",
+        "lemma": "descharchar",
+        "definition": "Liberar un archivo desde una computadora a otra.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "52589",
+        "lemma": "punteado",
+        "definition": "Acción de marcar con puntos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29631",
+        "lemma": "estuchería",
+        "definition": "Negocio donde se venden estuches y maletines.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32414",
+        "lemma": "futurismo",
+        "definition": "Movimiento artístico y literario que se desarrolló en Italia a principios del siglo XX y que rechazaba la tradición y buscaba innovar en el arte.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33079",
+        "lemma": "gaznatada",
+        "definition": "Acción de gaznatear o emitir un sonido desagradable con la garganta.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "38575",
+        "lemma": "janiche",
+        "definition": "Persona que trabaja en la construcción de casas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "05608",
+        "lemma": "apresuramiento",
+        "definition": "El apresuramiento es la acción de hacer algo con rapidez o prisa.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38654",
+        "lemma": "jasar",
+        "definition": "Hablar con desprecio o sarcasmo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39170",
+        "lemma": "kion",
+        "definition": "Kion es una palabra usada como una exclamación para expresar entusiasmo o alegría.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40617",
+        "lemma": "lobear",
+        "definition": "Influenciar a alguien para conseguir un objetivo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "23355",
+        "lemma": "destronamiento",
+        "definition": "Acción de destronar a alguien.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45009",
+        "lemma": "nación",
+        "definition": "un grupo de personas que comparten una misma cultura, lengua y territorio.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "48386",
+        "lemma": "pañolada",
+        "definition": "Una reunión o reunión de personas que se reúnen para apoyar una causa o una idea.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46527",
+        "lemma": "optimar",
+        "definition": "Hacer algo de la mejor manera posible.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "63454",
+        "lemma": "tropopausa",
+        "definition": "Una capa de aire estable que se encuentra entre la troposfera y la estratosfera.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "60721",
+        "lemma": "tarquín",
+        "definition": "Una persona orgullosa, arrogante y autoritaria.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54041",
+        "lemma": "recle",
+        "definition": "Acción de limpiar con una escoba.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "53217",
+        "lemma": "radioastronomía",
+        "definition": "El estudio de los objetos astronómicos utilizando la radiación electromagnética de longitudes de onda muy largas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "51653",
+        "lemma": "prestiño",
+        "definition": "Prestiño es una palabra que se usa para describir algo que es muy bueno, caro y de calidad.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63958",
+        "lemma": "uracilo",
+        "definition": "El uracilo es una base nitrogenada presente en el ADN y el ARN.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65506",
+        "lemma": "voz",
+        "definition": "Sonido producido por la respiración y emisión de palabras.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65568",
+        "lemma": "windsurfing",
+        "definition": "Un deporte acuático en el que se usa una tabla especial y una vela para navegar a velocidades rápidas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "43805",
+        "lemma": "mixedema",
+        "definition": "Una condición en la que la piel se hincha debido a una acumulación anormal de líquido.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "60320",
+        "lemma": "talayot",
+        "definition": "Monumento megalítico de origen prerromano.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66251",
+        "lemma": "zozobra",
+        "definition": "Estado de ansiedad y preocupación.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
