@@ -33754,5 +33754,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-07-31",
+    "words": [
+      {
+        "id": "06686",
+        "lemma": "aseguranza",
+        "definition": "un acuerdo entre una compañía y una persona para cubrir los riesgos financieros.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "58743",
+        "lemma": "sobreático",
+        "definition": "adjetivo que se refiere a una persona que es exageradamente atenta y servicial.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18019",
+        "lemma": "consultorio",
+        "definition": "Un lugar donde un profesional, como un médico, un abogado o un psicólogo, atiende a sus pacientes o clientes.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21065",
+        "lemma": "derraigamiento",
+        "definition": "Acción de arrancar o desarraigar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25389",
+        "lemma": "emeritazgo",
+        "definition": "El emeritazgo es el derecho a disfrutar de una renta, pensiones o beneficios por haber servido a una institución durante un período de tiempo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "55049",
+        "lemma": "reóforo",
+        "definition": "Dispositivo eléctrico que se utiliza para medir la resistencia de una corriente eléctrica.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32892",
+        "lemma": "garpa",
+        "definition": "Acción de tomar algo con la mano.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35451",
+        "lemma": "hipoglucemia",
+        "definition": "La hipoglucemia es una afección en la que los niveles de glucosa en la sangre son demasiado bajos.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37665",
+        "lemma": "institucional",
+        "definition": "Relativo a una institución.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "23089",
+        "lemma": "despiojar",
+        "definition": "Quitar los piojos de algo o alguien.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39184",
+        "lemma": "kohl",
+        "definition": "El kohl es un antiguo cosmético hecho de una mezcla de minerales, utilizado para darle a los ojos una apariencia más oscura.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "55157",
+        "lemma": "replantar",
+        "definition": "Trasplantar.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43580",
+        "lemma": "mindundi",
+        "definition": "Una palabra usada para referirse a una persona joven.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "43963",
+        "lemma": "mojinete",
+        "definition": "Juego de naipes.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "33093",
+        "lemma": "gañido",
+        "definition": "El aullido de un perro.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46457",
+        "lemma": "oogénesis",
+        "definition": "El proceso de desarrollo de los óvulos en el cuerpo femenino.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48145",
+        "lemma": "pastillero",
+        "definition": "un recipiente para guardar pastillas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53021",
+        "lemma": "quintuplicación",
+        "definition": "La acción de multiplicar por cinco.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "63152",
+        "lemma": "tricefalia",
+        "definition": "Una condición en la que una persona tiene tres cabezas.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "28536",
+        "lemma": "esfotarse",
+        "definition": "desanimarse.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60184",
+        "lemma": "tacaco",
+        "definition": "es una comida típica del sur de América, hecha con una masa de maíz, harina de maíz y carne de cerdo.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63997",
+        "lemma": "urgabonense",
+        "definition": "Persona originaria de la ciudad de Urgabón, en el estado de Miranda, Venezuela.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64799",
+        "lemma": "verisimilitud",
+        "definition": "La verisimilitud es la apariencia de verdad de una afirmación o relato.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65579",
+        "lemma": "xenón",
+        "definition": "Un elemento químico gasoso con el símbolo Xe y el número atómico 54.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65615",
+        "lemma": "yacón",
+        "definition": "Una raíz tuberosa originaria de los Andes suramericanos, de sabor dulce y con propiedades medicinales.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65969",
+        "lemma": "zancajada",
+        "definition": "cualquier acción que se efectúa con rapidez y brusquedad.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
