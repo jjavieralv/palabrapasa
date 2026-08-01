@@ -33948,5 +33948,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-01",
+    "words": [
+      {
+        "id": "64710",
+        "lemma": "verbalización",
+        "definition": "La acción de expresar algo en palabras.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "59659",
+        "lemma": "subtrama",
+        "definition": "Una trama secundaria o secuencia de eventos en una historia.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "57653",
+        "lemma": "secutar",
+        "definition": "perseguir.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23937",
+        "lemma": "diploide",
+        "definition": "Que tiene dos juegos de cromosomas.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26324",
+        "lemma": "endeudarse",
+        "definition": "incurrir en deudas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "56554",
+        "lemma": "rufo",
+        "definition": "Una antigua ley romana que regulaba el matrimonio.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34549",
+        "lemma": "güérmeces",
+        "definition": "Güérmeces son pequeños animales que viven en el suelo, como ratones, topos, musarañas y conejos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35629",
+        "lemma": "hombrón",
+        "definition": "Persona muy corpulenta.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "49846",
+        "lemma": "pinjante",
+        "definition": "brillante",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39016",
+        "lemma": "jungla",
+        "definition": "un área de vegetación muy densa y cerrada.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10367",
+        "lemma": "break dance",
+        "definition": "Estilo de baile de origen afroamericano que se caracteriza por realizar acrobacias y giros.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "25903",
+        "lemma": "encandilamiento",
+        "definition": "Estado de fascinación o admiración.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41576",
+        "lemma": "malvivir",
+        "definition": "Vivir mal",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "34811",
+        "lemma": "hebillón",
+        "definition": "Una herramienta de metal con forma de gancho, usada para mover o levantar objetos.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "13730",
+        "lemma": "cañaduzal",
+        "definition": "una zona pantanosa o pantanosa cerca de un río o arroyo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "44131",
+        "lemma": "monitoreo",
+        "definition": "vigilancia o supervisión de algo o alguien.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "33023",
+        "lemma": "gatuperio",
+        "definition": "Acción desordenada y caótica.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52903",
+        "lemma": "quijote",
+        "definition": "El Quijote es el protagonista de la obra maestra de Miguel de Cervantes, El ingenioso hidalgo don Quijote de la Mancha.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53363",
+        "lemma": "rambla",
+        "definition": "Calle amplia y arbolada en la que se encuentran muchos bares y restaurantes.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57659",
+        "lemma": "sedal",
+        "definition": "El sedal es un material delgado y resistente hecho de algodón, lino, nailon u otro material, usado para atar cosas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "22203",
+        "lemma": "desengomante",
+        "definition": "Desatascador.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10756",
+        "lemma": "bulón",
+        "definition": "Una pieza metálica en forma de perno que se usa para sujetar dos o más partes.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65143",
+        "lemma": "viniente",
+        "definition": "adjetivo que se refiere a algo que está próximo o cercano.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65559",
+        "lemma": "web",
+        "definition": "Sitio de Internet.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "04331",
+        "lemma": "anaptixis",
+        "definition": "La anaptixis es el proceso de formación de palabras a partir de raíces.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "07816",
+        "lemma": "ayacuá",
+        "definition": "El ayacuá es un río que se encuentra en la región andina de Colombia.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65798",
+        "lemma": "zabatán",
+        "definition": "Una herramienta de metal afilada utilizada para cortar el pasto.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
