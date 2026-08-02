@@ -34142,5 +34142,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-02",
+    "words": [
+      {
+        "id": "07745",
+        "lemma": "aviesamente",
+        "definition": "de forma astuta.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "58536",
+        "lemma": "siniestrabilidad",
+        "definition": "probabilidad de sufrir un siniestro.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16059",
+        "lemma": "circunnavegar",
+        "definition": "navegar alrededor de una tierra, isla o continente.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22081",
+        "lemma": "desempaque",
+        "definition": "Acción de sacar el contenido de una caja o envase.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "19384",
+        "lemma": "cretinada",
+        "definition": "Acción tonta.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "41272",
+        "lemma": "magníficat",
+        "definition": "Una oración de alabanza usada en la liturgia cristiana.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "42230",
+        "lemma": "marraguero",
+        "definition": "Una persona que trabaja en la fabricación de marraqueta, un tipo de pan típico de Chile.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35773",
+        "lemma": "hormiguillo",
+        "definition": "Es el término utilizado para referirse a la sensación de hormigueo en la piel.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36745",
+        "lemma": "incomprehensible",
+        "definition": "Incomprehensible; incomprensible.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "65090",
+        "lemma": "villanaje",
+        "definition": "comportamiento vil o deshonesto.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39185",
+        "lemma": "kohol",
+        "definition": "El kohol es una planta originaria del sureste asiático.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "17524",
+        "lemma": "condensabilidad",
+        "definition": "Capacidad de condensar",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41548",
+        "lemma": "malsonar",
+        "definition": "Hablar con palabras groseras y desagradables.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "37449",
+        "lemma": "inmodestia",
+        "definition": "La inmodestia es la falta de modestia al hablar de uno mismo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "06097",
+        "lemma": "armiñar",
+        "definition": "Unir con una costura.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46775",
+        "lemma": "orzaya",
+        "definition": "Una planta de la familia de las gramíneas, de la que se obtiene un cereal muy nutritivo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "45092",
+        "lemma": "napar",
+        "definition": "beber con avidez.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52797",
+        "lemma": "quemada",
+        "definition": "Una quemada es un daño causado a la piel por el contacto con una fuente de calor.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55366",
+        "lemma": "reservar",
+        "definition": "guardar para uso futuro.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "50102",
+        "lemma": "pistura",
+        "definition": "La pistura es el proceso de mezclar ingredientes para hacer una receta.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61591",
+        "lemma": "teñir",
+        "definition": "Tintar.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63975",
+        "lemma": "urbanita",
+        "definition": "persona que vive en una ciudad.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "55797",
+        "lemma": "reveno",
+        "definition": "Una tela de algodón muy suave y fina.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "16374",
+        "lemma": "clown",
+        "definition": "Un artista de circo que usa maquillaje y vestimenta extravagantes para hacer reír a la gente.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65572",
+        "lemma": "x",
+        "definition": "X es una letra del alfabeto.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "30740",
+        "lemma": "faya",
+        "definition": "una planta perenne poco conocida que crece en la selva tropical.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66349",
+        "lemma": "zuzar",
+        "definition": "Sonar",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
