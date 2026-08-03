@@ -34336,5 +34336,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-03",
+    "words": [
+      {
+        "id": "00290",
+        "lemma": "abrenunciar",
+        "definition": "Renunciar a algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "25157",
+        "lemma": "embarbillado",
+        "definition": "Envolver algo con cuerdas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "40994",
+        "lemma": "macagua",
+        "definition": "Una palabra de origen indígena que se refiere a una especie de canoa hecha de un tronco de árbol.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "31024",
+        "lemma": "fideuá",
+        "definition": "Plato de fideos tradicional de la cocina valenciana.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25698",
+        "lemma": "empresa",
+        "definition": "una organización que busca ganar dinero a través de la producción y venta de bienes y/o servicios.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31432",
+        "lemma": "floración",
+        "definition": "El proceso de florecer de una planta.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33039",
+        "lemma": "gaviete",
+        "definition": "Estructura de madera o hierro colocado en una pared para sostener una planta o flor.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "37346",
+        "lemma": "inhabitable",
+        "definition": "adjetivo para describir un lugar que no es apto para vivir.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "50299",
+        "lemma": "plantificar",
+        "definition": "plantar árboles y arbustos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38538",
+        "lemma": "jalona",
+        "definition": "Juego de mesa típico de la región de Extremadura.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "03286",
+        "lemma": "alkermes",
+        "definition": "Una bebida alcohólica tradicional italiana hecha de vino, especias y colorantes.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "20363",
+        "lemma": "daltonismo",
+        "definition": "Discapacidad visual que impide distinguir los colores.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44268",
+        "lemma": "montiña",
+        "definition": "Una gran colina o una elevación de la tierra.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "55119",
+        "lemma": "repercusión",
+        "definition": "El efecto de un acontecimiento o acción en una situación.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "43818",
+        "lemma": "miñón",
+        "definition": "Persona de carácter jovial, alegre y expansivo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46566",
+        "lemma": "orbicularmente",
+        "definition": "de manera circular.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50844",
+        "lemma": "ponteadero",
+        "definition": "Lugar donde se pueden cruzar un río o un arroyo a pie.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "15684",
+        "lemma": "chusquel",
+        "definition": "Una persona despreocupada que disfruta de la vida sin preocuparse por el futuro.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "25891",
+        "lemma": "encanalizar",
+        "definition": "dirigir algo en una dirección particular.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "44670",
+        "lemma": "mueso",
+        "definition": "Persona desagradable, antipática y grosera.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61927",
+        "lemma": "tizón",
+        "definition": "Resto o residuo de la combustión de un material, como la madera.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64080",
+        "lemma": "utillaje",
+        "definition": "herramientas y equipos necesarios para un trabajo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64323",
+        "lemma": "varadero",
+        "definition": "Un lugar en el mar donde un barco puede anclar.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60086",
+        "lemma": "swahili",
+        "definition": "Lengua africana hablada en Kenia y Tanzania.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65593",
+        "lemma": "xilórgano",
+        "definition": "Órgano que produce sonidos a partir de la vibración de una lámina de madera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65685",
+        "lemma": "yemení",
+        "definition": "Relativo o perteneciente a Yemen.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "13621",
+        "lemma": "cauz",
+        "definition": "Una forma de argumentación en la que se utilizan hechos y razonamientos para probar una proposición.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
