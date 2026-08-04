@@ -34530,5 +34530,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-04",
+    "words": [
+      {
+        "id": "04731",
+        "lemma": "ansarería",
+        "definition": "Lugar donde se venden artículos de ansar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09237",
+        "lemma": "berrodo",
+        "definition": "Un berrodo es una planta herbácea con un sabor amargo que se usa como condimento o para preparar infusiones.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "57099",
+        "lemma": "saltaperico",
+        "definition": "Persona que se mueve y salta mucho.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "15088",
+        "lemma": "chillado",
+        "definition": "El chillido es un sonido agudo y penetrante que hacen algunas aves para llamar la atención.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28276",
+        "lemma": "escoliar",
+        "definition": "Estudiar el comportamiento de los animales.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "07863",
+        "lemma": "azafrán",
+        "definition": "Una especia de color amarillo intenso con un sabor único.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33468",
+        "lemma": "gobernanza",
+        "definition": "La gobernanza es el conjunto de mecanismos y procesos que permiten la toma de decisiones, el ejercicio de control y la gestión de recursos para alcanzar los objetivos establecidos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35983",
+        "lemma": "humanal",
+        "definition": "humanal se refiere a algo que es humano o relacionado con la humanidad.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38392",
+        "lemma": "ivernar",
+        "definition": "ivernar es pasar el invierno en un lugar seguro.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "53563",
+        "lemma": "raspajo",
+        "definition": "Una comida hecha de papas ralladas y queso.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39154",
+        "lemma": "kilogramo",
+        "definition": "Unidad de medida de masa del Sistema Internacional.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40287",
+        "lemma": "limpiabotas",
+        "definition": "Persona que se dedica a limpiar y arreglar botas.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "15658",
+        "lemma": "churriguerismo",
+        "definition": "Estilo arquitectónico barroco español caracterizado por su exuberancia.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "18194",
+        "lemma": "contracubierta",
+        "definition": "Carátula interior de un libro.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45927",
+        "lemma": "ñipe",
+        "definition": "una acción o gesto de burla.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46706",
+        "lemma": "ornamental",
+        "definition": "Relativo a la decoración o adorno.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "17202",
+        "lemma": "compasillo",
+        "definition": "Compasillo es una forma de música folclórica española.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "26848",
+        "lemma": "enloquecedoramente",
+        "definition": "de manera enloquecedora, de manera desbordante.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53317",
+        "lemma": "raijo",
+        "definition": "Método de pesca japonés que consiste en la colocación de una red de arrastre para la captura de peces.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "23246",
+        "lemma": "desriscar",
+        "definition": "quitar los riesgos.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61851",
+        "lemma": "tiritaño",
+        "definition": "Una persona que tiembla de miedo.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63989",
+        "lemma": "urea",
+        "definition": "es una sustancia química nitrogenada de uso común en la agricultura, la industria química y la medicina.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64143",
+        "lemma": "vacile",
+        "definition": "El vacile es una forma de bromear o hacer una burla con alguien.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65569",
+        "lemma": "windsurfista",
+        "definition": "Persona que practica el windsurf, un deporte acuático que consiste en navegar sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30138",
+        "lemma": "expurgar",
+        "definition": "Limpiar, purificar.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "66291",
+        "lemma": "zuncuya",
+        "definition": "Una planta trepadora tropical con frutos comestibles.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "58780",
+        "lemma": "sobredezmero",
+        "definition": "Exceso de deseo.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
