@@ -34724,5 +34724,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-05",
+    "words": [
+      {
+        "id": "28094",
+        "lemma": "escarcear",
+        "definition": "buscar concienzudamente.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10447",
+        "lemma": "brindar",
+        "definition": "Ofrecer una bebida en una celebración.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18642",
+        "lemma": "coracoides",
+        "definition": "El coracoides es un hueso del hombro que se encuentra en la parte anterior del hombro.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "55781",
+        "lemma": "reveedor",
+        "definition": "Persona que recorre un lugar para vigilarlo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "27488",
+        "lemma": "entroncar",
+        "definition": "Unir o conectar algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "15040",
+        "lemma": "chiflar",
+        "definition": "silbar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "30856",
+        "lemma": "fenología",
+        "definition": "La fenología es el estudio de los ciclos de vida de las plantas y los animales en relación con el clima y el medio ambiente.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "56160",
+        "lemma": "rochar",
+        "definition": "cortar con una herramienta afilada.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "49709",
+        "lemma": "pijuy",
+        "definition": "Una especie de ave que se encuentra en América del Sur.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39029",
+        "lemma": "juntamiento",
+        "definition": "reunión de personas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "42186",
+        "lemma": "marketing",
+        "definition": "Acciones orientadas a promocionar un producto o servicio.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "16964",
+        "lemma": "colorímetro",
+        "definition": "Un dispositivo que mide la cantidad de color en un material.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44821",
+        "lemma": "mundonuevo",
+        "definition": "País imaginario de la novela de Gabriel García Márquez.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45685",
+        "lemma": "nomografía",
+        "definition": "Un sistema de gráficos o diagramas usados para resolver problemas matemáticos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "08006",
+        "lemma": "añalejo",
+        "definition": "Pequeño caballo de carga.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "54054",
+        "lemma": "recobro",
+        "definition": "Recuperación.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "09531",
+        "lemma": "bipartición",
+        "definition": "División de algo en dos partes.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52978",
+        "lemma": "quinielista",
+        "definition": "Persona que se dedica al juego de la quiniela.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "42305",
+        "lemma": "marzas",
+        "definition": "Juego de la infancia consistente en lanzar una pelota con una pala.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "23790",
+        "lemma": "difteritis",
+        "definition": "una enfermedad infecciosa aguda que afecta principalmente a los niños.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61200",
+        "lemma": "tener",
+        "definition": "Poseer.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63929",
+        "lemma": "unisón",
+        "definition": "Al mismo tiempo, de una sola vez.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65075",
+        "lemma": "viguería",
+        "definition": "trabajo o actividad ilegal o fraudulenta.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "63785",
+        "lemma": "twist",
+        "definition": "El twist es un baile de los años 50 que se caracteriza por un movimiento de cadera y hombros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65572",
+        "lemma": "x",
+        "definition": "X es una letra del alfabeto.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65723",
+        "lemma": "yina",
+        "definition": "Instrumento musical tradicional de Perú hecho de madera.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66062",
+        "lemma": "zarajo",
+        "definition": "Pequeño insecto volador de color negro.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
