@@ -34918,5 +34918,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-06",
+    "words": [
+      {
+        "id": "11108",
+        "lemma": "cachativa",
+        "definition": "persona astuta y astuta.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "38286",
+        "lemma": "irrespirable",
+        "definition": "adjetivo para describir algo que no es apto para respirar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "09336",
+        "lemma": "bicarbonato",
+        "definition": "arbusto de la familia de las buxáceas.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "10691",
+        "lemma": "buhardilla",
+        "definition": "Espacio en el ático de una casa.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29713",
+        "lemma": "etnología",
+        "definition": "Estudio de los grupos humanos y sus culturas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30376",
+        "lemma": "fagocitosis",
+        "definition": "Un proceso en el que una célula ingiere otra célula para absorber sus nutrientes.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "54510",
+        "lemma": "regalaría",
+        "definition": "Una cantidad de dinero o un regalo que se da como una muestra de aprecio.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35074",
+        "lemma": "herradero",
+        "definition": "Un profesional que trabaja con herraduras para caballos.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37661",
+        "lemma": "instintivamente",
+        "definition": "de forma instintiva, sin pensar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38690",
+        "lemma": "jemesía",
+        "definition": "el estado de estar sujeto a una influencia externa.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "46920",
+        "lemma": "overbooking",
+        "definition": "La práctica de vender más billetes de lo que hay asientos disponibles en un vuelo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40776",
+        "lemma": "losar",
+        "definition": "perder.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "56003",
+        "lemma": "rimú",
+        "definition": "El rimú es un árbol de la familia de los laureles que se encuentra en el sur de América del Sur.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45576",
+        "lemma": "nitor",
+        "definition": "Un movimiento rápido.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "52713",
+        "lemma": "puñalero",
+        "definition": "Persona que lleva un puñal como arma.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "05198",
+        "lemma": "aparato",
+        "definition": "Máquina o dispositivo para realizar una tarea específica.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "23661",
+        "lemma": "diapente",
+        "definition": "Un diapente es un intervalo musical de cinco notas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "39043",
+        "lemma": "juquencia",
+        "definition": "Una acción de tomar impulso para alcanzar algo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "02581",
+        "lemma": "albergada",
+        "definition": "Un albergada es una persona que alberga a alguien que necesita un lugar temporal para vivir.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59716",
+        "lemma": "sudadero",
+        "definition": "una prenda de vestir ajustada hecha de tela ligera para sudar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "48245",
+        "lemma": "patialbillo",
+        "definition": "Una prenda de vestir con una abertura en la parte delantera, normalmente con botones.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63826",
+        "lemma": "ulna",
+        "definition": "Hueso del antebrazo situado entre el codo y la muñeca.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "07791",
+        "lemma": "avorazarse",
+        "definition": "Enfurecerse.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "37136",
+        "lemma": "inexplicable",
+        "definition": "Inexplicable",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "48363",
+        "lemma": "payar",
+        "definition": "bailar una danza tradicional de la región andina colombiana.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65893",
+        "lemma": "zaina",
+        "definition": "Una herramienta de mano de acero con un filo afilado para cortar madera.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
