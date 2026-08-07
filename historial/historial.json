@@ -35112,5 +35112,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-07",
+    "words": [
+      {
+        "id": "04548",
+        "lemma": "angelología",
+        "definition": "La angelología es el estudio de los ángeles.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "52734",
+        "lemma": "quebrachal",
+        "definition": "Un bosque de quebrachos, un árbol de la familia de las leguminosas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "57584",
+        "lemma": "secácul",
+        "definition": "periodo de tiempo caracterizado por la falta de espiritualidad, el materialismo y el hedonismo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "36997",
+        "lemma": "indisponer",
+        "definition": "poner en mal estado.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "35236",
+        "lemma": "hiebre",
+        "definition": "Enfermedad infecciosa provocada por un virus que causa fiebre, dolor de cabeza y dolores musculares.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30480",
+        "lemma": "falsable",
+        "definition": "Que puede ser desmentido.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33572",
+        "lemma": "gonococia",
+        "definition": "Enfermedad de transmisión sexual causada por la bacteria Neisseria gonorrhoeae.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35790",
+        "lemma": "hornaza",
+        "definition": "Horno de barro para cocer pan.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "03389",
+        "lemma": "almendrilla",
+        "definition": "pequeña almendra.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38464",
+        "lemma": "jacer",
+        "definition": "yacer.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "36220",
+        "lemma": "ikebana",
+        "definition": "Arte japonés de la disposición de flores.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "18748",
+        "lemma": "corezuelo",
+        "definition": "Instrumento musical tradicional de España compuesto por una caja de madera y varias cuerdas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41731",
+        "lemma": "manejable",
+        "definition": "Fácil de manejar",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45295",
+        "lemma": "negligencia",
+        "definition": "el descuido o la falta de cuidado en el cumplimiento de un deber.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "33091",
+        "lemma": "gañán",
+        "definition": "Hombre que trabaja en una finca.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46760",
+        "lemma": "ortopeda",
+        "definition": "Médico especializado en el tratamiento de enfermedades y lesiones relacionadas con el sistema musculoesquelético.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47112",
+        "lemma": "pajilla",
+        "definition": "Utensilio para beber.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52859",
+        "lemma": "quiasma",
+        "definition": "un punto de cruce en el cual dos cromosomas se unen.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "23435",
+        "lemma": "desventura",
+        "definition": "Desventura es una situación desafortunada o desgraciada.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "46515",
+        "lemma": "opresivamente",
+        "definition": "de manera opresiva.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "59660",
+        "lemma": "subtropical",
+        "definition": "Clima y vegetación que se encuentra entre los trópicos y los climas templados.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63853",
+        "lemma": "ultramar",
+        "definition": "lejano, más allá del mar.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64193",
+        "lemma": "vaina",
+        "definition": "Cáscara o envoltura.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30169",
+        "lemma": "externado",
+        "definition": "una escuela con alumnos de tiempo completo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65615",
+        "lemma": "yacón",
+        "definition": "Una raíz tuberosa originaria de los Andes suramericanos, de sabor dulce y con propiedades medicinales.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "04416",
+        "lemma": "andaluzada",
+        "definition": "Una forma de baile tradicional de la región de Andalucía.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
