@@ -35306,5 +35306,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-08",
+    "words": [
+      {
+        "id": "01011",
+        "lemma": "acotejo",
+        "definition": "Acotejo es una forma de arreglo o ajuste de algo para que quede en su lugar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "52433",
+        "lemma": "puebla",
+        "definition": "Una ciudad mexicana conocida por su arquitectura colonial.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "20099",
+        "lemma": "cunacho",
+        "definition": "Una herramienta usada para medir la profundidad de un pozo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "07195",
+        "lemma": "atlantidense",
+        "definition": "nativo o residente de la Atlántida.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29638",
+        "lemma": "estudio",
+        "definition": "una actividad de investigación que implica el análisis de un tema o un problema.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "13896",
+        "lemma": "cefear",
+        "definition": "encajar.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34375",
+        "lemma": "guedeja",
+        "definition": "Una trenza de cabello.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "18137",
+        "lemma": "contraaproches",
+        "definition": "Obstrucción o barrera formada por una o varias líneas de troncos o troncos de árboles para impedir el paso de los animales.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36515",
+        "lemma": "improporción",
+        "definition": "Desigualdad entre dos o más cosas.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "26940",
+        "lemma": "enojada",
+        "definition": "Persona que está molesta.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "19408",
+        "lemma": "cricket",
+        "definition": "Deporte de bateo y carrera entre dos equipos de once jugadores cada uno.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "56961",
+        "lemma": "salce",
+        "definition": "Una salce es una mezcla de condimentos usada para sazonar alimentos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43460",
+        "lemma": "mierda",
+        "definition": "Excremento humano o animal.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45743",
+        "lemma": "noruestear",
+        "definition": "navegar hacia el noroeste.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45933",
+        "lemma": "ñizca",
+        "definition": "una palabra en el dialecto guaraní del Paraguay que significa \"pequeño\".",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46032",
+        "lemma": "obsecuencia",
+        "definition": "Actitud de servilismo, sumisión o complacencia.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50807",
+        "lemma": "pomposamente",
+        "definition": "con pompa.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "62195",
+        "lemma": "toqueteo",
+        "definition": "Acción de tocar algo con curiosidad.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56355",
+        "lemma": "rondís",
+        "definition": "Una bebida alcohólica hecha de vino, agua, azúcar, especias y frutas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59138",
+        "lemma": "solomillo",
+        "definition": "Un corte de carne de vacuno ubicado en el lomo del animal.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62339",
+        "lemma": "tortilla",
+        "definition": "Un plato tradicional español hecho de huevos revueltos con patatas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "35959",
+        "lemma": "huiltota",
+        "definition": "Un instrumento musical de cuerda de la familia de los laures.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "45293",
+        "lemma": "negatividad",
+        "definition": "Estado de ánimo en el que predomina el pesimismo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58235",
+        "lemma": "show business",
+        "definition": "El show business es el negocio de la producción y distribución de entretenimiento, como espectáculos de televisión, cine, teatro, música y otros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65716",
+        "lemma": "yeyuno",
+        "definition": "El yeyuno es el cuarto segmento del intestino delgado.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "10987",
+        "lemma": "cabezuela",
+        "definition": "Pequeño pueblo o aldea.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
