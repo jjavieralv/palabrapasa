@@ -35500,5 +35500,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-09",
+    "words": [
+      {
+        "id": "07354",
+        "lemma": "atufamiento",
+        "definition": "Atufamiento es una sensación de sofocación debido a una concentración excesiva de gases.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08830",
+        "lemma": "basilar",
+        "definition": "Fundamental",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "09797",
+        "lemma": "bochar",
+        "definition": "Lanzar una piedra con una honda.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "36209",
+        "lemma": "iguánido",
+        "definition": "Una familia de lagartos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "21262",
+        "lemma": "desajustar",
+        "definition": "Poner algo fuera de lugar o desequilibrar algo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "01586",
+        "lemma": "aferencia",
+        "definition": "Tendencia a relacionarse con otros.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "03062",
+        "lemma": "algazul",
+        "definition": "color azul verdoso.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "15125",
+        "lemma": "chimpilinearse",
+        "definition": "andar con paso vacilante.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "50137",
+        "lemma": "pitillera",
+        "definition": "Estuche pequeño para guardar los cigarrillos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38840",
+        "lemma": "jocotear",
+        "definition": "Reírse o divertirse con algo o alguien.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "08115",
+        "lemma": "backgammon",
+        "definition": "juego de mesa de dos jugadores donde se mueven fichas sobre un tablero dividido en cuadrados.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40001",
+        "lemma": "letargo",
+        "definition": "Un estado de somnolencia profunda y prolongada.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "11808",
+        "lemma": "camarilla",
+        "definition": "Grupo pequeño de personas que comparten intereses comunes.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45175",
+        "lemma": "naturaleza",
+        "definition": "Conjunto de todas las cosas existentes en el universo.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45901",
+        "lemma": "ñácara",
+        "definition": "un recipiente hecho de barro para el almacenamiento de alimentos.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46537",
+        "lemma": "opugnación",
+        "definition": "Acción de oponerse a algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "44318",
+        "lemma": "morapio",
+        "definition": "Una bebida alcohólica hecha de vino, agua, azúcar, especias y frutas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "24123",
+        "lemma": "disloque",
+        "definition": "Desarmonía o desorden.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "06846",
+        "lemma": "asordinar",
+        "definition": "Hacer un ruido desordenado.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57244",
+        "lemma": "sanctórum",
+        "definition": "Lugar sagrado.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "07233",
+        "lemma": "atona",
+        "definition": "Una atona es una parte de una orquesta que contiene instrumentos de teclado como el piano, órgano y cuerdas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "20245",
+        "lemma": "curvar",
+        "definition": "doblar",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65063",
+        "lemma": "vigilancia",
+        "definition": "el acto de estar alerta y prestar atención para detectar el peligro o la amenaza.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65557",
+        "lemma": "watt",
+        "definition": "El watt es una unidad de potencia eléctrica que se utiliza para medir la cantidad de energía que un dispositivo consume por segundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "22297",
+        "lemma": "desenyugar",
+        "definition": "suavizar.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "03834",
+        "lemma": "amanezca",
+        "definition": "Se usa para referirse al momento en que el sol sale por la mañana.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
