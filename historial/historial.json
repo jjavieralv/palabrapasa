@@ -35888,5 +35888,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-11",
+    "words": [
+      {
+        "id": "55190",
+        "lemma": "reposadamente",
+        "definition": "Con calma.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "18928",
+        "lemma": "corresponsabilidad",
+        "definition": "Compartir responsabilidades.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16084",
+        "lemma": "ciruelillo",
+        "definition": "Un árbol frutal de la familia de los ciruelos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22145",
+        "lemma": "desencastillar",
+        "definition": "Quitar el castillo de una cerradura.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "52886",
+        "lemma": "quietamente",
+        "definition": "Silenciosamente.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "17610",
+        "lemma": "confalón",
+        "definition": "Un confalón es una comida típica de la región de Extremadura en España hecha con carne de cerdo, jamón, tocino, chorizo, ajo y cebolla.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34328",
+        "lemma": "guatemalidad",
+        "definition": "Características propias de los guatemaltecos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35741",
+        "lemma": "horchata",
+        "definition": "una bebida tradicional hecha con arroz, almendras, canela y azúcar.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "61545",
+        "lemma": "teticiega",
+        "definition": "Que tiene una gran cantidad de tetas.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "25974",
+        "lemma": "encarrujado",
+        "definition": "Encarrujado significa enrollado o enroscado.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "45358",
+        "lemma": "neokantismo",
+        "definition": "Corriente filosófica que sigue los principios de Immanuel Kant.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "44908",
+        "lemma": "musculatura",
+        "definition": "Conjunto de músculos que forman parte del sistema locomotor de un organismo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41009",
+        "lemma": "macareo",
+        "definition": "Acción de moverse al ritmo de la música.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45700",
+        "lemma": "nopaleda",
+        "definition": "planta herbácea originaria de México.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45928",
+        "lemma": "ñique",
+        "definition": "Expresión usada para indicar sorpresa.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46146",
+        "lemma": "octavín",
+        "definition": "Un instrumento musical de viento de ocho notas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48596",
+        "lemma": "peineta",
+        "definition": "Accesorio usado para sujetar el cabello.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52894",
+        "lemma": "quijal",
+        "definition": "Paloma de gran tamaño.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "18672",
+        "lemma": "corbona",
+        "definition": "una moneda antigua de plata española.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "36455",
+        "lemma": "impostura",
+        "definition": "Una acción fraudulenta.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "33310",
+        "lemma": "gin-tonic",
+        "definition": "un cóctel hecho con ginebra y tónica.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "07578",
+        "lemma": "automatizar",
+        "definition": "Hacer que un proceso se realice automáticamente.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65108",
+        "lemma": "vilorto",
+        "definition": "una forma de bailar típica de la región de Galicia.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30205",
+        "lemma": "extramarital",
+        "definition": "Relaciones sexuales fuera del matrimonio.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65684",
+        "lemma": "yema",
+        "definition": "La parte interna de un huevo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65842",
+        "lemma": "zadorija",
+        "definition": "una pequeña cantidad de algo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
