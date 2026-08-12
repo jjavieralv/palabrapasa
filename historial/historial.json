@@ -36082,5 +36082,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-12",
+    "words": [
+      {
+        "id": "30324",
+        "lemma": "fachenda",
+        "definition": "La fachenda es una forma de comportamiento despreocupado y desenfadado.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "49173",
+        "lemma": "perniquebrar",
+        "definition": "romper con los esfuerzos para conseguir algo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17497",
+        "lemma": "concubinato",
+        "definition": "El concubinato es una relación entre un hombre y una mujer que viven juntos como marido y mujer sin estar legalmente casados.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "05759",
+        "lemma": "arandela",
+        "definition": "Una pieza de metal plana con un agujero en el centro, usada para sujetar o asegurar otra pieza.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "27827",
+        "lemma": "erguimiento",
+        "definition": "La acción de levantarse o ponerse de pie.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32358",
+        "lemma": "furtar",
+        "definition": "tomar algo sin permiso o sin pagar.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34494",
+        "lemma": "guja",
+        "definition": "Una guja es una herramienta de hierro usada para cavar.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35598",
+        "lemma": "holladura",
+        "definition": "orificio hecho en una superficie.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "19544",
+        "lemma": "cronista",
+        "definition": "una persona que escribe relatos históricos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38721",
+        "lemma": "jeringar",
+        "definition": "Inyectar con una jeringa",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39125",
+        "lemma": "karma",
+        "definition": "El karma es el resultado de tus acciones pasadas y presentes; es una ley de causa y efecto.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "13345",
+        "lemma": "castillejo",
+        "definition": "Construcción pequeña de ladrillos, piedra o madera.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42014",
+        "lemma": "maratí",
+        "definition": "Persona que proviene de la región de Maharashtra, India.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "32387",
+        "lemma": "fustanero",
+        "definition": "Copín: Una pequeña cantidad de algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45899",
+        "lemma": "ñ",
+        "definition": "Letra del alfabeto español que representa un fonema nasal.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "56818",
+        "lemma": "sacomano",
+        "definition": "Persona que se dedica a la compra de mercancías.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48383",
+        "lemma": "pañizuelo",
+        "definition": "Esta es una prenda de vestir pequeña que se usa para cubrir la cabeza.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "50777",
+        "lemma": "polvoraduque",
+        "definition": "Un polvoraduque es un dispositivo de fuegos artificiales que contiene una mezcla de polvos químicos combustibles, que se encienden para producir luces brillantes y ruidos estruendosos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54743",
+        "lemma": "relacionar",
+        "definition": "conectar.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58415",
+        "lemma": "simbolar",
+        "definition": "Un símbolo es una representación visual que representa una idea, una persona, un objeto o una acción.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60537",
+        "lemma": "tapadura",
+        "definition": "Una cubierta o una envoltura usada para proteger algo.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64006",
+        "lemma": "urogallo",
+        "definition": "ave galliforme de gran tamaño.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65474",
+        "lemma": "volvible",
+        "definition": "Que se puede volver o dar vuelta.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65557",
+        "lemma": "watt",
+        "definition": "El watt es una unidad de potencia eléctrica que se utiliza para medir la cantidad de energía que un dispositivo consume por segundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30123",
+        "lemma": "expresionista",
+        "definition": "Persona que usa la expresión para expresar sus sentimientos y emociones.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "42561",
+        "lemma": "mayarse",
+        "definition": "Enfermarse gravemente.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66000",
+        "lemma": "zanja",
+        "definition": "Una zanja es una profunda abertura en el suelo excavada para fines específicos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
