@@ -36276,5 +36276,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-13",
+    "words": [
+      {
+        "id": "58703",
+        "lemma": "soberbiosamente",
+        "definition": "con arrogancia, con orgullo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10045",
+        "lemma": "boquimuelle",
+        "definition": "una persona que habla mucho y sin parar.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "26433",
+        "lemma": "enfebrecer",
+        "definition": "Calentar; aumentar la temperatura.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "37424",
+        "lemma": "inmediatez",
+        "definition": "La condición de ser inmediato o de tener lugar sin demora.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29664",
+        "lemma": "esturrear",
+        "definition": "Acorralar a alguien.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "51370",
+        "lemma": "predefinición",
+        "definition": "Establecimiento de los límites de algo antes de que se desarrolle.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33696",
+        "lemma": "graduar",
+        "definition": "Clasificar o distribuir en grados.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35082",
+        "lemma": "herrenal",
+        "definition": "una hierba o arbusto de la familia de las crucíferas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "01242",
+        "lemma": "adenia",
+        "definition": "Planta de la familia de las cactáceas.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38592",
+        "lemma": "jaquinicuil",
+        "definition": "Una planta tropical de la familia de las orquídeas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39187",
+        "lemma": "kopek",
+        "definition": "Un kopek es una moneda de curso legal en Rusia y otros países de la antigua Unión Soviética.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "23938",
+        "lemma": "diploidía",
+        "definition": "estado de un organismo que contiene dos series de cromosomas homólogos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43244",
+        "lemma": "metalingüísticamente",
+        "definition": "De manera metalingüística o relativa al lenguaje.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "62138",
+        "lemma": "tonsurar",
+        "definition": "rapar.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45944",
+        "lemma": "ñu",
+        "definition": "Una especie de antílope de la familia de los Bovidae, que vive en África.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "62884",
+        "lemma": "traspaleo",
+        "definition": "Acción de pasar a través de una cerca o valla.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47601",
+        "lemma": "papera",
+        "definition": "Acción torpe o descoordinada.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52779",
+        "lemma": "quejigar",
+        "definition": "Quejarse o lamentarse.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "51796",
+        "lemma": "pringue",
+        "definition": "desorden o suciedad.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "56710",
+        "lemma": "sabinar",
+        "definition": "Acción de sabinar, que consiste en limpiar los campos de maleza y malas hierbas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "18045",
+        "lemma": "contagiar",
+        "definition": "Contagiar es transmitir una enfermedad de una persona a otra.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63969",
+        "lemma": "urato",
+        "definition": "sales de ácido úrico.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65038",
+        "lemma": "vidro",
+        "definition": "El vidro es un material transparente hecho de sílice fundida.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "35605",
+        "lemma": "hollywoodiense",
+        "definition": "algo relacionado con Hollywood.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65597",
+        "lemma": "xocoyote",
+        "definition": "Animal canino",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65749",
+        "lemma": "yoquepierdismo",
+        "definition": "actitud de no hacer nada.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "53872",
+        "lemma": "rebuznar",
+        "definition": "emitir un ruido sordo y repetitivo.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
