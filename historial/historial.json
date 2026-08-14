@@ -36470,5 +36470,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-14",
+    "words": [
+      {
+        "id": "16557",
+        "lemma": "codazo",
+        "definition": "Golpe con el codo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "01992",
+        "lemma": "aguacibera",
+        "definition": "Plantas de agua dulce que crecen en áreas pantanosas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17097",
+        "lemma": "cometa",
+        "definition": "Juguete volador hecho de tela y una varilla.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "38087",
+        "lemma": "invalidante",
+        "definition": "Que invalida o anula algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28002",
+        "lemma": "escambrón",
+        "definition": "Pez marino perteneciente a la familia de los labridos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32331",
+        "lemma": "fungosidad",
+        "definition": "Cualidad de ser fungoso o tener un olor desagradable.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34178",
+        "lemma": "guararey",
+        "definition": "Una especie de paloma de color pardo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15679",
+        "lemma": "chusmaje",
+        "definition": "el uso de lenguaje vulgar o grosero.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "15728",
+        "lemma": "ciborio",
+        "definition": "estructura arquitectónica destinada a contener el cuerpo de Cristo en la Eucaristía.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38444",
+        "lemma": "jaborandi",
+        "definition": "Planta medicinal de la familia de las rutáceas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "14526",
+        "lemma": "chakra",
+        "definition": "Centro energético en el cuerpo humano según la medicina ayurvédica.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "11354",
+        "lemma": "cajilla",
+        "definition": "Una caja pequeña con una tapa para almacenar objetos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42056",
+        "lemma": "marchitez",
+        "definition": "la pérdida de la vitalidad de una planta debido a la falta de agua.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45188",
+        "lemma": "naufragio",
+        "definition": "Un desastre marítimo en el que un barco se hunde o se estrella en la costa, con la pérdida de vidas humanas.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45918",
+        "lemma": "ñaque",
+        "definition": "Es una forma de bailar típica de la región de los Andes de Perú, Bolivia y Ecuador.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "04833",
+        "lemma": "antetemplo",
+        "definition": "Lugar que se encuentra antes de un templo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47894",
+        "lemma": "paro",
+        "definition": "Suspensión temporal de un trabajo o actividad.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53091",
+        "lemma": "quiñar",
+        "definition": "Polemizar es discutir con viveza y acritud.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "60436",
+        "lemma": "tamborón",
+        "definition": "Un tambor de mano tradicional de España, de forma cilíndrica y con una sola cuerda.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "04560",
+        "lemma": "anglicanismo",
+        "definition": "Conjunto de doctrinas, prácticas y estructuras de la Iglesia Anglicana.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60397",
+        "lemma": "tamarilla",
+        "definition": "fruta de la familia de las solanáceas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63855",
+        "lemma": "ultramontanismo",
+        "definition": "Se refiere a una corriente de pensamiento de la Iglesia Católica que defiende la supremacía del Papa y de la autoridad de Roma sobre los asuntos eclesiásticos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "36504",
+        "lemma": "improductividad",
+        "definition": "Ineficiencia en la producción de bienes o servicios.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65566",
+        "lemma": "wincha",
+        "definition": "Una polea con una cuerda enrollada en ella usada para elevar objetos pesados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65578",
+        "lemma": "xenoglosia",
+        "definition": "Palabra extranjera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65669",
+        "lemma": "yaya",
+        "definition": "Una mujer que cuida a los niños y los cuida.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "28577",
+        "lemma": "eslizón",
+        "definition": "una forma de roca sedimentaria compuesta principalmente de granos de cuarzo.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
