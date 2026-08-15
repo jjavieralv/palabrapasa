@@ -36664,5 +36664,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-15",
+    "words": [
+      {
+        "id": "07783",
+        "lemma": "avocación",
+        "definition": "La acción de apartarse de una actividad.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "05793",
+        "lemma": "árbol",
+        "definition": "Planta de tallo leñoso y ramificado, que tiene hojas, flores y frutos.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "59264",
+        "lemma": "sonsacamiento",
+        "definition": "La acción de obtener información de alguien de manera insistente.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "08327",
+        "lemma": "baldonar",
+        "definition": "Insultar.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29828",
+        "lemma": "evolutivamente",
+        "definition": "de manera evolutiva.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31156",
+        "lemma": "filología",
+        "definition": "el estudio de los lenguajes y sus relaciones históricas.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33418",
+        "lemma": "glosario",
+        "definition": "Lista de palabras de un lenguaje específico con sus definiciones.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15063",
+        "lemma": "chilacoa",
+        "definition": "una planta de la familia de las solanáceas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "01808",
+        "lemma": "agigantar",
+        "definition": "Hacer algo más grande.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "11922",
+        "lemma": "camionaje",
+        "definition": "El transporte de mercancías por carretera.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39112",
+        "lemma": "k",
+        "definition": "Una abreviatura para el prefijo kilo, que significa mil.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "31398",
+        "lemma": "flexibilidad",
+        "definition": "Cualidad de flexible.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42574",
+        "lemma": "mayoradgo",
+        "definition": "Mayoradgo es un título nobiliario otorgado por el rey.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "20971",
+        "lemma": "denunciar",
+        "definition": "Presentar una queja o acusación ante una autoridad.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "27111",
+        "lemma": "enseñanza",
+        "definition": "acción y efecto de enseñar.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46961",
+        "lemma": "ozonizar",
+        "definition": "Ozonizar es el proceso de añadir ozono a una sustancia para mejorar su calidad.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49136",
+        "lemma": "permanente",
+        "definition": "Algo que es duradero.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52988",
+        "lemma": "quinquelingüe",
+        "definition": "Que habla cinco lenguas.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54100",
+        "lemma": "reconcentrar",
+        "definition": "Volver a reunir a una cantidad de personas o cosas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "63618",
+        "lemma": "tumultuosamente",
+        "definition": "con gran alboroto.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "29523",
+        "lemma": "estrellar",
+        "definition": "romper algo con violencia.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "26704",
+        "lemma": "engusgarse",
+        "definition": "Enredarse, confundirse.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64209",
+        "lemma": "valais",
+        "definition": "El valais es una prenda de vestir tradicional de Suiza.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65569",
+        "lemma": "windsurfista",
+        "definition": "Persona que practica el windsurf, un deporte acuático que consiste en navegar sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65592",
+        "lemma": "xilografía",
+        "definition": "Una técnica de grabado en madera que se usa para producir impresiones artísticas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65700",
+        "lemma": "yero",
+        "definition": "Un tipo de teja de metal hecha de aluminio o cobre.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65973",
+        "lemma": "zancarrón",
+        "definition": "adjetivo para describir a alguien que es muy ágil y astuto.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
