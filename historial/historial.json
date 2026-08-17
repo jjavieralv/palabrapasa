@@ -37052,5 +37052,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-17",
+    "words": [
+      {
+        "id": "02712",
+        "lemma": "alcándara",
+        "definition": "Una construcción para contener agua.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10462",
+        "lemma": "briscar",
+        "definition": "limpiar con una escoba.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "10112",
+        "lemma": "borrachear",
+        "definition": "beber en exceso",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22792",
+        "lemma": "desmostarse",
+        "definition": "mostrar, revelar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28138",
+        "lemma": "escarpia",
+        "definition": "Pieza de una estructura que se encarga de sostenerla.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31471",
+        "lemma": "flota",
+        "definition": "Una agrupación de naves militares, mercantes o de recreo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "04560",
+        "lemma": "anglicanismo",
+        "definition": "Conjunto de doctrinas, prácticas y estructuras de la Iglesia Anglicana.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "63422",
+        "lemma": "troncho",
+        "definition": "Un troncho es una herramienta de carpintería que se usa para cortar madera.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "21626",
+        "lemma": "descalificar",
+        "definition": "Desacreditar, desvalorizar, desmeritar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "54752",
+        "lemma": "relajar",
+        "definition": "Relajar el cuerpo o la mente.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "01713",
+        "lemma": "afrikáner",
+        "definition": "Persona originaria de Africa del Sur.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "34854",
+        "lemma": "helenización",
+        "definition": "Proceso de asimilación de características helénicas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43918",
+        "lemma": "mofa",
+        "definition": "Expresión de desprecio o burla.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "53759",
+        "lemma": "reavivamiento",
+        "definition": "Renovación o reactivación.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "02557",
+        "lemma": "albañil",
+        "definition": "persona que trabaja en la construcción de edificios, muros, etc.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "03566",
+        "lemma": "aloque",
+        "definition": "dar de comer.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51397",
+        "lemma": "predominancia",
+        "definition": "Estado en el que una cosa es predominante sobre otras.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "03607",
+        "lemma": "alquifol",
+        "definition": "El alquifol es una planta trepadora de hojas pequeñas y brillantes que se encuentra en zonas húmedas de América del Sur.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53342",
+        "lemma": "ralentizar",
+        "definition": "Disminuir la velocidad.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "04337",
+        "lemma": "anarcosindicalista",
+        "definition": "Persona que defiende el anarquismo y el sindicalismo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60496",
+        "lemma": "tanguillo",
+        "definition": "Un tanguillo es un tipo de baile tradicional de la región andaluza de España.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "52855",
+        "lemma": "queule",
+        "definition": "Una planta herbácea que crece en el sur de Chile.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "09067",
+        "lemma": "behaviorista",
+        "definition": "relativo al estudio del comportamiento.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65596",
+        "lemma": "xocoatole",
+        "definition": "Bebida mexicana a base de chocolate.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65683",
+        "lemma": "yelmo",
+        "definition": "Un casco de metal usado por los guerreros en la antigüedad.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "15032",
+        "lemma": "chicozapote",
+        "definition": "árbol de América Central.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
