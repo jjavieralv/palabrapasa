@@ -37246,5 +37246,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-18",
+    "words": [
+      {
+        "id": "24414",
+        "lemma": "domestiqueza",
+        "definition": "La cualidad de ser servicial.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08049",
+        "lemma": "babeo",
+        "definition": "La salida excesiva de saliva de la boca.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "54482",
+        "lemma": "refulgencia",
+        "definition": "brillo intenso.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "60536",
+        "lemma": "tapadillo",
+        "definition": "Una persona de modales reservados y poco sociable.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26765",
+        "lemma": "enjaretado",
+        "definition": "Forma de tejer en la que se usan hilos o líneas cruzadas para formar un patrón.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "54423",
+        "lemma": "refocilar",
+        "definition": "divertirse.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33617",
+        "lemma": "gormar",
+        "definition": "adornar con goma",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35195",
+        "lemma": "hidrófana",
+        "definition": "Una hidrófana es una gema transparente que cambia de color cuando se sumerge en agua.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "59513",
+        "lemma": "subconsciencia",
+        "definition": "parte de la mente que almacena recuerdos y emociones inconscientes.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "09161",
+        "lemma": "benjuí",
+        "definition": "Una especia aromática usada en la cocina.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "08926",
+        "lemma": "batik",
+        "definition": "Técnica de teñido de telas mediante la que se consiguen diseños geométricos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39583",
+        "lemma": "laringectomía",
+        "definition": "Una cirugía para extirpar parte o la totalidad de la laringe.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43896",
+        "lemma": "modillón",
+        "definition": "moldura en forma de arco que se usa para decorar el interior de un edificio.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "56170",
+        "lemma": "rociamiento",
+        "definition": "Acción de rociar algo con un líquido.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45933",
+        "lemma": "ñizca",
+        "definition": "una palabra en el dialecto guaraní del Paraguay que significa \"pequeño\".",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46538",
+        "lemma": "opugnar",
+        "definition": "Oponerse a algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "15127",
+        "lemma": "chimpinillera",
+        "definition": "Una planta trepadora originaria de América Central, conocida por sus frutos comestibles.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "05703",
+        "lemma": "aquebrazarse",
+        "definition": "Ponerse rígido y tieso.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55843",
+        "lemma": "revisión",
+        "definition": "Una evaluación cuidadosa de algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "15331",
+        "lemma": "chismografía",
+        "definition": "La chismografía es el estudio de los rumores y las habladurías.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "09802",
+        "lemma": "bochista",
+        "definition": "Persona que conduce una embarcación.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10143",
+        "lemma": "borrumbada",
+        "definition": "borrasca o temporal de lluvia y viento.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "58101",
+        "lemma": "servilmente",
+        "definition": "de manera sumisa.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65550",
+        "lemma": "wahabí",
+        "definition": "Persona que sigue la doctrina islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "43334",
+        "lemma": "mexicanista",
+        "definition": "Alguien que sigue los principios de la cultura mexicana.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65769",
+        "lemma": "yugo",
+        "definition": "elemento de unión, generalmente de madera, que se utiliza para unir dos animales de una misma especie.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65975",
+        "lemma": "zancudero",
+        "definition": "Persona que se dedica al cuidado de los patos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
