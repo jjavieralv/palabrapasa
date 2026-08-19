@@ -37440,5 +37440,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-19",
+    "words": [
+      {
+        "id": "07962",
+        "lemma": "azuche",
+        "definition": "una lámina de metal usada para hacer joyería.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09530",
+        "lemma": "bióxido",
+        "definition": "Compuesto químico formado por dos átomos de oxígeno unidos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "47840",
+        "lemma": "parentesco",
+        "definition": "Relación de parentesco entre personas.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24526",
+        "lemma": "doña",
+        "definition": "Un título de respeto usado para referirse a una mujer de edad avanzada o de alto rango social.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27190",
+        "lemma": "entapizada",
+        "definition": "La entapizada es una técnica de decoración en la que se usan telas para cubrir muebles o paredes.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30341",
+        "lemma": "facistol",
+        "definition": "Una herramienta usada para cavar, comúnmente usada en la agricultura.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "40214",
+        "lemma": "ligapierna",
+        "definition": "Un ligapierna es una herramienta usada para atar y sujetar varias piezas de madera.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "10632",
+        "lemma": "bucheta",
+        "definition": "Pieza de hierro o acero con forma de U, usada para sujetar objetos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "52373",
+        "lemma": "ptialismo",
+        "definition": "El ptialismo es una doctrina política que defiende la autodeterminación y la soberanía de los pueblos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38864",
+        "lemma": "jonuco",
+        "definition": "una planta herbácea de la familia de las gramíneas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10367",
+        "lemma": "break dance",
+        "definition": "Estilo de baile de origen afroamericano que se caracteriza por realizar acrobacias y giros.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40939",
+        "lemma": "lupia",
+        "definition": "lupia es una planta de la familia de las leguminosas.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "55719",
+        "lemma": "retroalimentación",
+        "definition": "una respuesta a una acción o respuesta previa.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "51036",
+        "lemma": "portento",
+        "definition": "algo extraordinario o maravilloso.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "62869",
+        "lemma": "trasmañana",
+        "definition": "al día siguiente o al otro día.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46702",
+        "lemma": "ormesí",
+        "definition": "Una sustancia preciosa y brillante, hecha de una mezcla de metales, comúnmente usada para hacer joyas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48567",
+        "lemma": "pegmatita",
+        "definition": "Una roca ígnea plutónica compuesta mayoritariamente por cristales grandes.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53075",
+        "lemma": "quitapenas",
+        "definition": "una bebida alcohólica, generalmente una cerveza o un vino, que se toma para aliviar el estrés o la tristeza.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56420",
+        "lemma": "rositas",
+        "definition": "Pequeños adornos en forma de flor.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59347",
+        "lemma": "sorna",
+        "definition": "Una broma o burla.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61067",
+        "lemma": "temazcal",
+        "definition": "Una sauna tradicional usada por los pueblos indígenas de México y Centroamérica.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "60060",
+        "lemma": "sustitución",
+        "definition": "acción de reemplazar algo por otra cosa.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "17806",
+        "lemma": "conjuntival",
+        "definition": "Relativo a la conjuntiva.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65551",
+        "lemma": "wahabismo",
+        "definition": "Un movimiento islámico sunita que aboga por una aplicación estricta de los principios del islam.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30128",
+        "lemma": "exprimidor",
+        "definition": "Un dispositivo utilizado para extraer el jugo de frutas y verduras.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "34360",
+        "lemma": "guayola",
+        "definition": "Expresión usada para referirse a algo divertido o entretenido.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65966",
+        "lemma": "zancada",
+        "definition": "Paso largo que se da al andar.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
