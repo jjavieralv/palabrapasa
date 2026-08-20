@@ -37634,5 +37634,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-20",
+    "words": [
+      {
+        "id": "06292",
+        "lemma": "arregosto",
+        "definition": "Una especie de hierba perenne de la familia de las gramíneas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10551",
+        "lemma": "brotón",
+        "definition": "Botón pequeño.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18414",
+        "lemma": "controvertir",
+        "definition": "Discutir o debatir una idea o punto de vista.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "25912",
+        "lemma": "encantadera",
+        "definition": "Persona que practica la magia.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "52532",
+        "lemma": "pulsamiento",
+        "definition": "Acción de latir o moverse con regularidad.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31411",
+        "lemma": "flipearse",
+        "definition": "sentirse muy feliz.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "64776",
+        "lemma": "vergel",
+        "definition": "un vergel es una área de tierra cultivada con árboles frutales.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "09385",
+        "lemma": "bienfecho",
+        "definition": "una acción buena o una dádiva.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "49574",
+        "lemma": "pichar",
+        "definition": "Grafitar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "23136",
+        "lemma": "despojo",
+        "definition": "saqueo, despojo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "36153",
+        "lemma": "identikit",
+        "definition": "Identikit es una técnica usada por la policía para crear un retrato robot de un sospechoso a partir de la descripción de varias personas.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "36174",
+        "lemma": "idolología",
+        "definition": "estudio de los ídolos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43931",
+        "lemma": "mohada",
+        "definition": "Una mohada es una almohada pequeña que se usa para apoyar la cabeza.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45120",
+        "lemma": "narcotismo",
+        "definition": "El estado de adicción a una droga narcótica.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "05776",
+        "lemma": "araño",
+        "definition": "Animal de la familia de los arácnidos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "16615",
+        "lemma": "cofactor",
+        "definition": "Un cofactor es una sustancia química o una molécula orgánica necesaria para que una enzima lleve a cabo una reacción.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "30813",
+        "lemma": "felpar",
+        "definition": "cubrir una superficie con fieltro.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52930",
+        "lemma": "quilquil",
+        "definition": "Quilquil es una planta originaria de Centroamérica, con frutos comestibles.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "23147",
+        "lemma": "desportilladura",
+        "definition": "El proceso de remover el material de una superficie con el fin de darle forma.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "31220",
+        "lemma": "finlaísmo",
+        "definition": "La tendencia a buscar la perfección en todo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "17038",
+        "lemma": "combatimiento",
+        "definition": "una acción de lucha o resistencia para defenderse.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "02234",
+        "lemma": "aiguaste",
+        "definition": "Agua de lluvia.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64354",
+        "lemma": "variablemente",
+        "definition": "de manera variable.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60829",
+        "lemma": "tawahka",
+        "definition": "Perteneciente a una etnia indígena de Nicaragua.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30128",
+        "lemma": "exprimidor",
+        "definition": "Un dispositivo utilizado para extraer el jugo de frutas y verduras.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65757",
+        "lemma": "yuan",
+        "definition": "Moneda oficial de la República Popular China.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "43355",
+        "lemma": "mezquital",
+        "definition": "Una región semiárida en el norte de México.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
