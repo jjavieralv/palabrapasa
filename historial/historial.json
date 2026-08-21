@@ -37828,5 +37828,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "words": [
+      {
+        "id": "27727",
+        "lemma": "epitimar",
+        "definition": "elegir con esmero.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08165",
+        "lemma": "bagasa",
+        "definition": "una mujer de compañía.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "45612",
+        "lemma": "nocaut",
+        "definition": "Golpe que deja inconsciente al contrincante.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "39642",
+        "lemma": "latigadera",
+        "definition": "Látigo para azotar.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "63829",
+        "lemma": "ulteriormente",
+        "definition": "más tarde.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31117",
+        "lemma": "filia",
+        "definition": "Afinidad, amor.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "15762",
+        "lemma": "ciclogénesis",
+        "definition": "Proceso meteorológico que genera una baja presión atmosférica.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34852",
+        "lemma": "helenismo",
+        "definition": "Cultura o estilo de vida griego.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36494",
+        "lemma": "imprimátur",
+        "definition": "Una autorización oficial para publicar un libro o un documento.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38742",
+        "lemma": "jeto",
+        "definition": "Un jeto es una persona que se caracteriza por su actitud despreocupada y desenfadada.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39187",
+        "lemma": "kopek",
+        "definition": "Un kopek es una moneda de curso legal en Rusia y otros países de la antigua Unión Soviética.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "59592",
+        "lemma": "sublimemente",
+        "definition": "de una manera sublime.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44752",
+        "lemma": "multicine",
+        "definition": "Un multicine es un complejo de cines con varias salas de cine.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "44992",
+        "lemma": "naboría",
+        "definition": "Multitud o cantidad abundante de personas.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13795",
+        "lemma": "cañonazo",
+        "definition": "Un disparo de cañón.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "15699",
+        "lemma": "ciaboga",
+        "definition": "prenda de vestir usada en la región de Andalucía.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "49366",
+        "lemma": "pésimamente",
+        "definition": "muy mal.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52986",
+        "lemma": "quinqué",
+        "definition": "Lámpara de aceite o vela con una forma especial para sujetarla.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55103",
+        "lemma": "repellada",
+        "definition": "Acción y efecto de repeler.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "43335",
+        "lemma": "mexiquense",
+        "definition": "Persona o cosa que pertenece al estado mexicano de México.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "55955",
+        "lemma": "ridículamente",
+        "definition": "de forma ridícula, con burla.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "53061",
+        "lemma": "quitación",
+        "definition": "Acción de pagar o cancelar una deuda.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64177",
+        "lemma": "vagoneta",
+        "definition": "Vehículo de transporte público sobre rieles.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "34734",
+        "lemma": "hardware",
+        "definition": "Los componentes físicos de una computadora, como el procesador, la memoria y el disco duro.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65746",
+        "lemma": "yoltasca",
+        "definition": "Persona que se comporta de forma grosera o descortés.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66022",
+        "lemma": "zapateado",
+        "definition": "Baile típico español acompañado de palmas y golpes de los pies en el suelo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
