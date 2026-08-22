@@ -38022,5 +38022,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-22",
+    "words": [
+      {
+        "id": "08492",
+        "lemma": "bandolón",
+        "definition": "Instrumento musical de cuerda de origen español.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "63533",
+        "lemma": "tubérculo",
+        "definition": "cualquier planta con raíz comestible.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17215",
+        "lemma": "compañón",
+        "definition": "Persona que acompaña a otra en un viaje o actividad.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "33255",
+        "lemma": "gerundio",
+        "definition": "El gerundio es una forma verbal en la que un verbo se conjuga como si fuera un sustantivo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "49311",
+        "lemma": "pervertir",
+        "definition": "Corromper o distorsionar algo para satisfacer intereses personales.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30440",
+        "lemma": "faldar",
+        "definition": "Prenda de vestir que cubre desde la cintura hasta los tobillos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "22403",
+        "lemma": "desgaire",
+        "definition": "El desgaire es la falta de cuidado o descuido con algo o alguien.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14867",
+        "lemma": "chasqui",
+        "definition": "Mensajero indígena que corría por los caminos del imperio incaico llevando mensajes.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "22330",
+        "lemma": "desestiba",
+        "definition": "El proceso de desmontar una estructura para desmantelarla.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38614",
+        "lemma": "jarciar",
+        "definition": "Hablar con mucho ruido.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39150",
+        "lemma": "kilobyte",
+        "definition": "una unidad de medida de información equivalente a 1024 bytes.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "35312",
+        "lemma": "hilemorfismo",
+        "definition": "Es una teoría filosófica que sostiene que todos los seres vivos están compuestos por dos principios",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "21312",
+        "lemma": "desamorrar",
+        "definition": "desenroscar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45745",
+        "lemma": "nosocomio",
+        "definition": "Un nosocomio es un hospital o un establecimiento de salud.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45917",
+        "lemma": "ñapindá",
+        "definition": "acción de ajustar con los dedos.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46536",
+        "lemma": "opuestamente",
+        "definition": "de manera opuesta.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "27690",
+        "lemma": "epilogal",
+        "definition": "Que forma parte de un epílogo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "42500",
+        "lemma": "matraquista",
+        "definition": "Es una persona que trabaja con una matraca, una herramienta manual usada para martillar o golpear objetos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53137",
+        "lemma": "rabiosamente",
+        "definition": "Con ira y furia.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "17510",
+        "lemma": "concursar",
+        "definition": "Participar en un concurso o competencia.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "16023",
+        "lemma": "ciquitraque",
+        "definition": "Persona que habla mucho y sin sentido.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "59605",
+        "lemma": "subnormalidad",
+        "definition": "Un trastorno del desarrollo mental que provoca una disminución de la inteligencia.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64759",
+        "lemma": "verdugazo",
+        "definition": "Golpe fuerte con un verdugo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "59013",
+        "lemma": "software",
+        "definition": "Conjunto de programas informáticos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "63477",
+        "lemma": "trox",
+        "definition": "Una herramienta de metal con un filo afilado usada para cortar y raspar.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65780",
+        "lemma": "yuraguano",
+        "definition": "Ave de la familia de los tucanes.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65842",
+        "lemma": "zadorija",
+        "definition": "una pequeña cantidad de algo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
