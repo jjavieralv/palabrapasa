@@ -38216,5 +38216,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-23",
+    "words": [
+      {
+        "id": "59979",
+        "lemma": "suputar",
+        "definition": "Adivinar algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08832",
+        "lemma": "basílica",
+        "definition": "Una iglesia cristiana católica de gran tamaño.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "18167",
+        "lemma": "contrabraza",
+        "definition": "Una contrabraza es una pieza de metal, generalmente de acero, utilizada para sostener y/o sujetar dos partes de una máquina.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "26811",
+        "lemma": "enladrillador",
+        "definition": "Persona que construye con ladrillos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "27780",
+        "lemma": "equis",
+        "definition": "una letra en el alfabeto.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30328",
+        "lemma": "facial",
+        "definition": "Que se ve en la cara.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33644",
+        "lemma": "goterense",
+        "definition": "alguien que es originario o pertenece a la ciudad de Göttingen.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "05652",
+        "lemma": "aprovechar",
+        "definition": "aprovechar una oportunidad.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "18604",
+        "lemma": "coprolalia",
+        "definition": "La repetición involuntaria de palabras obscenas o insultos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "31942",
+        "lemma": "franjar",
+        "definition": "Decorar con franjas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39159",
+        "lemma": "kilómetro",
+        "definition": "una unidad de medida de longitud equivalente a mil metros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "33764",
+        "lemma": "grandilocuencia",
+        "definition": "Uso excesivo de palabras",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43662",
+        "lemma": "miolema",
+        "definition": "Palabra de origen griego que significa enseñanza.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45277",
+        "lemma": "nefelismo",
+        "definition": "Teoría filosófica que afirma que toda la realidad es una sola sustancia.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "59390",
+        "lemma": "sosañar",
+        "definition": "hablar con tono soso.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46237",
+        "lemma": "ofrecer",
+        "definition": "hacer una oferta.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47999",
+        "lemma": "párulis",
+        "definition": "Una inflamación de los tejidos blandos del borde de la oreja.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52934",
+        "lemma": "quimbombó",
+        "definition": "un plato típico cubano compuesto por arroz, frijoles, carne y plátano frito.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54736",
+        "lemma": "rejús",
+        "definition": "Plato típico de la región de Andalucía.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "44951",
+        "lemma": "mutagénesis",
+        "definition": "El proceso mediante el cual se producen cambios en el material genético de un organismo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62123",
+        "lemma": "tongoneo",
+        "definition": "Una forma de baile de origen afro-cubano.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63918",
+        "lemma": "unión",
+        "definition": "El estado de estar unido o asociado.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "01085",
+        "lemma": "activismo",
+        "definition": "Participación activa en campañas políticas o en la defensa de una causa.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30095",
+        "lemma": "exploración",
+        "definition": "el acto de buscar conocimiento o información.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65695",
+        "lemma": "yerbear",
+        "definition": "Acumular hierbas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66246",
+        "lemma": "zorzalero",
+        "definition": "Persona que caza zorzales.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
