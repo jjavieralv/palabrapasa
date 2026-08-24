@@ -38410,5 +38410,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-24",
+    "words": [
+      {
+        "id": "58416",
+        "lemma": "simbólicamente",
+        "definition": "de modo simbólico.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "13844",
+        "lemma": "ceburro",
+        "definition": "Una forma de hablar usada en algunas regiones de España.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18880",
+        "lemma": "correaje",
+        "definition": "El correaje es un conjunto de cinturones, correas y cuerdas que se usan para sujetar algo o para sostener a alguien.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21415",
+        "lemma": "desarropar",
+        "definition": "Quitar la ropa a alguien.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28923",
+        "lemma": "esplendente",
+        "definition": "Brillante, muy hermoso.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31874",
+        "lemma": "frade",
+        "definition": "monje.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "48974",
+        "lemma": "peregrinaje",
+        "definition": "Un viaje religioso o espiritual hecho con el propósito de visitar un lugar sagrado.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34781",
+        "lemma": "haute",
+        "definition": "una actitud arrogante y despectiva.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37926",
+        "lemma": "interpolar",
+        "definition": "Introducir un elemento entre dos o más elementos.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38498",
+        "lemma": "jagüilla",
+        "definition": "Pequeña araña de color café.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "47873",
+        "lemma": "parking",
+        "definition": "Un lugar destinado para el estacionamiento de vehículos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "31377",
+        "lemma": "flegma",
+        "definition": "Frialdad o indiferencia.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42799",
+        "lemma": "mejorana",
+        "definition": "Plantas aromáticas de la familia de las labiadas, de hojas verdes y flores blancas.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "47383",
+        "lemma": "panapén",
+        "definition": "Fruta tropical de color amarillo con un sabor dulce y ácido.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "26587",
+        "lemma": "engañifa",
+        "definition": "Una estratagema para engañar a alguien.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "15353",
+        "lemma": "chistosamente",
+        "definition": "de forma divertida o cómica.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "22997",
+        "lemma": "despegue",
+        "definition": "Movimiento de un avión o un cohete para alcanzar la altura necesaria para volar.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53021",
+        "lemma": "quintuplicación",
+        "definition": "La acción de multiplicar por cinco.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53973",
+        "lemma": "receptación",
+        "definition": "Acción y efecto de recibir algo o a alguien.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57671",
+        "lemma": "sedestación",
+        "definition": "El acto de sentarse y mantenerse sentado durante un período de tiempo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62316",
+        "lemma": "torreznada",
+        "definition": "Una comida a base de torreznos, generalmente acompañada de pan y bebida.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "21086",
+        "lemma": "derrengadura",
+        "definition": "La acción de arrancar o desgarrar algo con violencia.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "40594",
+        "lemma": "llovida",
+        "definition": "Una fuerte lluvia, generalmente corta pero intensa.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65567",
+        "lemma": "windsurf",
+        "definition": "Es un deporte acuático que se practica sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "40066",
+        "lemma": "lexicografía",
+        "definition": "La ciencia y el arte de compilar diccionarios y otras obras de referencia.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65748",
+        "lemma": "yonqui",
+        "definition": "Un yonqui es una persona adicta a la heroína u otras drogas ilegales.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "13689",
+        "lemma": "cazadotes",
+        "definition": "Una trampa para cazar animales.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
