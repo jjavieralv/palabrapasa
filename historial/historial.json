@@ -38798,5 +38798,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-26",
+    "words": [
+      {
+        "id": "08617",
+        "lemma": "barbiquejo",
+        "definition": "Parte delantera de la cabeza del caballo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "62919",
+        "lemma": "trastabillante",
+        "definition": "Que tambalea.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "20124",
+        "lemma": "cuotear",
+        "definition": "dividir en partes iguales",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "63692",
+        "lemma": "turbodiésel",
+        "definition": "Motor de combustión interna en el que se mezcla combustible con aire comprimido.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29946",
+        "lemma": "execuátur",
+        "definition": "Un documento legal que autoriza a una persona para realizar una acción en nombre de otra.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "46231",
+        "lemma": "oficiosidad",
+        "definition": "La oficiosidad es la disposición a ayudar a otros sin esperar nada a cambio.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33610",
+        "lemma": "gorila",
+        "definition": "Primata de gran tamaño, de color negro y con un pecho blanco.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35462",
+        "lemma": "hipostasiar",
+        "definition": "personificar, dar vida a algo abstracto.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "41822",
+        "lemma": "maniobrista",
+        "definition": "Persona que maneja vehículos militares.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "53854",
+        "lemma": "rebujar",
+        "definition": "desordenar o deshacer algo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39187",
+        "lemma": "kopek",
+        "definition": "Un kopek es una moneda de curso legal en Rusia y otros países de la antigua Unión Soviética.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "05802",
+        "lemma": "arbollón",
+        "definition": "Trozo de madera con forma de bola.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "14554",
+        "lemma": "chamagua",
+        "definition": "Planta herbácea de la familia de las compuestas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "61398",
+        "lemma": "ternilla",
+        "definition": "La ternilla es una pequeña prenda de vestir de punto, generalmente de lana, que se usa para abrigar el cuello.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45902",
+        "lemma": "ñacundá",
+        "definition": "Instrumento musical de viento, típico de algunas regiones de Colombia.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46381",
+        "lemma": "ombú",
+        "definition": "Un árbol de la familia de las fíbolas, originario de Sudamérica.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "56611",
+        "lemma": "rumpiata",
+        "definition": "Una danza popular italiana alegre y divertida.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52165",
+        "lemma": "prosénquima",
+        "definition": "La sensación de tener que hablar con alguien que no te gusta.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54172",
+        "lemma": "rectamente",
+        "definition": "de forma recta.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "41856",
+        "lemma": "manosanta",
+        "definition": "Persona que lleva a cabo acciones buenas y altruistas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "19026",
+        "lemma": "cortesense",
+        "definition": "Persona que nació o reside en la ciudad de Corrientes, Argentina.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "05085",
+        "lemma": "antruejar",
+        "definition": "hacer que algo se ennegrezca.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65398",
+        "lemma": "voladura",
+        "definition": "La acción de volar, hacer volar o hacer saltar algo con explosivos.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "35604",
+        "lemma": "hollywoodense",
+        "definition": "Relativo a Hollywood, una ciudad de los Estados Unidos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "19028",
+        "lemma": "córtex",
+        "definition": "El córtex es la capa externa del cerebro, compuesta de tejido neuronal.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65624",
+        "lemma": "yaguasa",
+        "definition": "La yaguasa es una ave rapaz nocturna que se encuentra en América del Sur.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66134",
+        "lemma": "zeína",
+        "definition": "Planta de la familia de las leguminosas, de flores amarillas y fruto en vaina.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
