@@ -38992,5 +38992,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-27",
+    "words": [
+      {
+        "id": "01748",
+        "lemma": "agállara",
+        "definition": "Una pequeña habitación con una sola puerta.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "00199",
+        "lemma": "abogadil",
+        "definition": "Relativo a un abogado o a la profesión de abogado.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18243",
+        "lemma": "contrahierba",
+        "definition": "Una contrahierba es una planta que se usa para combatir la hierba y otras malezas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22923",
+        "lemma": "despalillado",
+        "definition": "El proceso de separar los granos de una planta de sus vainas.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27781",
+        "lemma": "equiseto",
+        "definition": "una planta herbácea perenne de la familia de las Equisetáceas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "29145",
+        "lemma": "estafero",
+        "definition": "Engaño, estafa.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "25008",
+        "lemma": "electrofisiología",
+        "definition": "Estudio de la actividad eléctrica del cuerpo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35096",
+        "lemma": "herrón",
+        "definition": "Persona que trabaja en la fabricación del hierro.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "46378",
+        "lemma": "ombliguero",
+        "definition": "Una prenda de vestir con forma de círculo, generalmente usada por las mujeres para cubrir el ombligo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "48623",
+        "lemma": "pelaje",
+        "definition": "El pelaje es el conjunto de pelos que cubren el cuerpo de los animales.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "04112",
+        "lemma": "amok",
+        "definition": "estado de violencia desenfrenada.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39433",
+        "lemma": "lampatán",
+        "definition": "Pez de agua dulce de la familia de los ciprínidos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "25728",
+        "lemma": "empuntar",
+        "definition": "Afilar una herramienta o arma.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "13526",
+        "lemma": "catirrino",
+        "definition": "animal del género de los felinos",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45941",
+        "lemma": "ñorbo",
+        "definition": "Persona muy habladora.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46340",
+        "lemma": "olivarda",
+        "definition": "una planta con hojas verdes y flores blancas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48293",
+        "lemma": "patriotismo",
+        "definition": "El amor y el respeto por la propia patria.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "44971",
+        "lemma": "muñequería",
+        "definition": "El arte de crear muñecas de materiales diversos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "60123",
+        "lemma": "tabellar",
+        "definition": "anotar, registrar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "32970",
+        "lemma": "gasajo",
+        "definition": "un regalo o una sorpresa.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "23518",
+        "lemma": "detraimiento",
+        "definition": "la acción de desprender o separar algo de otra cosa.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64022",
+        "lemma": "urucú",
+        "definition": "Una planta tropical de la familia de las marantáceas, conocida también como palo de aceite.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "27595",
+        "lemma": "envoltorio",
+        "definition": "Un envoltorio es un material utilizado para envolver algo para protegerlo o conservarlo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "60829",
+        "lemma": "tawahka",
+        "definition": "Perteneciente a una etnia indígena de Nicaragua.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "34361",
+        "lemma": "guayuco",
+        "definition": "Arbusto de la familia de las gramíneas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "40073",
+        "lemma": "lezna",
+        "definition": "Herramienta con mango y cuchilla usada para cortar madera.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
