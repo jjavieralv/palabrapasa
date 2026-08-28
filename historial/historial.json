@@ -39186,5 +39186,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-28",
+    "words": [
+      {
+        "id": "63772",
+        "lemma": "tutorizar",
+        "definition": "asesorar o guiar a alguien.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08675",
+        "lemma": "baría",
+        "definition": "Lugar donde se almacenan los materiales de construcción.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "06315",
+        "lemma": "arremueco",
+        "definition": "Un movimiento rápido y brusco.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24271",
+        "lemma": "divinamente",
+        "definition": "de una manera divina.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "02834",
+        "lemma": "aldosterona",
+        "definition": "una hormona esteroide producida por las glándulas suprarrenales que regula la presión arterial.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31055",
+        "lemma": "figón",
+        "definition": "Establecimiento donde se sirve comida y bebida.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "22212",
+        "lemma": "desengrosar",
+        "definition": "hacer más delgado algo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "03779",
+        "lemma": "amacharse",
+        "definition": "Dejarse caer al suelo.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "01863",
+        "lemma": "agorafobia",
+        "definition": "Miedo a estar en espacios abiertos o en lugares públicos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "31423",
+        "lemma": "flojear",
+        "definition": "Actuar con pereza o desgana.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "06790",
+        "lemma": "askenazí",
+        "definition": "Relativo a la etnia judía asquenazí.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "02373",
+        "lemma": "alabanza",
+        "definition": "Elogio entusiasta de alguien o algo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43122",
+        "lemma": "mergo",
+        "definition": "Una acción de sumergirse en el agua.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45304",
+        "lemma": "negocio",
+        "definition": "Actividad o empresa lucrativa.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45918",
+        "lemma": "ñaque",
+        "definition": "Es una forma de bailar típica de la región de los Andes de Perú, Bolivia y Ecuador.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46671",
+        "lemma": "origen",
+        "definition": "El origen es el punto de partida de una persona, lugar o cosa.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "55145",
+        "lemma": "repiqueteo",
+        "definition": "sonido rítmico y repetitivo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "15237",
+        "lemma": "chiquizuela",
+        "definition": "Una chiquizuela es una pequeña y divertida pelea entre dos o más personas, generalmente entre niños.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "21572",
+        "lemma": "desbrozamiento",
+        "definition": "El desbrozamiento es el proceso de eliminar el follaje, maleza y otros materiales de un área.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59518",
+        "lemma": "subcontratar",
+        "definition": "Contratar a un tercero para realizar un trabajo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "64228",
+        "lemma": "valerosamente",
+        "definition": "Con valentía y coraje.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63902",
+        "lemma": "unidamente",
+        "definition": "Unidos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "07669",
+        "lemma": "avatí",
+        "definition": "Un avatí es una planta trepadora de la familia de las leguminosas.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65566",
+        "lemma": "wincha",
+        "definition": "Una polea con una cuerda enrollada en ella usada para elevar objetos pesados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65572",
+        "lemma": "x",
+        "definition": "X es una letra del alfabeto.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "18512",
+        "lemma": "conyugal",
+        "definition": "relacionado con el matrimonio.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "36589",
+        "lemma": "inanalizable",
+        "definition": "Sinusal: Relacionado con los senos nasales.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
