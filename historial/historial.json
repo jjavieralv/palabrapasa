@@ -39380,5 +39380,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-29",
+    "words": [
+      {
+        "id": "41045",
+        "lemma": "machaquería",
+        "definition": "Una forma de trato injusto o abusivo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10314",
+        "lemma": "brandy",
+        "definition": "Bebida alcohólica destilada a partir de vino.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "43764",
+        "lemma": "mistificación",
+        "definition": "Acción de hacer algo más complicado de lo que es en realidad.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23491",
+        "lemma": "detente",
+        "definition": "Orden para que alguien se detenga.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "10883",
+        "lemma": "buzamiento",
+        "definition": "Acción de silbar o bufar.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "35252",
+        "lemma": "hierofanía",
+        "definition": "Manifestación de lo sagrado en la naturaleza o en el mundo humano.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "47465",
+        "lemma": "pangasinán",
+        "definition": "Una provincia de Filipinas situada en la costa occidental de Luzón.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34844",
+        "lemma": "helaje",
+        "definition": "Helaje es una palabra de origen árabe que se refiere al acto de desobedecer a una autoridad.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "65666",
+        "lemma": "yatrogenia",
+        "definition": "Una enfermedad o un efecto secundario causado por el tratamiento médico.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "49753",
+        "lemma": "pilotaje",
+        "definition": "El pilotaje es el proceso de guiar una aeronave a través de los aires.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39146",
+        "lemma": "kikuyo",
+        "definition": "Hierba tropical comestible.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "06092",
+        "lemma": "armilla",
+        "definition": "Una banda de metal o cuero que se usa para adornar el brazo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44728",
+        "lemma": "muletada",
+        "definition": "Una cantidad de dinero.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "60899",
+        "lemma": "tecnológicamente",
+        "definition": "Relacionado con la tecnología.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45931",
+        "lemma": "ñisca",
+        "definition": "un pequeño pez de agua dulce de la familia de los ciprinodontiformes.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "07396",
+        "lemma": "audioprotesista",
+        "definition": "Profesional que se dedica a la evaluación, tratamiento y rehabilitación de los trastornos auditivos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "18209",
+        "lemma": "contraejemplo",
+        "definition": "Un ejemplo que muestra lo contrario de lo que se está diciendo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53067",
+        "lemma": "quitamente",
+        "definition": "de manera silenciosa o sin ruido.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "66133",
+        "lemma": "zegrí",
+        "definition": "Estilo de música andalusí de origen africano.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58655",
+        "lemma": "sitiar",
+        "definition": "rodear una ciudad con tropas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "08851",
+        "lemma": "bastardar",
+        "definition": "convertirse en bastardo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63994",
+        "lemma": "uretra",
+        "definition": "La uretra es un conducto muscular que transporta la orina desde la vejiga hasta el exterior del cuerpo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "55849",
+        "lemma": "revistar",
+        "definition": "inspeccionar un lugar.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65585",
+        "lemma": "xeroteca",
+        "definition": "Una xeroteca es un lugar dedicado a la conservación de documentos antiguos y de gran valor histórico.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "39865",
+        "lemma": "leguleyada",
+        "definition": "Una leguleyada es una discusión o una disputa entre personas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "49475",
+        "lemma": "peñascazo",
+        "definition": "Una gran roca que se encuentra en una montaña.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
