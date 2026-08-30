@@ -39574,5 +39574,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-30",
+    "words": [
+      {
+        "id": "05577",
+        "lemma": "apozarse",
+        "definition": "Descansar en un lugar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10186",
+        "lemma": "botarel",
+        "definition": "Pez de agua dulce de la familia de los ciprínidos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "17416",
+        "lemma": "concertadamente",
+        "definition": "de acuerdo, de manera concertada",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "26331",
+        "lemma": "endiosamiento",
+        "definition": "El acto de adorar a alguien o algo como si fuera un dios.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "58115",
+        "lemma": "sescuncia",
+        "definition": "Una cantidad muy pequeña.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30748",
+        "lemma": "fazaña",
+        "definition": "Una fazaña es un acto de gran hazaña o valentía.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "52342",
+        "lemma": "psicologista",
+        "definition": "Persona que estudia la mente humana y el comportamiento para ayudar a las personas a alcanzar un mejor equilibrio emocional y mental.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34813",
+        "lemma": "hebraísmo",
+        "definition": "Palabra o expresión propia del lenguaje hebreo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "24141",
+        "lemma": "disonancia",
+        "definition": "Falta de armonía entre dos o más elementos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "01607",
+        "lemma": "afijación",
+        "definition": "La acción de fijar algo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39190",
+        "lemma": "krausismo",
+        "definition": "Un movimiento filosófico del siglo XIX, fundado por el alemán Karl Christian Friedrich Krause.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "50350",
+        "lemma": "platicadera",
+        "definition": "Una platicadera es una conversación informal entre amigos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "00881",
+        "lemma": "acogimiento",
+        "definition": "Acción de acoger o recibir a alguien.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "13255",
+        "lemma": "caseramente",
+        "definition": "de manera casera.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "55677",
+        "lemma": "retoñecer",
+        "definition": "Volver a crecer después de un periodo de sequía.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46053",
+        "lemma": "obsolescente",
+        "definition": "Que está en desuso o en desaparición.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "32450",
+        "lemma": "gachapazo",
+        "definition": "movimiento rápido y brusco.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52949",
+        "lemma": "quin",
+        "definition": "una herramienta usada para cortar.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "00933",
+        "lemma": "aconchar",
+        "definition": "Cubrir con conchas.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "51186",
+        "lemma": "postular",
+        "definition": "proponer una idea o una persona para un puesto.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "23869",
+        "lemma": "dimanante",
+        "definition": "fluir, emanar",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63970",
+        "lemma": "urbanamente",
+        "definition": "De forma urbana.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "30728",
+        "lemma": "fauvista",
+        "definition": "Perteneciente o relativo al movimiento artístico Fauvismo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "59935",
+        "lemma": "superwoman",
+        "definition": "Una mujer que tiene habilidades y poderes especiales que la hacen destacar por encima de los demás.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65794",
+        "lemma": "yuyo",
+        "definition": "hierba o maleza que crece en lugares incultos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65820",
+        "lemma": "zaca",
+        "definition": "Una zaca es una embarcación de tamaño mediano usada en el Mediterráneo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
