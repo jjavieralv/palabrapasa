@@ -39768,5 +39768,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "words": [
+      {
+        "id": "01715",
+        "lemma": "afrodita",
+        "definition": "Diosa griega de la belleza y el amor.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "31400",
+        "lemma": "flexibilizar",
+        "definition": "hacer algo más flexible.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11631",
+        "lemma": "calilla",
+        "definition": "Una persona astuta o desconfiada.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "36909",
+        "lemma": "indeleblemente",
+        "definition": "indeleblemente, de manera permanente.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "24987",
+        "lemma": "electrificación",
+        "definition": "La electrificación es el proceso de hacer que algo se vuelva eléctrico, generalmente mediante la conexión de cables, baterías, etc.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30468",
+        "lemma": "fallutear",
+        "definition": "Hacer una señal con una trompeta.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34301",
+        "lemma": "guasábara",
+        "definition": "Instrumento musical de percusión formado por dos tablas de madera unidas por una cuerda.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35075",
+        "lemma": "herrado",
+        "definition": "la acción de proporcionar a un animal herraduras para proteger sus cascos.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "02876",
+        "lemma": "alegorizar",
+        "definition": "usar una historia para representar una idea abstracta.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "11011",
+        "lemma": "cabotaje",
+        "definition": "El transporte de mercancías o pasajeros dentro de un país o entre dos puertos de un mismo país.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39146",
+        "lemma": "kikuyo",
+        "definition": "Hierba tropical comestible.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40739",
+        "lemma": "longor",
+        "definition": "Largo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "18857",
+        "lemma": "corporativamente",
+        "definition": "De manera corporativa o relacionada con una empresa.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45890",
+        "lemma": "nutricionista",
+        "definition": "Un profesional que se especializa en la nutrición y el cuidado de la salud.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "52720",
+        "lemma": "puñetear",
+        "definition": "Golpear con el puño.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46276",
+        "lemma": "ojimel",
+        "definition": "El ojimel es una figura poética usada en la poesía medieval española para la descripción de una idea o sentimiento.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "14697",
+        "lemma": "chapaletear",
+        "definition": "Moverse con mucha energía.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53065",
+        "lemma": "quitaipón",
+        "definition": "Un juego tradicional de la región de Galicia, España, en el que dos equipos de dos jugadores cada uno compiten para conseguir la mayor cantidad de puntos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56161",
+        "lemma": "roche",
+        "definition": "una formación rocosa en la tierra.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "15004",
+        "lemma": "chichinguaste",
+        "definition": "Arbusto de la familia de las leguminosas que crece en Centroamérica.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63334",
+        "lemma": "trivial",
+        "definition": "De poca importancia o sin valor.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63832",
+        "lemma": "ultimadamente",
+        "definition": "al final, por último.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64772",
+        "lemma": "vergajazo",
+        "definition": "Un golpe dado con una verga.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65550",
+        "lemma": "wahabí",
+        "definition": "Persona que sigue la doctrina islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65597",
+        "lemma": "xocoyote",
+        "definition": "Animal canino",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "05570",
+        "lemma": "apoyacabeza",
+        "definition": "Elemento de un asiento para sostener la cabeza.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66034",
+        "lemma": "zapear",
+        "definition": "Cambiar rápidamente entre canales de televisión.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
