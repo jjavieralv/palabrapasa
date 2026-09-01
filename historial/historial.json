@@ -39962,5 +39962,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-01",
+    "words": [
+      {
+        "id": "05255",
+        "lemma": "apatía",
+        "definition": "el estado de indiferencia o desinterés por los acontecimientos o situaciones.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "63373",
+        "lemma": "trolebús",
+        "definition": "Un trolebús es un vehículo de transporte público que se mueve sobre una vía única, conectada a la red eléctrica.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15860",
+        "lemma": "cilantro",
+        "definition": "Hierba aromática de la familia de las Apiáceas, con hojas finas y flores blancas o rosadas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "44101",
+        "lemma": "monedear",
+        "definition": "Acuñar monedas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "11899",
+        "lemma": "camena",
+        "definition": "Animal mamífero carnívoro, de la familia de los mustélidos, con pelaje gris oscuro y una mancha blanca en la parte superior del lomo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "52023",
+        "lemma": "prolificidad",
+        "definition": "La capacidad de producir una cantidad grande de algo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "00067",
+        "lemma": "abarraganamiento",
+        "definition": "Acción de abarraganarse, o sea, de vestirse con ropas usadas o harapientas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "54628",
+        "lemma": "rehabilitación",
+        "definition": "Acción de restaurar algo a su estado original.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38111",
+        "lemma": "inventariar",
+        "definition": "Hacer un inventario.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "45333",
+        "lemma": "nejayote",
+        "definition": "El nejayote es una bebida alcohólica tradicional mexicana hecha con mezcal, agua, canela y azúcar.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "29767",
+        "lemma": "euskara",
+        "definition": "El idioma oficial del País Vasco.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "03752",
+        "lemma": "alverjana",
+        "definition": "Es una planta de la familia de las leguminosas, de la cual se obtiene una legumbre de color verde.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42324",
+        "lemma": "mascar",
+        "definition": "Masticar.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45381",
+        "lemma": "nepe",
+        "definition": "Persona muy torpe o lenta.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45915",
+        "lemma": "ñangotarse",
+        "definition": "divertirse a costa de alguien.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "27988",
+        "lemma": "escalonamiento",
+        "definition": "es el proceso de dividir algo en etapas o niveles.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "05285",
+        "lemma": "apegamiento",
+        "definition": "La acción de unirse fuertemente a algo o alguien.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52868",
+        "lemma": "quichuista",
+        "definition": "persona que habla quichua.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53968",
+        "lemma": "recentar",
+        "definition": "Reunir a un grupo de personas en un lugar.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58956",
+        "lemma": "sociometría",
+        "definition": "Una disciplina que estudia la estructura social y el comportamiento de los individuos en un grupo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "50983",
+        "lemma": "portafirmas",
+        "definition": "Un dispositivo de seguridad para autenticar documentos electrónicos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63869",
+        "lemma": "umbral",
+        "definition": "Límite o frontera.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64289",
+        "lemma": "vanilocuencia",
+        "definition": "Hablar sin contenido.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "35605",
+        "lemma": "hollywoodiense",
+        "definition": "algo relacionado con Hollywood.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29898",
+        "lemma": "excitante",
+        "definition": "Que causa entusiasmo o emoción.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "20292",
+        "lemma": "cuy",
+        "definition": "Cuy es una especie de roedor andino.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66305",
+        "lemma": "zurdal",
+        "definition": "Animal doméstico de granja, de tamaño mediano, con una pelambre lisa y corta.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
