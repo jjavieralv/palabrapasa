@@ -40156,5 +40156,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-02",
+    "words": [
+      {
+        "id": "06794",
+        "lemma": "asmar",
+        "definition": "respirar con dificultad.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "18664",
+        "lemma": "corbata",
+        "definition": "Prenda de vestir para hombres que se usa alrededor del cuello.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "00361",
+        "lemma": "absorbencia",
+        "definition": "Capacidad de absorción de un material.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23753",
+        "lemma": "diezmal",
+        "definition": "Reducir a una décima parte.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "23698",
+        "lemma": "díceres",
+        "definition": "Hablador.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31827",
+        "lemma": "fotolito",
+        "definition": "Negativo fotográfico.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "30630",
+        "lemma": "farmacopsicología",
+        "definition": "Estudio de los efectos psicológicos de los medicamentos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35134",
+        "lemma": "heterosfera",
+        "definition": "Capa de la atmósfera terrestre compuesta por gases.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38048",
+        "lemma": "introyección",
+        "definition": "Proceso de asimilación de características externas de una persona o situación.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "60710",
+        "lemma": "tarjar",
+        "definition": "arreglar con tarjas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39167",
+        "lemma": "kinesiología",
+        "definition": "la ciencia que estudia el movimiento del cuerpo humano.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39602",
+        "lemma": "lasitud",
+        "definition": "falta de energía y de fuerza",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44925",
+        "lemma": "musicalizar",
+        "definition": "Dar música a una obra.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "12370",
+        "lemma": "caparrón",
+        "definition": "Persona gruñona.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45941",
+        "lemma": "ñorbo",
+        "definition": "Persona muy habladora.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46481",
+        "lemma": "opercular",
+        "definition": "Que tiene una forma de operculo o tapa.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50756",
+        "lemma": "pollinarmente",
+        "definition": "pollinizar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "46319",
+        "lemma": "oligarquía",
+        "definition": "Sistema de gobierno en el que un pequeño grupo de personas controla el poder.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53738",
+        "lemma": "reanudar",
+        "definition": "Continuar algo que se ha interrumpido.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "56935",
+        "lemma": "salagón",
+        "definition": "Instrumento musical de cuerda.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "65184",
+        "lemma": "viratón",
+        "definition": "Carrera o competición de larga duración.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63898",
+        "lemma": "unicidad",
+        "definition": "singularidad.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64216",
+        "lemma": "valencianía",
+        "definition": "El carácter y la cultura de la Comunidad Valenciana.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "63785",
+        "lemma": "twist",
+        "definition": "El twist es un baile de los años 50 que se caracteriza por un movimiento de cadera y hombros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "50178",
+        "lemma": "píxel",
+        "definition": "un punto de luz en una pantalla de computadora o televisor.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "05976",
+        "lemma": "argaya",
+        "definition": "La argaya es una embarcación tradicional usada en el norte de España.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "64275",
+        "lemma": "vampirizar",
+        "definition": "saquear, explotar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
