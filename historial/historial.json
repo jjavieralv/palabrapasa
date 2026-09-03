@@ -40350,5 +40350,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-03",
+    "words": [
+      {
+        "id": "32933",
+        "lemma": "garrochero",
+        "definition": "Persona que se dedica a la fabricación de garrochas.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09185",
+        "lemma": "berenjenal",
+        "definition": "Un berenjenal es una situación caótica y confusa.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "37062",
+        "lemma": "industrialización",
+        "definition": "El proceso de convertir una economía agrícola en una economía moderna basada en la producción de bienes y servicios a gran escala.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "56813",
+        "lemma": "saciedad",
+        "definition": "Estado de satisfacción tras haber comido.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "23334",
+        "lemma": "destoserse",
+        "definition": "despojarse de los huesos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31860",
+        "lemma": "foxino",
+        "definition": "Pequeño mamífero de la familia de los zorros.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33022",
+        "lemma": "gatopardo",
+        "definition": "Animal de la familia de los felinos, caracterizado por su coloración moteada.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15058",
+        "lemma": "chiismo",
+        "definition": "El chiismo es una rama del islam que sigue los enseñanzas del imán chií.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36719",
+        "lemma": "incólume",
+        "definition": "sin daño, intacto.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38713",
+        "lemma": "jeribeque",
+        "definition": "una herramienta de jardinería con forma de horquilla para desenterrar hierbas y arbustos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "36219",
+        "lemma": "ikastola",
+        "definition": "una escuela en el País Vasco donde se enseña en euskera.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39659",
+        "lemma": "latinización",
+        "definition": "Proceso de latinizar una lengua o una cultura.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "38398",
+        "lemma": "izamiento",
+        "definition": "el acto de izar una bandera en una estructura.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "08838",
+        "lemma": "basna",
+        "definition": "Una mezcla de hierbas medicinales.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "03250",
+        "lemma": "aliñar",
+        "definition": "Sazonar un alimento con condimentos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "39198",
+        "lemma": "kurchatovio",
+        "definition": "Unidad de medida de energía nuclear equivalente a 4,6 × 1019 julios.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "36729",
+        "lemma": "incomparable",
+        "definition": "Que no puede ser comparado con nada.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "03325",
+        "lemma": "almadraque",
+        "definition": "Instrumento musical de percusión, compuesto por una vara de madera con una cabeza de cuero.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "34184",
+        "lemma": "guardable",
+        "definition": "Algo que se puede guardar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "55347",
+        "lemma": "rescrito",
+        "definition": "Acción de volver a escribir algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63472",
+        "lemma": "troupe",
+        "definition": "Compañía teatral o de artistas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "56940",
+        "lemma": "salamanquesa",
+        "definition": "Una especie de lagartija que vive en Europa y cuyo cuerpo es de color marrón con manchas negras.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "07657",
+        "lemma": "avanzadilla",
+        "definition": "Una pequeña parte de un ejército o de un grupo de personas que se mueve hacia adelante para explorar o para establecer una posición.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "58234",
+        "lemma": "show",
+        "definition": "Un show es un espectáculo público de entretenimiento, generalmente con música, baile y otros elementos de actuación.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30248",
+        "lemma": "extremar",
+        "definition": "Poner el máximo esfuerzo en algo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "13661",
+        "lemma": "cayado",
+        "definition": "una vara con una punta curvada usada por los pastores para conducir y proteger el ganado.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "49558",
+        "lemma": "picaza",
+        "definition": "Ave insectívora de tamaño mediano, con plumaje gris y negro.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
