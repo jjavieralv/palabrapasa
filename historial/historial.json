@@ -40544,5 +40544,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "words": [
+      {
+        "id": "02074",
+        "lemma": "aguciar",
+        "definition": "Aumentar la nitidez o la intensidad de algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "43823",
+        "lemma": "moabita",
+        "definition": "Moabita es un adjetivo que se refiere a algo relacionado con la antigua nación de Moab, que se ubicaba en la actual Jordania.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11058",
+        "lemma": "cacalota",
+        "definition": "una ave de tamaño grande.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23735",
+        "lemma": "dieciocho",
+        "definition": "número cardinal que equivale a dieciséis más dos.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "24931",
+        "lemma": "eirá",
+        "definition": "tela de algodón teñida con colorantes naturales.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32115",
+        "lemma": "fritadería",
+        "definition": "un lugar donde se preparan y venden alimentos fritos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "03866",
+        "lemma": "amargazón",
+        "definition": "Persona que siempre está de mal humor.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35143",
+        "lemma": "hexagrama",
+        "definition": "figura geométrica compuesta por seis líneas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37563",
+        "lemma": "inscribible",
+        "definition": "Capaz de ser inscrito o registrado.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38855",
+        "lemma": "jolín",
+        "definition": "adjetivo para describir a alguien que es atractivo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39191",
+        "lemma": "krausista",
+        "definition": "Seguidor del filósofo checo Jan Hus.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "15192",
+        "lemma": "chingolo",
+        "definition": "Un pez de agua dulce de la familia de los characiformes, de color verde y con una línea negra a lo largo de su cuerpo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "03513",
+        "lemma": "almudín",
+        "definition": "Un recipiente de barro para almacenar líquidos.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45282",
+        "lemma": "nefritis",
+        "definition": "La nefritis es una enfermedad inflamatoria de los riñones.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "34798",
+        "lemma": "hazañosamente",
+        "definition": "con hazañas, con grandes logros.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46503",
+        "lemma": "oporto",
+        "definition": "Una ciudad portuguesa situada en el norte del país.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "25588",
+        "lemma": "empetro",
+        "definition": "Emplear con asiduidad.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "56360",
+        "lemma": "ronqueador",
+        "definition": "Persona que emite sonidos roncos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "29603",
+        "lemma": "estropiezo",
+        "definition": "Un estropiezo es un accidente o una caída.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58171",
+        "lemma": "sex shop",
+        "definition": "Un sex shop es un establecimiento comercial que vende productos relacionados con la sexualidad.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60113",
+        "lemma": "tabardillo",
+        "definition": "Un tabardillo es una prenda de vestir tradicionalmente usada por los caballeros.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63967",
+        "lemma": "urao",
+        "definition": "Pájaro de la familia de los icterídridos, de plumaje negro con reflejos verdosos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65314",
+        "lemma": "vitriolo",
+        "definition": "ácido sulfúrico.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "39199",
+        "lemma": "kuwaití",
+        "definition": "Relativo o perteneciente a Kuwait.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "39741",
+        "lemma": "laxante",
+        "definition": "Medicamento que sirve para aliviar el estreñimiento.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "08989",
+        "lemma": "bayúa",
+        "definition": "Una antigua moneda de plata española",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "58502",
+        "lemma": "sindicalizar",
+        "definition": "unirse a un sindicato.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
