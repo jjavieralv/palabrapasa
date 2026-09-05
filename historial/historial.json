@@ -40738,5 +40738,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-05",
+    "words": [
+      {
+        "id": "03570",
+        "lemma": "alosa",
+        "definition": "Pez de agua dulce de la familia de los salmónidos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "58672",
+        "lemma": "sobaco",
+        "definition": "Área del cuerpo situada entre el brazo y el torso.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11709",
+        "lemma": "calorificación",
+        "definition": "proceso de añadir calor a algo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "63636",
+        "lemma": "tuneado",
+        "definition": "Modificar algo para mejorar su aspecto o rendimiento.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26102",
+        "lemma": "enchironar",
+        "definition": "Encerrar en una prisión.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "42526",
+        "lemma": "matufia",
+        "definition": "Engaño o estafa.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "22686",
+        "lemma": "desmalingrar",
+        "definition": "desacreditar o denigrar a alguien o algo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "56313",
+        "lemma": "rompehielos",
+        "definition": "Barco destinado a abrir un paso a través de los hielos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "42147",
+        "lemma": "marinerazo",
+        "definition": "Un marinerazo es una borrachera muy fuerte que se produce después de beber mucho alcohol.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "08016",
+        "lemma": "añejez",
+        "definition": "Acción de envejecer con el paso del tiempo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39112",
+        "lemma": "k",
+        "definition": "Una abreviatura para el prefijo kilo, que significa mil.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "44052",
+        "lemma": "molturación",
+        "definition": "El proceso de moler un material para reducirlo a partículas más pequeñas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43864",
+        "lemma": "modelable",
+        "definition": "Que se puede modelar o moldear.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45842",
+        "lemma": "nudista",
+        "definition": "Persona que practica el nudismo.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45920",
+        "lemma": "ñaña",
+        "definition": "palabra usada para referirse a algo pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46490",
+        "lemma": "opinar",
+        "definition": "expresar una opinión.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52624",
+        "lemma": "punzó",
+        "definition": "Herramienta usada para perforar.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52950",
+        "lemma": "quina",
+        "definition": "Juego de azar que consiste en elegir cinco números de entre los disponibles.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "35491",
+        "lemma": "hirma",
+        "definition": "Una pequeña formación rocosa, generalmente en forma de cono, que se forma debido a la erosión.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57242",
+        "lemma": "sancta",
+        "definition": "Santidad",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61131",
+        "lemma": "templo",
+        "definition": "Un edificio dedicado al culto religioso, generalmente construido para albergar a una divinidad.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "19800",
+        "lemma": "cubilar",
+        "definition": "Un lugar tranquilo y cómodo para descansar.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64163",
+        "lemma": "vagabundeo",
+        "definition": "Acción de vagar sin rumbo fijo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65582",
+        "lemma": "xeroftalmia",
+        "definition": "enfermedad ocular caracterizada por una sequedad de la córnea.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "07832",
+        "lemma": "ayudanta",
+        "definition": "persona que ayuda a otra, especialmente a alguien de rango superior.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65996",
+        "lemma": "zangotear",
+        "definition": "Hacer ruido con la lengua.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
