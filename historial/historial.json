@@ -40932,5 +40932,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-06",
+    "words": [
+      {
+        "id": "03385",
+        "lemma": "almendrar",
+        "definition": "Pelar almendras.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08231",
+        "lemma": "bajomedieval",
+        "definition": "adjetivo para referirse a algo que pertenece a la Edad Media baja.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11415",
+        "lemma": "calaica",
+        "definition": "Una palabra usada en el dialecto español para referirse a algo que es muy pequeño.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24012",
+        "lemma": "disconformidad",
+        "definition": "Desacuerdo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27196",
+        "lemma": "entarimado",
+        "definition": "Suelo cubierto con tablones.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "53269",
+        "lemma": "radioteléfono",
+        "definition": "Un radioteléfono es un dispositivo de telecomunicación que se utiliza para enviar y recibir mensajes a través de ondas de radio.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34105",
+        "lemma": "guamil",
+        "definition": "una gran ave marina que vive en el Pacífico.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "37349",
+        "lemma": "inhalación",
+        "definition": "Acción de inhalar un gas o una sustancia.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37832",
+        "lemma": "interdicto",
+        "definition": "Una prohibición o prohibición judicial.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "43012",
+        "lemma": "mensajería",
+        "definition": "El acto de enviar y recibir mensajes.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "50380",
+        "lemma": "playback",
+        "definition": "Una forma de actuación musical en la que se reproduce una grabación previamente grabada mientras el artista se mueve al ritmo de la canción.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39678",
+        "lemma": "laúd",
+        "definition": "un instrumento musical de cuerda.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43337",
+        "lemma": "mezanine",
+        "definition": "Una mezanine es una segunda planta de un edificio, generalmente con un techo bajo y poca altura, que se ubica entre el piso principal y el techo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "62679",
+        "lemma": "transfusible",
+        "definition": "que se puede transferir.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "46897",
+        "lemma": "otraño",
+        "definition": "Extraño, desconocido.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "56796",
+        "lemma": "sacasebo",
+        "definition": "una forma de bailar.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "29484",
+        "lemma": "estrapalucio",
+        "definition": "Estrapalucio es una situación caótica, desordenada y confusa.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "31964",
+        "lemma": "frasquera",
+        "definition": "un recipiente para llevar líquidos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53951",
+        "lemma": "recebo",
+        "definition": "Recibir.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57253",
+        "lemma": "sandiar",
+        "definition": "sandiar es el acto de dar golpes con un objeto contundente.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "40145",
+        "lemma": "licantropía",
+        "definition": "Una enfermedad mental en la que la persona cree que se ha convertido en un lobo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "53634",
+        "lemma": "rauda",
+        "definition": "una ave de rapiña de color gris y con una cola larga y puntiaguda.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "33036",
+        "lemma": "gavia",
+        "definition": "Velamen triangular que se usa en los barcos para navegar a favor del viento.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65588",
+        "lemma": "xilema",
+        "definition": "Tejido vascular de los vegetales que transporta agua y nutrientes desde la raíz hasta los órganos vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65733",
+        "lemma": "yodurar",
+        "definition": "Añadir yodo a algo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66200",
+        "lemma": "zoofilia",
+        "definition": "La zoofilia es una práctica sexual que consiste en tener relaciones sexuales con animales.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
