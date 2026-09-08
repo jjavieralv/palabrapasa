@@ -41320,5 +41320,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-08",
+    "words": [
+      {
+        "id": "65137",
+        "lemma": "vindicta",
+        "definition": "venganza.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "21593",
+        "lemma": "descabestrar",
+        "definition": "Desorientar, desconcertar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16506",
+        "lemma": "cochorro",
+        "definition": "Pequeño ciervo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23301",
+        "lemma": "desterronar",
+        "definition": "remover tierra con herramientas mecánicas.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25276",
+        "lemma": "embonada",
+        "definition": "Pieza de cuero o material flexible que se usa para cubrir y proteger algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "54369",
+        "lemma": "refacción",
+        "definition": "Acción de reparar algo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32566",
+        "lemma": "galima",
+        "definition": "Una galima es una pequeña balsa para recoger agua.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "02189",
+        "lemma": "ahorcadora",
+        "definition": "Persona que ahorca a otra.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38235",
+        "lemma": "irreconocible",
+        "definition": "imposible de identificar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38691",
+        "lemma": "jena",
+        "definition": "Una variedad de vino tinto.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39117",
+        "lemma": "kan",
+        "definition": "El kan es una unidad de medida japonesa equivalente aproximadamente a 3,3 litros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "12643",
+        "lemma": "carasol",
+        "definition": "Una pequeña carpa con una abertura en el centro.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "46494",
+        "lemma": "opíparamente",
+        "definition": "con abundancia.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "63740",
+        "lemma": "turrón",
+        "definition": "Un dulce típico de España hecho a base de almendras, miel y huevo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45922",
+        "lemma": "ñañiguismo",
+        "definition": "Estilo de vida caracterizado por el uso excesivo de la lengua vernácula.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46152",
+        "lemma": "octubrino",
+        "definition": "adjetivo para describir algo que es de color púrpura oscuro.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49771",
+        "lemma": "pimiento",
+        "definition": "Una variedad de pimiento.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "27783",
+        "lemma": "equitativamente",
+        "definition": "de manera justa",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55372",
+        "lemma": "resfalosa",
+        "definition": "Una enfermedad respiratoria infecciosa que afecta principalmente a los caballos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "63789",
+        "lemma": "ubetense",
+        "definition": "Relativo o perteneciente a la ciudad de Ubeto, en Venezuela.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60941",
+        "lemma": "tejedura",
+        "definition": "El proceso de hacer tejidos.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63956",
+        "lemma": "upupa",
+        "definition": "Ave de la familia de los Upupidae, con un largo pico, plumaje verde y amarillo y una cola muy larga.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64258",
+        "lemma": "valoría",
+        "definition": "El acto de estimar o juzgar el valor de algo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "20407",
+        "lemma": "darwinista",
+        "definition": "Persona que sigue o acepta las teorías de Charles Darwin.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29887",
+        "lemma": "exceptio veritatis",
+        "definition": "Una excepción a una regla generalmente aceptada como verdadera.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65633",
+        "lemma": "yámana",
+        "definition": "Grupo indígena que habita en la Patagonia, Tierra del Fuego y la isla Navarino en Chile y Argentina.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "53669",
+        "lemma": "razonamiento",
+        "definition": "Habilidad para pensar de manera lógica y analítica.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
