@@ -41514,5 +41514,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-09",
+    "words": [
+      {
+        "id": "33618",
+        "lemma": "gorra",
+        "definition": "una prenda de vestir con forma de sombrero, usada para protegerse del sol o para hacer una declaración de estilo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "38747",
+        "lemma": "jibia",
+        "definition": "un marisco de cuerpo alargado, con una concha externa dura.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "10955",
+        "lemma": "cabdillo",
+        "definition": "Persona que tiene autoridad o mando sobre un grupo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23841",
+        "lemma": "dilatabilidad",
+        "definition": "la capacidad de un material para aumentar su volumen cuando se somete a una presión.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27221",
+        "lemma": "entenzón",
+        "definition": "una forma de baile español tradicional.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "41806",
+        "lemma": "manifestar",
+        "definition": "Mostrar públicamente una opinión.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32920",
+        "lemma": "garria",
+        "definition": "Juego de naipes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "02193",
+        "lemma": "ahorcaperros",
+        "definition": "Persona que se dedica a matar perros.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "39359",
+        "lemma": "lailán",
+        "definition": "Es una palabra que se utiliza para referirse a una persona que es muy activa.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "17903",
+        "lemma": "consejar",
+        "definition": "Dar consejo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39143",
+        "lemma": "kibutz",
+        "definition": "Una comunidad israelí autogestionada.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "51664",
+        "lemma": "presupuestal",
+        "definition": "Relativo al presupuesto.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41794",
+        "lemma": "manía",
+        "definition": "comportamiento obsesivo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "25984",
+        "lemma": "encasamento",
+        "definition": "El acto de encerrar algo en una caja.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45949",
+        "lemma": "ñudillo",
+        "definition": "Cosa pequeña y sin importancia.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46817",
+        "lemma": "osmómetro",
+        "definition": "Instrumento utilizado para medir la presión osmótica.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "58790",
+        "lemma": "sobreexplotación",
+        "definition": "Uso excesivo de los recursos naturales.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "50892",
+        "lemma": "poquedad",
+        "definition": "cantidad pequeña.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "05258",
+        "lemma": "apatrocinar",
+        "definition": "Patrocinar algo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57994",
+        "lemma": "seranear",
+        "definition": "Buscar con la sara.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62472",
+        "lemma": "tracamundana",
+        "definition": "aventura o viaje sin destino fijo.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63983",
+        "lemma": "urdidera",
+        "definition": "Una urdidera es un lugar donde se tejen o trabajan los hilos para hacer prendas o telas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64666",
+        "lemma": "ventosidad",
+        "definition": "El acto o el sonido de expulsar el aire de los pulmones con fuerza.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "57261",
+        "lemma": "sándwich",
+        "definition": "Un sándwich es una comida compuesta por dos rebanadas de pan y un relleno entre ellas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65640",
+        "lemma": "yanacona",
+        "definition": "Un trabajador agrícola o minero en América del Sur.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "27911",
+        "lemma": "esbozar",
+        "definition": "esbozar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
