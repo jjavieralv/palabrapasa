@@ -41708,5 +41708,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-10",
+    "words": [
+      {
+        "id": "07750",
+        "lemma": "avilantez",
+        "definition": "Valor, destreza y habilidad para enfrentar situaciones difíciles.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10892",
+        "lemma": "buzoneo",
+        "definition": "Acción de enviar un correo electrónico a una lista de distribución.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "17987",
+        "lemma": "constitucionalista",
+        "definition": "partidario de la Constitución",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24578",
+        "lemma": "drogota",
+        "definition": "Una persona adicta a las drogas.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27103",
+        "lemma": "enserenar",
+        "definition": "Hacer que algo se vea hermoso.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "20699",
+        "lemma": "defuera",
+        "definition": "al exterior.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32601",
+        "lemma": "galleta",
+        "definition": "Una pequeña y deliciosa pieza de masa horneada hecha con harina, mantequilla, huevos y otros ingredientes.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35509",
+        "lemma": "hispanizar",
+        "definition": "Darle una forma o características españolas a algo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "59239",
+        "lemma": "sonio",
+        "definition": "Sueño profundo y reparador.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38857",
+        "lemma": "jollín",
+        "definition": "Juego tradicional de la región andina.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39185",
+        "lemma": "kohol",
+        "definition": "El kohol es una planta originaria del sureste asiático.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "03310",
+        "lemma": "almacenar",
+        "definition": "Guardar algo para su uso futuro.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43595",
+        "lemma": "mingar",
+        "definition": "Hacer una tarea con poco esfuerzo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45598",
+        "lemma": "niñato",
+        "definition": "una persona muy inmadura o infantil.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13802",
+        "lemma": "cañutazo",
+        "definition": "Golpe que se da con un caño.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "63840",
+        "lemma": "ultracongelar",
+        "definition": "Congelar a temperaturas muy bajas.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52465",
+        "lemma": "puga",
+        "definition": "una pequeña colina.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53091",
+        "lemma": "quiñar",
+        "definition": "Polemizar es discutir con viveza y acritud.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "01712",
+        "lemma": "afrikáans",
+        "definition": "Lengua oficial de Suráfrica que se deriva del holandés.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58164",
+        "lemma": "seudópodo",
+        "definition": "Una estructura temporal creada por un organismo para desplazarse.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62906",
+        "lemma": "traspontín",
+        "definition": "una escalera de mano con una plataforma que se usa para cruzar un río.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "52414",
+        "lemma": "pucia",
+        "definition": "Acción de limpiar algo con un paño húmedo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64425",
+        "lemma": "vecería",
+        "definition": "Establecimiento donde se expenden víveres.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "58181",
+        "lemma": "sexista",
+        "definition": "Que discrimina a alguien basándose en su género.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65632",
+        "lemma": "yale",
+        "definition": "Mamífero artiodáctilo de la familia de los rumiantes.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66099",
+        "lemma": "zarpe",
+        "definition": "Una orden para que una embarcación zarpe.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
