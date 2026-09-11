@@ -41902,5 +41902,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-11",
+    "words": [
+      {
+        "id": "12297",
+        "lemma": "cantiga",
+        "definition": "una canción tradicional de España.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10291",
+        "lemma": "bragada",
+        "definition": "Una tela de lana gruesa y resistente.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11583",
+        "lemma": "calesín",
+        "definition": "Carruaje ligero y abierto.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "54647",
+        "lemma": "rehiladillo",
+        "definition": "Cada uno de los hilos o líneas que se usan para formar un tejido.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "45990",
+        "lemma": "objetivar",
+        "definition": "convertir algo en un objetivo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "22401",
+        "lemma": "desfundar",
+        "definition": "Deshacer una fundición.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34335",
+        "lemma": "guatiní",
+        "definition": "Una ave tropical de América del Sur.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "44397",
+        "lemma": "moriche",
+        "definition": "palmera tropical de la familia de las Arecaceae, con un tronco grueso y una copa amplia.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "01047",
+        "lemma": "acristianar",
+        "definition": "Convertir a alguien al cristianismo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38800",
+        "lemma": "jipa",
+        "definition": "Instrumento musical de viento de origen africano.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "52576",
+        "lemma": "punk",
+        "definition": "estilo musical que surgió en los años 70, caracterizado por letras provocativas y una actitud de rebeldía.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39935",
+        "lemma": "lenón",
+        "definition": "Persona que explota a otra para obtener beneficio económico.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "25244",
+        "lemma": "emblemáticamente",
+        "definition": "de manera simbólica.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45652",
+        "lemma": "nómada",
+        "definition": "Persona que vive sin un hogar permanente y viaja de un lugar a otro.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45950",
+        "lemma": "ñudo",
+        "definition": "Nudo complicado hecho con una cuerda o con una tira de tela.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46636",
+        "lemma": "organización",
+        "definition": "Una estructura de personas y recursos diseñada para lograr objetivos específicos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52429",
+        "lemma": "pudrigorio",
+        "definition": "Una forma de poesía lírica que se caracteriza por la extensión de sus versos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52761",
+        "lemma": "quechuista",
+        "definition": "Un quechuista es una persona que habla el quechua, una lengua nativa de Sudamérica.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54079",
+        "lemma": "recolectar",
+        "definition": "Reunir algo, generalmente con fines de conservación o de aprovechamiento.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58585",
+        "lemma": "sinvergonzonada",
+        "definition": "La sinvergonzonada es una persona que no tiene vergüenza y se comporta de forma descarada.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63042",
+        "lemma": "tremedal",
+        "definition": "Lugar donde se recolectan tréboles.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "34020",
+        "lemma": "guachapear",
+        "definition": "bailar una música tradicional de la región andina.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65039",
+        "lemma": "vidual",
+        "definition": "Relativo a la vid.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "10764",
+        "lemma": "bungalow",
+        "definition": "Un bungalow es una casa de una sola planta con un techo bajo.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "46941",
+        "lemma": "oxalme",
+        "definition": "El oxalme es una planta medicinal de la familia de las liliáceas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65723",
+        "lemma": "yina",
+        "definition": "Instrumento musical tradicional de Perú hecho de madera.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "37905",
+        "lemma": "internacionalización",
+        "definition": "El proceso de expandir los negocios, productos o servicios a una escala internacional.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
