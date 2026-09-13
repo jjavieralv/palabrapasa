@@ -42290,5 +42290,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-13",
+    "words": [
+      {
+        "id": "15187",
+        "lemma": "chingar",
+        "definition": "usar palabras malsonantes.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "46565",
+        "lemma": "orbicular",
+        "definition": "Redondo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "30418",
+        "lemma": "falárica",
+        "definition": "Relativo a la fábula.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20546",
+        "lemma": "decímetro",
+        "definition": "unidad de medida equivalente a 0.1 metros.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28279",
+        "lemma": "escoliosis",
+        "definition": "La escoliosis es una enfermedad que causa una curvatura anormal de la columna vertebral.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31334",
+        "lemma": "flamenquilla",
+        "definition": "pez de la familia de los escómbridos, de color negro y blanco.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34538",
+        "lemma": "gusto",
+        "definition": "El sentido de saborear algo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35873",
+        "lemma": "hoyanco",
+        "definition": "Un hoyanco es un agujero en la tierra, generalmente hecho por animales excavando.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37053",
+        "lemma": "indultar",
+        "definition": "Perdonar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "09441",
+        "lemma": "billetaje",
+        "definition": "El billetaje es el proceso de compra, emisión y validación de billetes de transporte o entradas para eventos.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "52577",
+        "lemma": "punki",
+        "definition": "Estilo musical y juvenil.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "54753",
+        "lemma": "relajear",
+        "definition": "Disminuir la rigidez de algo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "46751",
+        "lemma": "ortodromía",
+        "definition": "La línea recta que une dos puntos distantes en una superficie esférica.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45498",
+        "lemma": "nicho",
+        "definition": "Espacio reducido con un propósito específico.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45935",
+        "lemma": "ñocha",
+        "definition": "una mujer joven, atractiva y con poca experiencia.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46528",
+        "lemma": "optimate",
+        "definition": "Persona que se esfuerza por conseguir el mejor resultado posible.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50037",
+        "lemma": "piruétano",
+        "definition": "Persona que realiza piruetas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52866",
+        "lemma": "quichua",
+        "definition": "Una lengua amerindia originaria de los Andes",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54633",
+        "lemma": "rehalero",
+        "definition": "Persona que fabrica o vende rehales.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "51096",
+        "lemma": "posible",
+        "definition": "Algo que es factible de lograr.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63396",
+        "lemma": "trompetilla",
+        "definition": "Instrumento musical de viento compuesto por una boquilla, una campana y una vara.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64114",
+        "lemma": "uñidura",
+        "definition": "Acción y efecto de unirse.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64416",
+        "lemma": "vaticanista",
+        "definition": "Relativo al Estado de la Ciudad del Vaticano.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29982",
+        "lemma": "eximente",
+        "definition": "Exento, libre de cualquier responsabilidad.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "53645",
+        "lemma": "rayada",
+        "definition": "Una rayada es una línea o una marca formada por rayas o líneas paralelas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65326",
+        "lemma": "viudez",
+        "definition": "El estado de una persona que ha perdido a su cónyuge por la muerte.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
