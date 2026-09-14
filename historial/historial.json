@@ -42484,5 +42484,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-14",
+    "words": [
+      {
+        "id": "04646",
+        "lemma": "animalidad",
+        "definition": "La animalidad es la cualidad de ser animal, es decir, de pertenecer a una especie animal.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09296",
+        "lemma": "bezaar",
+        "definition": "Un mercado oriental, especialmente en los países del Medio Oriente, donde se venden una variedad de productos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "37562",
+        "lemma": "insatisfacción",
+        "definition": "Estado o sentimiento de no estar satisfecho.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23620",
+        "lemma": "diagonal",
+        "definition": "Línea que une dos puntos de una figura que no son vértices.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "61323",
+        "lemma": "tercianela",
+        "definition": "Una forma de hablar con tono burlón.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30970",
+        "lemma": "feudalidad",
+        "definition": "El sistema de gobierno y organización social basado en la relación entre señor y siervo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "57724",
+        "lemma": "seguramiento",
+        "definition": "El acto de observar algo o a alguien.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35384",
+        "lemma": "hiperespacio",
+        "definition": "Un concepto de física teórica que describe una dimensión espacial con más de tres dimensiones.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "29047",
+        "lemma": "esquifazón",
+        "definition": "El acto de evadirse, eludir o eludir una pregunta o tema.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "39012",
+        "lemma": "junciera",
+        "definition": "Planta herbácea perenne con hojas carnosas y una flor blanca.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39153",
+        "lemma": "kilográmetro",
+        "definition": "Es una unidad de longitud, equivalente a mil metros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "37012",
+        "lemma": "individualizante",
+        "definition": "individualizante es un adjetivo que se utiliza para describir algo que busca la individualización de una persona.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "30062",
+        "lemma": "experimentación",
+        "definition": "La experimentación es el proceso de realizar experimentos para descubrir algo nuevo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45190",
+        "lemma": "náusea",
+        "definition": "La náusea es una sensación de malestar en el estómago, que puede ser acompañada por vómitos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13443",
+        "lemma": "cataraña",
+        "definition": "Una cataraña es una red de pesca usada por los pescadores para atrapar pequeños peces.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "07736",
+        "lemma": "aviamiento",
+        "definition": "El aviamiento es el acto de proporcionar los medios para realizar una actividad.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "28699",
+        "lemma": "espartar",
+        "definition": "Dividir una superficie en partes iguales.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "25562",
+        "lemma": "empequeñecer",
+        "definition": "hacer más pequeño.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "28101",
+        "lemma": "escarcina",
+        "definition": "pequeña y delgada línea de hielo.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "53584",
+        "lemma": "rastrallar",
+        "definition": "Barrer con un rastrillo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "46673",
+        "lemma": "origenista",
+        "definition": "Que se relaciona con el origen de algo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63900",
+        "lemma": "unicornio",
+        "definition": "Una criatura mítica con un cuerno largo en la frente.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "24252",
+        "lemma": "diversamente",
+        "definition": "de manera diferente.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65551",
+        "lemma": "wahabismo",
+        "definition": "Un movimiento islámico sunita que aboga por una aplicación estricta de los principios del islam.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "61916",
+        "lemma": "tixotropía",
+        "definition": "Propiedad de un material para cambiar su viscosidad cuando se aplica una fuerza.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "47531",
+        "lemma": "panty",
+        "definition": "Bragas",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65974",
+        "lemma": "zancudal",
+        "definition": "Una variedad de ave de rapiña.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
