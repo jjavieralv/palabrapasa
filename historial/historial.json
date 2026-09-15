@@ -42678,5 +42678,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-15",
+    "words": [
+      {
+        "id": "34765",
+        "lemma": "hartera",
+        "definition": "Una persona que trabaja para recuperar deudas.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "64333",
+        "lemma": "varbasco",
+        "definition": "Varbasco es una bebida alcohólica tradicional de la región de Galicia, España.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "09784",
+        "lemma": "bocazo",
+        "definition": "Acción de dar un bocado a algo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21338",
+        "lemma": "desapaciblemente",
+        "definition": "de manera desagradable.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29913",
+        "lemma": "excluyente",
+        "definition": "Que excluye o impide la participación de alguien.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "37227",
+        "lemma": "infinitud",
+        "definition": "La cualidad de ser infinito.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "06867",
+        "lemma": "aspergear",
+        "definition": "rociar",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34598",
+        "lemma": "habitual",
+        "definition": "Que se hace o se repite con frecuencia.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "64619",
+        "lemma": "venir",
+        "definition": "Llegar a un lugar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38416",
+        "lemma": "jabaluna",
+        "definition": "una especie de pequeño mamífero de la familia de los murciélagos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39115",
+        "lemma": "káiser",
+        "definition": "Título dado al emperador alemán.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "34809",
+        "lemma": "hebillaje",
+        "definition": "El hebillaje es una técnica de arte decorativo que se caracteriza por la aplicación de pequeñas piezas de madera, metal o vidrio a una superficie para crear un diseño.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "60999",
+        "lemma": "telegráficamente",
+        "definition": "advérbio que describe la acción de transmitir algo a través de un telegrama.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45342",
+        "lemma": "nembrar",
+        "definition": "Nombrar a alguien para un puesto.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "15697",
+        "lemma": "chuño",
+        "definition": "Alimento preparado con papas deshidratadas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46617",
+        "lemma": "orfanato",
+        "definition": "Un lugar donde los niños huérfanos son cuidados y educados.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49053",
+        "lemma": "pericote",
+        "definition": "Pequeño roedor de la familia de los cérvidos.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "08734",
+        "lemma": "barraquista",
+        "definition": "persona que vive en una barraca",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "63088",
+        "lemma": "trepatroncos",
+        "definition": "Un juego de niños en el que uno de ellos debe saltar entre los troncos de árboles sin caerse.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "00505",
+        "lemma": "acantocitosis",
+        "definition": "Enfermedad hematológica caracterizada por la presencia de eritrocitos con forma de punta de lanza.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62021",
+        "lemma": "tojino",
+        "definition": "Persona tímida y poco habladora.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "10723",
+        "lemma": "bular",
+        "definition": "Andar por un lugar con paso firme.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64284",
+        "lemma": "vanguarda",
+        "definition": "La avanzada de un ejército o de una tendencia.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65567",
+        "lemma": "windsurf",
+        "definition": "Es un deporte acuático que se practica sobre una tabla de surf con una vela.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65574",
+        "lemma": "xantoma",
+        "definition": "Tumor benigno de la piel, compuesto por depósitos grasos.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65686",
+        "lemma": "yen",
+        "definition": "La moneda oficial de Japón.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65936",
+        "lemma": "zambullir",
+        "definition": "sumergirse en el agua.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
