@@ -42872,5 +42872,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-16",
+    "words": [
+      {
+        "id": "01848",
+        "lemma": "agobio",
+        "definition": "Una sensación de estar abrumado por los problemas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "36409",
+        "lemma": "implaticable",
+        "definition": "adjetivo para describir a una persona que no muestra ningún tipo de compasión o misericordia.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11649",
+        "lemma": "cáliz",
+        "definition": "Un recipiente para beber, generalmente de forma cónica.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20590",
+        "lemma": "decorrimiento",
+        "definition": "el decorrimiento es el acto de entrar o salir de un lugar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28052",
+        "lemma": "escansión",
+        "definition": "Acción de eximir a alguien de una obligación o responsabilidad.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31401",
+        "lemma": "flexible",
+        "definition": "Que se puede doblar o estirar sin romperse.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33585",
+        "lemma": "gordura",
+        "definition": "Grasa corporal.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35377",
+        "lemma": "hiperclorhidria",
+        "definition": "El exceso de producción de ácido clorhídrico en el estómago.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37204",
+        "lemma": "infestar",
+        "definition": "invadir un lugar con alguna especie.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39020",
+        "lemma": "junio",
+        "definition": "Sexto mes del año.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39155",
+        "lemma": "kilohercio",
+        "definition": "una unidad de medida de la frecuencia de una señal electrónica.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40963",
+        "lemma": "lútea",
+        "definition": "Color amarillo-dorado.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "31148",
+        "lemma": "filmina",
+        "definition": "Una pequeña película o una serie de fotografías que se proyectan en una pantalla.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "52542",
+        "lemma": "pulsión",
+        "definition": "Impulso instintivo que motiva a una persona a realizar una acción.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "22475",
+        "lemma": "desguañangar",
+        "definition": "deshacer o desbaratar una tarea;",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "23952",
+        "lemma": "diptongar",
+        "definition": "Formar un diptongo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "05455",
+        "lemma": "apocar",
+        "definition": "disminuir.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "60105",
+        "lemma": "tabanque",
+        "definition": "Una tabanque es un juego de mesa tradicional que se juega con fichas de madera.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "19552",
+        "lemma": "cronometraje",
+        "definition": "Medición de tiempo en una competición.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59938",
+        "lemma": "suplantable",
+        "definition": "Suplantable.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60428",
+        "lemma": "tamborilear",
+        "definition": "Tocar con los dedos un ritmo sobre una superficie.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "43274",
+        "lemma": "metatudo",
+        "definition": "De todo lo relacionado con el meta.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65061",
+        "lemma": "vigía",
+        "definition": "Persona encargada de vigilar un lugar.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65566",
+        "lemma": "wincha",
+        "definition": "Una polea con una cuerda enrollada en ella usada para elevar objetos pesados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65597",
+        "lemma": "xocoyote",
+        "definition": "Animal canino",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "49461",
+        "lemma": "peyorar",
+        "definition": "Hacer una cosa peor de lo que estaba.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65815",
+        "lemma": "zabullidura",
+        "definition": "Acción de zabullirse, es decir, sumergirse en el agua.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
