@@ -43066,5 +43066,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-17",
+    "words": [
+      {
+        "id": "16942",
+        "lemma": "colonial",
+        "definition": "Relacionado con el periodo colonial",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10215",
+        "lemma": "botín",
+        "definition": "El botín es el saqueo o el robo de bienes de una víctima.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "10937",
+        "lemma": "cabalmente",
+        "definition": "de manera completa.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "06282",
+        "lemma": "arredrar",
+        "definition": "retroceder.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "48110",
+        "lemma": "pasote",
+        "definition": "Persona tonta.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "07917",
+        "lemma": "azofeifa",
+        "definition": "Un árbol de la familia de las leguminosas que crece en América Central.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32971",
+        "lemma": "gasear",
+        "definition": "Calentar un espacio cerrado con gases.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "04944",
+        "lemma": "antihéroe",
+        "definition": "Un personaje que carece de los valores tradicionalmente asociados con el héroe.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "29085",
+        "lemma": "esquite",
+        "definition": "Elote cocido con mantequilla y sal.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38845",
+        "lemma": "jodedera",
+        "definition": "una situación o charla divertida entre amigos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39159",
+        "lemma": "kilómetro",
+        "definition": "una unidad de medida de longitud equivalente a mil metros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39415",
+        "lemma": "lamista",
+        "definition": "Persona que sigue las enseñanzas de Lama.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "58311",
+        "lemma": "sigilosamente",
+        "definition": "Secretamente.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "56029",
+        "lemma": "rionegrense",
+        "definition": "Relativo o perteneciente a la provincia argentina de Río Negro.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "11410",
+        "lemma": "calagraña",
+        "definition": "Persona que se dedica a criticar a otros.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46753",
+        "lemma": "ortoepía",
+        "definition": "Estudio de la pronunciación correcta de las palabras.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "51321",
+        "lemma": "preceptuar",
+        "definition": "establecer una norma o regla.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "26957",
+        "lemma": "enquistamiento",
+        "definition": "Proceso por el cual un organismo se adhiere a una superficie y forma una estructura dura.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55884",
+        "lemma": "revolvedero",
+        "definition": "lugar donde se revuelven los alimentos.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "56968",
+        "lemma": "salchipapa",
+        "definition": "Plato típico de la cocina peruana, que consiste en salchichas cortadas en rodajas y servidas con papas fritas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62863",
+        "lemma": "traslumbramiento",
+        "definition": "Resplandor intenso producido por una luz brillante.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63858",
+        "lemma": "ultrasonido",
+        "definition": "una técnica de imagen médica que usa ondas sonoras",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64880",
+        "lemma": "vesícula",
+        "definition": "Pequeña bolsa membranosa, especialmente en los animales.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65558",
+        "lemma": "wau",
+        "definition": "Expresión de admiración.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65595",
+        "lemma": "xóchil",
+        "definition": "Instrumento musical de viento de origen mexicano de forma ovalada.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65674",
+        "lemma": "yegua",
+        "definition": "hembra caballo con edad entre los dos y cuatro años.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66038",
+        "lemma": "zapito",
+        "definition": "Una pequeña pieza de metal que se usa para unir dos cosas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
