@@ -43260,5 +43260,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-18",
+    "words": [
+      {
+        "id": "10665",
+        "lemma": "bufador",
+        "definition": "Persona que toca el bufe.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "15899",
+        "lemma": "cimbreante",
+        "definition": "Que se balancea.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "26112",
+        "lemma": "enchufista",
+        "definition": "Persona que obtiene un puesto de trabajo gracias a conexiones personales.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "50792",
+        "lemma": "pomarada",
+        "definition": "Una pomarada es una reunión de personas para comer fruta de un árbol frutal.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "03005",
+        "lemma": "alfilel",
+        "definition": "Instrumento musical de cuerda.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30328",
+        "lemma": "facial",
+        "definition": "Que se ve en la cara.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "39345",
+        "lemma": "lagunajo",
+        "definition": "Una pequeña laguna o estanque.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34767",
+        "lemma": "hasaní",
+        "definition": "Complutense: Se refiere a la Universidad Complutense de Madrid, España.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "65026",
+        "lemma": "videoteca",
+        "definition": "Un lugar donde se almacenan y se pueden alquilar videos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38494",
+        "lemma": "jaguarundí",
+        "definition": "Animal carnívoro de la familia de los cánidos, de color negro y con listas amarillas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39196",
+        "lemma": "kufiya",
+        "definition": "Tela tradicional árabe.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40445",
+        "lemma": "literatura",
+        "definition": "La literatura es el arte o actividad de escribir obras literarias, como novelas, poemas, cuentos, dramas y ensayos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "25274",
+        "lemma": "embolsillarse",
+        "definition": "llevarse algo sin que nadie lo sepa.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45590",
+        "lemma": "nivel",
+        "definition": "Estado de igualdad en algo.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "42620",
+        "lemma": "mañana",
+        "definition": "Mañana es el día que sigue al día de hoy.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "32625",
+        "lemma": "gallonada",
+        "definition": "cantidad grande de líquido.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "12867",
+        "lemma": "cariotipo",
+        "definition": "Un cariotipo es una representación visual de los cromosomas de un organismo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "65333",
+        "lemma": "vivaque",
+        "definition": "Un vivaque es una estructura temporal usada para alojar a los soldados, generalmente en zonas remotas o de difícil acceso.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "08649",
+        "lemma": "barco",
+        "definition": "Embarcación para navegar en el mar o en aguas interiores.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "61340",
+        "lemma": "tergiversar",
+        "definition": "Eludir",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "23582",
+        "lemma": "diabeto",
+        "definition": "Una enfermedad caracterizada por un alto nivel de glucosa en la sangre.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10879",
+        "lemma": "butrino",
+        "definition": "Una persona astuta y astuta.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "09240",
+        "lemma": "bervete",
+        "definition": "Una bebida alcohólica hecha con vino, agua y especias.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "53643",
+        "lemma": "rawsense",
+        "definition": "Plataforma de procesamiento de datos que proporciona una solución para la recopilación y el análisis de datos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "46941",
+        "lemma": "oxalme",
+        "definition": "El oxalme es una planta medicinal de la familia de las liliáceas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "41290",
+        "lemma": "magueyal",
+        "definition": "terreno donde se cultiva el maguey.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65867",
+        "lemma": "zagalejo",
+        "definition": "Persona de carácter alegre y jovial.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
