@@ -43454,5 +43454,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-19",
+    "words": [
+      {
+        "id": "36256",
+        "lemma": "iluminante",
+        "definition": "Brillante, que ilumina.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08375",
+        "lemma": "ballet",
+        "definition": "Danza clásica que se ejecuta con música y coreografía.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11717",
+        "lemma": "calostro",
+        "definition": "El calostro es un líquido nutritivo secretado por la madre durante los primeros días después del parto. Es rico en proteínas, grasas, carbohidratos, vitaminas y minerales, y contiene inmunoglobulinas que ayudan al bebé a desarrollar un sistema inmunológico fuerte.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23810",
+        "lemma": "digital",
+        "definition": "Relativo a los sistemas de información basados en números binarios.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27029",
+        "lemma": "enrollar",
+        "definition": "enrollar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31835",
+        "lemma": "fotómetro",
+        "definition": "Un dispositivo para medir la cantidad de luz que llega a un objeto.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33718",
+        "lemma": "grajear",
+        "definition": "Cantar como una grulla.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "04053",
+        "lemma": "amigacho",
+        "definition": "Persona muy amigable.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37805",
+        "lemma": "intercambio",
+        "definition": "Acción de intercambiar algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "26032",
+        "lemma": "encelajarse",
+        "definition": "envolverse en una manta.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "10367",
+        "lemma": "break dance",
+        "definition": "Estilo de baile de origen afroamericano que se caracteriza por realizar acrobacias y giros.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40583",
+        "lemma": "lloreta",
+        "definition": "Lágrimas o llanto.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "04192",
+        "lemma": "amotinar",
+        "definition": "Levantarse en rebelión contra una autoridad.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45823",
+        "lemma": "nublazón",
+        "definition": "Nube muy densa.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "12011",
+        "lemma": "camuña",
+        "definition": "Instrumento musical de viento, típico de la región andina.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "52167",
+        "lemma": "prosificación",
+        "definition": "El proceso de convertir algo en prosa.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48892",
+        "lemma": "peral",
+        "definition": "Un árbol de la familia de las rosáceas, de fruto redondo, comestible y de corteza fina y lisa.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52735",
+        "lemma": "quebracho",
+        "definition": "Un árbol de América del Sur cuyas ramas se usan para hacer madera y medicamentos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "19304",
+        "lemma": "crasitud",
+        "definition": "cualidad de ser craso.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "57863",
+        "lemma": "sempiternamente",
+        "definition": "Eternamente.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60782",
+        "lemma": "tasca",
+        "definition": "Una pequeña abertura, una hendidura, una ranura o una cavidad.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "58235",
+        "lemma": "show business",
+        "definition": "El show business es el negocio de la producción y distribución de entretenimiento, como espectáculos de televisión, cine, teatro, música y otros.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "54766",
+        "lemma": "relativismo",
+        "definition": "La creencia de que los valores, la verdad y la moral dependen de la perspectiva de la persona.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65549",
+        "lemma": "w",
+        "definition": "doble U.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65502",
+        "lemma": "vox populi",
+        "definition": "La voz del pueblo; la opinión de la mayoría.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "15549",
+        "lemma": "chuchuy",
+        "definition": "Una bebida tradicional hecha con maíz y agua.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66202",
+        "lemma": "zoofobia",
+        "definition": "Miedo irracional a los animales.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
