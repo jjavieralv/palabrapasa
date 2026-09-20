@@ -43648,5 +43648,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-20",
+    "words": [
+      {
+        "id": "38295",
+        "lemma": "irreversibilidad",
+        "definition": "Característica de una acción que no puede ser revertida.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "44199",
+        "lemma": "monosilabismo",
+        "definition": "Una condición en la que una persona siente una identidad de género diferente de la que le fue asignada al nacer.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11523",
+        "lemma": "calculadamente",
+        "definition": "de una manera calculada.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "32318",
+        "lemma": "fundillo",
+        "definition": "Parte trasera de la cabeza.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25828",
+        "lemma": "encachimbada",
+        "definition": "Acción de encachimbar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30863",
+        "lemma": "fenomenología",
+        "definition": "el estudio de los fenómenos como se presentan a la conciencia.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33945",
+        "lemma": "grog",
+        "definition": "Una bebida alcohólica hecha con aguardiente, agua y azúcar.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14641",
+        "lemma": "chanciller",
+        "definition": "Funcionario de una corte de justicia.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37010",
+        "lemma": "individualista",
+        "definition": "Persona que tiene una fuerte tendencia a pensar y actuar de forma independiente.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "53863",
+        "lemma": "reburujar",
+        "definition": "Formar una masa con burbujas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "31945",
+        "lemma": "franklin",
+        "definition": "Una moneda de plata estadounidense con el retrato del inventor Benjamin Franklin.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "30301",
+        "lemma": "fábula",
+        "definition": "Relato breve con animales como protagonistas que enseña una lección moral.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "61141",
+        "lemma": "temporizador",
+        "definition": "Un dispositivo electrónico que controla el tiempo de operación de una máquina o proceso.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45024",
+        "lemma": "nacrita",
+        "definition": "una planta marina con una superficie áspera y una forma de concha.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "10268",
+        "lemma": "boñigar",
+        "definition": "Boñigar es una palabra que se utiliza para describir el movimiento de un barco que se balancea suavemente en el agua.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46307",
+        "lemma": "oler",
+        "definition": "percibir el olor de algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52271",
+        "lemma": "providencialismo",
+        "definition": "El providencialismo es la creencia de que Dios interviene en los asuntos humanos para guiar los acontecimientos hacia una determinada dirección.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "10450",
+        "lemma": "brinquiño",
+        "definition": "Movimiento rápido y brusco.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56609",
+        "lemma": "rumorear",
+        "definition": "Rumorear",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "19559",
+        "lemma": "croquis",
+        "definition": "Dibujo rápido y sencillo que se realiza para representar algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61309",
+        "lemma": "tercer",
+        "definition": "que está en el lugar número tres.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "29778",
+        "lemma": "evacuar",
+        "definition": "Salir o desalojar un lugar.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64907",
+        "lemma": "vetear",
+        "definition": "Votar en contra.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65570",
+        "lemma": "wólfram",
+        "definition": "Tungsteno",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30018",
+        "lemma": "exordiar",
+        "definition": "comenzar un discurso.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "38908",
+        "lemma": "joyería",
+        "definition": "La joyería es el arte de diseñar y fabricar objetos de joyería, como anillos, pendientes, collares, etc.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66046",
+        "lemma": "zapuyul",
+        "definition": "una comida típica de Guatemala, preparada con carne de cerdo y chiles.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
