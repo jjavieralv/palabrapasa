@@ -43842,5 +43842,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-21",
+    "words": [
+      {
+        "id": "39182",
+        "lemma": "koala",
+        "definition": "Un marsupial nativo de Australia con un pelaje muy suave.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09455",
+        "lemma": "bimensual",
+        "definition": "Que se produce cada dos meses.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "42654",
+        "lemma": "mecanografía",
+        "definition": "La habilidad de escribir con una máquina de escribir.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "07528",
+        "lemma": "autodeterminista",
+        "definition": "Persona que cree que tiene el control de su propio destino.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "27034",
+        "lemma": "enronchar",
+        "definition": "endurecer, hacer algo más difícil.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "28182",
+        "lemma": "escenificar",
+        "definition": "Representar algo con actuación teatral.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "40673",
+        "lemma": "logaritmo",
+        "definition": "una función matemática usada para resolver problemas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35914",
+        "lemma": "hueca",
+        "definition": "Vacío, sin contenido.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37137",
+        "lemma": "inexplicablemente",
+        "definition": "de manera inexplicable.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38993",
+        "lemma": "julia",
+        "definition": "Una persona muy entusiasta.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "62025",
+        "lemma": "tokiota",
+        "definition": "Relativo a la ciudad de Tokio, Japón.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40959",
+        "lemma": "lustrín",
+        "definition": "Tela de seda brillante.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43799",
+        "lemma": "mitrar",
+        "definition": "Disparar una bala.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "05039",
+        "lemma": "antivirus",
+        "definition": "Programa informático que protege una computadora de virus.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45936",
+        "lemma": "ñoclo",
+        "definition": "Fruto del árbol del mismo nombre, de forma redondeada.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "04631",
+        "lemma": "anillamiento",
+        "definition": "El proceso de colocar anillos en los dedos para identificar a las personas.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48790",
+        "lemma": "penetro",
+        "definition": "Penetro es una actividad en la que un jugador de fútbol intenta pasar un balón entre dos o más jugadores del equipo contrario.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52920",
+        "lemma": "quillay",
+        "definition": "Un árbol de la familia de las fagáceas, con hojas perennes y fruto comestible.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "47962",
+        "lemma": "partería",
+        "definition": "Oficio de partera.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59650",
+        "lemma": "subteniente",
+        "definition": "Oficial militar de grado inmediatamente inferior al de teniente.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60266",
+        "lemma": "taimarse",
+        "definition": "Aislarse.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "48577",
+        "lemma": "pegujal",
+        "definition": "Un pegujal es una forma de tierra seca y dura, comúnmente usada para construir caminos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65433",
+        "lemma": "volón",
+        "definition": "Pieza de madera que se usa para reforzar una estructura.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "58234",
+        "lemma": "show",
+        "definition": "Un show es un espectáculo público de entretenimiento, generalmente con música, baile y otros elementos de actuación.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "58200",
+        "lemma": "sexualizar",
+        "definition": "Dar o mostrar contenido sexual.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65725",
+        "lemma": "yira",
+        "definition": "Expresión usada para indicar sorpresa.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "57004",
+        "lemma": "salidizo",
+        "definition": "que se sale fácilmente.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
