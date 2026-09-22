@@ -44036,5 +44036,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-22",
+    "words": [
+      {
+        "id": "30710",
+        "lemma": "fatimita",
+        "definition": "seguidor de la dinastía islámica fatimí.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "25170",
+        "lemma": "embarnizadura",
+        "definition": "Acción y efecto de embarnizar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16571",
+        "lemma": "códice",
+        "definition": "libro antiguo, generalmente manuscrito, formado por hojas de papel o de pergamino cosidas o encuadernadas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "29482",
+        "lemma": "estrapada",
+        "definition": "Esta es la situación de estar atrapado en una situación difícil de salir.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25019",
+        "lemma": "electrometría",
+        "definition": "una técnica de medición que mide la cantidad de electricidad en un objeto.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "57517",
+        "lemma": "satisfactoriamente",
+        "definition": "de manera satisfactoria.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34151",
+        "lemma": "guapeza",
+        "definition": "La guapeza es una forma de comportamiento que se caracteriza por ser arrogante, desafiante y audaz.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "56969",
+        "lemma": "salchucho",
+        "definition": "Embutido cárnico, preparado con carne picada y condimentada.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "30193",
+        "lemma": "extracurricular",
+        "definition": "fuera del horario escolar.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38527",
+        "lemma": "jaleco",
+        "definition": "Prenda de vestir blanca usada por profesionales de la salud.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39140",
+        "lemma": "kermés",
+        "definition": "Una kermés es una fiesta popular con juegos, música y comida.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39491",
+        "lemma": "langostino",
+        "definition": "Un crustáceo de agua salada de tamaño pequeño.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "40992",
+        "lemma": "macadán",
+        "definition": "El macadán es una superficie de carretera compuesta de grava y gravilla.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "61278",
+        "lemma": "tepezcuintle",
+        "definition": "un roedor mexicano de gran tamaño.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45900",
+        "lemma": "ña",
+        "definition": "Ña es una palabra coloquial usada para referirse a una mujer.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "45999",
+        "lemma": "oblicuamente",
+        "definition": "de manera oblicua.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "22567",
+        "lemma": "desimponer",
+        "definition": "quitar una imposición.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "21546",
+        "lemma": "desbloqueo",
+        "definition": "Acción de desbloquear, liberar algo bloqueado.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54453",
+        "lemma": "refrenar",
+        "definition": "Restringir, controlar.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57695",
+        "lemma": "segmento",
+        "definition": "Parte de un todo que se divide en partes iguales.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61078",
+        "lemma": "temblequera",
+        "definition": "palabra que se usa para describir algo que tiembla.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "40822",
+        "lemma": "luchadero",
+        "definition": "Persona que lucha incansablemente por alcanzar sus objetivos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "55772",
+        "lemma": "revalidación",
+        "definition": "Proceso de renovación de una licencia, título o certificado.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "10764",
+        "lemma": "bungalow",
+        "definition": "Un bungalow es una casa de una sola planta con un techo bajo.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65572",
+        "lemma": "x",
+        "definition": "X es una letra del alfabeto.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65792",
+        "lemma": "yuyal",
+        "definition": "Una zona de terreno cubierta de maleza.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "20870",
+        "lemma": "democratización",
+        "definition": "La democratización es el proceso de hacer que una sociedad sea más democrática.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
