@@ -44230,5 +44230,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-23",
+    "words": [
+      {
+        "id": "20977",
+        "lemma": "departidamente",
+        "definition": "Graciosamente y con humor.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "63701",
+        "lemma": "turbulencia",
+        "definition": "Una condición turbulenta de un fluido, como el aire o el agua.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "19924",
+        "lemma": "cueriza",
+        "definition": "Tecnica de teñir el cabello.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20466",
+        "lemma": "debó",
+        "definition": "Una cantidad de dinero que se debe a alguien.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "54583",
+        "lemma": "regocijar",
+        "definition": "Alegrarse.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "02964",
+        "lemma": "alfalfe",
+        "definition": "planta forrajera de alta calidad nutritiva.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "38719",
+        "lemma": "jeringa",
+        "definition": "Instrumento para inyectar líquidos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "13837",
+        "lemma": "ceborrincha",
+        "definition": "una bebida alcohólica típica de México hecha con pulque y frutas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36233",
+        "lemma": "ilegítimamente",
+        "definition": "De manera ilegal, contraria a la ley.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38881",
+        "lemma": "jorobadura",
+        "definition": "Una protuberancia en la espalda.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "19703",
+        "lemma": "cuark",
+        "definition": "Una persona muy tímida.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39761",
+        "lemma": "lañar",
+        "definition": "reprochar con dureza.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41513",
+        "lemma": "malmaridada",
+        "definition": "Que está mal casada.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "12390",
+        "lemma": "capellán",
+        "definition": "El capellán es un ministro religioso, normalmente de la Iglesia Católica, que sirve en una institución como un hospital, una prisión o una universidad.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45948",
+        "lemma": "ñublo",
+        "definition": "Nube oscura, densa y amenazante.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46699",
+        "lemma": "orleanista",
+        "definition": "adjetivo para referirse a algo o alguien que sigue los principios políticos de la familia de los Orleáns.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "28672",
+        "lemma": "espantanublados",
+        "definition": "Nublado con algunas interrupciones de sol.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "63291",
+        "lemma": "triquete",
+        "definition": "Instrumento usado para medir distancias.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54470",
+        "lemma": "refrigerar",
+        "definition": "Disminuir la temperatura de un lugar.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "18355",
+        "lemma": "contraseña",
+        "definition": "Palabra secreta que se utiliza para identificar a un usuario.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "20414",
+        "lemma": "dataría",
+        "definition": "Lugar donde se guarda el material para la datación de documentos, libros, etc.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "35169",
+        "lemma": "hidalguez",
+        "definition": "Carácter noble y generoso.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64327",
+        "lemma": "varapalo",
+        "definition": "Un golpe o una reprimenda fuerte.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65580",
+        "lemma": "xerocopia",
+        "definition": "Copia hecha con una máquina de fotocopiar.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65683",
+        "lemma": "yelmo",
+        "definition": "Un casco de metal usado por los guerreros en la antigüedad.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66007",
+        "lemma": "zanquilla",
+        "definition": "pequeño insecto.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
