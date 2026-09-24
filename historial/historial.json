@@ -44424,5 +44424,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-24",
+    "words": [
+      {
+        "id": "07789",
+        "lemma": "avolvimiento",
+        "definition": "acción de envolver algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "16701",
+        "lemma": "coimbricense",
+        "definition": "Persona que pertenece o es originaria de la ciudad de Coimbra (Portugal).",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "53975",
+        "lemma": "receptar",
+        "definition": "Aceptar algo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22003",
+        "lemma": "deseable",
+        "definition": "Que se desea conseguir.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "24949",
+        "lemma": "ejemplificar",
+        "definition": "ilustrar algo con un ejemplo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "16052",
+        "lemma": "circunferencial",
+        "definition": "Relativo a una circunferencia.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34363",
+        "lemma": "guazalo",
+        "definition": "Persona tonta o estúpida.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "05856",
+        "lemma": "archidiócesis",
+        "definition": "jurisdicción eclesiástica de un arzobispo.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38261",
+        "lemma": "irreligión",
+        "definition": "Una ausencia o rechazo de la religión.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38502",
+        "lemma": "jai",
+        "definition": "una forma de lucha cuerpo a cuerpo originaria de la India",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "14526",
+        "lemma": "chakra",
+        "definition": "Centro energético en el cuerpo humano según la medicina ayurvédica.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40241",
+        "lemma": "lila",
+        "definition": "Color púrpura suave.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "65477",
+        "lemma": "vómer",
+        "definition": "Hueso del cráneo que separa las fosas nasales.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45589",
+        "lemma": "nival",
+        "definition": "Relativo a la nieve.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45934",
+        "lemma": "ño",
+        "definition": "Niño",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46404",
+        "lemma": "omóplato",
+        "definition": "El omóplato es un hueso triangular situado en la parte superior de la espalda.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "28848",
+        "lemma": "espibia",
+        "definition": "Persona que espía o investiga a otra.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53070",
+        "lemma": "quitamiento",
+        "definition": "Remoción.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53814",
+        "lemma": "rebol",
+        "definition": "Movimiento rápido y brusco.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58881",
+        "lemma": "sobrestimar",
+        "definition": "dar un valor excesivo a algo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62066",
+        "lemma": "tolupán",
+        "definition": "Uno de los grupos étnicos indígenas de Honduras.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "09079",
+        "lemma": "bejuquear",
+        "definition": "Hablar con vueltas y rodeos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "16241",
+        "lemma": "clavadora",
+        "definition": "Herramienta que sirve para clavar clavos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65571",
+        "lemma": "wolframio",
+        "definition": "Un metal grisáceo muy duro y resistente a la corrosión.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "50026",
+        "lemma": "piroxeno",
+        "definition": "Mineral de color verde oscuro, negro o marrón.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65795",
+        "lemma": "yuyuba",
+        "definition": "Árbol de la familia de las leguminosas, originario del norte de América.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "10680",
+        "lemma": "bufonizar",
+        "definition": "hacer algo con actitud burlesca.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
