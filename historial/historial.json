@@ -44618,5 +44618,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-25",
+    "words": [
+      {
+        "id": "15691",
+        "lemma": "chuzazo",
+        "definition": "golpe fuerte.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10839",
+        "lemma": "burusco",
+        "definition": "una pequeña colina o montículo.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11400",
+        "lemma": "caladura",
+        "definition": "El proceso de hacer un agujero en algo con una herramienta de corte.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "44094",
+        "lemma": "mondongo",
+        "definition": "Mondongo es un guiso a base de tripas de ternera, cebolla, pimiento, tomate y ajo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26571",
+        "lemma": "engatusamiento",
+        "definition": "El acto de atraer a alguien a una situación engañosa.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "00606",
+        "lemma": "acefalia",
+        "definition": "estado de una organización sin líder o jefe.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "26663",
+        "lemma": "engrillar",
+        "definition": "colocar en una reja.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35145",
+        "lemma": "hexano",
+        "definition": "Un hidrocarburo alifático con seis átomos de carbono.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36304",
+        "lemma": "imela",
+        "definition": "Una expresión usada para expresar sorpresa, asombro o admiración.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "43956",
+        "lemma": "mojera",
+        "definition": "Un recipiente de barro o madera usado para almacenar agua.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "09195",
+        "lemma": "berkelio",
+        "definition": "un elemento químico metálico de color gris plateado.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39905",
+        "lemma": "lena",
+        "definition": "manto de lana usado para envolver o abrigar algo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41325",
+        "lemma": "maitén",
+        "definition": "Maitén es un árbol nativo de Argentina y Chile con hojas grandes y frutos comestibles.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "60689",
+        "lemma": "tardofranquismo",
+        "definition": "El tardofranquismo es el periodo de la historia de España entre la muerte del dictador Francisco Franco en 1975 y la entrada en vigor de la Constitución Española en 1978.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45924",
+        "lemma": "ñengue",
+        "definition": "Lengua bantú hablada en Gabón.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46158",
+        "lemma": "ocularmente",
+        "definition": "con la vista.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "05339",
+        "lemma": "aperital",
+        "definition": "sustantivo masculino. Bebida alcohólica ligera que se toma como aperitivo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53046",
+        "lemma": "quiroteca",
+        "definition": "Una biblioteca o una colección de libros antiguos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56873",
+        "lemma": "safir",
+        "definition": "El safir es una piedra preciosa de color azul intenso.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58841",
+        "lemma": "sobrepeso",
+        "definition": "Exceso de peso corporal en relación con la altura y el sexo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "13449",
+        "lemma": "catarro",
+        "definition": "El catarro es una infección respiratoria causada por virus o bacterias.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63652",
+        "lemma": "tup",
+        "definition": "Una herramienta usada para aplanar la tierra.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65083",
+        "lemma": "vílico",
+        "definition": "Relativo o perteneciente al vil.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "10764",
+        "lemma": "bungalow",
+        "definition": "Un bungalow es una casa de una sola planta con un techo bajo.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65868",
+        "lemma": "zagaya",
+        "definition": "Arma de fuego de largo alcance usada en la antigüedad.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65855",
+        "lemma": "zafío",
+        "definition": "Delgado y suave al tacto.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
