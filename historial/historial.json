@@ -44812,5 +44812,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-26",
+    "words": [
+      {
+        "id": "16863",
+        "lemma": "coliquera",
+        "definition": "recipiente para colar líquidos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "51989",
+        "lemma": "programable",
+        "definition": "Que se puede programar para realizar una tarea determinada.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11018",
+        "lemma": "cabrales",
+        "definition": "Queso español de leche cruda de vaca, cabra y oveja.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "63114",
+        "lemma": "tríade",
+        "definition": "Un grupo de tres personas o cosas.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "23285",
+        "lemma": "destellar",
+        "definition": "Brillar con intensidad.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31190",
+        "lemma": "finalizar",
+        "definition": "Concluir, acabar.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "62418",
+        "lemma": "toxicogénesis",
+        "definition": "el estudio de los efectos tóxicos de los compuestos químicos en los seres vivos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35197",
+        "lemma": "hidrofobia",
+        "definition": "Miedo exagerado al agua.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "30338",
+        "lemma": "facimiento",
+        "definition": "Un facimiento es la acción de hacer una cosa con mucho cuidado y esfuerzo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "64567",
+        "lemma": "venaje",
+        "definition": "Una planta herbácea con flores amarillas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39187",
+        "lemma": "kopek",
+        "definition": "Un kopek es una moneda de curso legal en Rusia y otros países de la antigua Unión Soviética.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "49660",
+        "lemma": "pielero",
+        "definition": "El pielero es un recipiente de metal o vidrio usado para servir cerveza.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "03538",
+        "lemma": "alocadamente",
+        "definition": "de modo alocado.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "00068",
+        "lemma": "abarraganarse",
+        "definition": "Prepararse para una situación difícil.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45915",
+        "lemma": "ñangotarse",
+        "definition": "divertirse a costa de alguien.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46801",
+        "lemma": "oscurecer",
+        "definition": "Hacer que algo se vuelva más oscuro.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "59947",
+        "lemma": "supletismo",
+        "definition": "Es el uso de una forma distinta a la regular para el mismo significado.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52989",
+        "lemma": "quinquenal",
+        "definition": "Que ocurre cada cinco años.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "52503",
+        "lemma": "pulidero",
+        "definition": "Persona que trabaja puliendo superficies para darles un acabado perfecto.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58204",
+        "lemma": "seña",
+        "definition": "una forma de comunicación entre dos personas sin hablar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "65304",
+        "lemma": "vítor",
+        "definition": "Una persona que se destaca por su valor y fortaleza.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "51657",
+        "lemma": "presunción",
+        "definition": "Presunción es la creencia de algo sin estar seguro de ello.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "19227",
+        "lemma": "cotovía",
+        "definition": "La cotovía es un pequeño pájaro de color gris con una cresta de plumas en la cabeza.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "57546",
+        "lemma": "sawali",
+        "definition": "Tipo de tejido de bambú muy fino.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65589",
+        "lemma": "xilofón",
+        "definition": "Instrumento musical compuesto por una serie de láminas de madera, metal o plástico de diferentes tamaños, que emiten sonidos al ser golpeadas con un martillo.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "04197",
+        "lemma": "amoyote",
+        "definition": "una planta con frutos comestibles y hojas comestibles.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66054",
+        "lemma": "zaragalla",
+        "definition": "Zaragalla es una ave que pertenece a la familia de los fringílidos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
