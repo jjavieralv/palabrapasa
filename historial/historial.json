@@ -45006,5 +45006,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-27",
+    "words": [
+      {
+        "id": "17236",
+        "lemma": "competitividad",
+        "definition": "Capacidad de un individuo o empresa para competir con otros en un mercado.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "21128",
+        "lemma": "desabono",
+        "definition": "Disminución del precio de algo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "26051",
+        "lemma": "encentamiento",
+        "definition": "Estado de estar encendido.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22013",
+        "lemma": "deseducar",
+        "definition": "Desaprender o desconocer algo que se había aprendido.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27470",
+        "lemma": "entrevigar",
+        "definition": "Unir dos maderas con clavos.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32936",
+        "lemma": "garrofa",
+        "definition": "Instrumento de hierro con un mango, usado para golpear y amasar masas de pan.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34538",
+        "lemma": "gusto",
+        "definition": "El sentido de saborear algo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "14504",
+        "lemma": "chagolla",
+        "definition": "Una planta trepadora con flores blancas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "35245",
+        "lemma": "hierarquía",
+        "definition": "Orden de autoridad o grados de una organización.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38624",
+        "lemma": "jargonza",
+        "definition": "Lenguaje o dialecto propio de un grupo social.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10806",
+        "lemma": "burka",
+        "definition": "Una prenda de vestir islámica que cubre todo el cuerpo de la mujer.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39599",
+        "lemma": "lascivia",
+        "definition": "La lascivia es un comportamiento sexualmente provocativo o inapropiado.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "45745",
+        "lemma": "nosocomio",
+        "definition": "Un nosocomio es un hospital o un establecimiento de salud.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45048",
+        "lemma": "nahoa",
+        "definition": "Lengua y cultura de los nativos americanos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "10609",
+        "lemma": "bruñir",
+        "definition": "pulir o afilar algo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46091",
+        "lemma": "ocasional",
+        "definition": "ocasional se refiere a algo que ocurre de vez en cuando.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "22933",
+        "lemma": "despampanillar",
+        "definition": "Desmontar una pieza de una máquina o equipo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "27760",
+        "lemma": "equinoccial",
+        "definition": "Que ocurre dos veces al año, cuando el sol está sobre el ecuador.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55463",
+        "lemma": "respingo",
+        "definition": "movimiento repentino producido por una sorpresa o un susto.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59918",
+        "lemma": "superrealista",
+        "definition": "Persona que busca la perfección en todos los ámbitos de su vida.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62968",
+        "lemma": "trata",
+        "definition": "La trata es el comercio ilegal de personas para fines de explotación.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "10072",
+        "lemma": "bordadura",
+        "definition": "El acto de adornar algo con hilos o hilos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64459",
+        "lemma": "vegetarianismo",
+        "definition": "Estilo de vida que excluye el consumo de carne y productos animales.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "35604",
+        "lemma": "hollywoodense",
+        "definition": "Relativo a Hollywood, una ciudad de los Estados Unidos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "08983",
+        "lemma": "bayonense",
+        "definition": "Originario o habitante de Bayona.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "40301",
+        "lemma": "limpidez",
+        "definition": "Claridad.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
