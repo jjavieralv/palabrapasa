@@ -45200,5 +45200,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-28",
+    "words": [
+      {
+        "id": "25681",
+        "lemma": "emporrarse",
+        "definition": "Enfadarse mucho.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08552",
+        "lemma": "barajuste",
+        "definition": "una bebida alcohólica preparada con una mezcla de licores, jugos de fruta, azúcar y agua.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "45499",
+        "lemma": "nicle",
+        "definition": "Pieza metálica circular, generalmente de cobre, con un agujero en el centro.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23150",
+        "lemma": "desposar",
+        "definition": "Casar.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "17355",
+        "lemma": "comunalmente",
+        "definition": "de manera común.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32109",
+        "lemma": "frisca",
+        "definition": "Una bebida refrescante hecha con leche, crema y azúcar.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33121",
+        "lemma": "gemiqueo",
+        "definition": "un sonido que se produce al golpear algo con fuerza.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "26116",
+        "lemma": "enchutar",
+        "definition": "Introducir una cosa dentro de otra.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "23544",
+        "lemma": "develación",
+        "definition": "Revelación de algo que se ha mantenido oculto.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "19083",
+        "lemma": "coscojita",
+        "definition": "Pieza pequeña de madera usada como adorno.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39160",
+        "lemma": "kilopondio",
+        "definition": "Un kilopondio es una unidad de medida de fuerza.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "24713",
+        "lemma": "eagle",
+        "definition": "Un águila es una ave rapaz de gran tamaño con alas anchas y fuertes.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "54193",
+        "lemma": "recudimento",
+        "definition": "La acción de reducir o disminuir algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "06199",
+        "lemma": "arranarse",
+        "definition": "despegarse, separarse.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45950",
+        "lemma": "ñudo",
+        "definition": "Nudo complicado hecho con una cuerda o con una tira de tela.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46905",
+        "lemma": "ovacionar",
+        "definition": "Aplaudir entusiastamente a alguien o a algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52074",
+        "lemma": "prontitud",
+        "definition": "Característica de alguien que responde rápidamente.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52782",
+        "lemma": "quejo",
+        "definition": "Expresión de tristeza o dolor.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53763",
+        "lemma": "rebajamiento",
+        "definition": "reducción.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "49264",
+        "lemma": "personería",
+        "definition": "Representación legal de una persona.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60672",
+        "lemma": "tarazana",
+        "definition": "Una herramienta usada para cortar y coser telas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63990",
+        "lemma": "uremia",
+        "definition": "una enfermedad renal caracterizada por la acumulación de productos nitrogenados en la sangre.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64951",
+        "lemma": "vibrisas",
+        "definition": "Pequeños pelos que salen de la nariz de algunos animales.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30107",
+        "lemma": "exponencial",
+        "definition": "relacionado con la función exponencial.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "30081",
+        "lemma": "explayar",
+        "definition": "explicar con detalle.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "21654",
+        "lemma": "descaperuzo",
+        "definition": "Una herramienta para destapar botellas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
