@@ -45588,5 +45588,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-09-30",
+    "words": [
+      {
+        "id": "39822",
+        "lemma": "legado",
+        "definition": "Aquello que se deja como herencia de una persona o de una cultura.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "30286",
+        "lemma": "fabianismo",
+        "definition": "doctrina política que busca lograr el socialismo por medio de la acción gradual.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "23376",
+        "lemma": "destullecer",
+        "definition": "Hacer que algo pierda fuerza o vigor.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23463",
+        "lemma": "desyerbo",
+        "definition": "Quitar las malas hierbas de una parcela de tierra.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "54477",
+        "lemma": "refucilo",
+        "definition": "Refugio.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "59607",
+        "lemma": "suboficial",
+        "definition": "Un suboficial es un miembro de una fuerza militar que ostenta un grado inferior al de oficial.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "41279",
+        "lemma": "magosta",
+        "definition": "una comida típica de la región de Galicia, España, que consiste en un guiso de carne de cerdo y verduras.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34576",
+        "lemma": "háber",
+        "definition": "El háber es una cantidad de dinero que se recibe como salario o como remuneración por un trabajo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "40393",
+        "lemma": "líquidamente",
+        "definition": "de manera fluida.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38782",
+        "lemma": "jimplar",
+        "definition": "Robar algo pequeño a alguien.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "16322",
+        "lemma": "clínker",
+        "definition": "Un clínker es una roca dura, de color gris oscuro, formada por la descomposición de materiales de alto horno.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "55479",
+        "lemma": "responsabilizar",
+        "definition": "Asumir la responsabilidad de algo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41570",
+        "lemma": "malversar",
+        "definition": "Utilizar fondos o recursos de manera ilegal.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45540",
+        "lemma": "ninfómana",
+        "definition": "Persona que experimenta un deseo sexual excesivo.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "33096",
+        "lemma": "gañivete",
+        "definition": "un cuchillo pequeño y afilado con una hoja curva.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "09542",
+        "lemma": "bipolaridad",
+        "definition": "estado mental caracterizado por cambios entre estados de ánimo extremos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "17283",
+        "lemma": "comportamiento",
+        "definition": "El comportamiento es el conjunto de acciones y actitudes de un individuo o de un grupo de personas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "05719",
+        "lemma": "aquifolio",
+        "definition": "Planta de la familia de las aquifoliáceas.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56586",
+        "lemma": "ruletear",
+        "definition": "Girar la ruleta para determinar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58533",
+        "lemma": "singularizar",
+        "definition": "hacer algo único.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63315",
+        "lemma": "tristura",
+        "definition": "tristeza, melancolía.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "56545",
+        "lemma": "ruego",
+        "definition": "Petición respetuosa.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65146",
+        "lemma": "vinillo",
+        "definition": "Vino muy barato de mala calidad.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "63783",
+        "lemma": "twahka",
+        "definition": "Perteneciente a la antigua tribu Twahka.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "57547",
+        "lemma": "saxafrax",
+        "definition": "una herramienta para trabajar la madera.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65713",
+        "lemma": "yeti",
+        "definition": "una criatura mítica, similar a un oso, que vive en las montañas del Himalaya.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65881",
+        "lemma": "zaherir",
+        "definition": "insultar o ofender a alguien.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
