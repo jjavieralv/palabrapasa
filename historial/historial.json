@@ -45782,5 +45782,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-01",
+    "words": [
+      {
+        "id": "01143",
+        "lemma": "aculillarse",
+        "definition": "acurrucarse.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "17320",
+        "lemma": "comprobable",
+        "definition": "Comprobable se refiere a algo que puede ser verificado o comprobado.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "19778",
+        "lemma": "cubeba",
+        "definition": "Plantas de la familia de la pimienta.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24857",
+        "lemma": "efabilidad",
+        "definition": "Capacidad de ser amable y agradable con los demás.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "53751",
+        "lemma": "reata",
+        "definition": "Cinta de cuero para sujetar al animal.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30463",
+        "lemma": "fallo",
+        "definition": "Error o omisión cometido por alguien.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33359",
+        "lemma": "glacialmente",
+        "definition": "de manera fría.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34670",
+        "lemma": "haldear",
+        "definition": "Dispersar un material, como el grano, con una horca.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36253",
+        "lemma": "iludir",
+        "definition": "deceive, mislead.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38702",
+        "lemma": "jerarquización",
+        "definition": "Establecimiento de jerarquías o escalas de valor entre los elementos de una estructura.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "50380",
+        "lemma": "playback",
+        "definition": "Una forma de actuación musical en la que se reproduce una grabación previamente grabada mientras el artista se mueve al ritmo de la canción.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40867",
+        "lemma": "lugar",
+        "definition": "Espacio",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "11797",
+        "lemma": "camandulería",
+        "definition": "Tienda donde se venden campanas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "27299",
+        "lemma": "entorpecer",
+        "definition": "Hacer más difícil un proceso.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "48885",
+        "lemma": "pequeñez",
+        "definition": "La cualidad de ser pequeño o diminuto.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46001",
+        "lemma": "oblicuidad",
+        "definition": "Estado de ser oblicuo o inclinado.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "58060",
+        "lemma": "serpollar",
+        "definition": "golpear con una serpiente o un palo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52829",
+        "lemma": "quero",
+        "definition": "una formación de árboles en una zona boscosa",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53708",
+        "lemma": "realegrarse",
+        "definition": "Estado de alegría profunda.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59486",
+        "lemma": "suarista",
+        "definition": "una persona que sigue la doctrina del suarismo, una corriente filosófica argentina.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61758",
+        "lemma": "tintor",
+        "definition": "Persona que se dedica a teñir o a blanquear prendas de vestir.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63970",
+        "lemma": "urbanamente",
+        "definition": "De forma urbana.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "36523",
+        "lemma": "improvisar",
+        "definition": "Crear algo sin preparación previa.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29961",
+        "lemma": "exhaustación",
+        "definition": "Agotamiento físico y mental.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65672",
+        "lemma": "yeco",
+        "definition": "Madera de árbol de la familia de los cipreses.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66162",
+        "lemma": "zoco",
+        "definition": "Un mercado al aire libre con puestos y puestos de comerciantes.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
