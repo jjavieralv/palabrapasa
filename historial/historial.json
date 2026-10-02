@@ -45976,5 +45976,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-02",
+    "words": [
+      {
+        "id": "07806",
+        "lemma": "axiomatizar",
+        "definition": "formular principios como axiomas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10792",
+        "lemma": "burgrave",
+        "definition": "noble de alto rango en la Alemania medieval.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "17530",
+        "lemma": "condesar",
+        "definition": "reducir algo a su mínima expresión.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "23310",
+        "lemma": "destilación",
+        "definition": "El proceso de separar los componentes de un líquido, mediante el uso de vapor.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28589",
+        "lemma": "esmerador",
+        "definition": "Un esmerador es una persona que hace un trabajo con mucho cuidado y esmero.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30986",
+        "lemma": "fiana",
+        "definition": "Una persona leal y fiel.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34228",
+        "lemma": "guardapiés",
+        "definition": "Pieza decorativa que se coloca en la parte inferior de una pared.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34914",
+        "lemma": "hemiciclo",
+        "definition": "un edificio con una forma semicircular, generalmente usado como sala de reuniones.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "53487",
+        "lemma": "raquetista",
+        "definition": "Persona que juega al tenis.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38445",
+        "lemma": "jabrir",
+        "definition": "Abrir con violencia.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "65393",
+        "lemma": "vodka",
+        "definition": "bebida alcohólica destilada a partir de granos y/o patatas.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40230",
+        "lemma": "ligona",
+        "definition": "Persona que se aprovecha de los demás.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44162",
+        "lemma": "monograma",
+        "definition": "Letra o símbolo formado por la superposición de dos o más letras.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "32560",
+        "lemma": "galicanismo",
+        "definition": "Movimiento religioso que propugnaba una mayor autonomía de la Iglesia de Francia frente al poder de Roma.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45938",
+        "lemma": "ñoqui",
+        "definition": "Ñoqui es una pasta de papa rellena de carne picada, queso y especias.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46557",
+        "lemma": "orante",
+        "definition": "adjetivo para describir a una persona que reza con fervor.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "62908",
+        "lemma": "trasposición",
+        "definition": "Acción de trasladar algo de un lugar a otro.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "38549",
+        "lemma": "jamaqueo",
+        "definition": "Acción de jugar a la pelota con los pies.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "36383",
+        "lemma": "impertinencia",
+        "definition": "falta de respeto o de tacto.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58754",
+        "lemma": "sobrecargar",
+        "definition": "cargar con una cantidad excesiva.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62066",
+        "lemma": "tolupán",
+        "definition": "Uno de los grupos étnicos indígenas de Honduras.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "36093",
+        "lemma": "hutía",
+        "definition": "Una especie de pequeño roedor nativo de América Central y del Sur.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64291",
+        "lemma": "vaniloquio",
+        "definition": "Un discurso vacío y sin sentido.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65566",
+        "lemma": "wincha",
+        "definition": "Una polea con una cuerda enrollada en ella usada para elevar objetos pesados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65591",
+        "lemma": "xilófono",
+        "definition": "Instrumento musical de percusión que consta de una serie de láminas de madera de diferentes tamaños.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "34010",
+        "lemma": "guacamaya",
+        "definition": "Ave tropical de grandes dimensiones.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "58200",
+        "lemma": "sexualizar",
+        "definition": "Dar o mostrar contenido sexual.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
