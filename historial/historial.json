@@ -46170,5 +46170,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-03",
+    "words": [
+      {
+        "id": "00518",
+        "lemma": "acardenalar",
+        "definition": "marcar con cardenales.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09645",
+        "lemma": "bizmar",
+        "definition": "mezclar, mezclar elementos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "12586",
+        "lemma": "carajón",
+        "definition": "Una herramienta usada para cortar madera.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "12502",
+        "lemma": "captividad",
+        "definition": "Estado de aquel que está preso o encerrado.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28077",
+        "lemma": "escarabajo",
+        "definition": "El escarabajo es un insecto coleóptero, de cuerpo ovalado y duro, con tres pares de patas y dos antenas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "33707",
+        "lemma": "grafismo",
+        "definition": "Forma de expresión artística que utiliza símbolos gráficos para comunicar un mensaje.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33646",
+        "lemma": "goterón",
+        "definition": "Gotita pequeña de líquido.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "36075",
+        "lemma": "hurtadineros",
+        "definition": "persona que se dedica al hurto de dinero.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36292",
+        "lemma": "imbécil",
+        "definition": "Persona con limitaciones intelectuales.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "39825",
+        "lemma": "legajar",
+        "definition": "reunir una serie de documentos relacionados con una persona o tema.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "08116",
+        "lemma": "backstage",
+        "definition": "área de un teatro donde se preparan los actores para una representación.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "23311",
+        "lemma": "destiladera",
+        "definition": "Dispositivo para destilar líquidos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41613",
+        "lemma": "mamógrafo",
+        "definition": "Máquina de rayos X usada para detectar cáncer de mama.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45123",
+        "lemma": "narcotraficante",
+        "definition": "Persona que comercia con drogas ilegales.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45938",
+        "lemma": "ñoqui",
+        "definition": "Ñoqui es una pasta de papa rellena de carne picada, queso y especias.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "27923",
+        "lemma": "escabinado",
+        "definition": "Escabinado se refiere a la acción de cortar o afeitar el cabello con una tijera.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "00511",
+        "lemma": "acaparrarse",
+        "definition": "apoderarse de algo con avidez.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "02977",
+        "lemma": "alfaquín",
+        "definition": "una persona que se dedica a la venta ambulante.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53326",
+        "lemma": "rajable",
+        "definition": "adjetivo para referirse a aquello que puede ser cortado con una navaja.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58692",
+        "lemma": "sobejanía",
+        "definition": "Autoridad suprema.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "40038",
+        "lemma": "levantadamente",
+        "definition": "de manera altiva.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "34056",
+        "lemma": "guadua",
+        "definition": "Una planta perenne de la familia de las gramíneas, originaria de América del Sur.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64988",
+        "lemma": "víctima",
+        "definition": "Persona que sufre un daño o una pérdida.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65559",
+        "lemma": "web",
+        "definition": "Sitio de Internet.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "18567",
+        "lemma": "copey",
+        "definition": "un pequeño árbol de la familia de las mirtáceas, originario de América Central.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "26319",
+        "lemma": "enderezamiento",
+        "definition": "Acción y efecto de enderezar, es decir, de poner algo derecho o recto.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
