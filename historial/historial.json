@@ -46364,5 +46364,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-04",
+    "words": [
+      {
+        "id": "58992",
+        "lemma": "sofistería",
+        "definition": "Habilidad para presentar argumentos complicados y difíciles de entender.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10568",
+        "lemma": "brujul",
+        "definition": "Instrumento utilizado para la navegación, que permite determinar la dirección de un punto en relación a otro.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "14661",
+        "lemma": "chanfle",
+        "definition": "Un chanfle es una técnica de soldadura en la que se une un metal a otro mediante una sola soldadura.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "14802",
+        "lemma": "charladuría",
+        "definition": "Conversación sin sentido o frívola.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "09482",
+        "lemma": "biocombustible",
+        "definition": "Un combustible que se obtiene a partir de materiales orgánicos renovables.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30749",
+        "lemma": "fazferir",
+        "definition": "hacer falta.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "01951",
+        "lemma": "agrillarse",
+        "definition": "Enfadarse o enojarse.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "02854",
+        "lemma": "alechugar",
+        "definition": "Aplaudir.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37673",
+        "lemma": "institutriz",
+        "definition": "Una mujer que enseña a los niños en el hogar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "04678",
+        "lemma": "anjeo",
+        "definition": "Pez de agua dulce de la familia de los ciprinodontes.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "52577",
+        "lemma": "punki",
+        "definition": "Estilo musical y juvenil.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "43186",
+        "lemma": "mesillo",
+        "definition": "lugar pequeño.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42823",
+        "lemma": "melarquía",
+        "definition": "El gobierno de un monarca.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45171",
+        "lemma": "natri",
+        "definition": "El símbolo químico para el elemento químico sodio.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "49974",
+        "lemma": "piraña",
+        "definition": "Pez carnívoro de agua dulce.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "37967",
+        "lemma": "intervencionismo",
+        "definition": "política que consiste en la intervención del Estado en la economía.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "28879",
+        "lemma": "espinero",
+        "definition": "una planta de la familia de las rosáceas con frutos espinosos.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52916",
+        "lemma": "quilificación",
+        "definition": "el proceso de clasificar a las personas según su nivel de habilidad y destrezas, con el fin de determinar su salario.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "64097",
+        "lemma": "uviar",
+        "definition": "Expresar con voz aguda.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59632",
+        "lemma": "subsidiar",
+        "definition": "Proporcionar fondos para apoyar una actividad.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "44797",
+        "lemma": "multiuso",
+        "definition": "adjetivo para describir algo que puede usarse de muchas maneras diferentes.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64001",
+        "lemma": "urgir",
+        "definition": "Exigir algo con rapidez.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "23443",
+        "lemma": "desviacionismo",
+        "definition": "Una tendencia a la desviación de la norma o la ley.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65554",
+        "lemma": "walkman",
+        "definition": "Un dispositivo portátil para escuchar música.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65578",
+        "lemma": "xenoglosia",
+        "definition": "Palabra extranjera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "21496",
+        "lemma": "desayunar",
+        "definition": "tomar alimentos para comenzar el día.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66228",
+        "lemma": "zoquetada",
+        "definition": "Golpecito con el dedo índice.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
