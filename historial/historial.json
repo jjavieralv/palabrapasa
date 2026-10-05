@@ -46558,5 +46558,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-05",
+    "words": [
+      {
+        "id": "05828",
+        "lemma": "arcador",
+        "definition": "Una persona que juega a los bolos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09038",
+        "lemma": "becar",
+        "definition": "Dar una beca.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "13348",
+        "lemma": "castillete",
+        "definition": "Castillete es un pequeño castillo, generalmente usado como juguete.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20368",
+        "lemma": "damajuao",
+        "definition": "una persona que es dueña de una gran cantidad de bienes.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25933",
+        "lemma": "encaprichamiento",
+        "definition": "Una tendencia a ser obstinado o inflexible en una idea o propósito.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "02778",
+        "lemma": "alcofol",
+        "definition": "Juego de palabras creado a partir de dos palabras que se escriben igual pero significan cosas distintas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "65067",
+        "lemma": "vigilia",
+        "definition": "Un período de estar despierto y alerta durante la noche.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34710",
+        "lemma": "hamudí",
+        "definition": "Antiguo soldado musulmán.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37956",
+        "lemma": "intersexual",
+        "definition": "Persona que presenta características físicas de ambos sexos.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38650",
+        "lemma": "jarusca",
+        "definition": "Instrumento de percusión hecho de metal.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39179",
+        "lemma": "kivi",
+        "definition": "El kivi es una fruta pequeña y redonda de color verde con una piel rugosa y una pulpa dulce y jugosa.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "14774",
+        "lemma": "chaquetilla",
+        "definition": "Una chaquetilla es una prenda de vestir de manga larga y abotonada, generalmente con un cuello alto y abotonado.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "13651",
+        "lemma": "cavilosamente",
+        "definition": "con mucho cuidado y detalle.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45309",
+        "lemma": "negramenta",
+        "definition": "Una persona de piel oscura.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45900",
+        "lemma": "ña",
+        "definition": "Ña es una palabra coloquial usada para referirse a una mujer.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "01063",
+        "lemma": "acrostolio",
+        "definition": "Figura retórica que consiste en una palabra formada por las primeras letras de cada verso de un poema.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "62716",
+        "lemma": "transpaleta",
+        "definition": "Herramienta mecánica con la que se mueven objetos pesados.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52915",
+        "lemma": "quilico",
+        "definition": "En arquitectura, un quilico es una pequeña cúpula o bóveda que se coloca sobre una columna.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53651",
+        "lemma": "rayente",
+        "definition": "Que está en su mejor momento.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57023",
+        "lemma": "salival",
+        "definition": "Relacionado con la saliva.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60344",
+        "lemma": "talión",
+        "definition": "El principio de la ley del talión es una forma de justicia o de venganza en la que una persona recibe un castigo igual al daño causado.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "10778",
+        "lemma": "burbujeo",
+        "definition": "El sonido producido por el movimiento de burbujas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65072",
+        "lemma": "vigorosamente",
+        "definition": "de manera fuerte y vigorosa.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65570",
+        "lemma": "wólfram",
+        "definition": "Tungsteno",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "44216",
+        "lemma": "monóxilo",
+        "definition": "Un monóxilo es una palabra que consta de una sola sílaba.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "41289",
+        "lemma": "maguey",
+        "definition": "Es una planta mexicana, también conocida como mezcal, que se usa para producir bebidas alcohólicas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "21567",
+        "lemma": "desbrazarse",
+        "definition": "Desatarse los brazos.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
