@@ -46752,5 +46752,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-06",
+    "words": [
+      {
+        "id": "38788",
+        "lemma": "jineta",
+        "definition": "Una jineta es una cabalgadura ligera y ágil, usada para montar a caballo en equitación.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10302",
+        "lemma": "bramadera",
+        "definition": "Una bramadera es una reunión de personas para beber y divertirse.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "12831",
+        "lemma": "cariacos",
+        "definition": "Los cariacos son una especie de peces cartilaginosos que habitan en el mar Caribe.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "35880",
+        "lemma": "hozada",
+        "definition": "Una herramienta de mano con una hoja afilada para cortar hierba y arbustos.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28471",
+        "lemma": "escuridad",
+        "definition": "Falta de luz o de claridad.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32105",
+        "lemma": "frisa",
+        "definition": "Una frisa es una cornisa decorativa que se coloca en la parte superior de una pared para darle un toque de belleza.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "53272",
+        "lemma": "radiotelegrafista",
+        "definition": "Persona que se encarga de transmitir y recibir mensajes a través de la radio.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "31136",
+        "lemma": "filipichín",
+        "definition": "Persona muy pequeña.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "24097",
+        "lemma": "disgregante",
+        "definition": "Que causa disgregación.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38698",
+        "lemma": "jerapellina",
+        "definition": "Una prenda de vestir con mangas largas y cuello alto.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "23982",
+        "lemma": "disc-jockey",
+        "definition": "Un disc-jockey es una persona que selecciona y mezcla música para entretenimiento de una audiencia.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "10118",
+        "lemma": "borrachuela",
+        "definition": "una borracha de goma",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42131",
+        "lemma": "mariguanza",
+        "definition": "Acción de comprar o vender mariguana.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "16958",
+        "lemma": "colorante",
+        "definition": "algo que le da color a otra cosa.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "04677",
+        "lemma": "aniñar",
+        "definition": "Tratar a alguien con demasiada ternura o cariño.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46684",
+        "lemma": "orinada",
+        "definition": "Una cantidad pequeña de orina.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "17296",
+        "lemma": "compostura",
+        "definition": "La acción de coser o reparar algo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52902",
+        "lemma": "quijotada",
+        "definition": "Acción o acto de alguien que actúa sin pensar en las consecuencias.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "39625",
+        "lemma": "latebra",
+        "definition": "Una latebra es un lugar oculto o escondido.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59501",
+        "lemma": "subarriendo",
+        "definition": "El acto de alquilar una propiedad de una persona a otra.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "37813",
+        "lemma": "intercolumnio",
+        "definition": "Es un espacio entre dos columnas en un edificio, generalmente usado como una forma de decoración.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "55760",
+        "lemma": "reunificación",
+        "definition": "Es el proceso de volver a unir a una familia o grupo que ha estado separado.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64271",
+        "lemma": "valvulina",
+        "definition": "Valvulina es un aceite lubricante usado en motores de combustión interna.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65564",
+        "lemma": "whisky",
+        "definition": "El whisky es una bebida alcohólica destilada a partir de una mezcla de cereales fermentados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65575",
+        "lemma": "xeca",
+        "definition": "Pequeña araña de color café con manchas blancas.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65727",
+        "lemma": "yod",
+        "definition": "El yod es la décima letra del alfabeto hebreo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "03850",
+        "lemma": "amanzanar",
+        "definition": "amenazar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
