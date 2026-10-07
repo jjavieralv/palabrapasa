@@ -46946,5 +46946,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-07",
+    "words": [
+      {
+        "id": "34950",
+        "lemma": "henazo",
+        "definition": "Un ave migratoria que se encuentra en los países de Europa, Asia y África.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09700",
+        "lemma": "blástula",
+        "definition": "Una etapa temprana en el desarrollo embrionario, cuando el embrión se compone de una sola capa de células.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "13039",
+        "lemma": "carraza",
+        "definition": "Vehículo de caballos de cuatro ruedas.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "32692",
+        "lemma": "gamellada",
+        "definition": "Fiesta popular con música y baile.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "20947",
+        "lemma": "dentellar",
+        "definition": "hacer una decoración con dientes.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30414",
+        "lemma": "falangio",
+        "definition": "un antiguo soldado de infantería de la antigua Grecia.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33235",
+        "lemma": "germanía",
+        "definition": "Amistad entre personas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34798",
+        "lemma": "hazañosamente",
+        "definition": "con hazañas, con grandes logros.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "18142",
+        "lemma": "contraarmiños",
+        "definition": "Una tela gruesa para proteger el caballo de la intemperie.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "51050",
+        "lemma": "portovejense",
+        "definition": "Que pertenece a la ciudad de Porto Alegre.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "08926",
+        "lemma": "batik",
+        "definition": "Técnica de teñido de telas mediante la que se consiguen diseños geométricos.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "03600",
+        "lemma": "alquermes",
+        "definition": "un licor dulce de color rojo hecho a partir de extractos de plantas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "65491",
+        "lemma": "vormela",
+        "definition": "una especie de pequeño roedor.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "49135",
+        "lemma": "permanencia",
+        "definition": "la duración de algo en el tiempo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45911",
+        "lemma": "ñandutí",
+        "definition": "Telaraña silvestre de la familia de los arácnidos conocida como Eriophoridae.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46096",
+        "lemma": "occidental",
+        "definition": "adjetivo que se refiere a algo relacionado con el Occidente.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52546",
+        "lemma": "pulsómetro",
+        "definition": "un dispositivo que mide la frecuencia cardíaca.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "61564",
+        "lemma": "tetrarquía",
+        "definition": "Gobierno compartido por cuatro personas.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "37839",
+        "lemma": "interesable",
+        "definition": "Que puede interesar o atraer a alguien.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58535",
+        "lemma": "singulto",
+        "definition": "Una respiración involuntaria y profunda que se produce como resultado de una emoción intensa.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62032",
+        "lemma": "toldilla",
+        "definition": "pequeña lona que se usa para cubrir los muebles.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "20581",
+        "lemma": "deconstruir",
+        "definition": "Analizar una obra literaria o un texto para descubrir su significado real.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64908",
+        "lemma": "veteranía",
+        "definition": "Experiencia adquirida a través de los años.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60086",
+        "lemma": "swahili",
+        "definition": "Lengua africana hablada en Kenia y Tanzania.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30177",
+        "lemma": "extinguidor",
+        "definition": "Dispositivo para sofocar incendios.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "11744",
+        "lemma": "caluyo",
+        "definition": "Una persona que es muy habladora.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66103",
+        "lemma": "zarracina",
+        "definition": "Una planta herbácea de la familia de las umbelíferas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
