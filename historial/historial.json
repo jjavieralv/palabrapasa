@@ -47140,5 +47140,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-08",
+    "words": [
+      {
+        "id": "62935",
+        "lemma": "trastesón",
+        "definition": "Persona que actúa con descuido.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09000",
+        "lemma": "bazuquear",
+        "definition": "Mover con rapidez y fuerza.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11902",
+        "lemma": "camerá",
+        "definition": "Un dispositivo óptico que se usa para tomar fotografías.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "48614",
+        "lemma": "peladillo",
+        "definition": "Una bebida refrescante hecha de agua, limón y azúcar.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "49175",
+        "lemma": "pernocta",
+        "definition": "Permanecer durante la noche.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "41740",
+        "lemma": "manferir",
+        "definition": "Actuar de una manera determinada.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "66072",
+        "lemma": "zaranga",
+        "definition": "Una antigua embarcación española.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "48447",
+        "lemma": "pecho",
+        "definition": "El pecho es la parte delantera del cuerpo humano entre el cuello y el abdomen.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36159",
+        "lemma": "idilio",
+        "definition": "Una relación amorosa idealizada.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "62018",
+        "lemma": "tojal",
+        "definition": "Un tojal es una forma de terreno relativamente plano, cubierto de hierba, que se encuentra en las zonas montañosas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "19703",
+        "lemma": "cuark",
+        "definition": "Una persona muy tímida.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40119",
+        "lemma": "libraco",
+        "definition": "Se refiere a un libro pequeño, generalmente de bolsillo.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42679",
+        "lemma": "meconio",
+        "definition": "Primer material fecal de un recién nacido.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45395",
+        "lemma": "nervadura",
+        "definition": "Parte de una planta que se encarga de sostenerla.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "15855",
+        "lemma": "cigüeño",
+        "definition": "Un ave migratoria de tamaño mediano que vuela en formación en V.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "17860",
+        "lemma": "cono",
+        "definition": "Figura geométrica compuesta por una superficie curva y una línea recta.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "59899",
+        "lemma": "superiorato",
+        "definition": "Relación de autoridad entre un superior y un subordinado.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52729",
+        "lemma": "quadrivium",
+        "definition": "Conjunto de cuatro ramas de estudio",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "10532",
+        "lemma": "broquel",
+        "definition": "Escudo circular usado en la Edad Media.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58207",
+        "lemma": "señaladamente",
+        "definition": "señaladamente",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60231",
+        "lemma": "tacuaremboense",
+        "definition": "Relativo o perteneciente a Tacuarembó, una ciudad del Uruguay.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63942",
+        "lemma": "univocarse",
+        "definition": "Expresarse de forma clara y concisa.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64936",
+        "lemma": "viaticar",
+        "definition": "Proporcionar algo necesario para un viaje.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65549",
+        "lemma": "w",
+        "definition": "doble U.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30164",
+        "lemma": "exteriormente",
+        "definition": "fuera, al aire libre.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65625",
+        "lemma": "yaguré",
+        "definition": "Instrumento musical originario de la región andina, formado por una caja de madera con una cuerda.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66137",
+        "lemma": "zelote",
+        "definition": "persona fanática y radical.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
