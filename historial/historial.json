@@ -47334,5 +47334,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-09",
+    "words": [
+      {
+        "id": "23657",
+        "lemma": "diantre",
+        "definition": "Una expresión de sorpresa o asombro.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "32927",
+        "lemma": "garrobilla",
+        "definition": "una planta herbácea con flores amarillas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "13424",
+        "lemma": "catalogable",
+        "definition": "Que puede ser clasificado o catalogado.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "41781",
+        "lemma": "manguereada",
+        "definition": "Movimiento rápido y brusco.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28919",
+        "lemma": "espiroquetal",
+        "definition": "Relativo a las espiroquetas, microorganismos que viven en la sangre y los tejidos de los animales.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "62511",
+        "lemma": "trafique",
+        "definition": "El trafique es el comercio ilegal de bienes o servicios.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "32740",
+        "lemma": "ganeta",
+        "definition": "Persona astuta y audaz que sabe cómo salirse con la suya.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15172",
+        "lemma": "chinchunte",
+        "definition": "Persona tímida e introvertida.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37627",
+        "lemma": "insomnio",
+        "definition": "la incapacidad de dormir.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "19038",
+        "lemma": "cortinaje",
+        "definition": "Conjunto de cortinas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39199",
+        "lemma": "kuwaití",
+        "definition": "Relativo o perteneciente a Kuwait.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39745",
+        "lemma": "laxista",
+        "definition": "alguien que no es estricto con la disciplina.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "62077",
+        "lemma": "tomatada",
+        "definition": "Una tomatada es una sopa espesa hecha con tomates y otros ingredientes.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45777",
+        "lemma": "notoriedad",
+        "definition": "La notoriedad es la fama o el reconocimiento que una persona o cosa tiene.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "10404",
+        "lemma": "breña",
+        "definition": "Terreno cubierto de brezos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46088",
+        "lemma": "ocalear",
+        "definition": "Hacer un hueco en algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "54366",
+        "lemma": "reexpedición",
+        "definition": "el acto de volver a enviar un paquete a su destinatario original.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52767",
+        "lemma": "quedó",
+        "definition": "Se refiere al acto de quedar algo o alguien en un lugar determinado.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53442",
+        "lemma": "rapa",
+        "definition": "Una herramienta de metal con un filo afilado para raspar la superficie de un objeto.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57475",
+        "lemma": "sarro",
+        "definition": "sarro es una incrustación dura, como una capa de cal, que se forma en la superficie de los objetos sumergidos en el agua.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61517",
+        "lemma": "testerazo",
+        "definition": "Golpe fuerte con un objeto contundente.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "01164",
+        "lemma": "acurrullar",
+        "definition": "Abrigar a alguien con los brazos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "06859",
+        "lemma": "aspaviento",
+        "definition": "Movimiento brusco y a menudo exagerado.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "35605",
+        "lemma": "hollywoodiense",
+        "definition": "algo relacionado con Hollywood.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65579",
+        "lemma": "xenón",
+        "definition": "Un elemento químico gasoso con el símbolo Xe y el número atómico 54.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65795",
+        "lemma": "yuyuba",
+        "definition": "Árbol de la familia de las leguminosas, originario del norte de América.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "31807",
+        "lemma": "fotoconductriz",
+        "definition": "Que tiene la capacidad de conducir la luz.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
