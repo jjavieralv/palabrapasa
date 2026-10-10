@@ -47528,5 +47528,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-10",
+    "words": [
+      {
+        "id": "15329",
+        "lemma": "chismería",
+        "definition": "una forma de hablar alegremente y con humor.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "23481",
+        "lemma": "detectable",
+        "definition": "adjetivo para describir algo que puede ser descubierto o detectado.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16126",
+        "lemma": "citodiagnosis",
+        "definition": "El uso de células para diagnosticar una enfermedad.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20776",
+        "lemma": "delegar",
+        "definition": "Confiar a otra persona la responsabilidad de realizar una tarea.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27864",
+        "lemma": "erotizante",
+        "definition": "que excita sexualmente.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30707",
+        "lemma": "fatigar",
+        "definition": "cansar",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32539",
+        "lemma": "galera",
+        "definition": "Embarcación a remo usada en los mares mediterráneos.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34934",
+        "lemma": "hemolisis",
+        "definition": "La destrucción de los glóbulos rojos de la sangre.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37536",
+        "lemma": "inquietamente",
+        "definition": "con inquietud.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "03380",
+        "lemma": "almenaje",
+        "definition": "Fiesta en honor a una persona.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39163",
+        "lemma": "kilovoltio",
+        "definition": "Unidad de medida de la potencia eléctrica.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40644",
+        "lemma": "loción",
+        "definition": "Un producto para la piel.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44534",
+        "lemma": "mostellar",
+        "definition": "Persona que cuida de una casa.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "28305",
+        "lemma": "escondite",
+        "definition": "un lugar oculto para guardar algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "35690",
+        "lemma": "hondureñizar",
+        "definition": "adoptar un estilo de vida hondureño.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46572",
+        "lemma": "orchilla",
+        "definition": "Una planta trepadora de la familia de las cucurbitáceas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48739",
+        "lemma": "penalidad",
+        "definition": "La penalidad es una sanción impuesta a alguien que comete una acción ilegal o inmoral.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52741",
+        "lemma": "quebrajar",
+        "definition": "romper en pedazos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54600",
+        "lemma": "regraciar",
+        "definition": "mostrar gratitud o agradecimiento.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "47481",
+        "lemma": "panislamismo",
+        "definition": "Doctrina que defiende la unidad de todos los musulmanes.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61369",
+        "lemma": "termo",
+        "definition": "Un dispositivo utilizado para mantener un líquido o un gas a una temperatura constante.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "20900",
+        "lemma": "demudación",
+        "definition": "Cambio de expresión facial repentino.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "04976",
+        "lemma": "antinovela",
+        "definition": "Una antinovela es una obra literaria que se opone a la estructura y el estilo de la novela tradicional.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "59013",
+        "lemma": "software",
+        "definition": "Conjunto de programas informáticos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65590",
+        "lemma": "xilofonista",
+        "definition": "Persona que toca el xilófono.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65735",
+        "lemma": "yoga",
+        "definition": "Técnica de ejercicios físicos y respiratorios que busca el equilibrio mental y físico.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66073",
+        "lemma": "zarangollo",
+        "definition": "es una receta española típica de la región de Murcia, que se prepara con patatas, huevos y cebolla.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
