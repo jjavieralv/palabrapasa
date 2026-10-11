@@ -47722,5 +47722,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "words": [
+      {
+        "id": "06585",
+        "lemma": "arupo",
+        "definition": "Una planta herbácea anual de la familia de las asteráceas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09317",
+        "lemma": "bibliobús",
+        "definition": "Bibliobús es un servicio de transporte público que lleva libros a comunidades rurales y aisladas.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "52311",
+        "lemma": "prudencialmente",
+        "definition": "con prudencia.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "32077",
+        "lemma": "frialdad",
+        "definition": "La frialdad es la falta de calor, tanto físico como emocional.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "34962",
+        "lemma": "hendrija",
+        "definition": "chadora",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30303",
+        "lemma": "fabular",
+        "definition": "Inventar o contar historias o relatos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "03051",
+        "lemma": "algarear",
+        "definition": "atar con algarabía.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "19849",
+        "lemma": "cuchicheo",
+        "definition": "Susurro, hablar en voz baja.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36379",
+        "lemma": "impersonal",
+        "definition": "Que no tiene una personalidad propia, es decir, que no muestra sentimientos o emociones.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38444",
+        "lemma": "jaborandi",
+        "definition": "Planta medicinal de la familia de las rutáceas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "19282",
+        "lemma": "cracker",
+        "definition": "Un alimento salado hecho de harina, grasa y sal.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "63453",
+        "lemma": "tropología",
+        "definition": "un estudio de las figuras retóricas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "60080",
+        "lemma": "sutilmente",
+        "definition": "de forma sutil.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "24457",
+        "lemma": "dondiego",
+        "definition": "Persona que es muy terca y obstinada.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "13723",
+        "lemma": "cañabrava",
+        "definition": "Cañabrava es una planta de la familia de las gramíneas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "26947",
+        "lemma": "enorme",
+        "definition": "Excesivamente grande.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "23270",
+        "lemma": "destapar",
+        "definition": "Quitar el tapón o la tapa de algo.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "55501",
+        "lemma": "resquilo",
+        "definition": "Acción de aprovecharse de algo sin tener derecho a ello.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53733",
+        "lemma": "realzar",
+        "definition": "Mejorar, aumentar o subrayar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59675",
+        "lemma": "subyugable",
+        "definition": "Que se puede someter o dominar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "16958",
+        "lemma": "colorante",
+        "definition": "algo que le da color a otra cosa.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63840",
+        "lemma": "ultracongelar",
+        "definition": "Congelar a temperaturas muy bajas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64491",
+        "lemma": "vejentud",
+        "definition": "La edad de la madurez y la sabiduría.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "45483",
+        "lemma": "newton",
+        "definition": "Matemático, físico, filósofo y teólogo inglés, considerado uno de los científicos más importantes de todos los tiempos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "54660",
+        "lemma": "rehoyar",
+        "definition": "Remover la tierra con una herramienta para airearla.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65947",
+        "lemma": "zampalimones",
+        "definition": "Movimiento de baile que se realiza con los pies.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
