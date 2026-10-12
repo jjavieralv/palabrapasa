@@ -47916,5 +47916,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "words": [
+      {
+        "id": "19790",
+        "lemma": "cubicar",
+        "definition": "Medir con cubos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "38093",
+        "lemma": "invariabilidad",
+        "definition": "La cualidad de ser invariable.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "54708",
+        "lemma": "reiteración",
+        "definition": "Acción de repetir algo una y otra vez.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20966",
+        "lemma": "denuesto",
+        "definition": "Una expresión de desaprobación o desprecio.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26991",
+        "lemma": "enrehojar",
+        "definition": "cubrir con una capa de hojas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31104",
+        "lemma": "filautía",
+        "definition": "Complacencia excesiva o adulación.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "52146",
+        "lemma": "prorrogable",
+        "definition": "que puede ser prorrogado.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "49991",
+        "lemma": "pirincho",
+        "definition": "Pez de agua dulce de la familia de los characiformes, de coloración gris oscuro con manchas amarillas y con una línea lateral blanca.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "24786",
+        "lemma": "economicismo",
+        "definition": "Una corriente de pensamiento que se centra en el análisis de la economía.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "18781",
+        "lemma": "corneja",
+        "definition": "Ave de plumaje negro, con una cresta blanca en la cabeza.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "03286",
+        "lemma": "alkermes",
+        "definition": "Una bebida alcohólica tradicional italiana hecha de vino, especias y colorantes.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39215",
+        "lemma": "labiovelar",
+        "definition": "un sonido consonántico formado por la combinación de un labio y una vela.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "43044",
+        "lemma": "mentidero",
+        "definition": "Lugar donde se intercambian información y noticias.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45529",
+        "lemma": "nihilismo",
+        "definition": "filosofía que niega la existencia de toda realidad objetiva.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13229",
+        "lemma": "cascapiñones",
+        "definition": "Los cascapiñones son frutos secos, como almendras o nueces, cubiertos de azúcar, canela y otras especias.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "33219",
+        "lemma": "geopolíticamente",
+        "definition": "con relación a la geopolítica.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50367",
+        "lemma": "platónicamente",
+        "definition": "de forma idealista y abstracta.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "29442",
+        "lemma": "estoquillo",
+        "definition": "pequeño almacén.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "22452",
+        "lemma": "desgraciar",
+        "definition": "Causar una desgracia a alguien.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "21343",
+        "lemma": "desaparecimiento",
+        "definition": "desvanecimiento, desaparición.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "35476",
+        "lemma": "hipotéticamente",
+        "definition": "de manera hipotética o supuesta.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "34117",
+        "lemma": "guanajuatense",
+        "definition": "Perteneciente al estado mexicano de Guanajuato.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "57139",
+        "lemma": "salvable",
+        "definition": "que se puede salvar.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65566",
+        "lemma": "wincha",
+        "definition": "Una polea con una cuerda enrollada en ella usada para elevar objetos pesados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65580",
+        "lemma": "xerocopia",
+        "definition": "Copia hecha con una máquina de fotocopiar.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "47574",
+        "lemma": "papayero",
+        "definition": "Persona que cultiva papayas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66270",
+        "lemma": "zulo",
+        "definition": "Una habitación secreta oculta en una casa.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
