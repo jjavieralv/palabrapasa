@@ -48304,5 +48304,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "words": [
+      {
+        "id": "02054",
+        "lemma": "aguatocha",
+        "definition": "una embarcación pequeña y ligera.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "36604",
+        "lemma": "inapresable",
+        "definition": "Que no puede ser capturado o detenido.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15449",
+        "lemma": "chopa",
+        "definition": "una prenda de vestir informal para hombres hecha de lana o algodón.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21574",
+        "lemma": "desbrozo",
+        "definition": "La eliminación de la vegetación y la maleza de una propiedad.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "16821",
+        "lemma": "coleto",
+        "definition": "Pequeño mamífero insectívoro de la familia Talpidae, de color gris oscuro y con una cola muy corta.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32215",
+        "lemma": "fuerza",
+        "definition": "Capacidad para realizar trabajo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "27346",
+        "lemma": "entrecoger",
+        "definition": "recoger algo con cuidado.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35308",
+        "lemma": "hilarante",
+        "definition": "divertido, gracioso.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "60165",
+        "lemma": "tabloide",
+        "definition": "Periódico de formato más pequeño que el de un diario.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "60295",
+        "lemma": "tajugo",
+        "definition": "Una persona tonta o estúpida.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39121",
+        "lemma": "kappa",
+        "definition": "Letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "35671",
+        "lemma": "homúnculo",
+        "definition": "Ser humanoide, de tamaño reducido, que se representa en el ámbito de la mitología y la alquimia.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "07285",
+        "lemma": "atrampar",
+        "definition": "aplastar.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "28697",
+        "lemma": "esparsión",
+        "definition": "acción y efecto de esparcirse.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45932",
+        "lemma": "ñisñil",
+        "definition": "Niño pequeño.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46805",
+        "lemma": "osera",
+        "definition": "Variedad de árbol de la familia de las fagáceas.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "46399",
+        "lemma": "omnipresencia",
+        "definition": "Estado de estar presente en todas partes.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "14828",
+        "lemma": "charqui",
+        "definition": "Carne deshidratada y salada.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "43578",
+        "lemma": "mindanguear",
+        "definition": "atormentar con palabras.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "42326",
+        "lemma": "mascarada",
+        "definition": "una fiesta en la que los participantes usan disfraces.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "42135",
+        "lemma": "marimanta",
+        "definition": "red grande usada para pescar en el mar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "42453",
+        "lemma": "matasuegras",
+        "definition": "Juego de mesa con figuras de madera.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "15378",
+        "lemma": "chivirico",
+        "definition": "Una palabra usada para referirse a algo que es pequeño, lindo o encantador.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "53643",
+        "lemma": "rawsense",
+        "definition": "Plataforma de procesamiento de datos que proporciona una solución para la recopilación y el análisis de datos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65596",
+        "lemma": "xocoatole",
+        "definition": "Bebida mexicana a base de chocolate.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65724",
+        "lemma": "yip",
+        "definition": "Sonido que emiten los perros cuando están excitados.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65992",
+        "lemma": "zangarullón",
+        "definition": "una ráfaga de viento.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
