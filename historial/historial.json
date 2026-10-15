@@ -48498,5 +48498,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "words": [
+      {
+        "id": "06343",
+        "lemma": "arrezagar",
+        "definition": "Cortar una superficie con una herramienta afilada.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "00236",
+        "lemma": "abordo",
+        "definition": "abordar una embarcación.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "20060",
+        "lemma": "cultural",
+        "definition": "Relacionado con la cultura.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22395",
+        "lemma": "desforzarse",
+        "definition": "Esforzarse mucho para conseguir algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25152",
+        "lemma": "embarazadamente",
+        "definition": "de manera embarazosa.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "07896",
+        "lemma": "azarnefe",
+        "definition": "Es una planta herbácea de la familia de las compuestas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "46407",
+        "lemma": "onagra",
+        "definition": "Una planta herbácea de la familia de las onagráceas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34575",
+        "lemma": "haber",
+        "definition": "Ser, existir.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "50616",
+        "lemma": "poise",
+        "definition": "Elegancia, gracia y seguridad en uno mismo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "22069",
+        "lemma": "desemejante",
+        "definition": "Que no se parece.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "60501",
+        "lemma": "tanka",
+        "definition": "El tanka es una forma de poesía japonesa que consta de cinco líneas con cinco, siete, cinco, siete y siete sílabas, respectivamente.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40231",
+        "lemma": "lígrime",
+        "definition": "Lágrima.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "22643",
+        "lemma": "deslegitimación",
+        "definition": "La acción de desacreditar la legitimidad de algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45706",
+        "lemma": "noradrenalina",
+        "definition": "La noradrenalina es una hormona producida por las glándulas suprarrenales que aumenta la presión arterial y la frecuencia cardíaca.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "03492",
+        "lemma": "almorriña",
+        "definition": "Fruto del almendro.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46701",
+        "lemma": "orlón",
+        "definition": "Un tipo de tejido grueso y resistente.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "51875",
+        "lemma": "proceridad",
+        "definition": "Generosidad y generosidad.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "38713",
+        "lemma": "jeribeque",
+        "definition": "una herramienta de jardinería con forma de horquilla para desenterrar hierbas y arbustos.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54276",
+        "lemma": "redola",
+        "definition": "Una redola es una red de alambre para cazar pájaros.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57415",
+        "lemma": "sarcocola",
+        "definition": "Género de mamíferos insectívoros de la familia Soricidae.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "60130",
+        "lemma": "tabicar",
+        "definition": "construir con tabiques.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64099",
+        "lemma": "uvillo",
+        "definition": "Pequeña cuerda o hilo con que se amarra o se sujeta algo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65409",
+        "lemma": "volatero",
+        "definition": "una persona que entrena y cuida aves de rapiña.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65584",
+        "lemma": "xerografiar",
+        "definition": "copiar algo con una máquina de xerografía.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "50123",
+        "lemma": "pitayo",
+        "definition": "Fruta tropical con una pulpa dulce y jugosa.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66252",
+        "lemma": "zozobrar",
+        "definition": "naufragar.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
