@@ -48692,5 +48692,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "words": [
+      {
+        "id": "04627",
+        "lemma": "anihilamiento",
+        "definition": "Destrucción completa.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10065",
+        "lemma": "borceguí",
+        "definition": "Calzado de cuero o material sintético con suela resistente.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "24616",
+        "lemma": "ducto",
+        "definition": "Una canalización para el transporte de fluidos.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20602",
+        "lemma": "decretación",
+        "definition": "La decretación es el acto de emitir una disposición legal o una ley.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27953",
+        "lemma": "escalamiento",
+        "definition": "Acción de escalar una montaña.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "20653",
+        "lemma": "defender",
+        "definition": "Proteger a alguien o algo de un ataque o amenaza.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "64167",
+        "lemma": "vagancia",
+        "definition": "Inactividad o desinterés en el trabajo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "60260",
+        "lemma": "tahúr",
+        "definition": "estafador, tramposo.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "50352",
+        "lemma": "platija",
+        "definition": "Pez de agua salada de la familia de los platísidos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38772",
+        "lemma": "jijeo",
+        "definition": "Acción de reírse con estridencia.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39175",
+        "lemma": "kirieleisón",
+        "definition": "Una comida a base de carne, patatas y huevos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "35322",
+        "lemma": "hilván",
+        "definition": "Una técnica de bordado que consiste en pasar aguja y hilo a través de los bordes de dos telas para unirlas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "28299",
+        "lemma": "escondidamente",
+        "definition": "de manera oculta.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "58646",
+        "lemma": "sistemáticamente",
+        "definition": "de manera sistemática.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "05979",
+        "lemma": "argaña",
+        "definition": "Instrumento musical de percusión usado en la música tradicional.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46525",
+        "lemma": "optimación",
+        "definition": "Un proceso para mejorar la eficiencia de un sistema, proceso o producto.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49531",
+        "lemma": "picamaderos",
+        "definition": "Una picamaderos es un ave de plumaje oscuro y con una cresta característica en la cabeza.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "16164",
+        "lemma": "clachique",
+        "definition": "Persona de pocas palabras.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56093",
+        "lemma": "roatán",
+        "definition": "una isla de Honduras, famosa por sus playas y su vida marina.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58886",
+        "lemma": "sobretendón",
+        "definition": "una tela o material adicional usado para cubrir una superficie, como una cama.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "25688",
+        "lemma": "empozamiento",
+        "definition": "la acción de empozar.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63799",
+        "lemma": "ucase",
+        "definition": "Acrónimo de Unidad de Cuidados de Salud Especializados.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64946",
+        "lemma": "vibrante",
+        "definition": "Que vibra o produce vibraciones.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "37243",
+        "lemma": "inflexión",
+        "definition": "Aureomicina: Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "47184",
+        "lemma": "palay",
+        "definition": "antiguo juego de mesa que se juega con dados.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "42303",
+        "lemma": "marzal",
+        "definition": "Persona que es muy refinada y de buen gusto.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
