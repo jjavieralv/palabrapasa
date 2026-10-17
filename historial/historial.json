@@ -48886,5 +48886,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "words": [
+      {
+        "id": "04824",
+        "lemma": "antero",
+        "definition": "Persona que está delante de otra.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "36362",
+        "lemma": "imperdonablemente",
+        "definition": "sin ninguna posibilidad de perdón.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "40503",
+        "lemma": "llaca",
+        "definition": "Insecto de la familia de los escarabajos.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "10694",
+        "lemma": "buhedera",
+        "definition": "centro o parte principal de algo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "24931",
+        "lemma": "eirá",
+        "definition": "tela de algodón teñida con colorantes naturales.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32288",
+        "lemma": "funche",
+        "definition": "El funche es un plato tradicional de Puerto Rico hecho con maíz y otros ingredientes.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32888",
+        "lemma": "garniel",
+        "definition": "Una variedad de alga marina.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35221",
+        "lemma": "hidroplano",
+        "definition": "Un hidroplano es un avión de ala flotante diseñado para despegar y aterrizar sobre el agua.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38017",
+        "lemma": "intransmutable",
+        "definition": "no puede ser cambiado.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "11359",
+        "lemma": "cajonear",
+        "definition": "tocar una caja para acompañar una música.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39121",
+        "lemma": "kappa",
+        "definition": "Letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "11680",
+        "lemma": "callueso",
+        "definition": "Persona que tiene callos en la piel.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "55618",
+        "lemma": "retenimiento",
+        "definition": "Acción de retener algo.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "12324",
+        "lemma": "cantorral",
+        "definition": "Lugar donde se crían los cantores.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45930",
+        "lemma": "ñire",
+        "definition": "Árbol de la familia de las fagáceas, originario de América del Sur.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "17851",
+        "lemma": "connaturalizar",
+        "definition": "hacer algo natural para alguien.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "06446",
+        "lemma": "arropera",
+        "definition": "recipiente para guardar arroz.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52810",
+        "lemma": "quepis",
+        "definition": "Un sombrero típico de la cultura andina, hecho a mano con lana de llama.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "54427",
+        "lemma": "reforma",
+        "definition": "Una reforma es un cambio en la estructura de una ley, una política o una institución.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57159",
+        "lemma": "salvar",
+        "definition": "Preservar de un peligro.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "02004",
+        "lemma": "aguafuerte",
+        "definition": "El aguafuerte es una técnica de grabado en la que se usa una tinta ácida para grabar en una placa de metal.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64099",
+        "lemma": "uvillo",
+        "definition": "Pequeña cuerda o hilo con que se amarra o se sujeta algo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "55855",
+        "lemma": "revivificar",
+        "definition": "dar nueva vida o energía.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "35604",
+        "lemma": "hollywoodense",
+        "definition": "Relativo a Hollywood, una ciudad de los Estados Unidos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "30197",
+        "lemma": "extradós",
+        "definition": "La cara exterior de una estructura, como una pared o una viga.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65675",
+        "lemma": "yeguada",
+        "definition": "Lugar donde se crían caballos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "61923",
+        "lemma": "tiznar",
+        "definition": "quemar.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
