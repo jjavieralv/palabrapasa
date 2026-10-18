@@ -49080,5 +49080,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-18",
+    "words": [
+      {
+        "id": "00886",
+        "lemma": "acojinamiento",
+        "definition": "Plumilla: Instrumento de escritura que se usa para escribir con tinta.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08420",
+        "lemma": "bambarria",
+        "definition": "juego de niños consistente en lanzar una piedra con una cuerda.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "03130",
+        "lemma": "alhucemilla",
+        "definition": "Planta medicinal de la familia de las labiadas.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20445",
+        "lemma": "debate",
+        "definition": "un debate es una discusión formal entre dos o más personas para debatir un tema.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "23684",
+        "lemma": "diátesis",
+        "definition": "Una tendencia a desarrollar una enfermedad o una condición particular.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "51942",
+        "lemma": "profase",
+        "definition": "La primera fase de la mitosis, caracterizada por la condensación del material cromosómico.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "49835",
+        "lemma": "pingorota",
+        "definition": "Una comida típica de la región de los Andes, hecha con papas, queso y carne.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35182",
+        "lemma": "hidrartrosis",
+        "definition": "Una enfermedad inflamatoria crónica que causa dolor, hinchazón y rigidez en las articulaciones.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38007",
+        "lemma": "intranet",
+        "definition": "Una red privada que se utiliza para compartir información entre los empleados de una empresa.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38510",
+        "lemma": "jainista",
+        "definition": "Relativo al jainismo.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "19905",
+        "lemma": "cuentakilómetros",
+        "definition": "un dispositivo que se utiliza para medir la distancia recorrida por un vehículo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39941",
+        "lemma": "lentejuela",
+        "definition": "Una pequeña lente de vidrio o plástico con una superficie reflectante utilizada para decorar ropa y otros artículos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "24404",
+        "lemma": "domanio",
+        "definition": "es un término legal que se refiere al derecho de propiedad sobre una propiedad inmueble.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45068",
+        "lemma": "nalgueada",
+        "definition": "Acción de dar una nalgada.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "53789",
+        "lemma": "rebañar",
+        "definition": "recoger algo con los dedos o con una cuchara.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "17159",
+        "lemma": "compactera",
+        "definition": "Persona que compacta objetos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "50722",
+        "lemma": "polis",
+        "definition": "Policía.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "07070",
+        "lemma": "ataurique",
+        "definition": "Juego de mesa para dos jugadores, inventado por los árabes durante la Edad Media.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "12864",
+        "lemma": "cariofilina",
+        "definition": "Sustancia química presente en algunas plantas y que se utiliza como medicina natural.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59246",
+        "lemma": "sonorense",
+        "definition": "Natural o habitante de Sonora.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61394",
+        "lemma": "ternada",
+        "definition": "una fuerte ráfaga de viento.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63861",
+        "lemma": "ulua",
+        "definition": "Pez marino de la familia de los carangidos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "33846",
+        "lemma": "graveza",
+        "definition": "La gravedad es la fuerza de atracción entre dos cuerpos masivos, como la Tierra y la Luna.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65568",
+        "lemma": "windsurfing",
+        "definition": "Un deporte acuático en el que se usa una tabla especial y una vela para navegar a velocidades rápidas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65578",
+        "lemma": "xenoglosia",
+        "definition": "Palabra extranjera.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "26983",
+        "lemma": "enrayar",
+        "definition": "Engranar una pieza mecánica con otra para que funcionen juntas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66125",
+        "lemma": "zata",
+        "definition": "La zata es una planta de la familia de las leguminosas, con hojas verdes y flores blancas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
