@@ -49274,5 +49274,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "words": [
+      {
+        "id": "43014",
+        "lemma": "menstrual",
+        "definition": "relacionado con el periodo menstrual.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "47447",
+        "lemma": "panelable",
+        "definition": "algo que se puede dividir en paneles.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16465",
+        "lemma": "cocama",
+        "definition": "Una de las lenguas indígenas habladas en la Amazonía colombiana.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "47814",
+        "lemma": "pardina",
+        "definition": "La pardina es una variedad de garbanzo con la forma de una lente.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "38104",
+        "lemma": "invenciblemente",
+        "definition": "de manera invencible.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31339",
+        "lemma": "flan",
+        "definition": "Un postre español hecho con huevos, leche y azúcar.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33339",
+        "lemma": "girasol",
+        "definition": "El girasol es una planta con grandes flores amarillas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34655",
+        "lemma": "haiku",
+        "definition": "Un poema japonés de tres líneas, con cinco sílabas en la primera línea, siete sílabas en la segunda línea y cinco sílabas en la tercera línea.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37761",
+        "lemma": "inteligiblemente",
+        "definition": "de manera inteligible.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "08215",
+        "lemma": "bajamiento",
+        "definition": "Acción de bajar algo o alguien.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39113",
+        "lemma": "ka",
+        "definition": "Espíritu vital que todos los seres humanos poseen.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "55887",
+        "lemma": "revolvimiento",
+        "definition": "El acto de remover algo mezclando o agitando.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43430",
+        "lemma": "microspora",
+        "definition": "Organismo microscópico unicelular.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "66002",
+        "lemma": "zanjear",
+        "definition": "Acabar una disputa.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45933",
+        "lemma": "ñizca",
+        "definition": "una palabra en el dialecto guaraní del Paraguay que significa \"pequeño\".",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "21065",
+        "lemma": "derraigamiento",
+        "definition": "Acción de arrancar o desarraigar.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51793",
+        "lemma": "pringo",
+        "definition": "Refiere a una planta perteneciente a la familia de las amarilidáceas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52811",
+        "lemma": "queque",
+        "definition": "Un queque es un pastel suave, esponjoso y horneado, generalmente con alguna forma de relleno.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "02603",
+        "lemma": "alboguear",
+        "definition": "Hacer una señal con la boca para llamar la atención.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "59614",
+        "lemma": "subproducto",
+        "definition": "Un producto secundario resultante de un proceso de producción.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63130",
+        "lemma": "triboelectricidad",
+        "definition": "La electricidad generada por el roce entre dos materiales.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "24646",
+        "lemma": "dulciacuícola",
+        "definition": "Dulce de forma de cuervo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65413",
+        "lemma": "volatilización",
+        "definition": "transformación de una sustancia en un gas.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "45229",
+        "lemma": "ndowé",
+        "definition": "palabra que se refiere a una persona con una actitud negativa.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "05262",
+        "lemma": "apaxtle",
+        "definition": "Una fruta ovalada de color amarillo con una cáscara dura.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "49644",
+        "lemma": "picuy",
+        "definition": "El picuy es un ave de la familia de los turdidos, de color verde oliva con una franja negra en el pecho.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66316",
+        "lemma": "zurra",
+        "definition": "castigo físico o tratamiento desagradable.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
