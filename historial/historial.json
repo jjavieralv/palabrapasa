@@ -49662,5 +49662,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "words": [
+      {
+        "id": "07256",
+        "lemma": "atorón",
+        "definition": "gran cantidad.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "60144",
+        "lemma": "tablaje",
+        "definition": "El proceso de clasificar a los trabajadores de acuerdo con sus habilidades y experiencia.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "52284",
+        "lemma": "provincianismo",
+        "definition": "actitud limitada y poco avanzada.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "58757",
+        "lemma": "sobrecédula",
+        "definition": "Documento que contiene una declaración jurada.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "26134",
+        "lemma": "encintado",
+        "definition": "Hecho de adornar algo con cintas.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "46303",
+        "lemma": "oleografía",
+        "definition": "técnica artística que consiste en la aplicación de aceite sobre una superficie para crear una imagen.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "34385",
+        "lemma": "guerrillear",
+        "definition": "Combatir utilizando tácticas de guerra no convencionales.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34659",
+        "lemma": "halago",
+        "definition": "palabras o acciones que expresan elogio o admiración.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37577",
+        "lemma": "insensibilización",
+        "definition": "Proceso de desensibilización.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38515",
+        "lemma": "jaladera",
+        "definition": "Una persona que se encarga de dirigir y controlar el trabajo de otros.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "59478",
+        "lemma": "stock",
+        "definition": "una cantidad de algo que se almacena para su uso futuro.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "60346",
+        "lemma": "talismán",
+        "definition": "Objeto que se cree posee poderes mágicos para proteger a su dueño.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "56518",
+        "lemma": "ruborosamente",
+        "definition": "con rubor.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "12239",
+        "lemma": "canónigo",
+        "definition": "un eclesiástico que pertenece a una catedral o una iglesia de alto rango.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45946",
+        "lemma": "ñublar",
+        "definition": "formar nubes.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "28431",
+        "lemma": "escudo",
+        "definition": "un dispositivo de protección usado para bloquear o reflejar los impactos físicos, químicos o eléctricos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "05461",
+        "lemma": "apocopar",
+        "definition": "Acortar una palabra cambiando o eliminando algunas letras.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "53089",
+        "lemma": "quizás",
+        "definition": "tal vez.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "56530",
+        "lemma": "rucho",
+        "definition": "El rucho es una forma de tejer con la que se hacen mantas, bufandas, etc.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "28264",
+        "lemma": "escolán",
+        "definition": "Niño pequeño que aprende a cantar en un coro.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62057",
+        "lemma": "tolmera",
+        "definition": "Una técnica de navegación usada por los navegantes antiguos.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63826",
+        "lemma": "ulna",
+        "definition": "Hueso del antebrazo situado entre el codo y la muñeca.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64308",
+        "lemma": "vapulamiento",
+        "definition": "Una reprimenda o castigo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "53722",
+        "lemma": "reality show",
+        "definition": "Un reality show es un programa de televisión que muestra la vida real de personas o grupos de personas.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65581",
+        "lemma": "xerocopiar",
+        "definition": "Copiar algo usando una máquina fotocopiadora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "66291",
+        "lemma": "zuncuya",
+        "definition": "Una planta trepadora tropical con frutos comestibles.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66300",
+        "lemma": "zurcida",
+        "definition": "Una costura hecha para reparar una prenda de vestir.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
