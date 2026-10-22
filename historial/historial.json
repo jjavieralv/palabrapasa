@@ -49856,5 +49856,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "words": [
+      {
+        "id": "49549",
+        "lemma": "picaril",
+        "definition": "Astuto, perspicaz y taimado.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10673",
+        "lemma": "bufete",
+        "definition": "Un bufete es un estudio de abogados o una firma de abogados.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "27144",
+        "lemma": "ensordecimiento",
+        "definition": "falta de audición.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22327",
+        "lemma": "desestañar",
+        "definition": "quitar las estrías de algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "38675",
+        "lemma": "jebe",
+        "definition": "Barrena de metal con un mango y una punta de acero.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "51423",
+        "lemma": "prefigurar",
+        "definition": "anticipar algo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "16179",
+        "lemma": "clanga",
+        "definition": "Un sonido fuerte y desagradable.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "41046",
+        "lemma": "machar",
+        "definition": "aplastar.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "15701",
+        "lemma": "cian",
+        "definition": "Capricornio: El décimo signo del zodíaco, que se representa con una cabra.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "03273",
+        "lemma": "aljofaina",
+        "definition": "Plato de barro para fregar.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39185",
+        "lemma": "kohol",
+        "definition": "El kohol es una planta originaria del sureste asiático.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39594",
+        "lemma": "lasarse",
+        "definition": "Desatarse, soltarse.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42096",
+        "lemma": "margay",
+        "definition": "Una especie de mamífero felino de tamaño mediano que se encuentra en América Central.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "65962",
+        "lemma": "zanate",
+        "definition": "Ave de la familia de los tórtolas.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45950",
+        "lemma": "ñudo",
+        "definition": "Nudo complicado hecho con una cuerda o con una tira de tela.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "42277",
+        "lemma": "martilleo",
+        "definition": "Acción de golpear con un martillo.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "26585",
+        "lemma": "engañapichanga",
+        "definition": "una táctica engañosa para obtener ventaja.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "55177",
+        "lemma": "repóquer",
+        "definition": "Juego de cartas que se juega con dos o más jugadores.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55230",
+        "lemma": "reprobar",
+        "definition": "no aprobar un examen.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "52834",
+        "lemma": "queroseno",
+        "definition": "Combustible líquido obtenido a partir de la destilación de petróleo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63241",
+        "lemma": "trinidad",
+        "definition": "La Trinidad es una doctrina cristiana que afirma la existencia de un solo Dios en tres personas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64049",
+        "lemma": "ustear",
+        "definition": "Enseñar algo con el objetivo de que sea aprendido.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64919",
+        "lemma": "viabilidad",
+        "definition": "capacidad de ser realizado o llevado a cabo.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60087",
+        "lemma": "swing",
+        "definition": "Estilo de música y baile de los años 30.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29987",
+        "lemma": "existencial",
+        "definition": "Relativo a la existencia humana.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65629",
+        "lemma": "yaití",
+        "definition": "Una persona de ascendencia haitiana.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66233",
+        "lemma": "zorita",
+        "definition": "Un pequeño animal similar a una liebre.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
