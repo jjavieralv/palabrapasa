@@ -50050,5 +50050,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "words": [
+      {
+        "id": "03468",
+        "lemma": "almojarife",
+        "definition": "Persona encargada de recaudar impuestos en el antiguo Imperio Otomano.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10431",
+        "lemma": "brigantina",
+        "definition": "Embarcación de vela de tamaño medio.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "14033",
+        "lemma": "cendal",
+        "definition": "Tela fina y ligera de seda.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "65807",
+        "lemma": "zabordo",
+        "definition": "Una pequeña embarcación con una vela triangular.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25747",
+        "lemma": "emundación",
+        "definition": "Acción de limpiar un lugar de desechos o basura.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "53995",
+        "lemma": "rechifla",
+        "definition": "un sonido de desaprobación hecho con la boca.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "36973",
+        "lemma": "índigo",
+        "definition": "Un color intenso de azul oscuro.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34674",
+        "lemma": "hálito",
+        "definition": "aliento.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36912",
+        "lemma": "indeliberadamente",
+        "definition": "Sin deliberación.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38761",
+        "lemma": "jiennense",
+        "definition": "Relativo o perteneciente a la provincia de Jaén.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39120",
+        "lemma": "kantismo",
+        "definition": "filosofía creada por el filósofo alemán Immanuel Kant.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "54423",
+        "lemma": "refocilar",
+        "definition": "divertirse.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42218",
+        "lemma": "marquesa",
+        "definition": "una mujer de noble cuna, esposa de un marqués.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45591",
+        "lemma": "nivelación",
+        "definition": "La nivelación es el proceso de medir y determinar la altura relativa de los puntos en un área determinada.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "27109",
+        "lemma": "enseñamiento",
+        "definition": "Proceso de adquisición de conocimientos, habilidades y valores, tanto a través de la experiencia como de la educación formal.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46055",
+        "lemma": "obstaculizar",
+        "definition": "Crear obstáculos para impedir el avance de algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "65173",
+        "lemma": "vip",
+        "definition": "persona importante con privilegios especiales.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52827",
+        "lemma": "queresa",
+        "definition": "Una queresa es una persona que se dedica a la venta de productos o servicios.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "12977",
+        "lemma": "caroto",
+        "definition": "fruta con forma ovalada y color naranja.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "04367",
+        "lemma": "ancestralidad",
+        "definition": "El estado de ser un antepasado o de tener ascendencia.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "29898",
+        "lemma": "excitante",
+        "definition": "Que causa entusiasmo o emoción.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "26794",
+        "lemma": "enjuiciamiento",
+        "definition": "Es el proceso de formar un juicio sobre algo, basado en la información disponible.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "07790",
+        "lemma": "avorazamiento",
+        "definition": "El acto de atacar una posición con fuerza y decisión.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65597",
+        "lemma": "xocoyote",
+        "definition": "Animal canino",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "47083",
+        "lemma": "paipay",
+        "definition": "Paipay es una palabra que se usa para referirse a una persona que es muy activa y entusiasta.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "26758",
+        "lemma": "enjambrazón",
+        "definition": "Enjambre de personas o cosas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
