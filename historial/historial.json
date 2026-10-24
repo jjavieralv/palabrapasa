@@ -50244,5 +50244,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "words": [
+      {
+        "id": "07598",
+        "lemma": "autoplastia",
+        "definition": "Procedimiento quirúrgico que consiste en transferir tejido de una parte del cuerpo a otra.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09079",
+        "lemma": "bejuquear",
+        "definition": "Hablar con vueltas y rodeos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "43369",
+        "lemma": "micacita",
+        "definition": "Pequeña cantidad de algo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21268",
+        "lemma": "desalación",
+        "definition": "La desalación es el proceso de eliminar los minerales del agua salada para obtener agua dulce potable.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "29608",
+        "lemma": "estructuralismo",
+        "definition": "Una corriente de pensamiento que se centra en las relaciones entre los elementos de un sistema.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "02947",
+        "lemma": "alfabetizable",
+        "definition": "adjetivo que describe algo que se puede ordenar alfabéticamente.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "25041",
+        "lemma": "elegía",
+        "definition": "Poema en el que se expresa tristeza y dolor.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "54666",
+        "lemma": "rehundir",
+        "definition": "enterrar profundamente.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36551",
+        "lemma": "impurificación",
+        "definition": "contaminación o alteración de algo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "13733",
+        "lemma": "cañaheja",
+        "definition": "una variedad de caña de azúcar.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39150",
+        "lemma": "kilobyte",
+        "definition": "una unidad de medida de información equivalente a 1024 bytes.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40236",
+        "lemma": "ligustro",
+        "definition": "Un arbusto de hoja perenne, con flores blancas y frutos negros, que se encuentra en Europa, Asia y África.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "37165",
+        "lemma": "infantilismo",
+        "definition": "Tendencia a comportarse como un niño.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45894",
+        "lemma": "nutrimiento",
+        "definition": "Esto se refiere al alimento o alimentación que se proporciona a una persona o animal.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45899",
+        "lemma": "ñ",
+        "definition": "Letra del alfabeto español que representa un fonema nasal.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46108",
+        "lemma": "oceanografía",
+        "definition": "ciencia que se encarga del estudio de los océanos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49188",
+        "lemma": "peronismo",
+        "definition": "Movimiento político argentino creado por el ex presidente Juan Perón.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53013",
+        "lemma": "quintil",
+        "definition": "una división estadística de una población en cinco partes iguales.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55973",
+        "lemma": "rifirrafe",
+        "definition": "Disputa o discusión acalorada entre dos o más personas.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "40886",
+        "lemma": "lujuriosamente",
+        "definition": "de manera lujuriosa.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63397",
+        "lemma": "trompetista",
+        "definition": "Un músico que toca la trompeta.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63920",
+        "lemma": "unionismo",
+        "definition": "el sistema de organización de los trabajadores en una unión.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "65487",
+        "lemma": "vorágine",
+        "definition": "Movimiento rápido y caótico, como si fuera un remolino.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29871",
+        "lemma": "excedencia",
+        "definition": "un periodo de tiempo en el que un trabajador se toma un descanso de su trabajo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "51246",
+        "lemma": "poyata",
+        "definition": "Instrumento musical de origen africano.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "21558",
+        "lemma": "desbornizar",
+        "definition": "Quitar los bordes de un objeto.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
