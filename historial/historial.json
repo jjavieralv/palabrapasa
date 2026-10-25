@@ -50438,5 +50438,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "words": [
+      {
+        "id": "32927",
+        "lemma": "garrobilla",
+        "definition": "una planta herbácea con flores amarillas.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "55286",
+        "lemma": "requetebién",
+        "definition": "Muy bien.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "16531",
+        "lemma": "cocoliche",
+        "definition": "dialecto español-italiano hablado en Argentina.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "21466",
+        "lemma": "desatolondrar",
+        "definition": "desconcertar a alguien.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "45988",
+        "lemma": "objetivación",
+        "definition": "El acto de tratar a alguien como un objeto.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31968",
+        "lemma": "fratacho",
+        "definition": "Herramienta de metal con forma de cuchilla para raspar.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33092",
+        "lemma": "gañanía",
+        "definition": "charla o conversación que se desarrolla entre varias personas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34899",
+        "lemma": "hematopoyesis",
+        "definition": "producción de células sanguíneas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "59340",
+        "lemma": "sordino",
+        "definition": "Instrumento musical de metal o cuero que se coloca en la caja de la guitarra para suavizar el sonido.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38473",
+        "lemma": "jactancia",
+        "definition": "Actitud de alguien que se jacta de sus logros o posesiones.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39189",
+        "lemma": "kosovar",
+        "definition": "Se refiere a una persona que es nativa o residente de Kosovo.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "62115",
+        "lemma": "tonelería",
+        "definition": "El arte de hacer toneles.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43416",
+        "lemma": "micromanipulador",
+        "definition": "Un micromanipulador es un dispositivo utilizado para realizar trabajo de precisión a escala microscópica.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "57866",
+        "lemma": "senada",
+        "definition": "una señal para avisar a los demás",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45938",
+        "lemma": "ñoqui",
+        "definition": "Ñoqui es una pasta de papa rellena de carne picada, queso y especias.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46097",
+        "lemma": "occidentalismo",
+        "definition": "Occidentalismo es una tendencia a asimilar las formas de pensamiento, cultura y estilo de vida occidentales.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52137",
+        "lemma": "propugnar",
+        "definition": "Defender una idea.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "31351",
+        "lemma": "flaqueza",
+        "definition": "una debilidad o falta de energía.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53833",
+        "lemma": "rebotar",
+        "definition": "Saltar de una superficie a otra.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59662",
+        "lemma": "suburbio",
+        "definition": "Área de una ciudad que está alrededor de la zona central.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "12898",
+        "lemma": "carlota",
+        "definition": "Pastel de tres capas relleno con crema y frutas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "06073",
+        "lemma": "armadura",
+        "definition": "una armadura de metal usada para proteger el cuerpo de una persona en la guerra.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65435",
+        "lemma": "volquearse",
+        "definition": "volcarse, cambiar de posición.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "59013",
+        "lemma": "software",
+        "definition": "Conjunto de programas informáticos.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "52298",
+        "lemma": "próximamente",
+        "definition": "pronto, a corto plazo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "44261",
+        "lemma": "monterrey",
+        "definition": "Una ciudad mexicana situada en el estado de Nuevo León.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "52019",
+        "lemma": "proletarizar",
+        "definition": "reducir a la condición de proletario.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
