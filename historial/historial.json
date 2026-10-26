@@ -50632,5 +50632,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "words": [
+      {
+        "id": "54872",
+        "lemma": "rememoración",
+        "definition": "Acción de recordar algo.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "11010",
+        "lemma": "cabo",
+        "definition": "Una unidad militar de grado inferior a un sargento.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17382",
+        "lemma": "concatenar",
+        "definition": "unir una cosa con otra.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "49655",
+        "lemma": "piedrero",
+        "definition": "Una piedra o una roca grande.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "61024",
+        "lemma": "telerruta",
+        "definition": "una cuerda con nudos a intervalos regulares que se usa para medir distancias.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32299",
+        "lemma": "funda",
+        "definition": "Una funda es una cubierta para proteger un objeto.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "15700",
+        "lemma": "ciabogar",
+        "definition": "Trabajar sin parar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "21248",
+        "lemma": "desahogamiento",
+        "definition": "Liberación de sentimientos o emociones.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "49505",
+        "lemma": "pianoforte",
+        "definition": "Un instrumento musical de teclado compuesto por teclas y cuerdas.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38728",
+        "lemma": "jerricote",
+        "definition": "Una fruta de la familia de los cítricos, de color amarillo y con un sabor muy dulce.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "52577",
+        "lemma": "punki",
+        "definition": "Estilo musical y juvenil.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "04952",
+        "lemma": "antillanismo",
+        "definition": "Cultura característica de los países antillanos.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44439",
+        "lemma": "morralada",
+        "definition": "Cantidad pequeña de algo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "59885",
+        "lemma": "superfetación",
+        "definition": "Una condición en la que dos óvulos son fertilizados por dos espermatozoides al mismo tiempo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45903",
+        "lemma": "ñacurutú",
+        "definition": "Nombre usado para referirse a una variedad de palmera de la familia de las Arecaceae.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46054",
+        "lemma": "obstaculización",
+        "definition": "Acción de poner obstáculos para impedir el avance de algo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49904",
+        "lemma": "piolín",
+        "definition": "Una persona pequeña y delgada.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53092",
+        "lemma": "quiñazo",
+        "definition": "una cantidad grande de dinero.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "15255",
+        "lemma": "chiriguare",
+        "definition": "Una ave de la familia de los tucanes.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "60087",
+        "lemma": "swing",
+        "definition": "Estilo de música y baile de los años 30.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61883",
+        "lemma": "titeretada",
+        "definition": "Una forma de teatro en la que los actores son marionetas.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "55565",
+        "lemma": "resurgir",
+        "definition": "Volver a aparecer o a tener fuerza.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64581",
+        "lemma": "vendaval",
+        "definition": "un viento muy fuerte.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65553",
+        "lemma": "walkie-talkie",
+        "definition": "dispositivo de radio para comunicación a corta distancia.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65594",
+        "lemma": "xinca",
+        "definition": "Pueblo indígena que habita en Guatemala y El Salvador.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65716",
+        "lemma": "yeyuno",
+        "definition": "El yeyuno es el cuarto segmento del intestino delgado.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66203",
+        "lemma": "zoogeografía",
+        "definition": "El estudio de la distribución geográfica de los animales.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
