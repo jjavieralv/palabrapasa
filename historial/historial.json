@@ -50826,5 +50826,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "words": [
+      {
+        "id": "03572",
+        "lemma": "alotar",
+        "definition": "asignar una cantidad determinada.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "30991",
+        "lemma": "fibra",
+        "definition": "La fibra es un material que se utiliza para hacer telas, papel, plásticos y productos de aislamiento.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18186",
+        "lemma": "contracosta",
+        "definition": "es el lado de una montaña, colina o meseta que mira hacia el mar.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24149",
+        "lemma": "disparatadamente",
+        "definition": "de una forma absurda o sin sentido.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28532",
+        "lemma": "esforrocinar",
+        "definition": "esforzar, empujar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "02860",
+        "lemma": "alefangina",
+        "definition": "Una planta perenne de la familia de las ciperáceas, con hojas lanceoladas y flores blancas.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "04533",
+        "lemma": "angaria",
+        "definition": "La angaria es una forma de servidumbre feudal por la que los siervos debían prestar servicios a sus señores.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35677",
+        "lemma": "hondarras",
+        "definition": "una danza tradicional de la región vasca de España.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36156",
+        "lemma": "ideología",
+        "definition": "Un conjunto de ideas y creencias sobre un tema.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "59256",
+        "lemma": "sonrojar",
+        "definition": "ruborizar.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39156",
+        "lemma": "kilolitro",
+        "definition": "Unidad de volumen equivalente a mil litros.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40154",
+        "lemma": "lichera",
+        "definition": "Una lichera es una persona que vende licor.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "42837",
+        "lemma": "melgar",
+        "definition": "Melgar es una ciudad en el departamento de Tolima, Colombia.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45591",
+        "lemma": "nivelación",
+        "definition": "La nivelación es el proceso de medir y determinar la altura relativa de los puntos en un área determinada.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45903",
+        "lemma": "ñacurutú",
+        "definition": "Nombre usado para referirse a una variedad de palmera de la familia de las Arecaceae.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "45963",
+        "lemma": "obediencial",
+        "definition": "adjetivo que se refiere a alguien que obedece la autoridad.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52319",
+        "lemma": "prurito",
+        "definition": "picazón",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52844",
+        "lemma": "querva",
+        "definition": "Juego de niños en el que los participantes se colocan en una línea y uno de ellos es el líder.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55287",
+        "lemma": "requiebro",
+        "definition": "Palabra o gesto de afecto.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57846",
+        "lemma": "semirremolque",
+        "definition": "Un remolque con una parte delantera que se conecta a un vehículo para transportar cargas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "56800",
+        "lemma": "sacatinta",
+        "definition": "Instrumento para limpiar los tapones de tinta de las plumas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63918",
+        "lemma": "unión",
+        "definition": "El estado de estar unido o asociado.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "39714",
+        "lemma": "lavafrutas",
+        "definition": "máquina para lavar frutas y verduras.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65557",
+        "lemma": "watt",
+        "definition": "El watt es una unidad de potencia eléctrica que se utiliza para medir la cantidad de energía que un dispositivo consume por segundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "34790",
+        "lemma": "hayuco",
+        "definition": "Planta trepadora, de follaje verde intenso, con flores blancas y frutos amarillos.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66099",
+        "lemma": "zarpe",
+        "definition": "Una orden para que una embarcación zarpe.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
