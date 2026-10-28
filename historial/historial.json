@@ -51020,5 +51020,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "words": [
+      {
+        "id": "04084",
+        "lemma": "amito",
+        "definition": "Persona a la que se le considera un amigo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "25822",
+        "lemma": "encabronar",
+        "definition": "Enojar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "14480",
+        "lemma": "chador",
+        "definition": "Un chador es una prenda de vestir tradicional usada por las mujeres musulmanas para cubrirse el cuerpo y la cabeza.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22029",
+        "lemma": "desembarcadero",
+        "definition": "Lugar donde se desembarcan los pasajeros de un barco.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28484",
+        "lemma": "escusa",
+        "definition": "Una excusa es una justificación para algo que no se ha hecho o para algo que se ha hecho mal.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "20649",
+        "lemma": "defeccionar",
+        "definition": "Dejar una cosa para hacer otra.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "14672",
+        "lemma": "changuería",
+        "definition": "Una changuería es un establecimiento donde se pueden comprar productos de ferretería.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14892",
+        "lemma": "chavarí",
+        "definition": "Lugar de reunión social.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "44794",
+        "lemma": "multisecular",
+        "definition": "ario",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38466",
+        "lemma": "jachalí",
+        "definition": "Una especie de caza mayor de la familia de los cérvidos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39134",
+        "lemma": "kebab",
+        "definition": "Comida típica de Oriente Medio, consistente en trozos de carne asada a la parrilla y servida con pan.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40862",
+        "lemma": "luego",
+        "definition": "después, posteriormente.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "17143",
+        "lemma": "como",
+        "definition": "Igual que.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45264",
+        "lemma": "necromancia",
+        "definition": "Práctica de supuesta comunicación con los muertos.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "13791",
+        "lemma": "caño",
+        "definition": "Un caño es un tubo de metal o plástico que se usa para conducir agua o gas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46608",
+        "lemma": "orejismo",
+        "definition": "El acto de escuchar a alguien con atención y respeto.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52576",
+        "lemma": "punk",
+        "definition": "estilo musical que surgió en los años 70, caracterizado por letras provocativas y una actitud de rebeldía.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "29580",
+        "lemma": "estrinque",
+        "definition": "Acción de estrujar con las manos un objeto.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55896",
+        "lemma": "reyar",
+        "definition": "expresar una queja o protesta.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "30118",
+        "lemma": "expresable",
+        "definition": "Capaz de ser expresado.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "63045",
+        "lemma": "trementina",
+        "definition": "un líquido usado en la industria",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "06959",
+        "lemma": "asuntejo",
+        "definition": "Una pequeña cantidad de algo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "58406",
+        "lemma": "silvestre",
+        "definition": "algo que se encuentra en estado natural, sin la intervención del ser humano.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65557",
+        "lemma": "watt",
+        "definition": "El watt es una unidad de potencia eléctrica que se utiliza para medir la cantidad de energía que un dispositivo consume por segundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "62415",
+        "lemma": "toxemia",
+        "definition": "una condición en la que el cuerpo contiene toxinas.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65663",
+        "lemma": "yate",
+        "definition": "Un yate es una embarcación de lujo, generalmente con una cubierta superior, usada para recreación o deportes náuticos.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65875",
+        "lemma": "zagüía",
+        "definition": "Una planta herbácea con flores blancas y frutos rojos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
