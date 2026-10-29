@@ -51214,5 +51214,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "words": [
+      {
+        "id": "01420",
+        "lemma": "adsorción",
+        "definition": "La adsorción es el proceso por el cual una sustancia se adhiere a la superficie de otra.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08746",
+        "lemma": "barrenero",
+        "definition": "Persona que se dedica a la pesca de peces en el mar utilizando una barca y una red.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "02805",
+        "lemma": "alcrebite",
+        "definition": "Un alcrebite es una herramienta de corte usada para perforar agujeros en el metal.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21555",
+        "lemma": "desbordante",
+        "definition": "Que se desborda o excede.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "30258",
+        "lemma": "extruir",
+        "definition": "Forzar algo a salir a través de una abertura.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "54381",
+        "lemma": "referéndum",
+        "definition": "Una votación en la que los ciudadanos se pronuncian sobre un tema político o social.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33874",
+        "lemma": "gremial",
+        "definition": "Perteneciente o relativo a una corporación o gremio.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "53410",
+        "lemma": "ranchear",
+        "definition": "trabajar en un rancho.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36939",
+        "lemma": "indeterminadamente",
+        "definition": "De manera indeterminada.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "53649",
+        "lemma": "rayajo",
+        "definition": "Parte más delgada de una cosa.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39131",
+        "lemma": "katiuska",
+        "definition": "Bailarina rusa.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "03807",
+        "lemma": "amalayar",
+        "definition": "Halagar con palabras dulces a alguien.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "06626",
+        "lemma": "asambleísmo",
+        "definition": "sistema de gobierno basado en la toma de decisiones por votación en asambleas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "18913",
+        "lemma": "correncia",
+        "definition": "Una situación incómoda o embarazosa.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45931",
+        "lemma": "ñisca",
+        "definition": "un pequeño pez de agua dulce de la familia de los ciprinodontiformes.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "10464",
+        "lemma": "brisote",
+        "definition": "Estofado español a base de carne de cerdo y patatas.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47565",
+        "lemma": "paparrasolla",
+        "definition": "una planta con hojas grandes y frutos comestibles.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52961",
+        "lemma": "quinchado",
+        "definition": "una técnica de construcción usada para reforzar los muros.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "52827",
+        "lemma": "queresa",
+        "definition": "Una queresa es una persona que se dedica a la venta de productos o servicios.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "22816",
+        "lemma": "desnervar",
+        "definition": "Quitarle la energía a algo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60514",
+        "lemma": "tantra",
+        "definition": "Sistema de creencias y prácticas espirituales originario de la India.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "13587",
+        "lemma": "caula",
+        "definition": "Una caula es una persona que se caracteriza por ser muy trabajadora y responsable.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65120",
+        "lemma": "vinariego",
+        "definition": "Vinariego es un término usado para referirse a alguien que bebe mucho vino.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65557",
+        "lemma": "watt",
+        "definition": "El watt es una unidad de potencia eléctrica que se utiliza para medir la cantidad de energía que un dispositivo consume por segundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "20744",
+        "lemma": "deixis",
+        "definition": "La deixis es una figura retórica que consiste en la referencia a algo a través de la ubicación espacial o temporal.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65687",
+        "lemma": "yente",
+        "definition": "Persona que se mete en los asuntos de los demás.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66256",
+        "lemma": "zubia",
+        "definition": "una herramienta de metal con forma de cuchillo usada para cortar la hierba en los campos.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
