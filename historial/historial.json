@@ -51408,5 +51408,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "words": [
+      {
+        "id": "06283",
+        "lemma": "arredro",
+        "definition": "de manera desordenada.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "58781",
+        "lemma": "sobrediente",
+        "definition": "Persona que se cree superior a los demás.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "17608",
+        "lemma": "confabular",
+        "definition": "Reunirse para hablar de algo en secreto.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "52416",
+        "lemma": "pudelar",
+        "definition": "hablar con palabras poco claras.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "28677",
+        "lemma": "espante",
+        "definition": "Una acción que asusta a alguien.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31683",
+        "lemma": "forjar",
+        "definition": "Crear algo con golpes de martillo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34512",
+        "lemma": "guripa",
+        "definition": "Una palabra usada en Venezuela para referirse a una persona que es muy inteligente.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "34694",
+        "lemma": "hamadríada",
+        "definition": "Un grupo de hadas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "50359",
+        "lemma": "platino",
+        "definition": "Elemento químico de color gris plateado.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "02220",
+        "lemma": "ahuejote",
+        "definition": "Árbol de la familia de los pinos.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "61614",
+        "lemma": "tie break",
+        "definition": "Una forma de decidir un resultado empatado, como un partido de tenis.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "38815",
+        "lemma": "jirel",
+        "definition": "Una tribu de indios de la India occidental.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44102",
+        "lemma": "monedería",
+        "definition": "Negocio o tienda en la que se venden monedas y billetes.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45046",
+        "lemma": "naguapate",
+        "definition": "Planta de la familia de las cucurbitáceas.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "03001",
+        "lemma": "alfeñicarse",
+        "definition": "Encaramarse a una situación.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46359",
+        "lemma": "olmeda",
+        "definition": "una especie de árbol de hoja caduca.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "47857",
+        "lemma": "paridad",
+        "definition": "Igualdad de condiciones.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53038",
+        "lemma": "quirinal",
+        "definition": "Perteneciente o relativo al Quirinal, una de las siete colinas de Roma",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53605",
+        "lemma": "rasuración",
+        "definition": "Es un proceso de eliminación de vello corporal.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57701",
+        "lemma": "segregacionista",
+        "definition": "Persona que defiende la segregación racial, social o política.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "37689",
+        "lemma": "insubsistencia",
+        "definition": "La insubsistencia es la falta de recursos o medios para mantenerse.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "29759",
+        "lemma": "europeizante",
+        "definition": "Que tiene relación con Europa.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "07650",
+        "lemma": "avambrazo",
+        "definition": "Abrazo con los brazos abiertos.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65573",
+        "lemma": "xantina",
+        "definition": "una base nitrogenada presente en los tejidos animales y vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65780",
+        "lemma": "yuraguano",
+        "definition": "Ave de la familia de los tucanes.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66096",
+        "lemma": "zarpada",
+        "definition": "Persona astuta o lista.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
