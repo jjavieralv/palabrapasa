@@ -51602,5 +51602,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "words": [
+      {
+        "id": "50826",
+        "lemma": "ponderosamente",
+        "definition": "con mucha fuerza.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09131",
+        "lemma": "bemol",
+        "definition": "Una nota musical",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "19089",
+        "lemma": "coscurro",
+        "definition": "Unirse a una reunión o reunión sin ser invitado.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "02454",
+        "lemma": "alarde",
+        "definition": "Muestra de orgullo, vanidad o presunción.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "24773",
+        "lemma": "ecolocalización",
+        "definition": "Técnica que permite a los animales determinar su posición y orientación en el espacio mediante el uso de señales ambientales.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30875",
+        "lemma": "ferida",
+        "definition": "Una herida abierta causada por una lesión o enfermedad.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34373",
+        "lemma": "gubileta",
+        "definition": "Una pequeña caja o cesta, generalmente con asas, utilizada para llevar cosas.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "26729",
+        "lemma": "enhorquetar",
+        "definition": "Atar con una cuerda en forma de horca.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "50119",
+        "lemma": "pitarro",
+        "definition": "Instrumento musical compuesto por una caja de madera con una cuerda que se golpea con una baqueta.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38845",
+        "lemma": "jodedera",
+        "definition": "una situación o charla divertida entre amigos.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39175",
+        "lemma": "kirieleisón",
+        "definition": "Una comida a base de carne, patatas y huevos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "59071",
+        "lemma": "soler",
+        "definition": "Tener la costumbre de hacer algo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "24643",
+        "lemma": "dulcemente",
+        "definition": "con ternura y delicadeza.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45051",
+        "lemma": "nahuatlismo",
+        "definition": "el uso de palabras de origen náhuatl en la lengua española.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "05697",
+        "lemma": "apuñaleada",
+        "definition": "Acción de apuñalar.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "43759",
+        "lemma": "misterio",
+        "definition": "Un misterio es algo que no se entiende completamente y que a menudo es intrigante.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "51797",
+        "lemma": "prion",
+        "definition": "Un prion es una proteína anormal que causa enfermedades neurodegenerativas.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52936",
+        "lemma": "quimera",
+        "definition": "Quimera es una criatura imaginaria, generalmente una mezcla de varios animales.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "55756",
+        "lemma": "reumátide",
+        "definition": "enfermedad inflamatoria crónica de las articulaciones.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "65754",
+        "lemma": "yos",
+        "definition": "Una forma de hablar coloquial para referirse a uno mismo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62354",
+        "lemma": "tortura",
+        "definition": "Acción de infligir dolor físico o mental a alguien.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63901",
+        "lemma": "unidad",
+        "definition": "La condición de estar unido, de estar formado por partes diferentes que forman un todo.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64897",
+        "lemma": "vestigio",
+        "definition": "Residuo de algo que ha desaparecido.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65562",
+        "lemma": "wéstern",
+        "definition": "Un género de películas que se desarrollan en el lejano oeste de Estados Unidos.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65588",
+        "lemma": "xilema",
+        "definition": "Tejido vascular de los vegetales que transporta agua y nutrientes desde la raíz hasta los órganos vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "05667",
+        "lemma": "apucuyarse",
+        "definition": "apretarse.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66135",
+        "lemma": "zéjel",
+        "definition": "Una forma de poesía árabe de la Edad Media, caracterizada por un estilo de versificación específico y una estructura rítmica.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
