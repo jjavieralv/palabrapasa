@@ -51796,5 +51796,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "words": [
+      {
+        "id": "23033",
+        "lemma": "desperdiciar",
+        "definition": "Gastar o malgastar algo sin necesidad.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "09841",
+        "lemma": "bofia",
+        "definition": "Bofia es un término coloquial usado para referirse a la policía.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "19807",
+        "lemma": "cubilote",
+        "definition": "Refugio o lugar de descanso para animales.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22157",
+        "lemma": "desencogimiento",
+        "definition": "Acción de deshacerse de algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "12185",
+        "lemma": "cangallero",
+        "definition": "Persona que doma caballos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31396",
+        "lemma": "fleteo",
+        "definition": "El fleteo es el transporte de mercancías por tierra, mar o aire.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "36204",
+        "lemma": "igualeza",
+        "definition": "Estado de equidad entre personas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "02228",
+        "lemma": "ahuizotar",
+        "definition": "Persuadir o acosar a alguien con preguntas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36950",
+        "lemma": "indicción",
+        "definition": "Acción de indicar o señalar una dirección o un camino.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38786",
+        "lemma": "jinebro",
+        "definition": "Persona que trabaja en la destilación de bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39172",
+        "lemma": "kirguís",
+        "definition": "Persona originaria de Kirguistán.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "03528",
+        "lemma": "almuzalla",
+        "definition": "Lugar donde se guardan los animales.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "25335",
+        "lemma": "embriagante",
+        "definition": "Que embriaga, que produce una sensación de euforia.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "24945",
+        "lemma": "ejemplarizante",
+        "definition": "Alguien que da ejemplo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45927",
+        "lemma": "ñipe",
+        "definition": "una acción o gesto de burla.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "45939",
+        "lemma": "ñor",
+        "definition": "Una ave de la familia de los trogloditas.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "64297",
+        "lemma": "vaporable",
+        "definition": "Que puede vaporizarse.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52830",
+        "lemma": "querocha",
+        "definition": "Persona astuta y sagaz.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "23813",
+        "lemma": "digitalizar",
+        "definition": "convertir una imagen, sonido o documento en un formato digital.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "28821",
+        "lemma": "espermio",
+        "definition": "Un espermio es una célula reproductora masculina.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62898",
+        "lemma": "traspillar",
+        "definition": "derramar líquido descuidadamente.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64102",
+        "lemma": "uxoricida",
+        "definition": "Una persona que mata a su cónyuge.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64529",
+        "lemma": "veliz",
+        "definition": "Pieza de tela para adornar la cabeza.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60086",
+        "lemma": "swahili",
+        "definition": "Lengua africana hablada en Kenia y Tanzania.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65652",
+        "lemma": "yáquil",
+        "definition": "El yáquil es un árbol tropical de la familia de las bignoniáceas, con hojas grandes y frutos comestibles.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "56882",
+        "lemma": "sagaz",
+        "definition": "astuto.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
