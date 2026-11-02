@@ -51990,5 +51990,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "words": [
+      {
+        "id": "06989",
+        "lemma": "atadura",
+        "definition": "Cosa que sirve para atar algo.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "56734",
+        "lemma": "saborizante",
+        "definition": "alimento añadido a otros para darles sabor.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "00926",
+        "lemma": "acompañar",
+        "definition": "Ir con alguien o algo para ayudar o asistir.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20492",
+        "lemma": "decanatura",
+        "definition": "Cargo de decano de una universidad.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "63857",
+        "lemma": "ultrasensible",
+        "definition": "adjetivo para describir una persona que es muy sensible a los estímulos externos.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32035",
+        "lemma": "freno",
+        "definition": "Un dispositivo mecánico utilizado para reducir la velocidad de un vehículo o detenerlo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33924",
+        "lemma": "gris",
+        "definition": "Color que combina el blanco y el negro.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15167",
+        "lemma": "chinchona",
+        "definition": "Un árbol medicinal de la familia de las Rubiáceas, originario de Sudamérica, cuya corteza se usa para preparar la quinina.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "53555",
+        "lemma": "raspadillo",
+        "definition": "Una acción rápida para obtener algo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "08607",
+        "lemma": "barbijo",
+        "definition": "una prenda de vestir que cubre la boca y la nariz para prevenir la propagación de enfermedades.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "08956",
+        "lemma": "batzoki",
+        "definition": "Un lugar donde se practica la pelota vasca.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "25078",
+        "lemma": "élite",
+        "definition": "Aquellos que tienen el poder o la influencia más altos en un grupo social.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41229",
+        "lemma": "magín",
+        "definition": "El magín es una palabra coloquial para referirse a la memoria.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "01042",
+        "lemma": "acrimonia",
+        "definition": "Una actitud o comportamiento hostil y desagradable.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "40079",
+        "lemma": "leño",
+        "definition": "Madera para usar como combustible.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46610",
+        "lemma": "orellana",
+        "definition": "Orellana es una ciudad de Ecuador, ubicada en la provincia de Napo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "15613",
+        "lemma": "chupamirto",
+        "definition": "árbol de la familia de las mirtoáceas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "55928",
+        "lemma": "ribadoquín",
+        "definition": "Planta herbácea de la familia de las gramíneas, con hojas estrechas y flores en espiga.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "65623",
+        "lemma": "yaguarundi",
+        "definition": "Animal de la familia de los felinos",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "48057",
+        "lemma": "pasavolante",
+        "definition": "El viaje a través del aire.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "37292",
+        "lemma": "infructuosidad",
+        "definition": "Estado de carecer de resultados o frutos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63871",
+        "lemma": "umbralar",
+        "definition": "Cañonear: Atacar con cañones.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "52280",
+        "lemma": "provincialismo",
+        "definition": "La tendencia de una persona a ser limitada en su pensamiento y aceptar solo las ideas populares de su región.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "17604",
+        "lemma": "conexidad",
+        "definition": "el estado de estar conectado a algo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "18394",
+        "lemma": "contrayente",
+        "definition": "Persona que contrae un compromiso o una obligación.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "61163",
+        "lemma": "tenazmente",
+        "definition": "de manera tenaz.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
