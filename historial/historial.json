@@ -52184,5 +52184,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "words": [
+      {
+        "id": "07384",
+        "lemma": "audio",
+        "definition": "una señal eléctrica que contiene información sonora.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "40104",
+        "lemma": "liberalmente",
+        "definition": "con generosidad.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "13204",
+        "lemma": "casarón",
+        "definition": "Un casarón es una construcción grande y antigua, generalmente una casa de campo.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "62823",
+        "lemma": "trasdobladura",
+        "definition": "Acción de doblar algo dos veces.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "25353",
+        "lemma": "embroncar",
+        "definition": "regañar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "65845",
+        "lemma": "zafacón",
+        "definition": "desorden o revuelo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33356",
+        "lemma": "gitón",
+        "definition": "un compañero de aventuras.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35282",
+        "lemma": "higuerote",
+        "definition": "Un municipio del estado de Miranda, Venezuela.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37488",
+        "lemma": "innatismo",
+        "definition": "La creencia de que los seres humanos tienen algunos conocimientos innatos.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "30400",
+        "lemma": "fajilla",
+        "definition": "Una fajilla es una correa o cinturón para sujetar la ropa.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "58232",
+        "lemma": "shock",
+        "definition": "Estado de choque, una reacción física y emocional a una gran cantidad de estrés.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "17390",
+        "lemma": "concejalía",
+        "definition": "Una oficina o departamento administrativo encargado de asuntos locales.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43832",
+        "lemma": "mocar",
+        "definition": "Hacer burla de algo o alguien.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "29209",
+        "lemma": "estantería",
+        "definition": "Una estructura para almacenar objetos.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45941",
+        "lemma": "ñorbo",
+        "definition": "Persona muy habladora.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46545",
+        "lemma": "oquedad",
+        "definition": "Oquedad es una palabra para referirse a un hueco en una superficie.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "66021",
+        "lemma": "zapatazo",
+        "definition": "un golpe con el pie.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "41967",
+        "lemma": "maquech",
+        "definition": "Ofrenda de ciertos objetos entregados a los dioses del panteón maya.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "17814",
+        "lemma": "conjuro",
+        "definition": "Un conjuro es una fórmula mágica o ritual usado para invocar o conjurar criaturas o fuerzas mágicas.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "51808",
+        "lemma": "priscilianismo",
+        "definition": "una secta cristiana del siglo IV",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "60609",
+        "lemma": "taquigrafiar",
+        "definition": "escribir a máquina.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "16822",
+        "lemma": "coletuy",
+        "definition": "Una cesta hecha de cañas o ramas.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64374",
+        "lemma": "variz",
+        "definition": "Vena dilatada.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65564",
+        "lemma": "whisky",
+        "definition": "El whisky es una bebida alcohólica destilada a partir de una mezcla de cereales fermentados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65595",
+        "lemma": "xóchil",
+        "definition": "Instrumento musical de viento de origen mexicano de forma ovalada.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "30784",
+        "lemma": "fedayín",
+        "definition": "un combatiente palestino.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66287",
+        "lemma": "zunchar",
+        "definition": "Atar con una cuerda.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
