@@ -52378,5 +52378,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-04",
+    "words": [
+      {
+        "id": "51188",
+        "lemma": "postural",
+        "definition": "Persona que se esfuerza por mantener una postura correcta para evitar lesiones.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "57583",
+        "lemma": "sebucán",
+        "definition": "Una red de pesca tradicional de la costa del Pacífico de Colombia.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "64140",
+        "lemma": "vaciladera",
+        "definition": "una forma de danza de origen afroamericano que se caracteriza por movimientos rítmicos y sincopados.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "22339",
+        "lemma": "desfacimiento",
+        "definition": "desintegración o destrucción.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "23992",
+        "lemma": "disceptación",
+        "definition": "Discusión o debate.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31133",
+        "lemma": "filipéndula",
+        "definition": "Una planta herbácea con flores de color amarillo pálido.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "35764",
+        "lemma": "hormigonar",
+        "definition": "Construir con hormigón.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "05458",
+        "lemma": "apocharse",
+        "definition": "Irse.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "39655",
+        "lemma": "latinidad",
+        "definition": "Estado de ser latino o pertenecer al mundo hispano-hablante.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "20750",
+        "lemma": "dejar",
+        "definition": "permitir que algo suceda.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40064",
+        "lemma": "lexicalización",
+        "definition": "El proceso por el cual una palabra se convierte en una parte permanente del léxico de una lengua.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "35637",
+        "lemma": "homeotermia",
+        "definition": "la capacidad de un organismo para mantener una temperatura corporal constante.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45814",
+        "lemma": "noxa",
+        "definition": "Daño o perjuicio.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45948",
+        "lemma": "ñublo",
+        "definition": "Nube oscura, densa y amenazante.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "45961",
+        "lemma": "obedecimiento",
+        "definition": "Acción de obedecer a alguien.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "12352",
+        "lemma": "capá",
+        "definition": "una prenda de vestir de largo que cae desde los hombros hasta los pies.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52922",
+        "lemma": "quillotranza",
+        "definition": "una forma de negociación diplomática basada en el uso de la persuasión y el diálogo.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "53672",
+        "lemma": "raña",
+        "definition": "Astucia o habilidad para conseguir algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "40188",
+        "lemma": "liebrastón",
+        "definition": "Un liebrastón es una bebida alcohólica tradicional española hecha con vino, licor de hierbas y miel.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "38389",
+        "lemma": "itrio",
+        "definition": "Elemento químico de número atómico 50.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64107",
+        "lemma": "uñarada",
+        "definition": "una técnica de lucha tradicional japonesa.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "45474",
+        "lemma": "nevazo",
+        "definition": "Una fuerte nevada.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "60835",
+        "lemma": "taxiflet",
+        "definition": "Un taxiflet es una persona que trabaja como taxista.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65767",
+        "lemma": "yugada",
+        "definition": "Una medida de longitud usada en la India antigua, equivalente a aproximadamente dos millas.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "02228",
+        "lemma": "ahuizotar",
+        "definition": "Persuadir o acosar a alguien con preguntas.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
