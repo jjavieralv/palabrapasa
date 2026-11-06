@@ -52766,5 +52766,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "words": [
+      {
+        "id": "06557",
+        "lemma": "artillar",
+        "definition": "equipar un barco con armas.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "00206",
+        "lemma": "abolir",
+        "definition": "anular, suprimir.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15675",
+        "lemma": "chuscada",
+        "definition": "Broma.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24466",
+        "lemma": "donosidad",
+        "definition": "Generosidad.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "21221",
+        "lemma": "desaforrar",
+        "definition": "desenvolver algo.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32011",
+        "lemma": "freiduría",
+        "definition": "Establecimiento en el que se preparan y sirven alimentos fritos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32583",
+        "lemma": "gallardetón",
+        "definition": "Persona muy alegre y atrevida.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "35087",
+        "lemma": "herreruelo",
+        "definition": "Una estructura de metal usada para soportar una carga o para unir varias piezas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37896",
+        "lemma": "intermitir",
+        "definition": "Interrumpir o suspender temporalmente.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "59583",
+        "lemma": "subjuzgar",
+        "definition": "someter a juicio.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39136",
+        "lemma": "kelvin",
+        "definition": "Una unidad de medida de temperatura.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "63615",
+        "lemma": "tumulto",
+        "definition": "alboroto.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42034",
+        "lemma": "marcar",
+        "definition": "Señalar, destacar o distinguir algo.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "39066",
+        "lemma": "jurisprudencia",
+        "definition": "La jurisprudencia es el conjunto de principios y normas que constituyen el derecho, establecidas por la autoridad judicial.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "22100",
+        "lemma": "desempeño",
+        "definition": "El resultado de realizar un trabajo o una tarea.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "17002",
+        "lemma": "coluro",
+        "definition": "Colorido y brillante.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47835",
+        "lemma": "parentación",
+        "definition": "acto de reconocer a alguien como propio hijo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52726",
+        "lemma": "q",
+        "definition": "Una letra del alfabeto.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "59471",
+        "lemma": "sprint",
+        "definition": "Una carrera de corta distancia en la que los competidores deben alcanzar la meta lo más rápido posible.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "29000",
+        "lemma": "esprúe",
+        "definition": "un árbol de la familia de las mirtáceas, de hoja perenne, fruto comestible y madera dura.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "11487",
+        "lemma": "calcetar",
+        "definition": "coser con punto calceta.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63875",
+        "lemma": "unánime",
+        "definition": "acuerdo general de todos los presentes.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64480",
+        "lemma": "veintipico",
+        "definition": "Veintiuno.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "63784",
+        "lemma": "tweed",
+        "definition": "Un tejido de lana tejido a mano.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65587",
+        "lemma": "xifoides",
+        "definition": "El cartílago que forma la parte inferior del esternón.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65792",
+        "lemma": "yuyal",
+        "definition": "Una zona de terreno cubierta de maleza.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "41652",
+        "lemma": "manazo",
+        "definition": "Un golpe fuerte con la mano.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
