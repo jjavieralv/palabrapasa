@@ -52960,5 +52960,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "words": [
+      {
+        "id": "46697",
+        "lemma": "orladura",
+        "definition": "Borde, contorno.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "64391",
+        "lemma": "vascohablante",
+        "definition": "Persona que habla el dialecto vasco.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "11752",
+        "lemma": "calvicie",
+        "definition": "La calvicie es la pérdida de cabello en la cabeza.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "08697",
+        "lemma": "barnizadura",
+        "definition": "La barnizadura es el proceso de aplicar una capa de barniz a una superficie para protegerla o darle un acabado brillante.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "41413",
+        "lemma": "malaventura",
+        "definition": "Una situación desafortunada o desgraciada.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "01687",
+        "lemma": "aforramiento",
+        "definition": "Acción de ahorrar dinero.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "33535",
+        "lemma": "golpista",
+        "definition": "Que se relaciona con un golpe de Estado.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "21139",
+        "lemma": "desabrochar",
+        "definition": "Abrir un cierre.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36254",
+        "lemma": "iluminación",
+        "definition": "El proceso de proporcionar luz a un espacio.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "27946",
+        "lemma": "escajocote",
+        "definition": "El escajocote es un árbol de la familia de las rosáceas, que crece en América Central.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39150",
+        "lemma": "kilobyte",
+        "definition": "una unidad de medida de información equivalente a 1024 bytes.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "40776",
+        "lemma": "losar",
+        "definition": "perder.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "41502",
+        "lemma": "malinterpretación",
+        "definition": "Entender algo de forma incorrecta.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "13363",
+        "lemma": "castrametación",
+        "definition": "El acto de establecer un campamento militar.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45915",
+        "lemma": "ñangotarse",
+        "definition": "divertirse a costa de alguien.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "63122",
+        "lemma": "triario",
+        "definition": "En la Antigua Roma, el tercer soldado de una fila de tres.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "47699",
+        "lemma": "paraguayismo",
+        "definition": "Palabras y expresiones usadas en el idioma guaraní del Paraguay.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "05276",
+        "lemma": "apechusques",
+        "definition": "Una expresión que significa \"déjate de tonterías\".",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55234",
+        "lemma": "reproche",
+        "definition": "Un reproche es una crítica o censura hecha a alguien por algo malo que hizo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58185",
+        "lemma": "sextante",
+        "definition": "instrumento astronómico para medir la altura de los astros.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "19496",
+        "lemma": "cristología",
+        "definition": "Estudio de la doctrina de Cristo.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "52647",
+        "lemma": "purga",
+        "definition": "Medicamento para limpiar el organismo.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "44593",
+        "lemma": "movilidad",
+        "definition": "Capacidad de desplazarse de un lugar a otro.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65565",
+        "lemma": "wifi",
+        "definition": "Una tecnología de red inalámbrica que permite a los dispositivos conectarse a una red.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65590",
+        "lemma": "xilofonista",
+        "definition": "Persona que toca el xilófono.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "12809",
+        "lemma": "carey",
+        "definition": "Carey es una palabra de origen inglés que se refiere a una persona que es astuta y capaz de manipular a los demás para conseguir lo que quiere.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "30749",
+        "lemma": "fazferir",
+        "definition": "hacer falta.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
