@@ -53154,5 +53154,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "words": [
+      {
+        "id": "32790",
+        "lemma": "garapito",
+        "definition": "Un ave de la familia de los charranes, de color gris y con una cresta en la cabeza.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "16425",
+        "lemma": "cobaltoterapia",
+        "definition": "Tratamiento médico que utiliza rayos gamma emitidos por una fuente de cobalto.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "15943",
+        "lemma": "cincograbado",
+        "definition": "Imagen impresa en una lámina de cinc.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "52427",
+        "lemma": "pudridero",
+        "definition": "Un lugar donde los desechos se dejan para descomponerse.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "24747",
+        "lemma": "echazón",
+        "definition": "Desalojo forzoso de una persona de un lugar.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30641",
+        "lemma": "farolillo",
+        "definition": "Un pequeño farol.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "43241",
+        "lemma": "metalengua",
+        "definition": "Lengua que se habla en varios países.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "59329",
+        "lemma": "sorche",
+        "definition": "Bebida alcohólica hecha de frutas fermentadas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37998",
+        "lemma": "intoxicar",
+        "definition": "envenenar.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "46917",
+        "lemma": "ovejería",
+        "definition": "El cuidado de las ovejas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "34655",
+        "lemma": "haiku",
+        "definition": "Un poema japonés de tres líneas, con cinco sílabas en la primera línea, siete sílabas en la segunda línea y cinco sílabas en la tercera línea.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39292",
+        "lemma": "ladería",
+        "definition": "Un lugar donde se fabrica y repara laderas.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "16971",
+        "lemma": "colosalismo",
+        "definition": "El colosalismo se refiere a la tendencia a crear obras de arte o edificios de gran tamaño y magnificencia.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "56686",
+        "lemma": "sabandija",
+        "definition": "Insecto parásito de la familia de los ácaros.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45899",
+        "lemma": "ñ",
+        "definition": "Letra del alfabeto español que representa un fonema nasal.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "63405",
+        "lemma": "trompillo",
+        "definition": "Instrumento musical tradicional de la región de la Huasteca.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "63656",
+        "lemma": "tupí-guaraní",
+        "definition": "una familia de lenguas indígenas habladas en América del Sur.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "05947",
+        "lemma": "arequipa",
+        "definition": "Ciudad del sur de Perú.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55823",
+        "lemma": "revés",
+        "definition": "Acción de dar vuelta algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "42180",
+        "lemma": "maritates",
+        "definition": "Lumbalgia: dolor en la zona lumbar.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61990",
+        "lemma": "tococo",
+        "definition": "Canto de un ave.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64001",
+        "lemma": "urgir",
+        "definition": "Exigir algo con rapidez.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "54898",
+        "lemma": "remisivamente",
+        "definition": "con sumisión",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65566",
+        "lemma": "wincha",
+        "definition": "Una polea con una cuerda enrollada en ella usada para elevar objetos pesados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30127",
+        "lemma": "exprimidero",
+        "definition": "Un exprimidero es un dispositivo para exprimir frutas y verduras.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "05263",
+        "lemma": "apayasar",
+        "definition": "Despojar a alguien de sus bienes.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66099",
+        "lemma": "zarpe",
+        "definition": "Una orden para que una embarcación zarpe.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
