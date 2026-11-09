@@ -53348,5 +53348,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "words": [
+      {
+        "id": "06403",
+        "lemma": "arrobador",
+        "definition": "Desbordamiento: Acción de desbordar o traspasar los límites.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "00581",
+        "lemma": "acebeda",
+        "definition": "Una acebeda es un área de terreno cubierto de abedules.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "53943",
+        "lemma": "recaudar",
+        "definition": "Recoger dinero.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21421",
+        "lemma": "desartillar",
+        "definition": "Quitar las armas de un barco.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "17233",
+        "lemma": "competer",
+        "definition": "competir",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31659",
+        "lemma": "forcejar",
+        "definition": "Luchar con alguien o algo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "48553",
+        "lemma": "pegada",
+        "definition": "Acción de pegar algo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34867",
+        "lemma": "helio",
+        "definition": "Elemento químico de número atómico 2.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "36747",
+        "lemma": "incomprensible",
+        "definition": "Algo que no se entiende o no tiene sentido.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "53399",
+        "lemma": "ramuja",
+        "definition": "Persona que se dedica a la recolección de ramas.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "65393",
+        "lemma": "vodka",
+        "definition": "bebida alcohólica destilada a partir de granos y/o patatas.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "16198",
+        "lemma": "clarificar",
+        "definition": "aclarar",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "41426",
+        "lemma": "malcorte",
+        "definition": "Desagradable, grosero y descortés.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "12792",
+        "lemma": "carecimiento",
+        "definition": "Falta de algo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45911",
+        "lemma": "ñandutí",
+        "definition": "Telaraña silvestre de la familia de los arácnidos conocida como Eriophoridae.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46184",
+        "lemma": "odiosamente",
+        "definition": "con odio, con rencor.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "49909",
+        "lemma": "piornal",
+        "definition": "Una palabra usada para describir una especie de pequeña colina.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "06156",
+        "lemma": "arquebacteria",
+        "definition": "Una forma de vida microscópica que se encuentra en todos los ambientes.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "63104",
+        "lemma": "tresquilón",
+        "definition": "pequeño animal marino.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "21535",
+        "lemma": "desbastador",
+        "definition": "Una herramienta de mano con una cuchilla de metal afilada para eliminar material de una superficie.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "59215",
+        "lemma": "sonante",
+        "definition": "Que tiene un sonido fuerte.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64017",
+        "lemma": "urta",
+        "definition": "El acto de retorcerse o moverse violentamente.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "51720",
+        "lemma": "preverbal",
+        "definition": "Que ocurre antes de que una persona adquiera habilidades lingüísticas.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65588",
+        "lemma": "xilema",
+        "definition": "Tejido vascular de los vegetales que transporta agua y nutrientes desde la raíz hasta los órganos vegetales.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65728",
+        "lemma": "yodación",
+        "definition": "Proceso químico en el que se añade yodo a un compuesto.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66115",
+        "lemma": "zarzamora",
+        "definition": "Arbusto de la familia de las rosáceas con frutos comestibles de color negro.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
