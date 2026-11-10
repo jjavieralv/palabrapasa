@@ -53542,5 +53542,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "words": [
+      {
+        "id": "44640",
+        "lemma": "mudéjar",
+        "definition": "Estilo artístico y arquitectónico resultante de la fusión de la cultura musulmana y cristiana.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "05140",
+        "lemma": "apabullante",
+        "definition": "apabullante se refiere a algo que es tan grande o impresionante que abruma a alguien.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "14482",
+        "lemma": "chafaldita",
+        "definition": "una prenda de vestir femenina.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "20524",
+        "lemma": "decenviro",
+        "definition": "Decenviro es una combinación de las palabras decenas y medio ambiente que se refiere a la preservación del medio ambiente.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "24058",
+        "lemma": "disecado",
+        "definition": "Secado al aire.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "33216",
+        "lemma": "geomorfía",
+        "definition": "Estudio de la forma y estructura de la superficie terrestre.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "02134",
+        "lemma": "agüío",
+        "definition": "El agüío es una señal, una indicación o una pista que se da para poder descubrir algo.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "36085",
+        "lemma": "husita",
+        "definition": "Seguidor de la doctrina del movimiento cristiano protestante conocido como husitas.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "49891",
+        "lemma": "pinzote",
+        "definition": "Movimiento rápido con el que un animal se agarra a algo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "27483",
+        "lemma": "entrojar",
+        "definition": "cubrir con trozos de paja.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39125",
+        "lemma": "karma",
+        "definition": "El karma es el resultado de tus acciones pasadas y presentes; es una ley de causa y efecto.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "28160",
+        "lemma": "escatófilo",
+        "definition": "Un escatófilo es una persona que disfruta recogiendo objetos perdidos o descartados.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42108",
+        "lemma": "margrave",
+        "definition": "un título honorífico otorgado en algunos países de Europa.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45413",
+        "lemma": "nesquisar",
+        "definition": "hacer una pregunta o una petición con tono de burla o ironía.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "19158",
+        "lemma": "costreñir",
+        "definition": "Costreñir es limitar algo de forma restrictiva.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "49464",
+        "lemma": "pezolada",
+        "definition": "Una mezcla de pescado y marisco cocinados con cebolla, ajo y tomate.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "48754",
+        "lemma": "pencazo",
+        "definition": "Golpe dado con una piedra.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "60790",
+        "lemma": "tasquera",
+        "definition": "Una tasquera es una persona que se dedica al transporte de carga en una carreta.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56490",
+        "lemma": "roñica",
+        "definition": "Persona o cosa despreciable.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59329",
+        "lemma": "sorche",
+        "definition": "Bebida alcohólica hecha de frutas fermentadas.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "63784",
+        "lemma": "tweed",
+        "definition": "Un tejido de lana tejido a mano.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "32223",
+        "lemma": "fufú",
+        "definition": "El fufú es un plato tradicional de la cocina africana hecho con harina de maíz y plátano machacado.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65311",
+        "lemma": "vitrificar",
+        "definition": "convertir en vidrio, cristalizar.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65571",
+        "lemma": "wolframio",
+        "definition": "Un metal grisáceo muy duro y resistente a la corrosión.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "58172",
+        "lemma": "sex symbol",
+        "definition": "una persona famosa cuyo atractivo sexual se considera atemporal.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65644",
+        "lemma": "yanqui",
+        "definition": "Una persona de los Estados Unidos de América.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65886",
+        "lemma": "zahora",
+        "definition": "Una especie de bolsa de tela para llevar cosas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
