@@ -53736,5 +53736,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "words": [
+      {
+        "id": "05548",
+        "lemma": "apostemación",
+        "definition": "acción de endurecer una herida mediante la aplicación de una emulsión.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "08701",
+        "lemma": "barómetro",
+        "definition": "un instrumento para medir la presión atmosférica.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "46999",
+        "lemma": "pachulí",
+        "definition": "El pachulí es un aceite esencial de color amarillo oscuro que se obtiene de la destilación de la planta de la misma nombre.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "01347",
+        "lemma": "adolescente",
+        "definition": "adolescente",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "43199",
+        "lemma": "mesopausa",
+        "definition": "la mesopausa es la capa de la atmósfera terrestre situada entre la estratosfera y la termosfera.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "18517",
+        "lemma": "cooficial",
+        "definition": "Que se comparte entre dos o más oficiales.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "01767",
+        "lemma": "agárico",
+        "definition": "Cualquiera de los hongos comestibles de la familia de los agaricáceos.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34635",
+        "lemma": "hacienda",
+        "definition": "Una finca o propiedad rural.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37893",
+        "lemma": "intermisión",
+        "definition": "Pausa.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "64928",
+        "lemma": "viajar",
+        "definition": "Desplazarse de un lugar a otro.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "56919",
+        "lemma": "sake",
+        "definition": "El sake es una bebida alcohólica tradicional japonesa hecha de arroz fermentado.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "37756",
+        "lemma": "inteligencia",
+        "definition": "Facultad mental para comprender y razonar.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "42457",
+        "lemma": "mateada",
+        "definition": "reunión de amigos para tomar mate.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "59518",
+        "lemma": "subcontratar",
+        "definition": "Contratar a un tercero para realizar un trabajo.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "05368",
+        "lemma": "apezuñar",
+        "definition": "golpear con los cascos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46346",
+        "lemma": "olivino",
+        "definition": "un mineral de la clase de los silicatos.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "04706",
+        "lemma": "anopluro",
+        "definition": "Anopluro es un término que se refiere a un grupo de insectos con una estructura corporal aplanada y sin alas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "06041",
+        "lemma": "arique",
+        "definition": "Desplazamiento de una nave por el agua, generalmente a remo o a vela.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54136",
+        "lemma": "recordación",
+        "definition": "Acción de recordar o evocar algo.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "19098",
+        "lemma": "cosetear",
+        "definition": "mimar a alguien.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "36146",
+        "lemma": "idempotencia",
+        "definition": "la propiedad de una operación matemática de devolver el mismo resultado cuando se aplica dos veces.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64066",
+        "lemma": "usurpación",
+        "definition": "Tomar el poder sin derecho.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "07756",
+        "lemma": "aviltar",
+        "definition": "humillar",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65552",
+        "lemma": "wahabita",
+        "definition": "Relativo a la secta islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65572",
+        "lemma": "x",
+        "definition": "X es una letra del alfabeto.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65614",
+        "lemma": "yacio",
+        "definition": "Acción de yacer.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66076",
+        "lemma": "zarapón",
+        "definition": "Un calzado de suela gruesa y resistente.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
