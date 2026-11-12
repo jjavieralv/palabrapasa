@@ -53930,5 +53930,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "words": [
+      {
+        "id": "25717",
+        "lemma": "empuchar",
+        "definition": "Empujar con fuerza.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "62444",
+        "lemma": "trabajera",
+        "definition": "Persona trabajadora.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "34625",
+        "lemma": "hachazo",
+        "definition": "Un hachazo es un golpe fuerte y rápido con un hacha.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "23199",
+        "lemma": "después",
+        "definition": "posteriormente.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25676",
+        "lemma": "empopada",
+        "definition": "Una comida mexicana hecha con carne y chiles.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "32200",
+        "lemma": "fuelle",
+        "definition": "Pieza de cuero o tela con que se cierra algo, como una cartera.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "33693",
+        "lemma": "gradualidad",
+        "definition": "Progresión gradual.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "05861",
+        "lemma": "archimandrita",
+        "definition": "un monje de alto rango en la Iglesia Ortodoxa.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37068",
+        "lemma": "inedia",
+        "definition": "La falta de alimento.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "53404",
+        "lemma": "rancajo",
+        "definition": "Estado de desorden o desaseo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39197",
+        "lemma": "kung-fu",
+        "definition": "Un arte marcial chino.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "17520",
+        "lemma": "condenable",
+        "definition": "Algo que merece ser condenado.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43703",
+        "lemma": "mirliflor",
+        "definition": "Planta herbácea perenne de la familia de las ranunculáceas.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "40612",
+        "lemma": "lobagante",
+        "definition": "una persona que es astuta y engañosa.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "13795",
+        "lemma": "cañonazo",
+        "definition": "Un disparo de cañón.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46125",
+        "lemma": "oclocracia",
+        "definition": "Un sistema de gobierno en el que el poder reside en la mayoría.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "34227",
+        "lemma": "guardapesca",
+        "definition": "Persona que se encarga de supervisar la pesca.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "19296",
+        "lemma": "craquelar",
+        "definition": "formar grietas.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56574",
+        "lemma": "ruinmente",
+        "definition": "de manera ruinosamente.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "57959",
+        "lemma": "sepelir",
+        "definition": "Enterrar algo.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61508",
+        "lemma": "testarazo",
+        "definition": "Un golpe fuerte con la cabeza.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "03340",
+        "lemma": "almajaneque",
+        "definition": "Un almajaneque es una comida típica mexicana hecha con harina de maíz y queso.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "65421",
+        "lemma": "volcanismo",
+        "definition": "Fenómeno geológico que se produce cuando el magma sale a la superficie de la tierra.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "60234",
+        "lemma": "taekwondo",
+        "definition": "arte marcial coreano que combina elementos de la lucha, la defensa personal y los deportes de combate.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65577",
+        "lemma": "xenofobia",
+        "definition": "Miedo o desprecio irracional hacia personas de diferentes culturas o nacionalidades.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65772",
+        "lemma": "yugular",
+        "definition": "Vena que corre por la parte posterior del cuello y transporta sangre desde la cabeza hacia el corazón.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "07711",
+        "lemma": "avergonzamiento",
+        "definition": "Un sentimiento de vergüenza o deshonra.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
