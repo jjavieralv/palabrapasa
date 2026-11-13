@@ -54124,5 +54124,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "words": [
+      {
+        "id": "00063",
+        "lemma": "abarque",
+        "definition": "Un abarque es una estructura de madera o metal que se utiliza para cubrir una abertura de un edificio.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "55752",
+        "lemma": "retumbar",
+        "definition": "Hacer un ruido fuerte.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "19118",
+        "lemma": "coso",
+        "definition": "lugar destinado a la celebración de fiestas y diversiones.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24233",
+        "lemma": "dita",
+        "definition": "Una palabra o frase que se usa para expresar una idea o concepto.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "26622",
+        "lemma": "engordaderas",
+        "definition": "un dispositivo para aumentar el tamaño de algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "37145",
+        "lemma": "infalibilidad",
+        "definition": "La infalibilidad es la cualidad de ser incapaz de cometer errores.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "16872",
+        "lemma": "colitigante",
+        "definition": "Una persona que se enfrenta a otra en una disputa o controversia.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14822",
+        "lemma": "charpa",
+        "definition": "Prenda de abrigo de lana.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "05862",
+        "lemma": "archipámpano",
+        "definition": "Persona que se encarga de administrar una propiedad.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "26775",
+        "lemma": "enjertación",
+        "definition": "La enjertación es una técnica de jardinería en la que se une un trozo de una planta con otra para formar una nueva planta.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "56180",
+        "lemma": "rockódromo",
+        "definition": "Espacio destinado para la práctica del rock.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39946",
+        "lemma": "lentificar",
+        "definition": "Hacer algo más lento.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "60265",
+        "lemma": "taima",
+        "definition": "Planta herbácea de la familia de las gramíneas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45599",
+        "lemma": "niñear",
+        "definition": "Hacer bromas.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45941",
+        "lemma": "ñorbo",
+        "definition": "Persona muy habladora.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "54770",
+        "lemma": "relato",
+        "definition": "Un relato es una narración escrita o contada que describe una serie de eventos.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "26054",
+        "lemma": "encepador",
+        "definition": "persona que inicia una acción o una tarea.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52896",
+        "lemma": "quijera",
+        "definition": "Una parte del cuerpo humano situada en la parte superior de la mandíbula.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "49692",
+        "lemma": "pigricia",
+        "definition": "La pigricia es una falta de motivación para hacer algo, o una tendencia a evitar el trabajo o los esfuerzos.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "56745",
+        "lemma": "sabugal",
+        "definition": "Ciudad portuguesa situada en la región de Trás-os-Montes.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "18369",
+        "lemma": "contratela",
+        "definition": "Instrumento musical de origen andino, hecho de una cuerda con cuentas colgando.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "20003",
+        "lemma": "culé",
+        "definition": "Culé se refiere a un seguidor del equipo de fútbol FC Barcelona.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64480",
+        "lemma": "veintipico",
+        "definition": "Veintiuno.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65564",
+        "lemma": "whisky",
+        "definition": "El whisky es una bebida alcohólica destilada a partir de una mezcla de cereales fermentados.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65586",
+        "lemma": "xi",
+        "definition": "letra del alfabeto griego.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65614",
+        "lemma": "yacio",
+        "definition": "Acción de yacer.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66342",
+        "lemma": "zurubí",
+        "definition": "El zurubí es un ave de rapiña de la familia de los buitres.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
