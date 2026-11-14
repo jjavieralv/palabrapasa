@@ -54318,5 +54318,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "words": [
+      {
+        "id": "04630",
+        "lemma": "anilla",
+        "definition": "Pequeño aro metálico.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "09529",
+        "lemma": "biotopo",
+        "definition": "Espacio natural con una composición y estructura específica de elementos bióticos y abióticos.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "57654",
+        "lemma": "secutoria",
+        "definition": "acción de seguir algo con atención.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "04639",
+        "lemma": "animalada",
+        "definition": "Una animalada es un grupo de animales que se reúnen en un lugar.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "65278",
+        "lemma": "vistosamente",
+        "definition": "de manera atractiva, atrayente.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "36364",
+        "lemma": "imperfectamente",
+        "definition": "de forma deficiente.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "30707",
+        "lemma": "fatigar",
+        "definition": "cansar",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "23081",
+        "lemma": "despinochar",
+        "definition": "Quitar las piedras o las piedrecillas de un terreno.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "62654",
+        "lemma": "transexualismo",
+        "definition": "Un grupo grande de personas o cosas.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "57097",
+        "lemma": "saltapajas",
+        "definition": "Una persona que se divierte saltando de un lugar a otro.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "31945",
+        "lemma": "franklin",
+        "definition": "Una moneda de plata estadounidense con el retrato del inventor Benjamin Franklin.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39879",
+        "lemma": "lejazo",
+        "definition": "muy lejos.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "13452",
+        "lemma": "catartiforme",
+        "definition": "Que tiene forma de catarata.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45531",
+        "lemma": "nilad",
+        "definition": "Planta herbácea de la familia de las rubiáceas, con flores blancas y fruto en baya.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "64446",
+        "lemma": "veduño",
+        "definition": "Dueño de una finca.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46774",
+        "lemma": "orzar",
+        "definition": "Estirar.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "59480",
+        "lemma": "striptease",
+        "definition": "El striptease es una forma de baile erótico en la que una persona se desnuda gradualmente.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "30002",
+        "lemma": "exoesqueleto",
+        "definition": "Una estructura externa rígida que rodea al cuerpo de un animal.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "01814",
+        "lemma": "agilitar",
+        "definition": "Hacer algo con rapidez y facilidad.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58576",
+        "lemma": "sintonismo",
+        "definition": "la acción de ajustar un aparato para recibir una señal de radio o televisión.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62405",
+        "lemma": "totorero",
+        "definition": "una persona que lidia con toros.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "20269",
+        "lemma": "cusul",
+        "definition": "El cusul es una tela de algodón tejido a mano originaria del norte de África.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64138",
+        "lemma": "vacilación",
+        "definition": "Acción de vacilar, estar indeciso.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "10245",
+        "lemma": "boxeo",
+        "definition": "Deporte de combate que consiste en golpear al oponente con los puños.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65611",
+        "lemma": "yaciente",
+        "definition": "yaciente es un adjetivo que se utiliza para describir algo que está en reposo o inactivo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66160",
+        "lemma": "zocatearse",
+        "definition": "emborracharse.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
