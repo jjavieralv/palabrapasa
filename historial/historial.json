@@ -54512,5 +54512,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "words": [
+      {
+        "id": "05810",
+        "lemma": "arboricultura",
+        "definition": "El estudio de los árboles y el cultivo de los mismos.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "60093",
+        "lemma": "tabacón",
+        "definition": "Planta herbácea de la familia de las solanáceas.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18420",
+        "lemma": "contumelia",
+        "definition": "Insulto o afrenta.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "08271",
+        "lemma": "balandrista",
+        "definition": "Persona que vende productos de la pesca.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "62164",
+        "lemma": "topear",
+        "definition": "golpear con un tope.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32061",
+        "lemma": "fresón",
+        "definition": "Fruta de color rojo intenso y sabor dulce.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "09562",
+        "lemma": "birrefringente",
+        "definition": "Adjetivo para describir algo que tiene la propiedad de desviar los rayos de luz.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34578",
+        "lemma": "habichuela",
+        "definition": "Una legumbre común en América Latina.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "38817",
+        "lemma": "jirofina",
+        "definition": "Una tela muy fina hecha de algodón.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38950",
+        "lemma": "judicatura",
+        "definition": "La judicatura es el sistema judicial de un país.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39135",
+        "lemma": "kéfir",
+        "definition": "una bebida láctea fermentada.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "30095",
+        "lemma": "exploración",
+        "definition": "el acto de buscar conocimiento o información.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43127",
+        "lemma": "merienda",
+        "definition": "Una comida ligera entre el almuerzo y la cena.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "51861",
+        "lemma": "procapellán",
+        "definition": "Un sacerdote que sirve como asesor espiritual de una institución o una persona.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "22105",
+        "lemma": "desemponzoñar",
+        "definition": "Limpiar de toxinas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46384",
+        "lemma": "omental",
+        "definition": "Perteneciente al omento.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "21341",
+        "lemma": "desaparear",
+        "definition": "separar dos cosas.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "05719",
+        "lemma": "aquifolio",
+        "definition": "Planta de la familia de las aquifoliáceas.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "21623",
+        "lemma": "descalicharse",
+        "definition": "Desengancharse, desconectar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "04645",
+        "lemma": "animalias",
+        "definition": "El reino de los seres vivos que no son plantas.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "53067",
+        "lemma": "quitamente",
+        "definition": "de manera silenciosa o sin ruido.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63796",
+        "lemma": "ubiquidad",
+        "definition": "La ubiquidad se refiere a la presencia o existencia de algo en todas partes.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "45786",
+        "lemma": "novecentismo",
+        "definition": "Movimiento literario español que se desarrolló entre 1900 y 1930.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "63784",
+        "lemma": "tweed",
+        "definition": "Un tejido de lana tejido a mano.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "29910",
+        "lemma": "exclusividad",
+        "definition": "Característica que permite a una persona o grupo gozar de algo que no está al alcance de todos.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65716",
+        "lemma": "yeyuno",
+        "definition": "El yeyuno es el cuarto segmento del intestino delgado.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "65820",
+        "lemma": "zaca",
+        "definition": "Una zaca es una embarcación de tamaño mediano usada en el Mediterráneo.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
