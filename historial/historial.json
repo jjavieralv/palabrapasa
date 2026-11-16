@@ -54706,5 +54706,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "words": [
+      {
+        "id": "12311",
+        "lemma": "cantiña",
+        "definition": "Lugar donde se venden bebidas alcohólicas.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "37240",
+        "lemma": "inflexibilidad",
+        "definition": "Cualidad de ser inmutable o no ceder a la presión.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "18394",
+        "lemma": "contrayente",
+        "definition": "Persona que contrae un compromiso o una obligación.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "01626",
+        "lemma": "afinadura",
+        "definition": "el proceso de ajustar la afinación de un instrumento",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "03293",
+        "lemma": "allegamiento",
+        "definition": "Desgastamiento: el proceso de desgaste de algo",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "30772",
+        "lemma": "fechura",
+        "definition": "La apariencia de algo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "22414",
+        "lemma": "desganchar",
+        "definition": "Separar algo que estaba unido.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14740",
+        "lemma": "chapistería",
+        "definition": "el trabajo de reparación y fabricación de objetos de metal, como herraduras, armaduras y utensilios.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37063",
+        "lemma": "industrializar",
+        "definition": "desarrollar la industria en una región.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38812",
+        "lemma": "jirahara",
+        "definition": "Una técnica de respiración profunda que se utiliza en la práctica de yoga.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "36219",
+        "lemma": "ikastola",
+        "definition": "una escuela en el País Vasco donde se enseña en euskera.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40969",
+        "lemma": "lutier",
+        "definition": "Un lutier es un artesano que construye y repara instrumentos de cuerda.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "35208",
+        "lemma": "hidromancia",
+        "definition": "una forma de adivinación que implica la interpretación de ondas en el agua.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45895",
+        "lemma": "nutrir",
+        "definition": "Proporcionar alimento o sustento a alguien.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "27327",
+        "lemma": "entrañamiento",
+        "definition": "Una relación íntima y profunda entre dos personas.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46410",
+        "lemma": "onanista",
+        "definition": "Persona que practica el onanismo.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48148",
+        "lemma": "pastís",
+        "definition": "Postre elaborado con frutas y crema.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "52799",
+        "lemma": "quemadura",
+        "definition": "Una lesión producida por el contacto con una fuente de calor.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "00668",
+        "lemma": "acercar",
+        "definition": "Acortar la distancia.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "14377",
+        "lemma": "cesantía",
+        "definition": "un período de tiempo durante el cual una persona no tiene un trabajo",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "13316",
+        "lemma": "castañeteado",
+        "definition": "Sonido de castañas.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "64002",
+        "lemma": "urna",
+        "definition": "Un recipiente de vidrio o metal usado como contenedor para sepultar a los muertos.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64098",
+        "lemma": "uvilla",
+        "definition": "Fruto del uvillo, un árbol de la familia de las anonáceas, de forma redonda y con una cascara dura.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "57262",
+        "lemma": "sandwichería",
+        "definition": "Un lugar donde se preparan y venden sándwiches.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "04508",
+        "lemma": "anexionar",
+        "definition": "unir, adherir.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65429",
+        "lemma": "vóley",
+        "definition": "deporte de equipo en el que dos equipos se enfrentan intentando pasar un balón por encima de una red para anotar puntos.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "66160",
+        "lemma": "zocatearse",
+        "definition": "emborracharse.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
