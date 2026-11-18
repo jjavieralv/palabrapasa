@@ -55094,5 +55094,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "words": [
+      {
+        "id": "21462",
+        "lemma": "desatinadamente",
+        "definition": "de manera desatinada, sin ninguna lógica.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "36722",
+        "lemma": "incombustible",
+        "definition": "adjetivo para describir algo que no se quema fácilmente.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "40110",
+        "lemma": "liberticida",
+        "definition": "Persona que destruye la libertad de otra.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20782",
+        "lemma": "delejar",
+        "definition": "dejar caer algo con lentitud.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "59670",
+        "lemma": "subvenir",
+        "definition": "satisfacer necesidades.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "51415",
+        "lemma": "preferencia",
+        "definition": "Preferencia es el acto de elegir una opción entre varias.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "49286",
+        "lemma": "pertiguería",
+        "definition": "La pertiguería es una actividad relacionada con la fabricación y reparación de pertigas.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "11126",
+        "lemma": "cachetear",
+        "definition": "golpear",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "38128",
+        "lemma": "invertebración",
+        "definition": "Proceso de desarrollo de un animal que no tiene huesos.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "19666",
+        "lemma": "cuajadillo",
+        "definition": "una mezcla de harina y agua usada para cocinar.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39137",
+        "lemma": "kendo",
+        "definition": "Deporte japonés basado en el combate con palos.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39972",
+        "lemma": "leprosorio",
+        "definition": "Un leprosorio es un lugar donde se alojan personas con lepra.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "44105",
+        "lemma": "mónera",
+        "definition": "Mónera es una moneda de oro antigua.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "32308",
+        "lemma": "fundamentalmente",
+        "definition": "en su esencia y principios básicos.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "13788",
+        "lemma": "cañivete",
+        "definition": "Una herramienta para tallar o cortar.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "45983",
+        "lemma": "objecto",
+        "definition": "Cosa material que existe en el mundo exterior.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "50212",
+        "lemma": "piñuela",
+        "definition": "una prenda de vestir femenina.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "61542",
+        "lemma": "tetelque",
+        "definition": "Tetelque es una palabra que se utiliza para referirse a una ave de la familia de los tucanes.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "55502",
+        "lemma": "resquitar",
+        "definition": "Reclamar.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "58581",
+        "lemma": "sinusal",
+        "definition": "Vomipurgante: Que causa vómitos.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "62556",
+        "lemma": "traílla",
+        "definition": "Conjunto de animales y personas que se usan para arrastrar un carro.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "64078",
+        "lemma": "utilización",
+        "definition": "Utilización es el acto de usar algo para un propósito determinado.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "19065",
+        "lemma": "corvejón",
+        "definition": "Trabajo extra realizado fuera del horario laboral.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65550",
+        "lemma": "wahabí",
+        "definition": "Persona que sigue la doctrina islámica wahabí.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65589",
+        "lemma": "xilofón",
+        "definition": "Instrumento musical compuesto por una serie de láminas de madera, metal o plástico de diferentes tamaños, que emiten sonidos al ser golpeadas con un martillo.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65630",
+        "lemma": "yak",
+        "definition": "Una especie de bovino originario de Asia Central.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66038",
+        "lemma": "zapito",
+        "definition": "Una pequeña pieza de metal que se usa para unir dos cosas.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
