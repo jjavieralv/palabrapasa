@@ -55288,5 +55288,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "words": [
+      {
+        "id": "06675",
+        "lemma": "asecución",
+        "definition": "La actividad de separar algo de otra cosa.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "47135",
+        "lemma": "palabrería",
+        "definition": "Hablar excesivo.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "60013",
+        "lemma": "sursuncorda",
+        "definition": "instrumento musical de cuerda formado por una caja de resonancia y un mástil con trastes.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "01328",
+        "lemma": "admonición",
+        "definition": "Una advertencia o consejo.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "27129",
+        "lemma": "ensoberbecimiento",
+        "definition": "El acto de aumentar la propia autoestima.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "39093",
+        "lemma": "justificadamente",
+        "definition": "con justificación, con razón.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "45132",
+        "lemma": "narigueta",
+        "definition": "Pieza de metal con forma de nariz, usada para sostener una cuerda.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35688",
+        "lemma": "hondureñidad",
+        "definition": "La hondureñidad es el conjunto de características que definen a los hondureños, incluyendo su cultura, lenguaje, costumbres y tradiciones.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "27759",
+        "lemma": "equino",
+        "definition": "Un animal de la familia de los caballos.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "33588",
+        "lemma": "gorgojarse",
+        "definition": "exclamar con júbilo.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "61550",
+        "lemma": "tetrabrik",
+        "definition": "envase de cartón con cuatro paredes.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "09217",
+        "lemma": "bernegal",
+        "definition": "Planta herbácea anual de la familia de las compuestas.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "38316",
+        "lemma": "irrumpir",
+        "definition": "Entrar en algún lugar con violencia o brusquedad.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45420",
+        "lemma": "neumología",
+        "definition": "especialidad médica que se ocupa del estudio, prevención y tratamiento de las enfermedades del sistema respiratorio.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45922",
+        "lemma": "ñañiguismo",
+        "definition": "Estilo de vida caracterizado por el uso excesivo de la lengua vernácula.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "43998",
+        "lemma": "molestamente",
+        "definition": "de manera molesta.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "26121",
+        "lemma": "enciclopedismo",
+        "definition": "La práctica de conocer muchos temas diferentes.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "03598",
+        "lemma": "alquequenje",
+        "definition": "Una persona con conocimientos especializados o con talento para hacer algo.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "53311",
+        "lemma": "raicita",
+        "definition": "Persona muy alegre y divertida.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "59169",
+        "lemma": "somatización",
+        "definition": "Tendencia a expresar emociones o estados de ánimo a través de síntomas físicos.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "19748",
+        "lemma": "cuatrerismo",
+        "definition": "Actividad deportiva que consiste en la práctica de deportes de cuatro ruedas como el motocross.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "59151",
+        "lemma": "solucionario",
+        "definition": "Un recurso que contiene soluciones a problemas escritos.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "38119",
+        "lemma": "invernal",
+        "definition": "Relativo o perteneciente al invierno.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65563",
+        "lemma": "whiskería",
+        "definition": "Un lugar donde se sirven bebidas alcohólicas.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65579",
+        "lemma": "xenón",
+        "definition": "Un elemento químico gasoso con el símbolo Xe y el número atómico 54.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "33058",
+        "lemma": "gayo",
+        "definition": "Una persona homosexual.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "25458",
+        "lemma": "empanizado",
+        "definition": "cubierto con pan rallado.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
