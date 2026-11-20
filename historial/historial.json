@@ -55482,5 +55482,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "words": [
+      {
+        "id": "03147",
+        "lemma": "alibriestarse",
+        "definition": "comportarse con discreción.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "56126",
+        "lemma": "roblonar",
+        "definition": "Rebotar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "13575",
+        "lemma": "caudalímetro",
+        "definition": "Instrumento utilizado para medir el caudal de un fluido.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "12443",
+        "lemma": "capitalidad",
+        "definition": "La capitalidad es el estado de ser la capital de un país o de una región.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "21984",
+        "lemma": "desdén",
+        "definition": "Desprecio o desprecio.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "31540",
+        "lemma": "foguerear",
+        "definition": "Quemar una hoguera.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "34408",
+        "lemma": "guilladura",
+        "definition": "Acción y efecto de guillar, que consiste en la unión de dos piezas mediante una costura.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "54803",
+        "lemma": "relinchada",
+        "definition": "Una broma o burla entre amigos.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37264",
+        "lemma": "informatizar",
+        "definition": "Introducir información en una computadora para su almacenamiento, procesamiento y uso posterior.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "26754",
+        "lemma": "enjalmero",
+        "definition": "Un enjalmero es una persona que trabaja en la construcción de enjalmas, estructuras de madera utilizadas para sostener edificios.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "16322",
+        "lemma": "clínker",
+        "definition": "Un clínker es una roca dura, de color gris oscuro, formada por la descomposición de materiales de alto horno.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "22657",
+        "lemma": "deslinde",
+        "definition": "es el acto de establecer límites o fronteras entre dos o más territorios.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "29171",
+        "lemma": "estambrar",
+        "definition": "tejer;",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "34612",
+        "lemma": "habón",
+        "definition": "Una planta medicinal de la familia de las asteráceas.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45940",
+        "lemma": "ñora",
+        "definition": "Tipo de pimiento seco y redondo.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46525",
+        "lemma": "optimación",
+        "definition": "Un proceso para mejorar la eficiencia de un sistema, proceso o producto.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "52623",
+        "lemma": "punzar",
+        "definition": "Perforar con un punzón.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "53028",
+        "lemma": "quipu",
+        "definition": "Un sistema de contabilidad incaico que consiste en una serie de nudos hechos con hilos de lana.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "46732",
+        "lemma": "orozul",
+        "definition": "Un color azul-verdoso que se obtiene mezclando oro con cobre.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "54248",
+        "lemma": "redescubrir",
+        "definition": "volver a descubrir.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "61369",
+        "lemma": "termo",
+        "definition": "Un dispositivo utilizado para mantener un líquido o un gas a una temperatura constante.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "52612",
+        "lemma": "puntuación",
+        "definition": "Los signos de puntuación utilizados para separar y enfatizar las palabras, frases y oraciones.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "64569",
+        "lemma": "venalidad",
+        "definition": "La venalidad es la disposición a venderse a cambio de dinero o beneficios inmorales.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "65581",
+        "lemma": "xerocopiar",
+        "definition": "Copiar algo usando una máquina fotocopiadora.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "19256",
+        "lemma": "coyocho",
+        "definition": "una bebida alcohólica tradicional mexicana hecha de mezcal y frutas.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "38488",
+        "lemma": "jaez",
+        "definition": "Pujo: Acción de levantar algo con mucha fuerza.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
