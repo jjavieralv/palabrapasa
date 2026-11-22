@@ -55870,5 +55870,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "words": [
+      {
+        "id": "20661",
+        "lemma": "defensoría",
+        "definition": "institución encargada de la defensa de los derechos de los ciudadanos.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10747",
+        "lemma": "bullarengue",
+        "definition": "Baile popular de la región de Extremadura.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "11519",
+        "lemma": "calcorro",
+        "definition": "Instrumento musical de viento.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "47984",
+        "lemma": "partidarista",
+        "definition": "Que está a favor de un partido político.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "35287",
+        "lemma": "higüero",
+        "definition": "Árbol tropical de la familia de las moráceas, de frutos carnosos comestibles.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "24088",
+        "lemma": "disfrezarse",
+        "definition": "disfrazarse.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "02045",
+        "lemma": "aguardo",
+        "definition": "Espera.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "26074",
+        "lemma": "enchagüitarse",
+        "definition": "envolverse en una tela.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "21303",
+        "lemma": "desambiguar",
+        "definition": "Clarificar el significado de algo confuso o ambiguo.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "38949",
+        "lemma": "judicar",
+        "definition": "judicar es emitir un juicio o dictamen sobre una situación.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "10768",
+        "lemma": "búnker",
+        "definition": "fortificación militar subterránea.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40081",
+        "lemma": "liana",
+        "definition": "Una liana es una planta trepadora que se aferra a los árboles para crecer.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "22782",
+        "lemma": "desmontable",
+        "definition": "algo que puede ser desmontado.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45434",
+        "lemma": "neurociencia",
+        "definition": "La Neurociencia es la ciencia que se encarga del estudio del sistema nervioso, incluyendo el cerebro, el sistema nervioso central y el sistema nervioso periférico.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "01173",
+        "lemma": "acuñación",
+        "definition": "El proceso de fabricar monedas a partir de metal precioso.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "46655",
+        "lemma": "oriental",
+        "definition": "Relativo al Oriente o a los países del Este.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "36464",
+        "lemma": "imprecisión",
+        "definition": "falta de exactitud o precisión.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52974",
+        "lemma": "quinete",
+        "definition": "Pequeña embarcación a motor.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "40164",
+        "lemma": "licorería",
+        "definition": "Establecimiento comercial donde se venden licores.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "19738",
+        "lemma": "cuásar",
+        "definition": "El cuásar es una danza tradicional de origen afroecuatoriano.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "62439",
+        "lemma": "trabador",
+        "definition": "Una persona que trabaja con esfuerzo y dedicación.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63872",
+        "lemma": "umbrátil",
+        "definition": "Que se refiere a algo que se encuentra a la sombra.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "45206",
+        "lemma": "navarca",
+        "definition": "embarcación pequeña utilizada para transporte de mercancías.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65553",
+        "lemma": "walkie-talkie",
+        "definition": "dispositivo de radio para comunicación a corta distancia.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30169",
+        "lemma": "externado",
+        "definition": "una escuela con alumnos de tiempo completo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "47699",
+        "lemma": "paraguayismo",
+        "definition": "Palabras y expresiones usadas en el idioma guaraní del Paraguay.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "06589",
+        "lemma": "aruñazo",
+        "definition": "una lesión causada por una garra o unas garras.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
