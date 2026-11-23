@@ -56064,5 +56064,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "words": [
+      {
+        "id": "16118",
+        "lemma": "citarista",
+        "definition": "Persona que se dedica a recoger citas de otros autores.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "38286",
+        "lemma": "irrespirable",
+        "definition": "adjetivo para describir algo que no es apto para respirar.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "38046",
+        "lemma": "introspección",
+        "definition": "Examen de uno mismo para conocer los propios pensamientos, sentimientos y motivaciones.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "24243",
+        "lemma": "diuresis",
+        "definition": "La diuresis es un proceso fisiológico en el que el organismo elimina líquidos a través de la orina.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "17091",
+        "lemma": "comercialización",
+        "definition": "Acción de comercializar un producto o servicio.",
+        "type": "contiene",
+        "letter": "e"
+      },
+      {
+        "id": "32284",
+        "lemma": "fumosidad",
+        "definition": "La fumosidad es la presencia de humo en el aire.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "59015",
+        "lemma": "sogazo",
+        "definition": "Acción de sogar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "34965",
+        "lemma": "henificar",
+        "definition": "Mejorar la calidad de algo.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37977",
+        "lemma": "intestinal",
+        "definition": "El término intestinal se refiere al sistema digestivo.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38633",
+        "lemma": "jaro",
+        "definition": "Un jaro es una herramienta usada para hacer agujeros en madera o metal.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "47874",
+        "lemma": "párkinson",
+        "definition": "Una enfermedad neurodegenerativa que causa temblores, rigidez muscular y problemas de equilibrio.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "39914",
+        "lemma": "lenguadeta",
+        "definition": "Instrumento musical de viento de madera que se toca con los labios.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "35606",
+        "lemma": "holmio",
+        "definition": "Elemento químico de número atómico 67.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "16154",
+        "lemma": "civilmente",
+        "definition": "De manera civil",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45937",
+        "lemma": "ñola",
+        "definition": "una pequeña moneda de oro o plata.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "46257",
+        "lemma": "oimiento",
+        "definition": "Acción de oír.",
+        "type": "empieza",
+        "letter": "o"
+      },
+      {
+        "id": "48414",
+        "lemma": "peca",
+        "definition": "Falla o defecto.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "37112",
+        "lemma": "inesquivable",
+        "definition": "Aquello que no puede ser evitado.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "19380",
+        "lemma": "crestería",
+        "definition": "La crestería es una técnica constructiva que consiste en la colocación de una línea de tejas en la parte superior de una construcción para protegerla de la intemperie.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58985",
+        "lemma": "sofaldar",
+        "definition": "Cubrir con una capa de tierra.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "13615",
+        "lemma": "cauterización",
+        "definition": "Un procedimiento médico para quemar, sellar o destruir tejidos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63842",
+        "lemma": "ultraderecha",
+        "definition": "una posición política extremadamente conservadora.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "64782",
+        "lemma": "vergoña",
+        "definition": "Una vergoña es una marca de vergüenza o descrédito.",
+        "type": "empieza",
+        "letter": "v"
+      },
+      {
+        "id": "45229",
+        "lemma": "ndowé",
+        "definition": "palabra que se refiere a una persona con una actitud negativa.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "46955",
+        "lemma": "oxipétalo",
+        "definition": "una flor con pétalos en forma de hoja.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "05574",
+        "lemma": "apoyar",
+        "definition": "Dar soporte o ayuda.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "02908",
+        "lemma": "alergizante",
+        "definition": "que causa alergias.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
