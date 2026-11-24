@@ -56258,5 +56258,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "words": [
+      {
+        "id": "05318",
+        "lemma": "apensionar",
+        "definition": "Pensionar.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "61328",
+        "lemma": "terebinto",
+        "definition": "Árbol de la familia de las mirtoáceas, de hoja perenne y fruto comestible.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "55958",
+        "lemma": "ridiculizar",
+        "definition": "Burlarse de alguien con el fin de humillarlo.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "21128",
+        "lemma": "desabono",
+        "definition": "Disminución del precio de algo.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "25775",
+        "lemma": "enamoriscarse",
+        "definition": "Sentir un gran amor por alguien.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30944",
+        "lemma": "festejar",
+        "definition": "celebrar con alegría y entusiasmo.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "39493",
+        "lemma": "lánguidamente",
+        "definition": "con languidez.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35804",
+        "lemma": "horquilla",
+        "definition": "Utensilio de cocina con dos puntas curvadas y un mango.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "37108",
+        "lemma": "inescudriñable",
+        "definition": "Que no se puede descubrir.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "66000",
+        "lemma": "zanja",
+        "definition": "Una zanja es una profunda abertura en el suelo excavada para fines específicos.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39148",
+        "lemma": "kílim",
+        "definition": "Alfombra tejida con lana y seda.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "46611",
+        "lemma": "orellanense",
+        "definition": "Orellanense se refiere a algo o alguien que es originario o que vive en Orellana, una ciudad del estado de Oaxaca, México.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "44619",
+        "lemma": "muchachada",
+        "definition": "grupo de jóvenes.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "45681",
+        "lemma": "nominilla",
+        "definition": "Pequeña cantidad de dinero",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "35688",
+        "lemma": "hondureñidad",
+        "definition": "La hondureñidad es el conjunto de características que definen a los hondureños, incluyendo su cultura, lenguaje, costumbres y tradiciones.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "17183",
+        "lemma": "comparecencia",
+        "definition": "La comparecencia es la acción de presentarse ante una autoridad o un tribunal.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "28700",
+        "lemma": "esparteína",
+        "definition": "Una sustancia química presente en el músculo esquelético.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "24183",
+        "lemma": "disquete",
+        "definition": "Dispositivo de almacenamiento de información.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56012",
+        "lemma": "ringla",
+        "definition": "Una pequeña campana de metal.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "48204",
+        "lemma": "pataste",
+        "definition": "Una herramienta de mano utilizada para golpear un objeto para ajustarlo o aflojarlo.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "22276",
+        "lemma": "desentono",
+        "definition": "Falta de armonía entre sonidos.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "10881",
+        "lemma": "buyo",
+        "definition": "El buyo es una bebida hecha a base de tabaco, al que se le añaden otros ingredientes como miel, canela y limón.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "51717",
+        "lemma": "preventivamente",
+        "definition": "con el objetivo de prevenir algo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "34734",
+        "lemma": "hardware",
+        "definition": "Los componentes físicos de una computadora, como el procesador, la memoria y el disco duro.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65584",
+        "lemma": "xerografiar",
+        "definition": "copiar algo con una máquina de xerografía.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "65777",
+        "lemma": "yuntero",
+        "definition": "El conductor de un yunque, una embarcación de vela usada en el Mediterráneo.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "14753",
+        "lemma": "chaptalizar",
+        "definition": "añadir azúcar a un mosto para aumentar su graduación alcohólica.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
