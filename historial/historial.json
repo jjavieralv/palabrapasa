@@ -56452,5 +56452,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "words": [
+      {
+        "id": "06311",
+        "lemma": "arremetimiento",
+        "definition": "Un arremetimiento es un ataque repentino y violento.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "58846",
+        "lemma": "sobrepoblar",
+        "definition": "tener una población excesivamente grande.",
+        "type": "contiene",
+        "letter": "b"
+      },
+      {
+        "id": "05627",
+        "lemma": "aprisco",
+        "definition": "Una cerca de alambre de púas para contener el ganado.",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "20758",
+        "lemma": "dejuramente",
+        "definition": "de acuerdo al derecho.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "27660",
+        "lemma": "epidemicidad",
+        "definition": "La tendencia a propagarse rápidamente.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "52172",
+        "lemma": "prosopografía",
+        "definition": "Estudio de la vida de un grupo de personas de una época determinada.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "02180",
+        "lemma": "ahogante",
+        "definition": "Que causa una sensación de asfixia.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "15475",
+        "lemma": "choricería",
+        "definition": "Una tienda de comestibles donde se venden productos como carne, pescado, frutas, verduras y especias.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37213",
+        "lemma": "infidente",
+        "definition": "Persona desconfiada.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38730",
+        "lemma": "jeruga",
+        "definition": "Una prenda de vestir que consiste en una túnica larga y holgada que se usa sobre otra ropa.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "39189",
+        "lemma": "kosovar",
+        "definition": "Se refiere a una persona que es nativa o residente de Kosovo.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "44795",
+        "lemma": "multitarea",
+        "definition": "Capacidad de realizar varias tareas al mismo tiempo.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "43504",
+        "lemma": "milhojas",
+        "definition": "Una milhojas es un pastel compuesto por varias capas de hojaldre y crema.",
+        "type": "empieza",
+        "letter": "m"
+      },
+      {
+        "id": "54900",
+        "lemma": "remitente",
+        "definition": "Persona que envía una carta, paquete, etc.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "45947",
+        "lemma": "ñublense",
+        "definition": "Relativo a la ciudad chilena de Ñuble.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "52123",
+        "lemma": "proporcionadamente",
+        "definition": "de manera proporcional.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "49216",
+        "lemma": "perramente",
+        "definition": "Firme y decididamente",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "11729",
+        "lemma": "calquín",
+        "definition": "Instrumento para medir la profundidad de un lago o mar.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "54594",
+        "lemma": "regomeyo",
+        "definition": "Dispositivo de metal utilizado para unir varias piezas de metal.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "65355",
+        "lemma": "vivismo",
+        "definition": "El estilo de vida de una persona que vive en la naturaleza, sin recurrir a los recursos de la civilización.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "36451",
+        "lemma": "imposta",
+        "definition": "Tributo establecido por una autoridad.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63905",
+        "lemma": "unidocente",
+        "definition": "Alípede: Se refiere a un animal con dos patas.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "30040",
+        "lemma": "expavecer",
+        "definition": "aclarar o explicar algo con detalle.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "63785",
+        "lemma": "twist",
+        "definition": "El twist es un baile de los años 50 que se caracteriza por un movimiento de cadera y hombros.",
+        "type": "contiene",
+        "letter": "w"
+      },
+      {
+        "id": "65576",
+        "lemma": "xenismo",
+        "definition": "El xenismo es el uso de palabras o frases extranjeras en una lengua.",
+        "type": "empieza",
+        "letter": "x"
+      },
+      {
+        "id": "57369",
+        "lemma": "sapayolo",
+        "definition": "Persona que trabaja como cargador de bultos.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "07860",
+        "lemma": "azadonazo",
+        "definition": "Golpe dado con una azada.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
