@@ -56646,5 +56646,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-26",
+    "words": [
+      {
+        "id": "58527",
+        "lemma": "singlista",
+        "definition": "Persona que se dedica a cantar canciones.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "08522",
+        "lemma": "baptismo",
+        "definition": "ceremonia religiosa en la que una persona es bautizada.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "10816",
+        "lemma": "burocratismo",
+        "definition": "Sistema de administración caracterizado por la existencia de muchos procedimientos y burocracias",
+        "type": "contiene",
+        "letter": "c"
+      },
+      {
+        "id": "64153",
+        "lemma": "vadeador",
+        "definition": "Persona que se adentra en el agua para realizar alguna actividad.",
+        "type": "contiene",
+        "letter": "d"
+      },
+      {
+        "id": "29924",
+        "lemma": "excremental",
+        "definition": "Relativo a las heces.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "30293",
+        "lemma": "fábrica",
+        "definition": "Lugar en el que se realizan procesos industriales de fabricación de productos.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "38858",
+        "lemma": "jolongo",
+        "definition": "Planta herbácea de la familia de las gramíneas, conocida también como pasto de cañón.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "14975",
+        "lemma": "chicha",
+        "definition": "Una bebida alcohólica fermentada hecha a partir de maíz.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "37144",
+        "lemma": "inextricable",
+        "definition": "intrincado",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "43964",
+        "lemma": "mojito",
+        "definition": "Una bebida refrescante hecha con ron, menta, azúcar, limón y soda.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39155",
+        "lemma": "kilohercio",
+        "definition": "una unidad de medida de la frecuencia de una señal electrónica.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "30755",
+        "lemma": "feblaje",
+        "definition": "el proceso de enrollar una cuerda para asegurar una carga.",
+        "type": "contiene",
+        "letter": "l"
+      },
+      {
+        "id": "27174",
+        "lemma": "entalamar",
+        "definition": "Cubrir un objeto con metal.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "04634",
+        "lemma": "ánima",
+        "definition": "El espíritu interior de una persona, que se considera como el centro de su personalidad.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "43818",
+        "lemma": "miñón",
+        "definition": "Persona de carácter jovial, alegre y expansivo.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "47756",
+        "lemma": "paraparo",
+        "definition": "Una persona que se comporta de manera despreocupada y despreocupada.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "52023",
+        "lemma": "prolificidad",
+        "definition": "La capacidad de producir una cantidad grande de algo.",
+        "type": "empieza",
+        "letter": "p"
+      },
+      {
+        "id": "48807",
+        "lemma": "penqueada",
+        "definition": "Una técnica de pesca que consiste en una red de arrastre.",
+        "type": "contiene",
+        "letter": "q"
+      },
+      {
+        "id": "56005",
+        "lemma": "rinanto",
+        "definition": "Instrumento musical de viento hecho con una caña hueca y una cuerda.",
+        "type": "empieza",
+        "letter": "r"
+      },
+      {
+        "id": "12313",
+        "lemma": "cantollanista",
+        "definition": "Persona que recita poesías de manera musical.",
+        "type": "contiene",
+        "letter": "s"
+      },
+      {
+        "id": "02871",
+        "lemma": "alegato",
+        "definition": "Una declaración escrita o verbal hecha por un abogado a la corte para convencer al juez de un punto de vista legal.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "63920",
+        "lemma": "unionismo",
+        "definition": "el sistema de organización de los trabajadores en una unión.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "21491",
+        "lemma": "desaviar",
+        "definition": "desviar el curso de algo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65556",
+        "lemma": "waterpolo",
+        "definition": "Deporte acuático en el que dos equipos compiten por meter un balón en una portería.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "60838",
+        "lemma": "taxón",
+        "definition": "Un grupo de organismos relacionados que comparten características comunes.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "32729",
+        "lemma": "gandaya",
+        "definition": "Una variedad de palmera.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "65979",
+        "lemma": "zanfoña",
+        "definition": "Instrumento musical de viento que consta de una trompeta con una llave para controlar el tono.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
