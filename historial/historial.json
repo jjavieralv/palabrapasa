@@ -56840,5 +56840,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "words": [
+      {
+        "id": "02059",
+        "lemma": "aguaverde",
+        "definition": "Agua de color verde.",
+        "type": "empieza",
+        "letter": "a"
+      },
+      {
+        "id": "10681",
+        "lemma": "bufos",
+        "definition": "Planta herbácea de la familia de las liliáceas, con flores de color amarillo intenso.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "17684",
+        "lemma": "confluente",
+        "definition": "Algo que fluye juntos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "24602",
+        "lemma": "dubitable",
+        "definition": "Que puede ser dudado.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "30161",
+        "lemma": "exterioridad",
+        "definition": "Cualidad de lo que está fuera de algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "02859",
+        "lemma": "álef",
+        "definition": "La primera letra del alfabeto hebreo.",
+        "type": "contiene",
+        "letter": "f"
+      },
+      {
+        "id": "28546",
+        "lemma": "esgaritar",
+        "definition": "Desgarrar.",
+        "type": "contiene",
+        "letter": "g"
+      },
+      {
+        "id": "35400",
+        "lemma": "hiperonimia",
+        "definition": "Es una relación léxica entre palabras en la cual una palabra es el término general y la otra es el término específico.",
+        "type": "empieza",
+        "letter": "h"
+      },
+      {
+        "id": "55956",
+        "lemma": "ridiculez",
+        "definition": "Una situación o acción que es absurda, estúpida o grosera.",
+        "type": "contiene",
+        "letter": "i"
+      },
+      {
+        "id": "62571",
+        "lemma": "trajino",
+        "definition": "Una pequeña carreta usada para transportar carga.",
+        "type": "contiene",
+        "letter": "j"
+      },
+      {
+        "id": "39166",
+        "lemma": "kindergarten",
+        "definition": "Una escuela para niños pequeños donde se enseñan conceptos básicos de educación.",
+        "type": "empieza",
+        "letter": "k"
+      },
+      {
+        "id": "39482",
+        "lemma": "landrilla",
+        "definition": "la landrilla es una planta herbácea perenne que crece en suelos ácidos y húmedos y se usa como forraje para el ganado.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "27927",
+        "lemma": "escabrosamente",
+        "definition": "de manera escabrosa.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "07743",
+        "lemma": "avienta",
+        "definition": "Avientar es arrojar algo con fuerza.",
+        "type": "contiene",
+        "letter": "n"
+      },
+      {
+        "id": "28173",
+        "lemma": "escañero",
+        "definition": "Un escañero es una persona que trabaja en una escañería, que es un lugar donde se venden y almacenan productos como vinos, licores y otros artículos.",
+        "type": "contiene",
+        "letter": "ñ"
+      },
+      {
+        "id": "24486",
+        "lemma": "dormición",
+        "definition": "El acto de dormir.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "17406",
+        "lemma": "conceptualismo",
+        "definition": "movimiento artístico que se centra en la idea o concepto detrás de una obra de arte.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52927",
+        "lemma": "quilo",
+        "definition": "Unidad de medida de masa equivalente a mil gramos.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "38500",
+        "lemma": "jaharrar",
+        "definition": "gritar, chillar.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "56693",
+        "lemma": "sabatismo",
+        "definition": "Práctica religiosa que consiste en guardar el sábado como día de descanso.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "61583",
+        "lemma": "texturizar",
+        "definition": "Dar una textura a algo.",
+        "type": "empieza",
+        "letter": "t"
+      },
+      {
+        "id": "63821",
+        "lemma": "ulceración",
+        "definition": "Proceso de formación de úlceras en la piel.",
+        "type": "empieza",
+        "letter": "u"
+      },
+      {
+        "id": "17915",
+        "lemma": "conservación",
+        "definition": "Acto de preservar algo.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65561",
+        "lemma": "wellingtonia",
+        "definition": "un árbol conocido como secuoya gigante, uno de los árboles más altos del mundo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "30184",
+        "lemma": "extorsión",
+        "definition": "Acto de obtener algo a través de la amenaza o el uso de la fuerza.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "18511",
+        "lemma": "conyúdice",
+        "definition": "Compromiso o convenio entre dos o más partes.",
+        "type": "contiene",
+        "letter": "y"
+      },
+      {
+        "id": "49344",
+        "lemma": "pescozada",
+        "definition": "Golpe dado con la cabeza.",
+        "type": "contiene",
+        "letter": "z"
+      }
+    ]
   }
 ]
