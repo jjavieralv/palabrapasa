@@ -57034,5 +57034,199 @@
         "letter": "z"
       }
     ]
+  },
+  {
+    "date": "2026-11-28",
+    "words": [
+      {
+        "id": "25192",
+        "lemma": "embate",
+        "definition": "Ataque violento.",
+        "type": "contiene",
+        "letter": "a"
+      },
+      {
+        "id": "10661",
+        "lemma": "buétago",
+        "definition": "una planta herbácea de la familia de las crucíferas, con hojas verdes y flores blancas.",
+        "type": "empieza",
+        "letter": "b"
+      },
+      {
+        "id": "12420",
+        "lemma": "capillada",
+        "definition": "Una capillada es una reunión de cabellos finos y largos.",
+        "type": "empieza",
+        "letter": "c"
+      },
+      {
+        "id": "22080",
+        "lemma": "desempapelar",
+        "definition": "Quitar el papel de un objeto.",
+        "type": "empieza",
+        "letter": "d"
+      },
+      {
+        "id": "28433",
+        "lemma": "escudriñamiento",
+        "definition": "Examen profundo y detallado de algo.",
+        "type": "empieza",
+        "letter": "e"
+      },
+      {
+        "id": "31124",
+        "lemma": "filicida",
+        "definition": "El filicida es una persona que mata a su padre.",
+        "type": "empieza",
+        "letter": "f"
+      },
+      {
+        "id": "32824",
+        "lemma": "garcilasismo",
+        "definition": "El garcilasismo es un movimiento literario español que se desarrolló durante el siglo XVI y que está asociado con el poeta Francisco de Quevedo.",
+        "type": "empieza",
+        "letter": "g"
+      },
+      {
+        "id": "15231",
+        "lemma": "chiquihuite",
+        "definition": "Pequeña bolsa de lona para llevar cosas.",
+        "type": "contiene",
+        "letter": "h"
+      },
+      {
+        "id": "36991",
+        "lemma": "indisolubilidad",
+        "definition": "La cualidad de ser indisoluble.",
+        "type": "empieza",
+        "letter": "i"
+      },
+      {
+        "id": "38616",
+        "lemma": "jarda",
+        "definition": "Una jarda es una medida de longitud equivalente a aproximadamente 0,9144 metros.",
+        "type": "empieza",
+        "letter": "j"
+      },
+      {
+        "id": "02236",
+        "lemma": "aikido",
+        "definition": "Un arte marcial japonés que enfatiza el uso de la energía del oponente para controlarlo.",
+        "type": "contiene",
+        "letter": "k"
+      },
+      {
+        "id": "40412",
+        "lemma": "lisimaquia",
+        "definition": "una forma de juego de palabras en el que se usan palabras similares con significados diferentes.",
+        "type": "empieza",
+        "letter": "l"
+      },
+      {
+        "id": "15960",
+        "lemma": "cinematografista",
+        "definition": "Persona encargada de la creación y producción de películas.",
+        "type": "contiene",
+        "letter": "m"
+      },
+      {
+        "id": "45517",
+        "lemma": "nielar",
+        "definition": "negar rotundamente.",
+        "type": "empieza",
+        "letter": "n"
+      },
+      {
+        "id": "45910",
+        "lemma": "ñandubay",
+        "definition": "Una danza típica de la región de la Guayana Venezolana.",
+        "type": "empieza",
+        "letter": "ñ"
+      },
+      {
+        "id": "05305",
+        "lemma": "apelotonamiento",
+        "definition": "Apelotonamiento se refiere a una situación en la que un gran número de personas se juntan en un espacio pequeño.",
+        "type": "contiene",
+        "letter": "o"
+      },
+      {
+        "id": "58958",
+        "lemma": "sociopatía",
+        "definition": "Trastorno mental caracterizado por la ausencia de empatía.",
+        "type": "contiene",
+        "letter": "p"
+      },
+      {
+        "id": "52844",
+        "lemma": "querva",
+        "definition": "Juego de niños en el que los participantes se colocan en una línea y uno de ellos es el líder.",
+        "type": "empieza",
+        "letter": "q"
+      },
+      {
+        "id": "28143",
+        "lemma": "escarramán",
+        "definition": "alguien que se comporta de manera desordenada.",
+        "type": "contiene",
+        "letter": "r"
+      },
+      {
+        "id": "58117",
+        "lemma": "sesear",
+        "definition": "Chistar.",
+        "type": "empieza",
+        "letter": "s"
+      },
+      {
+        "id": "46033",
+        "lemma": "obsecuente",
+        "definition": "Que muestra sumisión y obediencia.",
+        "type": "contiene",
+        "letter": "t"
+      },
+      {
+        "id": "08551",
+        "lemma": "barajustar",
+        "definition": "Mezclar con habilidad.",
+        "type": "contiene",
+        "letter": "u"
+      },
+      {
+        "id": "18350",
+        "lemma": "contrasalva",
+        "definition": "Una contrasalva es una salva de artillería que se dispara como respuesta a una salva de honor.",
+        "type": "contiene",
+        "letter": "v"
+      },
+      {
+        "id": "65555",
+        "lemma": "waterpolista",
+        "definition": "Persona que practica el deporte del waterpolo.",
+        "type": "empieza",
+        "letter": "w"
+      },
+      {
+        "id": "29989",
+        "lemma": "existencialista",
+        "definition": "Que se relaciona con el existencialismo.",
+        "type": "contiene",
+        "letter": "x"
+      },
+      {
+        "id": "65712",
+        "lemma": "yesquero",
+        "definition": "Un yesquero es una herramienta de metal con un mango de madera que se utiliza para encender fuego.",
+        "type": "empieza",
+        "letter": "y"
+      },
+      {
+        "id": "66076",
+        "lemma": "zarapón",
+        "definition": "Un calzado de suela gruesa y resistente.",
+        "type": "empieza",
+        "letter": "z"
+      }
+    ]
   }
 ]
